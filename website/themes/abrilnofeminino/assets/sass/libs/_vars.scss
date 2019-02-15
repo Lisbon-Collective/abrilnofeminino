@@ -26,8 +26,11 @@
 	);
 
 // Font.
+	@import url('https://fonts.googleapis.com/css?family=Oswald:400,700|Tinos');
+
 	$font: (
-		family:				('Lato', Arial, Helvetica, sans-serif),
+		family-title:		('Tinos', serif),
+		family: 			('Oswald', sans-serif),
 		family-fixed:		('Courier New', monospace),
 		weight:				300,
 		weight-bold:		700
