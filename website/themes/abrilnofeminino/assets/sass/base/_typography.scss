@@ -33,6 +33,9 @@
 		font-size: 1rem;
 		line-height: 2.15;
 	}
+	h1, h2, h3, h4, h5, h6{
+		font-family: _font(family-title);
+	}
 
 	a {
 		@include vendor('transition', 'color #{_duration(transition)} ease-in-out');
@@ -69,6 +72,7 @@
 
 	header {
 		h1, h2, h3, h4, h5, h6 {
+
 			&:before {
 				background-color: _palette(accent1);
 				content: '';
