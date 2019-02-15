@@ -1,0 +1,7 @@
+.wrapper {
+	@include padding(6rem, 0);
+
+	&.home_bg {
+		background: url('/images/home_bg.jpg');
+	}
+}
