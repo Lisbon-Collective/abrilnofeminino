@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - Música
-title: "CONCERTO DE MÚSICA BARROCA"
+title: "Concerto De Música Barroca"
 
 options:
   hideFooter: false

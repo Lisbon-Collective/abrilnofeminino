@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - Música
-title: "CONCERTO DE GUITARRA"
+title: "Concerto De Guitarra"
 
 options:
   hideFooter: false

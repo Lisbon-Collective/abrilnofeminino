@@ -17,7 +17,7 @@ tags:
   - 
 categories: 
   - Exposição 
-title: '"NUM MILIONÉSIMO DE SEGUNDO"'
+title: '"Num Milionésimo De Segundo"'
 
 options:
   hideFooter: false
