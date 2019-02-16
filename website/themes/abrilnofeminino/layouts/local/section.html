@@ -1,0 +1,31 @@
+{{ define "bodyclasses" }}
+	local/list 
+{{ end }}
+
+{{ define "main" }}
+<div id="three">
+	<div class="wrapper alt special">
+		<div class="wrapper style3">
+			<div class="inner">
+				<div class="profiles">
+					
+	{{ range $i, $e :=  first 410 (.Data.Pages) }}  
+		{{ .Render "summary_card" }}
+		{{ if modBool (add $i 1) 3 }}
+				</div>
+				<div class="profiles">
+		{{ else }} 
+		{{ end }}
+	{{ end }}
+
+
+				</div>
+			</div>
+			<footer>
+				<ul class="actions">
+					<li><a href="#" class="button">Learn More</a></li>
+				</ul>
+			</footer>
+		</div>
+	</div>
+{{ end }}
