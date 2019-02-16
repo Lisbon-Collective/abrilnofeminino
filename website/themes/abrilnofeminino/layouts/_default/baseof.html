@@ -8,4 +8,48 @@
         </div>
         {{- partial "footer.html" . -}}
     </body>
+    <script type="application/ld+json">
+    			{ "@context": "http://schema.org",
+    			{{ if .IsHome }}
+    			"@type": "WebSite",
+    			{{ else }}
+    			"@type": "Article",
+    			{{ end }}
+
+    			"mainEntityOfPage": {
+    				"@type": "WebPage",
+    				"@id": "{{ .Permalink }}"
+    				},
+    			"headline": "{{ .Title }}",
+    			{{ with .Params.subtitle }}"alternativeHeadline": "{{ . }}",{{ end }}
+    			"image": "{{- if .IsHome -}}
+    						{{ $.Site.BaseURL }}{{ $.Site.Params.logo }}
+    						{{- else -}}
+    							{{- with $headerImage -}}
+    							{{ .Permalink }}
+    						{{- end -}}
+    						{{- end -}}",
+    			"author": {
+    			   "@type": "Person",
+    			   "name": "{{ $.Site.Params.author }}"
+    			},
+    			{{ with .Params.tags }}"keywords": "{{ range first 6 . }}{{ . }}, {{ end }}",{{ end }}
+    			"wordcount": "{{ .WordCount }}",
+    			"publisher": {
+    			 "@type": "Organization",
+    			 "name": "{{ $.Site.Params.author }}",
+    			 "logo": {
+    			   "@type": "ImageObject",
+    			   "url": "{{ $.Site.BaseURL }}{{ $.Site.Params.logo }}",
+    			   "height": 60
+    			 }
+    			},
+    			"url": "{{ .Site.BaseURL }}",
+    			"datePublished": "{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}{{ end }}",
+    			"dateCreated": "{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}{{ end }}",
+    			"dateModified": "{{ if not .Date.IsZero }}{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}{{ end }}",
+    			"description": "{{ with .Params.description }}{{ . | plainify }}{{ else }}{{ .Summary | plainify }}{{ end }}",
+    			"articleBody": "{{ .Plain  }}"
+    			}
+    </script>
 </html>
