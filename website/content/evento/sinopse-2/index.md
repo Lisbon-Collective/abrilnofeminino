@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - Exposição 
-title: "Sinopse 2"
+title: '“12 MULHERES, 12 VOZES”'
 
 options:
   hideFooter: false
@@ -41,9 +41,13 @@ sinopse 2
 Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
 11h00 (Inauguração)*
 Montras dos espaços comerciais: 
-Comur- Conserveira de Portugal, Colorvita, Ourivesaria Costa, Sweet Art, Salgueiro’s, Pé de Meia, Tricots Brancal, Casa Baltazar, Pastelaria Visconde, Café Santa Cruz.
+
+*Comur- Conserveira de Portugal, Colorvita, Ourivesaria Costa, Sweet Art, Salgueiro’s, Pé de Meia, Tricots Brancal, Casa Baltazar, Pastelaria Visconde, Café Santa Cruz.* 
+
 Falta confirmação de duas lojas
+
 Até 30 de Abril
+
 *Ponto de encontro: Largo da Portagem, nº 25
 
 Café Santa Cruz

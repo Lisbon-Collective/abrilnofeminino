@@ -29,7 +29,7 @@ custom:
   copyright:
   data:
   hora: 18h00
-  local: 
+  local: Seminário Maior
 ---
 
 18h00

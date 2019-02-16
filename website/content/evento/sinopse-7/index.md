@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - leitura encenada
-title: "MARIA JUDITE DE CARVALHO"
+title: "Pela mão de Judite"
 
 options:
   hideFooter: false

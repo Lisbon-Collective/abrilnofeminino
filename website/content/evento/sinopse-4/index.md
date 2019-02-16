@@ -31,7 +31,7 @@ custom:
   local: Casa da Escrita
 ---
 
-CICLO DE CONVERSAS
+
 
 
 4 de Abril, 18h30
@@ -52,6 +52,7 @@ com Padre Nuno Santos
 “Mulheres na Arquitectura”
 com Letícia Callou, Patrícia Pedrosa, Susana Lobo
 Moderação de Paula Chaves
+
 Organização: associação Mulheres na Arquitectura
 
 Casa da Escrita

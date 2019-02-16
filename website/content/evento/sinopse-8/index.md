@@ -36,9 +36,6 @@ VISITA ORIENTADA E LANÇAMENTO DE LIVRO
  “Três mulheres singulares: a Matrona, a Rainha e a Pintora”
 Por Carlos Santos, Pedro Ferrão e Virgínia Gomes
 
-
-
-
 15h00
 Entrada Livre (máximo 20 participantes mediante inscrição prévia para MNMC 239 853 070)
 Duração 60 minutos
