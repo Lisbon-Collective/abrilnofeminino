@@ -3,3 +3,8 @@ languageCode = "pt-pt"
 title = "Abril No Feminino"
 theme = "abrilnofeminino"
 publishdir = "/var/web/abrilnofeminino.pt"
+
+
+[taxonomies]
+	tag = "tags"
+	categoria = "categorias"
