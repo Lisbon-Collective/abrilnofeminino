@@ -1,0 +1,10 @@
+					     {{- with .Resources.GetMatch "header" -}}
+					         {{- if eq .MediaType.SubType "gif" -}}
+					             <img src="{{- .RelPermalink -}}" alt="" />
+					         {{- else }}
+					             {{- $image := .Resize "1500x" -}}
+					             <img src="{{- $image.RelPermalink -}}" alt="" />
+					         {{- end }}
+					     {{- else }}
+					         <img src="{{- $.Site.Params.headerPhoto -}}" alt="" />
+					     {{- end }}

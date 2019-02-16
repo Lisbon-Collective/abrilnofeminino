@@ -15,16 +15,7 @@
 					</header>
 					{{- if (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}
 					<div class="image main">					
-					     {{- with .Resources.GetMatch "header" -}}
-					         {{- if eq .MediaType.SubType "gif" -}}
-					             <img src="{{- .RelPermalink -}}" alt="" />
-					         {{- else }}
-					             {{- $image := .Resize "1500x" -}}
-					             <img src="{{- $image.RelPermalink -}}" alt="" />
-					         {{- end }}
-					     {{- else }}
-					         <img src="{{- $.Site.Params.headerPhoto -}}" alt="" />
-					     {{- end }}
+					{{ partial "get_header" . }}
 					</div>
 					 {{- end -}}
 					 {{ .Content }}

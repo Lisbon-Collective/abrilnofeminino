@@ -1,12 +1,21 @@
 <div class="profile">
 	<div class="image">
-		<img src="images/pic05.jpg" alt="">
+		{{- with .Resources.GetMatch "header" -}}
+		    {{- if eq .MediaType.SubType "gif" -}}
+		        <img src="{{- .RelPermalink -}}" alt="" />
+		    {{- else }}
+		        {{- $image := .Resize "149x149" -}}
+		        <img src="{{- $image.RelPermalink -}}" alt="" />
+		    {{- end }}
+		{{- else }}
+		    <img src="{{- $.Site.Params.headerPhoto -}}" alt="" />
+		{{- end }}
 	</div>
 	<div class="content">
 		<h3>{{ .Title }}</h3>
 		<p> {{ .Summary }}</p>
 		<ul class="actions">
-			<li><a href="#" class="button small">Detalhes</a></li>
+			<li><a href="{{ .Permalink }}" class="button small">Detalhes</a></li>
 		</ul>
 	</div>
 </div>
