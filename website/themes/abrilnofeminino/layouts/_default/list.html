@@ -1,7 +1,52 @@
 {{ define "bodyclasses" }} list {{ .Section }}  {{ end }}
 
 {{ define "main" }}
-	{{ range .Data.Pages }}
-		<a href="{{ .Permalink }}">{{ .Title }} <br></a>
-	{{ end }}
+	{{ range $i, $e := .Data.Pages }}
+<div id="two">
+	<div class="wrapper {{ if modBool (add $i 1) 2 }}style2{{else}}style1{{end}}">					
+		<div class="inner">
+			<div class="spotlights">
+				<div class="intro">
+					<header>
+						<h2 class="left">{{ .Title }}</h2>
+						<p>{{ .Summary }}</p>
+					</header>
+					<ul class="actions">
+						<li><a href="{{ .Permalink }}" class="button">Ler mais</a></li>
+					</ul>
+				</div>
+				<div class="spotlight">
+					<div class="image fit">
+						{{- with .Resources.GetMatch "header" -}}
+						    {{- if eq .MediaType.SubType "gif" -}}
+						        <img src="{{- .RelPermalink -}}" alt="" />
+						    {{- else }}
+						        {{- $image := .Resize "400x" -}}
+						        <img src="{{- $image.RelPermalink -}}" alt="" />
+						    {{- end }}
+						{{- else }}
+						    <img src="https://placekitten.com/400" alt="" />
+						{{- end }}
+					</div>
+					<div class="content">Ler Mais</div>
+				</div>
+				{{- with .Resources.GetMatch "header_secondary" -}}
+				<div class="spotlight">
+					<div class="image fit">
+						    {{- if eq .MediaType.SubType "gif" -}}
+						        <img src="{{- .RelPermalink -}}" alt="" />
+						    {{- else }}
+						        {{- $image := .Resize "400x" -}}
+						        <img src="{{- $image.RelPermalink -}}" alt="" />
+						    {{- end }}
+					</div>
+					<div class="content">Lorem ipsum dolor</div>
+				</div>
+				{{- end }}
+			</div>
+		</div>
+	</div>
+</div>
+
+{{ end }}
 {{ end }}
