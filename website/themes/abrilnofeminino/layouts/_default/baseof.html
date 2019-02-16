@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     {{- partial "head.html" . -}}
-    <body class="is-preload">
+    <body class="is-preload {{- block "bodyclasses" . }}{{- end }}">
         {{- partial "header.html" . -}}
         <div id="content">
         {{- block "main" . }}{{- end }}
