@@ -1,1 +1,7 @@
-list
+{{ define "bodyclasses" }} list {{ .Section }}  {{ end }}
+
+{{ define "main" }}
+	{{ range .Data.Pages }}
+		<a href="{{ .Permalink }}">{{ .Title }} <br></a>
+	{{ end }}
+{{ end }}
