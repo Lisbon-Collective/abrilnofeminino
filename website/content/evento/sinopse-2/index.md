@@ -25,9 +25,10 @@ options:
   unlisted: false
 scripts:
   -
+weight: 20190406
 custom:
   copyright:
-  data: 6 de Abril 
+  data: 2019-04-06T17:35:00Z
   hora: 12h00
   local: Café Santa Cruz
 ---

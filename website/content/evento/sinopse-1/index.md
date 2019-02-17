@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: EXPOSIÇÃO DE ILUSTRAÇÃO de CATARINA SOBRAL
+subtitle: Exposição De Ilustração De Catarina Sobral
 
 tags: 
   - 
@@ -26,9 +26,10 @@ options:
   unlisted: false
 scripts:
   -
+weight: 20190402 
 custom:
   copyright:
-  data: 2 de Abril
+  data: 2019-04-02T17:35:00Z
   local: Museu Nacional de Machado de Castro
 ---
 

@@ -25,13 +25,15 @@ options:
   unlisted: false
 scripts:
   -
+weight: 20190413
 custom:
   copyright:
-  data: 13 de Abril
+  data: 2019-04-13T17:35:00Z
   local: Teatro da Cerca de S.Bernardo
 ---
 
 21h30
+
 Teatro da Cerca de S.Bernardo
 Entrada 12,00 €
 Reservas para o nº 239 718 238

@@ -25,30 +25,32 @@ options:
   unlisted: false
 scripts:
   -
+
+weight: 20190404
 custom:
   copyright:
-  data:
+  data: 2019-04-04T17:35:00Z
   local: Casa da Escrita
 ---
 
 
 
 
-4 de Abril, 18h30
+### 4 de Abril, 18h30
 “Mulheres na Ciência”
 com Eugénia Cunha, Helena Freitas e Paula Santana
 Moderação de Alexandre Quintanilha
 
-5 de Abril, 18h30
+### 5 de Abril, 18h30
 “Mulheres Viajantes”
 com Sónia Serrano
 Moderação de Maria José Goulão
 
-8 de Abril, 18h30
+### 8 de Abril, 18h30
 "10 mulheres que marcaram a vida de Jesus"
 com Padre Nuno Santos
 
-13 de Abril, 16h00
+### 13 de Abril, 16h00
 “Mulheres na Arquitectura”
 com Letícia Callou, Patrícia Pedrosa, Susana Lobo
 Moderação de Paula Chaves

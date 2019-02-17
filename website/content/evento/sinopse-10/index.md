@@ -25,9 +25,10 @@ options:
   unlisted: false
 scripts:
   -
+weight: 20190430
 custom:
   copyright:
-  data: 30 de Abril
+  data: 2019-04-30T17:35:00Z
   local: Escola Básica de Solum Sul - Agrupamento de Escolas Eugénio de Castro
 ---
 

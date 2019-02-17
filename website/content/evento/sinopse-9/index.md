@@ -25,9 +25,10 @@ options:
   unlisted: false
 scripts:
   -
+weight: 20190423
 custom:
   copyright:
-  data: 23 de Abril
+  data: 2019-04-23T17:35:00Z
   hora: 21h30
   local: Teatro da Cerca de São Bernardo
 ---

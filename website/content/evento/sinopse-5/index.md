@@ -25,13 +25,15 @@ options:
   unlisted: false
 scripts:
   -
+weight: 20190406
 custom:
   copyright:
-  data:
+  data: 2019-04-06T17:35:00Z
   hora: 18h00
   local: Seminário Maior
 ---
 
+6 de Abril 
 18h00
 Seminário Maior, Sala São Tomás
 Entrada 10,00 €

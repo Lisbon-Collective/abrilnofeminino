@@ -25,9 +25,10 @@ options:
   unlisted: false
 scripts:
   -
+weight: 20190414
 custom:
   copyright:
-  data: 14 de Abril
+  data: 2019-04-14T17:35:00Z
   local: Museu Nacional de Machado de Castro
 ---
 

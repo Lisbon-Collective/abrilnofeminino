@@ -25,31 +25,40 @@ options:
   unlisted: false
 scripts:
   -
+
+weight: 20190403
+
 custom:
   copyright:
-  data: 3 a 17 de Abril
+  data: 2019-04-03T21:30:00Z 
   local: Salão Brazil
 ---
 
-3 de Abril
+3 a 17 de Abril
+
+### 3 de Abril
+
 Filme “Janis: Little Girl Blue”
 De Amy Berg
 Documentário, Musical
 Apresentação de Francisco Amaral
 
-11 de Abril 
+### 11 de Abril 
+
 Filme “Sarah Vaugham: The Divine One”
 De Matthew Seig
 Documentário, Musical
 Apresentação de Rui Moutinho
 
-17 de Abril 
+### 17 de Abril 
+
 Filme “Violeta foi para o Céu”
 De Andrés Wood
 Biografia
 Apresentação de Né Ladeiras
 
 Salão Brazil
+
 Sessões às 21h30
 Entrada: 2,00 €
 Sócios JACC e Fila K: 1,00 €
