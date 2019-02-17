@@ -3,7 +3,7 @@
 {{ define "main" }}
 	{{ range $i, $e := .Data.Pages }}
 <div id="two">
-	<div class="wrapper {{ if modBool (add $i 1) 2 }}style2{{else}}style1{{end}}">
+	<div class="wrapper {{ if modBool (add $i 1) 2 }}style1{{else}}style2{{end}}">
 		<div class="inner">
 			<div class="spotlights">
 				<div class="intro">
@@ -12,7 +12,7 @@
 						<p>{{ .Summary }}</p>
 					</header>
 					<ul class="actions">
-						<li><a href="{{ .Permalink }}" class="button primary">Ler mais</a></li>
+						<li><a href="{{ .Permalink }}" class="button {{ if modBool (add $i 1) 2 }}{{else}}primary{{end}}">Ler mais</a></li>
 					</ul>
 				</div>
 				<div class="spotlight">
