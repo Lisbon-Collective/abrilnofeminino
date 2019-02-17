@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: "Crónicas e Contos de Maria Judite de Carvalho com Helena Faria Convidada especial: Inês Fraga"
+subtitle: "Crónicas e Contos com Helena Faria. Convidada especial: Inês Fraga  (neta de Maria Judite de Carvalho)"
 tags: 
   - 
 categories: 
