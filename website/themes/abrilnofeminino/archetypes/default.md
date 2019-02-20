@@ -1,22 +1,21 @@
 ---
-date: {{ .Date }}
+date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
-resources: 
+resources:
 - src: images/
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
-- src:
-  name: slide-1
 slug:
 subtitle: 
-tags: 
-  - 
-categories: 
-  - 
-title: "{{ replace .Name "-" " " | title }}"
+
+tags:
+  -
+categories:
+  - Exposição
+title: 
 
 options:
   hideFooter: false
@@ -25,9 +24,9 @@ options:
   unlisted: false
 scripts:
   -
+weight: 20190402
 custom:
   copyright:
-  data:
-  hora: 
-  local:
+  data: 2019-04-02T17:35:00Z
+  local: 
 ---
