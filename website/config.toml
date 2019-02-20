@@ -8,3 +8,4 @@ publishdir = "/var/web/abrilnofeminino.pt"
 [taxonomies]
 	tag = "tags"
 	categoria = "categorias"
+	ciclo = "ciclos"

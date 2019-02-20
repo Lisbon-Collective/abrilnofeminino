@@ -13,8 +13,10 @@ subtitle:
 
 tags:
   -
-categories:
-  - Exposição
+categorias:
+  - 
+ciclo: 
+
 title: 
 
 options:
