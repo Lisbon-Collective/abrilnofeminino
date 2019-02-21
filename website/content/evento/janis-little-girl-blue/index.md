@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: 
+title: '“Janis: Little Girl Blue”'
 
 options:
   hideFooter: false
