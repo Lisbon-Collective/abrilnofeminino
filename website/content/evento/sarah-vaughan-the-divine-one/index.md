@@ -1,9 +1,9 @@
 ---
 date: 2019-02-15T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
-- src: images/
+- src: images/1002004008493638.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -26,15 +26,24 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
+weight: 20190411
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
+  data: 2019-04-11T17:35:00Z
   local: 
 ---
 
+11 de Abril
 
-**“Sarah Vaughan: The Divine One”**
+“Sarah Vaughan: The Divine One”
+
+De Matthew Seig
+
+Documentário, Musical
+
+Apresentação de Rui Moutinho
+
+<!--more-->
 
 **De Matthew Seig**
 

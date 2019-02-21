@@ -39,15 +39,9 @@ custom:
 
 Pela lente de Rita Carmo*, “passaram praticamente todos os nomes graúdos da mais criativa e vital expressão sonora nacional; uma mão-cheia de novos talentos; e uma série de exemplos internacionais incontornáveis na história da cultura nos séculos XX e XXI”. Nestas imagens, “faz-se prova da sua maior qualidade: a de se deixar “engolir” pelo imaginário dos artistas fotografados, e, juntamente com eles, reinterpretar a sua obra.»* Gonçalo Frota
 
- 
 
 **Fotografias de Aldina Duarte, Ana Moura, Carminho, Celina da Piedade, Cidália Moreira, Cristina Branco, Gisela João, Márcia, Maria João, Mariza, Mísia, Surma.**
 
-   
-
-![image002](Agenda Abertura Site.assets/image002.png)
-
- 
 
 Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
 

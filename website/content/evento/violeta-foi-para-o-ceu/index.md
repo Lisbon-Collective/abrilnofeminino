@@ -1,9 +1,9 @@
 ---
 date: 2019-02-15T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
-- src: images/clip_image001.jpg
+- src: images/39a06-violeta-foi-para-o-cc3a9u.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: Como Elas Cantam
 
-title: 
+title: Violeta Foi Para o Céu
 
 options:
   hideFooter: false
@@ -26,18 +26,24 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
+weight: 20190417
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
+  data: 2019-04-17T17:35:00Z
   local: 
 ---
 
+17 de Abril
 
+“Violeta foi para o Céu”
 
- 
+De Andrés Wood
 
-**Violeta Foi Para o Céu**
+Biografia
+
+Apresentação de Né Ladeiras
+
+<!--more-->
 
 Direção: [Andrés Wood](http://www.adorocinema.com/personalidades/personalidade-97297/) 
 

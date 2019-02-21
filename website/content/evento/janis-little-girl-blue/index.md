@@ -1,9 +1,9 @@
 ---
 date: 2019-02-15T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
-- src: images/
+- src: images/janis-little-girl-blue-5098.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -26,16 +26,26 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
+weight: 20190403
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
+  data: 2019-04-03T17:35:00Z
   local: 
 ---
 
-Lo
+3 de Abril
 
- ![Picture1](index.assets/Picture1.png)
+“Janis: Little Girl Blue”
+
+De [Amy Berg](http://us.imdb.com/Name?Amy%20Berg)
+
+Documentário, Musical
+
+Apresentação de Francisco Amaral
+
+<!--more-->
+
+![Picture1](images/Picture1.png)
 
 **Janis: Little Girl Blue**
 

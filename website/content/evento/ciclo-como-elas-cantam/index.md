@@ -37,7 +37,7 @@ Três figuras maiores da música, retratadas com mestria e paixão: **Janis Jopl
 
 *Vida e obra, entre memórias e canções, num registo emocional e biográfico.* 
 
- 3 de Abril
+3 de Abril
 
 ### “Janis: Little Girl Blue”
 

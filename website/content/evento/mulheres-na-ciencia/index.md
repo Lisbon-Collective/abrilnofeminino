@@ -91,24 +91,18 @@ Em Março de 2000 foi-lhe atribuída a Comenda da Ordem do Infante D. Henrique p
 </figure>
 
 Geografa, Professora Catedrática no Departamento de Geografia e Turismo da Universidade de Coimbra, Coordenadora Cientifica do Centro de I&D CEGOT e Co-presidente da Comission on Health and Environment da União Geográfica Internacional,  tem-se dedicado à docência e investigação da geografia da saúde e do planeamento urbano sustentável, com destaque para a associação entre os aspectos de contexto e a saúde e bem–estar da população.
- A relevância do seu trabalho  resultou na publicação de 13 livros e mais de 200 títulos em revistas nacionais e internacionais e na atribuição de 4 prémios de reconhecimento científico. Tem participado em projetos internacionais, quer como coordenadora (H2020:  Europeu EURO-HEALTHY - Shaping EUROpean policies to promote HEALTH equitY) quer como representante de Portugal (e.g. DEMETRIQ, INEQ-Cities, EURO-GBD-SE, EUROTHINE). 
- Foi Coordenadora de vários estudos de âmbito nacional, financiados pela Fundação para a Ciência e Tecnologia e pelo Ministério da Saúde. Destacam-se os estudos da Acessibilidade à Rede de Urgência/Emergência do SNS em Portugal Continental (2012) e da Caracterização demográfica dos profissionais de saúde no Sistema Nacional de Saúde Português (2006-2007) e a Coordenação do Gabinete de Informação e Prospetiva do Alto Comissariado para a Saúde, no âmbito de protocolo entre o Ministério da Saúde e a Universidade de Coimbra. 
- Conselheira da WHO - Urban Planning, Environment and Health (2008); perita da Direção-Geral da Saúde (alterações climáticas e consequências na saúde) desde 2009-2011.
- Foi Vice-Presidente da Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo (CCDR-LVT), entre Janeiro de 2009 a Janeiro de 2012.  
 
- 
+A relevância do seu trabalho  resultou na publicação de 13 livros e mais de 200 títulos em revistas nacionais e internacionais e na atribuição de 4 prémios de reconhecimento científico. Tem participado em projetos internacionais, quer como coordenadora (H2020:  Europeu EURO-HEALTHY - Shaping EUROpean policies to promote HEALTH equitY) quer como representante de Portugal (e.g. DEMETRIQ, INEQ-Cities, EURO-GBD-SE, EUROTHINE). 
+
+Foi Coordenadora de vários estudos de âmbito nacional, financiados pela Fundação para a Ciência e Tecnologia e pelo Ministério da Saúde. Destacam-se os estudos da Acessibilidade à Rede de Urgência/Emergência do SNS em Portugal Continental (2012) e da Caracterização demográfica dos profissionais de saúde no Sistema Nacional de Saúde Português (2006-2007) e a Coordenação do Gabinete de Informação e Prospetiva do Alto Comissariado para a Saúde, no âmbito de protocolo entre o Ministério da Saúde e a Universidade de Coimbra. 
+
+Conselheira da WHO - Urban Planning, Environment and Health (2008); perita da Direção-Geral da Saúde (alterações climáticas e consequências na saúde) desde 2009-2011.
+
+Foi Vice-Presidente da Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo (CCDR-LVT), entre Janeiro de 2009 a Janeiro de 2012.  
 
 Tem dedicado a sua actividade científica e pedagógica aos temas da Geografia da Saúde, desenvolvendo investigação no cruzamento entre várias áreas do saber (Ciências Sociais e Humanas, Ciências da Terra e Ciências da Saúde), fundamentais para explicar a complexidade da relação entre o território e a saúde das populações. Nos últimos anos, tem centrado o seu trabalho na avaliação das desigualdades em saúde, associadas aos factores sociais, económicos e ambientais, tentando responder aos actuais desafios societais e tendo como principal objectivo a tradução da evidência científica na tomada de decisão e reorientação de políticas públicas para uma maior justiça social.
 
- 
-
- 
-
- 
-
 **Alexandre Tiedtke Quintanilha**
-
- ![Alex - photo in Minho](index.assets/Alex - photo in Minho.jpg)
 
 <figure>
 <img src="index.assets/Alex - photo in Minho.jpg" alt="Alexandre Quintanilha" />
