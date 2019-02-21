@@ -52,9 +52,9 @@ Museu Nacional de Machado de Castro
 
 <!--more-->
 
-Enquanto o Senhor VAZIO passa o dia em busca de algo que o preencha, O MEU AVÔ escreve ridículas cartas de amor durante horas a fio. Mas um dia, os pontos decretam GREVE. Parece IMPOSSÍVEL! TÃO TÃO GRANDE confusão jamais se viu... Até que, num velho arquivo da Universidade de COIMBRA, alguém se lembra de uma palavra muito antiga e já esquecida.
+<p class="lead">Enquanto o Senhor VAZIO passa o dia em busca de algo que o preencha, O MEU AVÔ escreve ridículas cartas de amor durante horas a fio. Mas um dia, os pontos decretam GREVE. Parece IMPOSSÍVEL! TÃO TÃO GRANDE confusão jamais se viu... Até que, num velho arquivo da Universidade de COIMBRA, alguém se lembra de uma palavra muito antiga e já esquecida.</p>
 
-ACHIMPA!
+<p class="special lead">ACHIMPA!</p>
 
 
 <figure>
