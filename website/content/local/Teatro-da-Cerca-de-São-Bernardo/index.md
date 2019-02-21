@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: Cerca de São Bernardo
 tags: 
   - 
 categories: 
@@ -31,3 +31,5 @@ custom:
   hora: 
   local:
 ---
+
+Cerca de São Bernardo

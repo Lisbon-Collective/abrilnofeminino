@@ -15,10 +15,11 @@
 					</header>
 					{{- if (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}
 					<div class="image main">					
-					{{ partial "get_header" . }}
+						{{ partial "get_header" . }}
 					</div>
 					 {{- end -}}
-					 {{ .Content }}
+					 {{ replace .Content .Summary "" | safeHTML }}
+
 				</div>
 			</div>
 		</div>

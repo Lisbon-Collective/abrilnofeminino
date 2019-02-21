@@ -17,22 +17,25 @@
 				</div>
 				<div class="spotlight">
 					
-						{{- with .Resources.GetMatch "header" -}}
-						<a href="{{.Permalink}}">
+
+						<a href="{{ .Permalink}}">
+							{{- with .Resources.GetMatch "header" -}}
 							<div class="image fit">
 							    {{- if eq .MediaType.SubType "gif" -}}
-							        <img src="{{- .RelPermalink -}}" alt="" />
+									<img src="{{- .RelPermalink -}}" alt="" />
 							    {{- else }}
 							        {{- $image := .Resize "400x" -}}
 							        <img src="{{- $image.RelPermalink -}}" alt="" />
 							    {{- end }}
 							</div>
-						</a>
-						{{- else }}
-						    <a href="{{.Permalink}}"><div class="image fit"><img src="https://placekitten.com/400" alt="" /></div></a>
-						{{- end }}
+							{{- else }}
+						
 
-					<div class="content"><a href="{{.Permalink}}">Ler Mais</a></div>
+						    <div class="image fit"><img src="" alt="" /></div>
+						{{- end }}
+						</a>
+
+					<!-- <div class="content"><a href="{{.Permalink}}">Ler Mais</a></div> -->
 				</div>
 				{{- with .Resources.GetMatch "header_secondary" -}}
 				<div class="spotlight">

@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: R. António Augusto Gonçalves 67
 tags: 
   - 
 categories: 
@@ -31,3 +31,5 @@ custom:
   hora: 
   local:
 ---
+
+R. António Augusto Gonçalves 67

@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: R. Vandelli 2
 tags: 
   - 
 categories: 
@@ -31,3 +31,5 @@ custom:
   hora: 
   local:
 ---
+
+R. Vandelli 2

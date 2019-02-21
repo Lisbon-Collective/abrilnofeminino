@@ -11,12 +11,12 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: 'Ruas Ferreira Borges E Visconde Da Luz'
 tags: 
   - 
 categories: 
   - 
-title: "Baixa De Coimbra Ruas Ferreira Borges E Visconde Da Luz"
+title: "Baixa De Coimbra"
 
 options:
   hideFooter: false
@@ -31,3 +31,7 @@ custom:
   hora: 
   local:
 ---
+
+
+- Rua Ferreira Borges
+- Rua Visconde da Luz

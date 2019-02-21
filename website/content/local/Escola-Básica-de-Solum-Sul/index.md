@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: R. Tomé Rodrigues Sobral 15
 tags: 
   - 
 categories: 
