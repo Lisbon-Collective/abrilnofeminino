@@ -36,3 +36,5 @@ Luísa Beato
 **Site**
 
 <a href="https://brunoamaral.eu">Bruno Amaral</a>
+
+[Foto da Baixa de Coimbra por Bruno Miguel](https://flic.kr/p/nz3EFu).

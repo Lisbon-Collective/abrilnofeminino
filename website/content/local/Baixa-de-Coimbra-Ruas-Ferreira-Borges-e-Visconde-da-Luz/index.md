@@ -3,7 +3,7 @@ date: 2019-02-16T00:02:38Z
 description: ""
 draft: false
 resources: 
-- src: images/
+- src: images/14157456842_6930a2adfb_k__brunoMiguelFlickr.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -16,6 +16,7 @@ tags:
   - 
 categories: 
   - 
+
 title: "Baixa De Coimbra"
 
 options:
@@ -26,7 +27,7 @@ options:
 scripts:
   -
 custom:
-  copyright:
+  copyright: Bruno Miguel @ Flickr
   data:
   hora: 
   local:
