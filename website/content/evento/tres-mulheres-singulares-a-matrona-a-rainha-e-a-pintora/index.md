@@ -50,3 +50,12 @@ Museu Nacional de Machado de Castro
 **Entrada Livre (máximo 20 participantes mediante inscrição prévia para MNMC 239 853 070)**
 
 **Duração 60 minutos
+
+<!--more-->
+
+<figure><img src="index.assets/1..jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
+
+<figure><img src="index.assets/2..jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
+
+<figure><img src="index.assets/3..jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
+
