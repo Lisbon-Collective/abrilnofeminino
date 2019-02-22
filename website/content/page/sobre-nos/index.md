@@ -29,7 +29,7 @@ José Manuel Penetra
 
 **Design Gráfico**
 
-Luísa Beato
+Mariana Gonçalves
 
  
 
