@@ -11,12 +11,12 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: R. António Augusto Gonçalves 67
 tags: 
   - 
 categories: 
   - 
-title: "Galeria De Santa Clara"
+title: "Galeria de Santa Clara"
 
 options:
   hideFooter: false
@@ -31,3 +31,5 @@ custom:
   hora: 
   local:
 ---
+
+R. António Augusto Gonçalves 67

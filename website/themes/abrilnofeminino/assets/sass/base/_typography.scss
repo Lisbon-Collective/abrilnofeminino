@@ -74,7 +74,7 @@
 		h1, h2, h3, h4, h5, h6 {
 
 			&:before {
-				background-color: _palette(accent1);
+				background-color: _palette(accent3);
 				content: '';
 				display: block;
 				height: 2px;
@@ -139,7 +139,7 @@
 		line-height: 1.2;
 	}
 
-	h1 + p {
+	h1 + p, .lead {
 		font-size: 1.5rem;
 	}
 
@@ -306,7 +306,7 @@
 
 		h1, h2, h3, h4, h5, h6 {
 			color: _palette($p, fg-bold);
-			text-transform: Capitalize;
+
 		}
 		h1:first-letter, h2:first-letter, h3:first-letter, h4:first-letter, h5:first-letter, h6:first-letter {
 			 text-transform:capitalize;

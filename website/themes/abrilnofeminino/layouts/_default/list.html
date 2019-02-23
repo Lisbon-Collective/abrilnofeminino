@@ -1,6 +1,16 @@
 {{ define "bodyclasses" }} list {{ .Section }}  {{ end }}
 
 {{ define "main" }}
+
+<H1>TODO: LOCAIS EM ITALICO E NOME DOS EVENTOS A NEGRITO</H1>
+
+<p>Inauguramos <strong>duas exposições</strong>: uma de <strong>ilustração, “Num milionésimo de segundo”,</strong> <em>no Museu Nacional de Machado de Castro</em> e outra de <strong>fotografia</strong>,<strong>“12 Mulheres, 12 Vozes”,</strong> que pode ser vista nas montras de <em>espaços comerciais da Baixa de Coimbra</em>. Projectamos o <strong>ciclo de cinema “Como elas cantam!</strong>”: três filmes que evocam três artistas com um trajecto singular na música, com sessões no <em>Salão Brazil.</em> Seguimos com o <strong>ciclo de conversas: “Mulheres na Ciência”, “Mulheres Viajantes”, “10 Mulheres que marcaram a vida de Jesus”</strong> (com a Páscoa por perto) <strong>e “Mulheres na Arquitectura”,</strong> sempre na <em>Casa da Escrita</em>, contando com a participação de distintos convidados. Apresentamos uma <strong>leitura encenada, “Pela mão de Judite”,</strong> a partir de crónicas e contos de uma escritora extraordinária cuja obra merece ser lembrada e revisitada, na <em>Galeria de Santa Clara</em> e <strong>teatro para a infância</strong>, na <em>Escola Básica de Solum Sul,</em> contando histórias sobre portuguesas que foram <strong>“Mulheres Incríveis”</strong>. Não faltará a <strong>visita orientada a propósito de </strong>“Três mulheres singulares: a <em>Matrona</em>, a Rainha e a Pintora”<strong>, no <em>Museu Nacional de Machado de Castro</em> e ainda a oportunidade de assistir a um espectáculo especialmente concebido para </strong>“Abril no Feminino”** : o **recital de Música Barroca** , **“Cravo(s) e outras flores”,** no <em>Seminário Maior de Coimbra</em>. Para completar o programa e porque Abril é também mês da Liberdade, abre-se o debate depois da <strong>sessão especial com o filme “Cartas a uma Ditadura”,</strong> no <em>Teatro da Cerca de São Bernardo</em>. </p>
+<p><strong>“Abril no Feminino”</strong> é um projecto cultural da autoria de Margarida Mendes Silva, produzido pela Cultura e Risco, Associação Cultural. </p>
+<p>Com todo o risco. Como o homem no arame, cai…não cai? Ainda não caímos. Faça-nos companhia!</p>
+<p>&nbsp;</p>
+
+
+
 	{{ range $i, $e := .Data.Pages }}
 <div id="two">
 	<div class="wrapper {{ if modBool (add $i 1) 2 }}style1{{else}}style2{{end}}">
@@ -9,6 +19,7 @@
 				<div class="intro">
 					<header>
 						<h2 class="left"><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+						<h3 class="left">{{ .Params.subtitle }}</h3>
 						<p>{{ .Summary }}</p>
 					</header>
 					<ul class="actions">
@@ -17,22 +28,25 @@
 				</div>
 				<div class="spotlight">
 					
-						{{- with .Resources.GetMatch "header" -}}
-						<a href="{{.Permalink}}">
-							<div class="image fit">
+
+						<a href="{{ .Permalink}}">
+							{{- with .Resources.GetMatch "header" -}}
+							<div class="image float-right">
 							    {{- if eq .MediaType.SubType "gif" -}}
-							        <img src="{{- .RelPermalink -}}" alt="" />
+									<img src="{{- .RelPermalink -}}" alt="" class="float-right" />
 							    {{- else }}
 							        {{- $image := .Resize "400x" -}}
 							        <img src="{{- $image.RelPermalink -}}" alt="" />
 							    {{- end }}
 							</div>
-						</a>
-						{{- else }}
-						    <a href="{{.Permalink}}"><div class="image fit"><img src="https://placekitten.com/400" alt="" /></div></a>
-						{{- end }}
+							{{- else }}
+						
 
-					<div class="content"><a href="{{.Permalink}}">Ler Mais</a></div>
+						    <div class="image fit"><img src="" alt="" /></div>
+						{{- end }}
+						</a>
+
+					<!-- <div class="content"><a href="{{.Permalink}}">Ler Mais</a></div> -->
 				</div>
 				{{- with .Resources.GetMatch "header_secondary" -}}
 				<div class="spotlight">

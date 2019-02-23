@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - 
-title: "Casa Da Escrita"
+title: "Casa da Escrita"
 
 options:
   hideFooter: false

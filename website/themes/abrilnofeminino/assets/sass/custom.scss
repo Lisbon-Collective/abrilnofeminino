@@ -5,3 +5,32 @@
 		background: url('/images/home_bg.jpg');
 	}
 }
+
+.float-right{
+	float:right;
+	display:block;
+}
+
+.float-left{
+	float:left;
+}
+.apoios{
+	height:100%;
+	width:100%;
+	margin: 3em 0 3em 0;
+}
+
+/*COLUNAS*/
+
+.flexbox {
+        display: flex;
+        flex-wrap: wrap;
+}
+
+// .box>* {
+//     flex: 1 1 160px;
+// }
+
+.flexbox > .element{
+	flex: 1 1 160px;	
+}

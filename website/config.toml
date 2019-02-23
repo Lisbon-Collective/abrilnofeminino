@@ -4,7 +4,14 @@ title = "Abril No Feminino"
 theme = "abrilnofeminino"
 publishdir = "/var/web/abrilnofeminino.pt"
 
+resampleFilter = "lanczos"
+
+# Defatult JPEG quality setting. Default is 75.
+quality = 90
+
+headerPhoto = "home_bg.jpg"
 
 [taxonomies]
 	tag = "tags"
 	categoria = "categorias"
+	ciclo = "ciclos"

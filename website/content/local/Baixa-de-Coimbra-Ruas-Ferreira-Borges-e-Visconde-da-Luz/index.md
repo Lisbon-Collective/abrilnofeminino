@@ -3,7 +3,7 @@ date: 2019-02-16T00:02:38Z
 description: ""
 draft: false
 resources: 
-- src: images/
+- src: images/14157456842_6930a2adfb_k__brunoMiguelFlickr.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -11,12 +11,13 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: 'Ruas Ferreira Borges e Visconde da Luz'
 tags: 
   - 
 categories: 
   - 
-title: "Baixa De Coimbra Ruas Ferreira Borges E Visconde Da Luz"
+
+title: "Baixa De Coimbra"
 
 options:
   hideFooter: false
@@ -26,8 +27,38 @@ options:
 scripts:
   -
 custom:
-  copyright:
+  copyright: Bruno Miguel @ Flickr
   data:
   hora: 
   local:
 ---
+
+
+- Rua Ferreira Borges
+- Rua Visconde da Luz
+
+![Comur-Conserveira de Portugal](index.assets/Comur-Conserveir de Portugal.jpg)
+
+![Colorvital](index.assets/Colorvital.jpg)
+
+![Ourivesaria Costa](index.assets/Ourivesaria Costa.jpg)
+
+![Sweet Art](index.assets/Sweet Art.jpg)
+
+![Salgueiro's](index.assets/Salgueiro's.jpg)
+
+![PEDEMEIA](index.assets/PEDEMEIA.jpg)
+
+![Tricots Brancal](index.assets/Tricots Brancal.jpg)
+
+![Casa Baltazar](index.assets/Casa Baltazar.jpg)
+
+![Pastelaria Visconde](index.assets/Pastelaria Visconde.jpg)
+
+![Café Santa Cruz](index.assets/Café Santa Cruz.jpg)
+
+
+<style>
+  div.image.main{display: none;}
+</style>
+

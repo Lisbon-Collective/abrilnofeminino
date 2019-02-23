@@ -11,12 +11,12 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: R. Vandelli 2
 tags: 
   - 
 categories: 
   - 
-title: "Seminário Maior De Coimbra"
+title: "Seminário Maior de Coimbra"
 
 options:
   hideFooter: false
@@ -31,3 +31,5 @@ custom:
   hora: 
   local:
 ---
+
+R. Vandelli 2

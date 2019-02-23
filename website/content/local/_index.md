@@ -3,7 +3,7 @@ subtitle:
 resources:
 - src: 
   name: "header"
-title: Instagram
+title: Locais - Abril no Feminino
 options:
   unlisted: false
   showHeader: true

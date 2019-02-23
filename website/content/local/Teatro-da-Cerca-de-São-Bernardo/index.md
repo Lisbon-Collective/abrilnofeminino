@@ -11,12 +11,12 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: Cerca de São Bernardo
 tags: 
   - 
 categories: 
   - 
-title: "Teatro Da Cerca De São Bernardo"
+title: "Teatro Da Cerca de São Bernardo"
 
 options:
   hideFooter: false
@@ -31,3 +31,5 @@ custom:
   hora: 
   local:
 ---
+
+Cerca de São Bernardo
