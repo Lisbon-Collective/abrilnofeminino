@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - 
-title: "Galeria De Santa Clara"
+title: "Galeria de Santa Clara"
 
 options:
   hideFooter: false

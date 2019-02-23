@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - 
-title: "Teatro Da Cerca De São Bernardo"
+title: "Teatro Da Cerca de São Bernardo"
 
 options:
   hideFooter: false

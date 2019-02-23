@@ -17,7 +17,7 @@ categorias:
   - Exposições
 ciclo: 
 
-title: '“Num Milionésimo De Segundo”'
+title: '“Num Milionésimo de Segundo”'
 
 options:
   hideFooter: false

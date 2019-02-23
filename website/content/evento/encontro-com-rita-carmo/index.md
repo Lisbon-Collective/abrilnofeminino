@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Encontro Com Rita Carmo Dia 6 De Abril
+title: Encontro com Rita Carmo Dia 6 de Abril
 
 options:
   hideFooter: false

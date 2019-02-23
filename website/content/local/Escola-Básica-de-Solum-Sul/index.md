@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - 
-title: "Escola Básica De Solum Sul"
+title: "Escola Básica de Solum Sul"
 
 options:
   hideFooter: false

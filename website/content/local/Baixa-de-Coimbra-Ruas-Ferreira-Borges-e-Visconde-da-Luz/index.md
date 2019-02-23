@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 'Ruas Ferreira Borges E Visconde Da Luz'
+subtitle: 'Ruas Ferreira Borges e Visconde da Luz'
 tags: 
   - 
 categories: 

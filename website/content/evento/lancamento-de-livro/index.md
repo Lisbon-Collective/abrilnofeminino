@@ -17,7 +17,7 @@ categorias: Lançamento De Livro
   - 
 ciclo: 
 
-title: 'Lançamento de “Coimbra”, da colecção "A Minha Cidade", editada pelo Pato Lógico'
+title: 'Lançamento de “Coimbra”, da Colecção "A Minha Cidade", editada pelo Pato Lógico'
 
 options:
   hideFooter: false

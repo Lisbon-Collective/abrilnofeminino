@@ -17,7 +17,7 @@ categorias:
   - Exposição
 ciclo: 
 
-title: '“12 MULHERES, 12 VOZES”'
+title: '“12 Mulheres, 12 Vozes”'
 
 options:
   hideFooter: false

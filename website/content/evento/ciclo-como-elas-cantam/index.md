@@ -17,7 +17,7 @@ categorias:
   - Cinema
 ciclo: Como Elas Cantam
 
-title: 'CICLO “COMO ELAS CANTAM!”'
+title: 'Ciclo “como Elas Cantam!”'
 
 options:
   hideFooter: false

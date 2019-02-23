@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: "Cravo(s) E Outras Flores"
+title: "Cravo(s) e Outras Flores"
 
 options:
   hideFooter: false
