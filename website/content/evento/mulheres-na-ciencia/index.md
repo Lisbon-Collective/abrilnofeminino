@@ -33,13 +33,12 @@ custom:
   local: 
 ---
 
-**4 de Abril, 18h30**
-
-**com Eugénia Cunha, Helena Freitas e Paula Santana**
+**4 de Abril, 18h30**     
+com Eugénia Cunha, Helena Freitas e Paula Santana
 
 **Moderação de Alexandre Quintanilha**
 
-**EUGÉNIA CUNHA**
+### Eugénia Cunha
 
 <figure>
 <img src="index.assets/Foto EC Daniel Rocha.jpg" alt="Eugénia Cunha"/>
@@ -56,9 +55,7 @@ A sua investigação centra-se na antropologia forense, especificamente na estim
 
 <https://www.youtube.com/watch?v=KdAAs3KOLPM>
 
-
-
-**HELENA FREITAS**
+### Helena Freitas
 
 <figure>
 <img src="index.assets/Foto HF Luísa Ferreira.jpg">
@@ -83,7 +80,7 @@ Em Março de 2000 foi-lhe atribuída a Comenda da Ordem do Infante D. Henrique p
 
  
 
-**PAULA SANTANA**
+### Paula Santana
 
 <figure>
 <img src="index.assets/fotopaulasantana.jpg" alt="Paula Santana" />
@@ -112,8 +109,6 @@ Tem dedicado a sua actividade científica e pedagógica aos temas da Geografia d
 Nasceu e completou o liceu em Lourenço Marques (Maputo) Moçambique.
 
 Doutorou-se em física teórica na *Witwatersrand University, Johannesburg*, em 1972.  Passou as duas décadas seguintes na *University of California, Berkeley* e no *Lawrence Berkeley National Laboratory* como professor de fisiologia celular e biofísica e director do *Center for Environmental Studies*.  Veio para o Porto no início dos anos 90 como professor de biofísica no ICBAS-UPorto. Fundou e foi até 2010, diretor do IBMC. Dirigiu o Laboratório Associado IBMC-INEB e presidiu ao grupo responsável pela implementação do consórcio i3S, que para além destes dois institutos, integrou também o IPATIMUP. É membro de várias academias internacionais e presidiu a vários comités da *ESF*, da *OECD*, da Comissão Europeia (*Marie Curie*, *ELSA*, membro do *EURAB* e do *STAC*) e de outras organizações internacionais de investigação. Atualmente é presidente da Comissão de Ética para a Investigação Clínica (CEIC), do Conselho de Escola da Escola Nacional de Saúde Pública e do Conselho Consultivo da Hospital Magalhães de Lemos. E desde 2015, como Deputado preside à Comissão Parlamentar de Educação e Ciência. Tem uma vasta obra publicada de artigos e livros científicos. Os seus interesses actuais são nas áreas do stress biológico, percepção do risco, divulgação do conhecimento e políticas de ciência. 
-
- 
 
 Out 2017
 

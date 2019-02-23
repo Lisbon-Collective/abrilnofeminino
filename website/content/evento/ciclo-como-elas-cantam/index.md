@@ -37,47 +37,40 @@ Três figuras maiores da música, retratadas com mestria e paixão: **Janis Jopl
 
 *Vida e obra, entre memórias e canções, num registo emocional e biográfico.* 
 
-3 de Abril
+Salão Brazil    
+Sessões às 21h30    
+Entrada: 2,00 €    
+Sócios JACC e Fila K: 1,00 €    
+Bilhetes à venda no local, no próprio dia, a partir das 21h00    
 
-### “Janis: Little Girl Blue”
+<div class="flexbox">
 
-**De** [**Amy Berg**](http://us.imdb.com/Name?Amy%20Berg)
+<div class="element">
+  <p>3 de Abril</p>
+<h3>“Janis: Little Girl Blue”</h3>
+  <p><strong>De</strong> <a href='http://us.imdb.com/Name?Amy%20Berg'><strong>Amy Berg</strong></a></p>
+  <p><strong>Documentário, Musical</strong></p>
+  <p><strong>Apresentação de Francisco Amaral</strong></p>
+</div>
 
-**Documentário, Musical**
+<div class="element">
+  <p>11 de Abril</p>
+  <h3>“Sarah Vaughan: The Divine One”</h3>
+  <p><strong>De Matthew Seig</strong></p>
+  <p><strong>Documentário, Musical</strong></p>
+  <p><strong>Apresentação de Rui Moutinho</strong></p>
+</div>
 
-**Apresentação de Francisco Amaral**
-
- 
-
-11 de Abril
-
-### “Sarah Vaughan: The Divine One”
-
-**De Matthew Seig**
-
-**Documentário, Musical**
-
-**Apresentação de Rui Moutinho**
+<div class="element">
+  <p>17 de Abril</p>
+  <h3>“Violeta foi para o Céu”</h3>
+  <p><strong>De Andrés Wood</strong></p>
+  <p><strong>Biografia</strong></p>
+  <p><strong>Apresentação de Né Ladeiras</strong></p>
+</div>
+</div>
 
 
-17 de Abril
 
-### “Violeta foi para o Céu”
-
-**De Andrés Wood**
-
-**Biografia**
-
-**Apresentação de Né Ladeiras**
-
-Salão Brazil
-
-**Sessões às 21h30**
-
-**Entrada: 2,00 €**
-
-**Sócios JACC e Fila K: 1,00 €**
-
-**Bilhetes à venda no local, no próprio dia, a partir das 21h00**
 
 <!--more-->

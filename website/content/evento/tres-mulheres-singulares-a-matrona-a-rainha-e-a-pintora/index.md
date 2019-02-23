@@ -33,8 +33,7 @@ custom:
   local: Museu Nacional de Machado de Castro
 ---
 
-**14 de Abril**
-
+**14 de Abril**    
 Por Carlos Santos, Pedro Ferrão e Virgínia Gomes
 
 Visita orientada em torno de três figuras femininas representadas nas obras das colecções do Museu e que evocam a sua memória: Agripina-a-Antiga; Rainha Santa Isabel e Josefa d’Óbidos.
@@ -47,14 +46,11 @@ Museu Nacional de Machado de Castro
 
 **Entrada Livre (máximo 20 participantes mediante inscrição prévia para MNMC 239 853 070)**
 
-**Duração 60 minutos
+Duração 60 minutos
 
 <!--more-->
 
-
- 
-
-## Retrato de Agripina
+### Retrato de Agripina
 
 30 – 40 d. C. 
 
@@ -64,7 +60,7 @@ Agripina, a Antiga, sogra do imperador Cláudio e avó de Nero, foi uma mulher s
 
 <figure><img src="index.assets/1..jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
 
-## Rainha Santa
+### Rainha Santa
 
 1540-60
 
@@ -74,7 +70,7 @@ Aqui representada no mais célebre dos seus milagres, a dimensão de Isabel de A
 
 <figure><img src="index.assets/2..jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
 
-## Maria Madalena
+### Maria Madalena
 
 c. 1650
 

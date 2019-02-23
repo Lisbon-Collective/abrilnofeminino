@@ -43,8 +43,6 @@ Maria Judite de Carvalho, unanimemente considerada uma das vozes femininas mais 
 
 **Convidada especial: Inês Fraga (neta de Maria Judite de Carvalho)**
 
- 
-
 Galeria de Santa Clara
 
 **19h00**
@@ -53,7 +51,10 @@ Galeria de Santa Clara
 
 <!--more-->
  
-**Maria Judite de Carvalho** (1921-1998) foi uma escritora portuguesa, unanimemente considerada como uma das vozes femininas mais importantes da literatura nacional do século XX. É autora de contos, novelas, crónicas, assim como de uma peça de teatro e de um livro de poesia. Trabalhou nos periódicos Diário de Lisboa, Diário Popular, Diário de Notícias e O Jornal. Foi casada com Urbano Tavares Rodrigues e viveu em França e na Bélgica entre 1949 e 1955, ainda antes da sua estreia literária. O resto dos seus anos, passou-os na capital portuguesa.
+
+### Maria Judite de Carvalho (1921-1998)
+
+Foi uma escritora portuguesa, unanimemente considerada como uma das vozes femininas mais importantes da literatura nacional do século XX. É autora de contos, novelas, crónicas, assim como de uma peça de teatro e de um livro de poesia. Trabalhou nos periódicos Diário de Lisboa, Diário Popular, Diário de Notícias e O Jornal. Foi casada com Urbano Tavares Rodrigues e viveu em França e na Bélgica entre 1949 e 1955, ainda antes da sua estreia literária. O resto dos seus anos, passou-os na capital portuguesa.
 
 <figure><img src="images/image003.jpg" alt="Maria Judite de Carvalho"></figure>
 
@@ -67,40 +68,36 @@ A editora Minotauro / Grupo Almedina tem vindo a reeditar, desde 2018, a obra co
 
 <!-- TODO : TRÊS COLUNAS --> 
 
-<div class="image" style="width: 20%;">
-  <img src="images/clip_image001.jpg" alt="">
+<div class="flexbox">
+  <div class="image element" >
+    <img src="images/clip_image001.jpg" alt="">
+  </div>
+  
+  <div class="image element" >
+    <img src="images/clip_image002.jpg" alt="">
+  </div>
+  
+  <div class="image element" >
+    <img src="images/clip_image003.jpg" alt="">
+  </div>
+  
+  <div class="image element" >
+    <img src="images/clip_image004.jpg" alt="">
+  </div>
 </div>
 
-<div class="image" style="width: 20%;">
-  <img src="images/clip_image002.jpg" alt="">
-</div>
-
-<div class="image" style="width: 20%;">
-  <img src="images/clip_image003.jpg" alt="">
-</div>
-
-<div class="image" style="width: 20%;">
-  <img src="images/clip_image004.jpg" alt="">
-</div>
- 
-
-**HELENA FARIA**
+### Helena Faria
 
 Actriz, educadora, mediadora cultural, desde sempre ligada ao livro e à leitura, apaixonou-se por Maria Judite de Carvalho com "Seta Despedida". Depois devorou a sua obra e sentiu-lhe a cambraia no olhar. Essa sensibilidade que vê e mostra o que é invisível, que dá nome ao que não foi baptizado.
-
- 
 
 <figure><img src="images/Lena Faria.JPG" alt="Helena Faria"></figure>
 
  
 
-**INÊS FRAGA (NETA DE MARIA JUDITE DE CARVALHO)**
-
- 
+### Inês Fraga (neta de Maria Judite de Carvalho)
 
 <figure><img src="images/Inês Fraga.jpg" alt="Inês Fraga"></figure>
 
- 
 
 <https://expresso.pt/podcasts/palavra-de-autor/2019-01-30-Palavra-de-Autor-15-Ines-Fraga-neta-de-Maria-Judite-de-Carvalho-Todos-nos-somos-anti-herois#gs.ercIaR5R>
 

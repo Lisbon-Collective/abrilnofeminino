@@ -33,23 +33,20 @@ custom:
   local: 
 ---
 
-11 de Abril
-
+**11 de Abril**    
 “Sarah Vaughan: The Divine One”
 
-De Matthew Seig
-
+De Matthew Seig    
 Documentário, Musical
 
 Apresentação de Rui Moutinho
 
 <!--more-->
 
-**De Matthew Seig**
+**11 de Abril**  
 
+**De Matthew Seig**    
 **Documentário, Musical**
-
- 
 
 Filme/documentário realizado em 1993, por Matthew Seig aborda a carreira e alguns aspectos da vida pessoal da cantora de jazz  (também, ocasionalmente, pianista)  SARAH VAUGHAN.
 
@@ -57,11 +54,7 @@ Baseado em excertos de prestações em clubes, salas de concertos e festivais de
 
 Um filme que homenageia aquela que o crítico de jazz francês Philippe Carles considerou ser "a mais completa e notável vocalista do jazz moderno".
 
- 
-
-APRESENTAÇÃO DE RUI MOUTINHO
-
- 
+### Apresentação de Rui Moutinho
 
 Rui Moutinho, nasceu no Porto.
 

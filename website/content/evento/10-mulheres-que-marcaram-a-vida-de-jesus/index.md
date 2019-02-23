@@ -33,7 +33,7 @@ custom:
   local: Casa da Escrita
 ---
 
-8 de Abril, 18h30
+**8 de Abril, 18h30**
 
 "10 mulheres que marcaram a vida de Jesus"
 

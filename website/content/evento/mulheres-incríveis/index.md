@@ -34,7 +34,6 @@ custom:
 ---
 
 **30 de Abril**
- 
 
 Mulheres portuguesas, de diferentes tempos históricos e com ocupações diversas, conheceram percursos extraordinários. Contar as suas histórias e partilhar as suas vidas é o propósito desta actividade de animação dirigida às crianças, na qual aprendizagem, reflexão e divertimento constituem momentos essenciais. 
 
@@ -42,11 +41,8 @@ Escola Básica de Solum Sul - Agrupamento de Escolas Eugénio de Castro
 
 **11h00 /14h45**
 
-
-
 ***sessões reservadas aos alunos  da Escola**
 
 <!--more-->
 
- 
 

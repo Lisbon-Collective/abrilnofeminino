@@ -33,11 +33,8 @@ custom:
   local: 
 ---
 
-
-
-**14 de Abril**
-
-**evento integrado na Exposição de Ilustração**
+**14 de Abril**    
+Evento integrado na Exposição de Ilustração
 
 **Museu Nacional de Machado de Castro**
 

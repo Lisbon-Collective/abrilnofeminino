@@ -33,12 +33,10 @@ custom:
   local: 
 ---
 
-17 de Abril
-
+**17 de Abril**    
 “Violeta foi para o Céu”
 
-De Andrés Wood
-
+De Andrés Wood    
 Biografia
 
 Apresentação de Né Ladeiras
@@ -51,16 +49,16 @@ Direção: [Andrés Wood](http://www.adorocinema.com/personalidades/personalidad
 
 Co-produção: Argentina, Brasil, Chile e Espanha. 2012
 
-
 O filme conta a trajectória da compositora, artista e cantora chilena Violeta Parra. Esta biografia não segue uma linha cronológica, focando-se em diversos momentos da vida de Violeta, como a sua infância na província de Ñuble, a sua viagem pelo interior do Chile, as visitas a França e à Polónia, além do romance que ela teve com o suíço Gilbert Favre. O filme é inteiramente intercalado com trechos de uma entrevista que Violeta Parra deu à televisão em 1962.
 
 Andrés Wood , realizador chileno, lança mão da musicalidade arrebatadora de Violeta Parra, a mais importante folclorista chilena e criadora da música popular de seu país, como fio condutor para desenvolver a ficção baseada no livro “Violeta se fue a los cielos”, escrito pelo filho da artista, Ángel Parra, também ele compositor e intérprete. Narrando o seu trabalho musical, as suas memórias, os seus amores e esperanças, o filme traça a evolução de Violeta, da infância humilde até se transformar em sensação internacional e heroína nacional, com a intensidade das suas contradições internas, falhas e paixões.
 
-*“Cresci a ouvir a Violeta Parra desde pequeno. Mas a minha relação não é de um amor à primeira vista. Pouco a pouco a Violeta foi-me envolvendo e passei a compreender as suas letras, a sua dimensão como artista, a sua multiplicidade de talentos e a entender também a sua personalidade. Tentamos resgatar a Violeta como artista e como pessoa, num filme que pretende ser uma viagem emocional e biográfica” (Andrés Wood).*
+> “Cresci a ouvir a Violeta Parra desde pequeno. Mas a minha relação não é de um amor à primeira vista. Pouco a pouco a Violeta foi-me envolvendo e passei a compreender as suas letras, a sua dimensão como artista, a sua multiplicidade de talentos e a entender também a sua personalidade. Tentamos resgatar a Violeta como artista e como pessoa, num filme que pretende ser uma viagem emocional e biográfica” 
+> — Andrés Wood.
 
 “Violeta foi para o céu” conquistou o prémio World Cinema Dramatic Competition, no Sundance Film Festival (EUA), em 2012.
 
-APRESENTAÇÃO DE NÉ LADEIRAS
+### Apresentação de Né Ladeiras
 
 Iniciou a sua carreira musical com a fundação, em 1974, da Brigada Victor Jara. Colabora com os Trovante e integra, no início da década de oitenta, um dos projectos mais inovadores da música portuguesa, a Banda do Casaco. O primeiro trabalho a solo de Né Ladeiras,  *Alhur*, é editado em 1982 pela Valentim de Carvalho, seguindo-se *Sonho Azul,* com produção de Pedro Ayres Magalhães. Participa no Festival RTP da Canção, de 1986 com “Dessas Juras que se fazem”, um inédito de Carlos Tê e Rui Veloso. Em 1989 lança um álbum dedicado à atriz sueca Greta Garbo, “Corsária”, com produção e arranjos de Luís Cília. Em 1994, Né Ladeiras edita o seu quarto álbum, com produção de Luís Pedro Fonseca, *Traz-os-Montes,* o qual resulta de dois anos de pesquisa de material relacionado com a música e a cultura tradicionais transmontana, tendo recebido o Prémio José Afonso e é justamente considerado um dos melhores discos de sempre da música portuguesa. Edita ainda *Espanta Espíritos* (1995) disco de natal idealizado e produzido por Manuel Faria, *Todo Este Céu* (1997), inteiramente consagrado às canções de Fausto. Em 2001 chega *“Da Minha Voz”,* com várias músicas de Chico César e participação de Ney Matogrosso, apresentado no Brasil e com espetáculos realizados em São Paulo. Mais recentemente, em 2016, lançou o CD "Outras vidas", dedicado a várias mulheres que marcaram a sua vivência e a sua carreira como Avita, Greta Garbo, Frida Khalo, Madre Teresa, Isabelle Eberhardt ou Violeta Parra. A música tem a sua assinatura, com letras de Tiago Torres da Silva e produção de Amadeu Magalhães. 
 
