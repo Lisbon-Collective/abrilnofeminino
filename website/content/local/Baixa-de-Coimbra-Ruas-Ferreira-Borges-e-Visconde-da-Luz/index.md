@@ -36,3 +36,29 @@ custom:
 
 - Rua Ferreira Borges
 - Rua Visconde da Luz
+
+![Comur-Conserveira de Portugal](index.assets/Comur-Conserveir de Portugal.jpg)
+
+![Colorvital](index.assets/Colorvital.jpg)
+
+![Ourivesaria Costa](index.assets/Ourivesaria Costa.jpg)
+
+![Sweet Art](index.assets/Sweet Art.jpg)
+
+![Salgueiro's](index.assets/Salgueiro's.jpg)
+
+![PEDEMEIA](index.assets/PEDEMEIA.jpg)
+
+![Tricots Brancal](index.assets/Tricots Brancal.jpg)
+
+![Casa Baltazar](index.assets/Casa Baltazar.jpg)
+
+![Pastelaria Visconde](index.assets/Pastelaria Visconde.jpg)
+
+![Café Santa Cruz](index.assets/Café Santa Cruz.jpg)
+
+
+<style>
+  div.image.main{display: none;}
+</style>
+

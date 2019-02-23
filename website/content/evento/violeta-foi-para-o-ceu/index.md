@@ -49,7 +49,7 @@ Direção: [Andrés Wood](http://www.adorocinema.com/personalidades/personalidad
 
 [Biografia](http://www.adorocinema.com/filmes/todos-filmes/notas-espectadores/genero-13027/) 
 
-Co-produção: Argentina, Brasil, Chile e Espanha. 2012.
+Co-produção: Argentina, Brasil, Chile e Espanha. 2012
 
 
 O filme conta a trajectória da compositora, artista e cantora chilena Violeta Parra. Esta biografia não segue uma linha cronológica, focando-se em diversos momentos da vida de Violeta, como a sua infância na província de Ñuble, a sua viagem pelo interior do Chile, as visitas a França e à Polónia, além do romance que ela teve com o suíço Gilbert Favre. O filme é inteiramente intercalado com trechos de uma entrevista que Violeta Parra deu à televisão em 1962.

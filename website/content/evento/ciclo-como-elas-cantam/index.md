@@ -70,8 +70,6 @@ Três figuras maiores da música, retratadas com mestria e paixão: **Janis Jopl
 
 **Apresentação de Né Ladeiras**
 
- 
-
 Salão Brazil
 
 **Sessões às 21h30**
@@ -81,3 +79,5 @@ Salão Brazil
 **Sócios JACC e Fila K: 1,00 €**
 
 **Bilhetes à venda no local, no próprio dia, a partir das 21h00**
+
+<!--more-->

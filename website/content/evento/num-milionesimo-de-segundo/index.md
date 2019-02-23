@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: images/image001.jpg
+- src: images/Cartaz Exposição Num milionésimo de segundo.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter

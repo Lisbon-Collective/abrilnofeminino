@@ -1,7 +1,7 @@
 ---
 date: 2019-02-15T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
 - src: images/
   name: "header"
@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: 
+title: 10 Mulheres que marcaram a vida de Jesus
 
 options:
   hideFooter: false
@@ -26,9 +26,18 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
+weight: 20190408
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
-  local: 
+  data: 2019-04-08T17:35:00Z
+  local: Casa da Escrita
 ---
+
+8 de Abril, 18h30
+
+"10 mulheres que marcaram a vida de Jesus"
+
+com Padre Nuno Santos
+
+Casa da Escrita
+

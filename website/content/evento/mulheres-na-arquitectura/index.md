@@ -1,7 +1,7 @@
 ---
 date: 2019-02-15T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
 - src: images/
   name: "header"
@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: 
+title: Mulheres na Arquitetura
 
 options:
   hideFooter: false
@@ -26,21 +26,32 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
+weight: 20190413
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
-  local: 
+  data: 2019-04-13T16:00:00Z
+  local: Casa da Escrita
 ---
 
- 
+13 de Abril, 16h00
 
- 
+“Mulheres na Arquitectura”
+
+com Letícia Callou, Patrícia Pedrosa, Susana Lobo
+
+Moderação de Paula Chaves
+
+Organização: associação Mulheres na Arquitectura
+
+Casa da Escrita.   
+Entrada Livre
+
 
 Os papéis e os estereótipos de género encontram-se presentes nas distintas profissões e configuram modos diversos de se estar dentro das mesmas. Na arquitectura não é diferente. Sendo uma profissão tradicionalmente masculina, mas com uma feminização crescente pelo menos em Portugal, levantam-se questões que profissionais e universidades devem debater e confrontar. Neste sentido, procurar-se-á discutir como é que a ideia do ser-se "arquitecto" se cruza com o contexto social actual, com perspectiva de género?
 
- 
 
+
+<!--more-->
  
 
 **LETÍCIA CALLOU**
@@ -53,11 +64,9 @@ Natural de Recife, estado de Pernambuco, Brasil, está em Portugal desde 2016. T
 
 **PATRÍCIA SANTOS PEDROSA**
 
-![Patrícia Pedrosa](index.assets/Patrícia Pedrosa.jpg)
+![Patrícia Pedrosa](index.assets/Patrícia Pedrosa.jpg)
 
 Arquitecta, feminista, investigadora, professora, activista e mãe (não necessariamente por esta ordem). Professora Auxiliar Convidada (Universidade da Beira Interior). Investigadora Integrada do Centro Interdisciplinar de Estudos de Género (ISCSP, Universidade de Lisboa). Investigadora Responsável do projecto W@ARCH.PT - Arquitectas em Portugal: construção da visibilidade, 1942-1986 [PTDC/ART-DAQ/32388/2017]. Fundadora e Presidenta da associação Mulheres na Arquitectura (Portugal). Licenciada em Arquitetura (FA-UTL, 1997), Mestre em História de Arte (FCSH-UNL, 2008), Doutorada em Projetos Arquitetónicos (ETSAB-UPC, Catalunha, 2010) e com uma Pós-Graduação em Estudos Feministas (CES/FL, Universidade de Coimbra, 2016). Tem diversos livros, capítulos e artigos publicados, assim como presença em diversas conferências, congressos e seminários internacionais
-
- 
 
 **SUSANA LOBO**
 
@@ -76,8 +85,7 @@ De 2014 a 2016, foi membro do Secretariado do Núcleo de Arquitetos da Região d
  
 
  
-
-**PAULA CHAVES**
+## Moderado por Paula Chaves
 
 ![PaulaChaves](index.assets/PaulaChaves.JPG)
 

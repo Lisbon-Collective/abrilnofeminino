@@ -102,7 +102,7 @@ Foi Vice-Presidente da Comissão de Coordenação e Desenvolvimento Regional de 
 
 Tem dedicado a sua actividade científica e pedagógica aos temas da Geografia da Saúde, desenvolvendo investigação no cruzamento entre várias áreas do saber (Ciências Sociais e Humanas, Ciências da Terra e Ciências da Saúde), fundamentais para explicar a complexidade da relação entre o território e a saúde das populações. Nos últimos anos, tem centrado o seu trabalho na avaliação das desigualdades em saúde, associadas aos factores sociais, económicos e ambientais, tentando responder aos actuais desafios societais e tendo como principal objectivo a tradução da evidência científica na tomada de decisão e reorientação de políticas públicas para uma maior justiça social.
 
-**Alexandre Tiedtke Quintanilha**
+## Moderado por Alexandre Tiedtke Quintanilha
 
 <figure>
 <img src="index.assets/Alex - photo in Minho.jpg" alt="Alexandre Quintanilha" />

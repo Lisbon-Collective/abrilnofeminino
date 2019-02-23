@@ -51,19 +51,10 @@ Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
 
 **Montras dos espaços comerciais:** 
 
-*Comur- Conserveira de Portugal, Colorvita, Ourivesaria Costa, Sweet Art, Salgueiro’s, Pé de Meia, Tricots Brancal, Casa Baltazar, Pastelaria Visconde, Café Santa Cruz.*
-
-*Falta confirmação de duas lojas*
+*Comur- Conserveira de Portugal, Colorvita, Ourivesaria Costa, Sweet Art, Salgueiro’s, PEDEMEIA, Tricots Brancal, Casa Baltazar, Pastelaria Visconde, Café Santa Cruz.*
 
 **Até 30 de Abril**
 
-### ENCONTRO COM RITA CARMO
-
-**Conversa conduzida por Sara Meireles Graça**
-
-**Café Santa Cruz**
-
-**12h00**
 
 <!--more-->
 

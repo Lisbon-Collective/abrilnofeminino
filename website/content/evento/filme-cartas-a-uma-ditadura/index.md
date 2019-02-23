@@ -40,15 +40,11 @@ SESSÃO ESPECIAL*
 
 **Documentário**
 
-***seguida de Conversa/Debate com Inês de Medeiros, Irene Pimentel e Rui Bebiano**
+***seguida de Conversa/Debate com Inês de Medeiros, Irene Flunser Pimentel e Rui Bebiano**
 
 Uma centena de cartas escritas por mulheres portuguesas durante a ditadura de Salazar foram encontradas por acaso num alfarrabista. Ao confrontar hoje as autoras destas cartas com os fantasmas do passado, e revelando material de arquivo inédito, CARTAS A UMA DITADURA leva-nos numa viagem profunda ao obscurantismo que dominou Portugal durante mais de 50 anos.
 
 Prémio Melhor Filme Português/Doclisboa 2006, Fipa de Prata/Biarritz 2007, Prémio do Público/Mostra do Cinema de São Paulo 2007, Prémio Femina/Rio de Janeiro 2008.
-
- 
-
- 
 
 ![image004](images/image004.jpg)
 
@@ -56,7 +52,7 @@ Prémio Melhor Filme Português/Doclisboa 2006, Fipa de Prata/Biarritz 2007, Pr�
 
  
 
-Teatro da Cerca de S.Bernardo
+Teatro da Cerca de São Bernardo
 
 **21h30**
 
@@ -64,18 +60,13 @@ Teatro da Cerca de S.Bernardo
 
 <!--more-->
 
-
-
-
-
-
-
 Uma centena de cartas, escritas por mulheres portuguesas, em 1958, foram encontradas por acaso num alfarrabista que não as leu por achar que eram cartas de amor.
  Respondem a uma circular enviada por um misterioso movimento de apoio à ditadura do qual não há referência nos livros de história.  A circular a que respondiam nunca chegou a ser encontrada mas, pelas cartas que temos em mãos, percebe-se que era um convite para que as mulheres se mobilizassem em nome da paz, da ordem, e sobretudo em defesa do salvador da pátria: Salazar. Em todas as cartas, estas mulheres falam da gratidão e da admiração que têm pelo ditador. 
  Mas, como se a necessidade de falar fosse mais forte, por entre chavões e frases feitas, surgem por vezes o medo, a tristeza, o isolamento em que se vivia em Portugal nos anos 50. Uma costureira, muitas professoras primárias, donas de casa, algumas esposas de homens importantes do regime assinam as cartas. 
  Ao confrontar, hoje, estas mulheres com os fantasmas do passado, e graças a um material de arquivo inédito, **Cartas a uma Ditadura** é um mergulho perturbador no obscurantismo que *dominou Portugal por mais de 50 anos.*
 
-*“Documentário de Inês Medeiros que revisita a memória dos anos do salazarismo através do olhar e testemunho de várias mulheres, de diversos extractos sociais, que, em 1958, foram convidadas a manifestar o seu apoio a Salazar, em cartas laudatórias, a pretexto da primeira crise que abalou a ditadura, aquando da campanha do General Humberto Delgado. Desde as mais fervorosas defensoras do ditador até às mais comedidas ou simples, em quem a propaganda surtia outro tipo de efeito**, "Cartas a uma Ditadura"** desmonta o regime e as suas estratégias de perpetuação*.“  PÚBLICO
+> *“Documentário de Inês Medeiros que revisita a memória dos anos do salazarismo através do olhar e testemunho de várias mulheres, de diversos extractos sociais, que, em 1958, foram convidadas a manifestar o seu apoio a Salazar, em cartas laudatórias, a pretexto da primeira crise que abalou a ditadura, aquando da campanha do General Humberto Delgado. Desde as mais fervorosas defensoras do ditador até às mais comedidas ou simples, em quem a propaganda surtia outro tipo de efeito*, "Cartas a uma Ditadura"** desmonta o regime e as suas estratégias de perpetuação*.“  
+> — PÚBLICO
 
 **Ficha Técnica**
 
@@ -151,39 +142,6 @@ Foi também mandatária nacional pelo Partido Socialista nas eleições europeia
 Foi por duas vezes Vice-Presidente da Bancada do Partido Socialista e integrou os grupos interparlamentares de amizade Portugal-França, do qual foi Presidente e Vice-Presidente, e o grupo interparlamentar de amizade Portugal-Japão. Pertenceu sempre ao Conselho de Direção do Canal Parlamento. 
 
 Fez parte da delegação parlamentar da OSCE, Organização para a Segurança e Cooperação da Europa. 
-
-
- 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
  
 
 **IRENE FLUNSER PIMENTEL**

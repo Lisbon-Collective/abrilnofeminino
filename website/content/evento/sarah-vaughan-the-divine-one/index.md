@@ -59,7 +59,7 @@ Um filme que homenageia aquela que o crítico de jazz francês Philippe Carles c
 
  
 
-APRESENTAÇÃO DE RU MOUTINHO
+APRESENTAÇÃO DE RUI MOUTINHO
 
  
 
@@ -81,5 +81,5 @@ A nível cultural, para além do jazz, tem como principais centros de interesse,
 
  
 
-MAIS FOTO 
+<img src="images/Rui Moutinho.jpg" alt="">
 
