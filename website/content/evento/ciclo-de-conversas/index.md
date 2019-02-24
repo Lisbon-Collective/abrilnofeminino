@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: images/
+- src: images/anf_default.png
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -35,47 +35,94 @@ custom:
 
 Reunimos três distintas cientistas para conhecer os projectos que orientam ou lideram e ouvir o seu testemunho sobre a investigação no feminino. Ambiente, Antropologia Forense e Geografia da Saúde são as causas que abraçam e mobilizam a sua actividade, académica e profissional. Com o contributo de quem se tem dedicado à investigação sobre literatura de viagens, falaremos de várias mulheres que ao longo dos séculos desafiaram convenções por viajarem sozinhas, partindo à descoberta de um novo mundo e arriscando a própria vida.  Conversaremos ainda sobre as mulheres que marcaram a vida de Jesus, já com a Páscoa por perto. E finalizamos a discutir como é que a ideia do ser-se "arquitecto" se cruza com o contexto social actual, com perspectiva de género.
 
-**4 de Abril, 18h30**
+<div class="row gtr-uniform">
+<div class="col-3">
+  <h2>4 de Abril, 18h30</h2>
+  
+  <h3>“Mulheres na Ciência”</h3>
+  
+  <p>com Eugénia Cunha, Helena Freitas e Paula Santana
+    Moderação de Alexandre Quintanilha</p>
+</div>
 
-### “Mulheres na Ciência”
+<div class="col-3">
+  <h2>5 de Abril, 18h30</h2>
+  
+  <h3>“Mulheres Viajantes”</h3>
+  
+  <p>com Sónia Serrano
+    Moderação de Maria José Goulão</p>
+</div>
 
-**com Eugénia Cunha, Helena Freitas e Paula Santana**
 
-**Moderação de Alexandre Quintanilha**
 
- 
+<div class="col-3">
+  <h2>8 de Abril, 18h30</h2>
+  
+  <h3>"10 mulheres que marcaram a vida de Jesus"</h3>
+  
+  com Padre Nuno Santos
+</div>
 
-**5 de Abril, 18h30**
+<div class="col-3">
+  <h2>13 de Abril, 16h00</h2>
+  
+  <h3>“Mulheres na Arquitectura”</h3>
+  
+  <p>com Letícia Callou, Patrícia Pedrosa, Susana Lobo</p>
+  
+  <p>Moderação de Paula Chaves</p>
+  
+  <p>Organização: Associação Mulheres na Arquitectura</p>
 
-### “Mulheres Viajantes”
+  <p>Casa da Escrita <br> Entrada Livre</p>
+</div>
+</div>
+<!--more-->
+<style>.image.main{display:none;}</style>
 
-**com Sónia Serrano**
+Reunimos três distintas cientistas para conhecer os projectos que orientam ou lideram e ouvir o seu testemunho sobre a investigação no feminino. Ambiente, Antropologia Forense e Geografia da Saúde são as causas que abraçam e mobilizam a sua actividade, académica e profissional. Com o contributo de quem se tem dedicado à investigação sobre literatura de viagens, falaremos de várias mulheres que ao longo dos séculos desafiaram convenções por viajarem sozinhas, partindo à descoberta de um novo mundo e arriscando a própria vida.  Conversaremos ainda sobre as mulheres que marcaram a vida de Jesus, já com a Páscoa por perto. E finalizamos a discutir como é que a ideia do ser-se "arquitecto" se cruza com o contexto social actual, com perspectiva de género.
 
-**Moderação de Maria José Goulão**
+<div class="bypass">
+<div class="row gtr-uniform">
+<div class="col-3">
+  <h2>4 de Abril, 18h30</h2>
+  
+  <h3>“Mulheres na Ciência”</h3>
+  
+  <p>com Eugénia Cunha, Helena Freitas e Paula Santana
+    Moderação de Alexandre Quintanilha</p>
+</div>
 
- 
+<div class="col-3">
+  <h2>5 de Abril, 18h30</h2>
+  
+  <h3>“Mulheres Viajantes”</h3>
+  
+  <p>com Sónia Serrano
+    Moderação de Maria José Goulão</p>
+</div>
 
-**8 de Abril, 18h30**
+<div class="col-3">
+  <h2>8 de Abril, 18h30</h2>
+  
+  <h3>"10 mulheres que marcaram a vida de Jesus"</h3>
+  
+  com Padre Nuno Santos
+</div>
 
-### "10 mulheres que marcaram a vida de Jesus"
+<div class="col-3">
+  <h2>13 de Abril, 16h00</h2>
+  
+  <h3>“Mulheres na Arquitectura”</h3>
+  
+  <p>com Letícia Callou, Patrícia Pedrosa, Susana Lobo</p>
+  
+  <p>Moderação de Paula Chaves</p>
+  
+  <p>Organização: Associação Mulheres na Arquitectura</p>
 
-**com Padre Nuno Santos**
-
- 
-
-**13 de Abril, 16h00**
-
-### “Mulheres na Arquitectura”
-
-**com Letícia Callou, Patrícia Pedrosa, Susana Lobo**
-
-**Moderação de Paula Chaves**
-
-**Organização: associação Mulheres na Arquitectura**
-
- 
-
-**Casa da Escrita**
-
-**Entrada Livre**
-
+  <p>Casa da Escrita <br> Entrada Livre</p>
+</div>
+</div>
+</div>

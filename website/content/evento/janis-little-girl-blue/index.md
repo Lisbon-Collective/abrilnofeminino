@@ -45,8 +45,7 @@ Apresentação de Francisco Amaral
 
 <!--more-->
 
-![Picture1](images/Picture1.png)
-
+<div class="image right"><img src="images/janis-little-girl-blue-5098.jpg" alt=""></div>
 **Janis: Little Girl Blue**
 
 De: [Amy Berg](http://us.imdb.com/Name?Amy%20Berg)
@@ -59,6 +58,6 @@ Janis Lyn Joplin nasceu na cidade de Port Arthur, no Texas (EUA), em 1943. Consi
 Com realização de Amy J. Berg (nomeada para um Óscar, em 2007, pelo filme "Livrai-nos do Mal") e narração da cantora Cat Power, "Janis: Little Girl Blue" é um documentário que contextualiza a vida de alguém que cresceu inadaptado. Numa recusa do clichê "hippie" e a glamorização simplista do "sexo, drogas e rock 'n' roll", a realizadora junta correspondência que Joplin trocou com a família com material de arquivo nunca antes disponibilizado – captado em concertos e bastidores –, revelando não apenas a artista, mas também a mulher em luta consigo mesma. PÚBLICO
 
 
-### APRESENTAÇÃO DE FRANCISCO AMARAL (FALTA BIO E FOTO)
+### Apresentação de Francisco Amaral (falta Bio E Foto)
 
- 
+<style>.image.main{display:none;}</style>

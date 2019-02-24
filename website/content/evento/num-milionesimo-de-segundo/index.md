@@ -3,13 +3,13 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: images/Cartaz Exposição Num milionésimo de segundo.jpg
+- src: images/CartazExposicaoNumMilionesimoDeSegundo.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: Exposição De Ilustração De Catarina Sobral
+subtitle: Exposição de Ilustração De Catarina Sobral
 
 tags:
   -
@@ -57,6 +57,15 @@ Museu Nacional de Machado de Castro
 <p class="special lead">ACHIMPA!</p>
 
 
+**2 de Abril** 
+
+Museu Nacional de Machado de Castro    
+(Sala António Augusto Gonçalves)    
+**18h00 (Inauguração)**
+
+**Entrada Livre**   
+**Até 28 de Abril**
+
 <figure>
   <img src="images/© Teresa Freitas.jpeg" alt="© Teresa Freitas">
   <figcaption>© Teresa Freitas</figcaption>  
@@ -68,4 +77,6 @@ Feira do Livro Infantil de Bolonha, que lhe atribuiu por unanimidade o Prémio I
 Em 2016, TÃO TÃO GRANDE troca por miúdos um dos livros mais conhecidos de Kafka, e 2018 fica marcado como o ano da conquista do Universo, com o livro IMPOSSÍVEL. Em 2019 lança o mapa ilustrado COIMBRA, a cidade onde toda esta história começou...
 
 Numa reflexão subtil sobre a linguagem, o tempo e os afectos, as imagens de Catarina Sobral transportam-nos para um universo muito peculiar, composto por palavras misteriosas e inúmeras cartas de amor, disfarçadas de ilustrações e endereçadas a artistas e escritores vários, como James Joyce, Fernando Pessoa, Franz Kafka, Édouard Manet, Jacques Tati e Charlie Chaplin.
+
+<style>.image.main{display:none;}</style>
 

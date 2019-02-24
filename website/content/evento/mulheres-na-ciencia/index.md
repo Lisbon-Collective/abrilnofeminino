@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: images/
+- src: index.assets/hal-gatewood-405338-unsplash.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -28,9 +28,9 @@ scripts:
   -
 weight: 20190404
 custom:
-  copyright:
+  copyright: Hal Gatewood no Unsplash
   data: 2019-04-04T18:30:00Z
-  local: 
+  local: Casa da Escrita
 ---
 
 **4 de Abril, 18h30**     
@@ -38,12 +38,22 @@ com Eugénia Cunha, Helena Freitas e Paula Santana
 
 **Moderação de Alexandre Quintanilha**
 
+<!--more-->
+
+
+**4 de Abril, 18h30**     
+com Eugénia Cunha, Helena Freitas e Paula Santana.
+
+**Moderação de Alexandre Quintanilha**
+
 ### Eugénia Cunha
 
-<figure>
-<img src="index.assets/Foto EC Daniel Rocha.jpg" alt="Eugénia Cunha"/>
-<figcaption>© Daniel Rocha</figcaption>
-</figure>
+<div class="image right">
+  <figure>
+  <img src="index.assets/Foto EC Daniel Rocha.jpg" alt="Eugénia Cunha"/>
+  <figcaption>© Daniel Rocha</figcaption>
+  </figure>
+</div>
 
 Eugénia Cunha, Directora da Delegação Sul, Lisboa,  do Instituto Nacional de Medicina Legal e Ciências Forenses e vogal do Conselho Diretivo desde Agosto de 2018; Professora Catedrática do Departamento de Ciências da Vida da FCTUC, desde 2003; Consultora Nacional para a Antropologia Forense para o Instituto Nacional de Medicina Legal e Ciências Forenses,I.P., desde 1997; Coordenadora do Laboratório de Antropologia Forense da FCTUC (<http://lfa.uc.pt>) e da unidade Antropologia Forense e Paleobiologia do Centro de Ecologia Funcional; Presidente da FASE, *Forensic Anthropology Society of Europe (2009- 2015)(*[*www.forensicanthropology.eu*](http://www.forensicanthropology.eu) *)*, onde actualmente integra o board como Past President; Fellow da American Academy of Forensic Sciences; Membro fundador e Vice-Presidente da Associação Brasileira de Antropologia Forense; membro do Pathology and Anthropology Sub-group, Interpol DVI Working Group; diplomada honoris causa pela FASE como perita independente de antropologia forense, desde 2014; Presidente do GALF, Groupement des Anthropologues de Langue Française, desde 2018; membro do grupo de peritos da JRR, Justice Rapid Response, desde 2013; Perita em vários casos internacionais de antropologia forense (Timor Leste, Guiné Bissau, Mali, França, Brasil, Gâmbia). Autora de três livros (Como nos tornámos humanos, 2010, Imprensa da Universidade de Coimbra) e dois internacionais de Antropologia forense (2006, Humana Press; 2018, Academic Press  <https://www.elsevier.com/books/dismemberments/ross/978-0-12-811912-9>) e de várias publicações científicas internacionais indexadas que podem ser vistas em (<https://scholar.google.pt/citations?user=HSGHLA0AAAAJ&hl=es>).
 
@@ -57,10 +67,12 @@ A sua investigação centra-se na antropologia forense, especificamente na estim
 
 ### Helena Freitas
 
-<figure>
-<img src="index.assets/Foto HF Luísa Ferreira.jpg">
-<figcaption>© Luísa Ferreira</figcaption>
-</figure>
+<div class="image right">
+  <figure>
+  <img src="index.assets/Foto HF Luísa Ferreira.jpg">
+  <figcaption>© Luísa Ferreira</figcaption>
+  </figure>
+</div>
 
 Helena Freitas doutorou-se em Ecologia pela Universidade de Coimbra, em colaboração com a Universidade de Bielefeld, Alemanha, em 1993, e realizou um pós-doutoramento na Universidade de Stanford, EUA, entre 1994 e 1996. É Professora Catedrática na área da Biodiversidade e Ecologia no Departamento de Ciências da Vida da Faculdade de Ciências e Tecnologia da Universidade de Coimbra desde 2003, e detentora da Cátedra Unesco em Biodiversidade e Conservação para o Desenvolvimento Sustentável desde 2014 (http://unescobiodiversitychair.uc.pt/?lang=en). 
 
@@ -82,10 +94,12 @@ Em Março de 2000 foi-lhe atribuída a Comenda da Ordem do Infante D. Henrique p
 
 ### Paula Santana
 
-<figure>
-<img src="index.assets/fotopaulasantana.jpg" alt="Paula Santana" />
-<figcaption>© </figcaption>
-</figure>
+<div class="image right">
+  <figure>
+  <img src="index.assets/fotopaulasantana.jpg" alt="Paula Santana" />
+  <figcaption>© </figcaption>
+  </figure>
+</div>
 
 Geografa, Professora Catedrática no Departamento de Geografia e Turismo da Universidade de Coimbra, Coordenadora Cientifica do Centro de I&D CEGOT e Co-presidente da Comission on Health and Environment da União Geográfica Internacional,  tem-se dedicado à docência e investigação da geografia da saúde e do planeamento urbano sustentável, com destaque para a associação entre os aspectos de contexto e a saúde e bem–estar da população.
 
@@ -101,16 +115,22 @@ Tem dedicado a sua actividade científica e pedagógica aos temas da Geografia d
 
 ## Moderado por Alexandre Tiedtke Quintanilha
 
-<figure>
-<img src="index.assets/Alex - photo in Minho.jpg" alt="Alexandre Quintanilha" />
-<figcaption>© </figcaption>
-</figure>
-
-Nasceu e completou o liceu em Lourenço Marques (Maputo) Moçambique.
-
-Doutorou-se em física teórica na *Witwatersrand University, Johannesburg*, em 1972.  Passou as duas décadas seguintes na *University of California, Berkeley* e no *Lawrence Berkeley National Laboratory* como professor de fisiologia celular e biofísica e director do *Center for Environmental Studies*.  Veio para o Porto no início dos anos 90 como professor de biofísica no ICBAS-UPorto. Fundou e foi até 2010, diretor do IBMC. Dirigiu o Laboratório Associado IBMC-INEB e presidiu ao grupo responsável pela implementação do consórcio i3S, que para além destes dois institutos, integrou também o IPATIMUP. É membro de várias academias internacionais e presidiu a vários comités da *ESF*, da *OECD*, da Comissão Europeia (*Marie Curie*, *ELSA*, membro do *EURAB* e do *STAC*) e de outras organizações internacionais de investigação. Atualmente é presidente da Comissão de Ética para a Investigação Clínica (CEIC), do Conselho de Escola da Escola Nacional de Saúde Pública e do Conselho Consultivo da Hospital Magalhães de Lemos. E desde 2015, como Deputado preside à Comissão Parlamentar de Educação e Ciência. Tem uma vasta obra publicada de artigos e livros científicos. Os seus interesses actuais são nas áreas do stress biológico, percepção do risco, divulgação do conhecimento e políticas de ciência. 
-
-Out 2017
+<div class="row">
+  <div class="col-12">
+  <div class="image right">
+    <figure>
+    <img src="index.assets/Alex - photo in Minho.jpg" alt="Alexandre Quintanilha" />
+    <figcaption>© </figcaption>
+    </figure>
+  </div>
+  
+  <p>Nasceu e completou o liceu em Lourenço Marques (Maputo) Moçambique.</p>
+  
+<p>Doutorou-se em física teórica na <em>Witwatersrand University, Johannesburg</em>, em 1972.  Passou as duas décadas seguintes na <em>University of California, Berkeley</em> e no <em>Lawrence Berkeley National Laboratory</em> como professor de fisiologia celular e biofísica e director do <em>Center for Environmental Studies</em>.  Veio para o Porto no início dos anos 90 como professor de biofísica no ICBAS-UPorto. Fundou e foi até 2010, diretor do IBMC. Dirigiu o Laboratório Associado IBMC-INEB e presidiu ao grupo responsável pela implementação do consórcio i3S, que para além destes dois institutos, integrou também o IPATIMUP. É membro de várias academias internacionais e presidiu a vários comités da <em>ESF</em>, da <em>OECD</em>, da Comissão Europeia (<em>Marie Curie</em>, <em>ELSA</em>, membro do <em>EURAB</em> e do <em>STAC</em>) e de outras organizações internacionais de investigação. Atualmente é presidente da Comissão de Ética para a Investigação Clínica (CEIC), do Conselho de Escola da Escola Nacional de Saúde Pública e do Conselho Consultivo da Hospital Magalhães de Lemos. E desde 2015, como Deputado preside à Comissão Parlamentar de Educação e Ciência. Tem uma vasta obra publicada de artigos e livros científicos. Os seus interesses actuais são nas áreas do stress biológico, percepção do risco, divulgação do conhecimento e políticas de ciência. </p>
+    
+   <p>Out 2017</p>
+  </div>
+</div>
 
  
 
