@@ -18,7 +18,7 @@
 			<div class="spotlights">
 				<div class="intro">
 					<header>
-						<h2 class="left"><a href="{{.Permalink}}">{{ .Title }}</a></h2>
+						<h2 class="left"><a href="{{.Permalink}}">{{ .Title | safeHTML }}</a></h2>
 						<h3 class="left">{{ .Params.subtitle }}</h3>
 						<p>{{ .Summary }}</p>
 					</header>

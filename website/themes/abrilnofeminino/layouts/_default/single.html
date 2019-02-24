@@ -8,7 +8,7 @@
 			<div class="wrapper">
 				<div class="inner">
 					<header class="major">
-						<h1>{{ .Title }}</h1>
+						<h1>{{ .Title | safeHTML }}</h1>
 						{{ with .Params.subtitle }}
 							<p>{{ . }}</p>
 						{{ end }}
