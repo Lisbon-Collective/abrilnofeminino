@@ -84,7 +84,7 @@ Seminário Maior, Sala São Tomás
 <div class="row">
   <div class="col-12">
     <h3>Cândida Matos</h3>
-    <div class="image right"><img src="Foto Candida Matos - .jpg" alt=""></div>
+    <div class="image right"><img src="images/Foto Candida Matos - .jpg" alt=""></div>
     Iniciou os seus estudos musicais com o piano, tendo estudado
     com Mário de Sousa Santos, Joel Canhão, Campos Coelho, Tereza Vieira e Olga
     Pratts.
