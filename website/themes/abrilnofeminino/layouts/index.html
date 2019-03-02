@@ -24,23 +24,148 @@
 			</div>
 		</div>
 
+		<!-- SHOW EVENTS IN ORDER -->
+		{{ with .Site.GetPage "/evento/num-milionesimo-de-segundo/index.md" }}
+		<div id="">
+			<div class="wrapper style2">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
+
+
 	<!-- One -->
 		<div id="one">
 			<div class="wrapper special">
 				<div class="inner">
 					<header class="major">
-						<h2>Amet magna adipiscing</h2>
+						<h2>Ciclo "Como Elas Cantam"</h2>
 					</header>
-					<div class="image fit special">
-						<img src="images/pic02.jpg" alt="" />
-					</div>
-					<p class="special">Sed egestas, ante et vulputate volutpat pede semper est, vitae luctus metus libero eu augue. Morbi purus libero, faucibus adipiscing, commodo quis, gravida id, est. Sed lectus. Praesent elementum lorem ipsum dolor sit amet consequat hendrerit tortor semper lorem at felis.</p>
-					<ul class="actions">
-						<li><a href="#" class="button">Details</a></li>
-					</ul>
+
+<div class="row">
+	<div class="col-4 col-12-medium">
+		{{ with .Site.GetPage "/evento/janis-little-girl-blue/index.md" }}
+		{{ .Render "minimal-card" }}
+		{{ end }}
+	</div>
+	<div class="col-4 col-12-medium">
+		{{ with .Site.GetPage "/evento/sarah-vaughan-the-divine-one/index.md" }}
+		{{ .Render "minimal-card" }}
+		{{ end }}
+	</div>
+	<div class="col-4 col-12-medium">
+	{{ with .Site.GetPage "/evento/violeta-foi-para-o-ceu/index.md" }}
+	 {{ .Render "minimal-card" }}
+	{{ end }}
+	</div>
+</div>
 				</div>
 			</div>
 		</div>
+
+		<div id="two">
+			<div class="wrapper special style1">
+				<div class="inner">
+					<header class="major"><h2>Ciclo de Conversas</h2></header>
+					<div class="row">
+						<div class="col-3 col-12-medium">
+							{{ with .Site.GetPage "/evento/mulheres-na-ciencia/index.md" }}
+							{{ .Render "minimal-card" }}
+							{{ end }}
+						</div>
+						<div class="col-3 col-12-medium">
+							{{ with .Site.GetPage "/evento/mulheres-viajantes/index.md" }}
+							{{ .Render "minimal-card" }}
+							{{ end }}
+						</div>
+						<div class="col-3 col-12-medium">
+							{{ with .Site.GetPage "/evento/10-mulheres-que-marcaram-a-vida-de-jesus/index.md" }}
+							{{ .Render "minimal-card" }}
+							{{ end }}
+						</div>
+						<div class="col-3 col-12-medium">
+							{{ with .Site.GetPage "/evento/mulheres-na-arquitectura/index.md" }}
+							{{ .Render "minimal-card" }}
+							{{ end }}
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+
+		{{ with .Site.GetPage "/evento/cravos-e-outras-flores/index.md" }}
+		<div id="">
+			<div class="wrapper style2">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
+
+
+		{{ with .Site.GetPage "/evento/12-mulheres-12-vozes/index.md" }}
+		<div id="">
+			<div class="wrapper style1">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
+
+		{{ with .Site.GetPage "/evento/encontro-com-rita-carmo/index.md" }}
+		<div id="">
+			<div class="wrapper style2">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
+
+
+{{ with .Site.GetPage "/evento/pela-mao-de-judite/index.md" }}
+<div id="">
+	<div class="wrapper style1">
+	{{ .Render "card-inner" }}
+	</div>
+</div>
+{{ end }}
+
+
+
+{{ with .Site.GetPage "/evento/lancamento-de-coimbra-da-coleccao-a-minha-cidade-editada-pelo-pato-logico/index.md" }}
+<div id="">
+	<div class="wrapper style2">
+	{{ .Render "card-inner" }}
+	</div>
+</div>
+{{ end }}
+
+{{ with .Site.GetPage "/evento/tres-mulheres-singulares-a-matrona-a-rainha-e-a-pintora/index.md" }}
+<div id="">
+	<div class="wrapper style1">
+	{{ .Render "card-inner" }}
+	</div>
+</div>
+{{ end }}
+
+{{ with .Site.GetPage "/evento/filme-cartas-a-uma-ditadura/index.md" }}
+<div id="">
+	<div class="wrapper style2">
+	{{ .Render "card-inner" }}
+	</div>
+</div>
+{{ end }}
+
+
+{{ with .Site.GetPage "/evento/mulheres-incriveis/index.md" }}
+<div id="">
+	<div class="wrapper style1">
+	{{ .Render "card-inner" }}
+	</div>
+</div>
+{{ end }}
+
+
+
+
 
 	<!-- Two -->
 		<div id="two">
