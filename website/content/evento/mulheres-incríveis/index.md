@@ -8,7 +8,7 @@ resources:
 - src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
-slug:
+slug: mulheres-incriveis
 subtitle: pela Camaleão
 
 tags:
