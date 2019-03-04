@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: Como Elas Cantam
 
-title: Violeta Foi Para o Céu
+title: '"Violeta foi para o céu"'
 
 options:
   hideFooter: false
