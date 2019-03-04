@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: Ciclo de Conversas
 
-title: 10 Mulheres Que Marcaram a Vida de Jesus
+title: 10 Mulheres que marcaram a vida de Jesus
 
 options:
   hideFooter: false
@@ -46,15 +46,17 @@ Casa da Escrita
 
 <strong>8 de Abril, 18h30</strong>
 
-"10 mulheres que marcaram a vida de Jesus"
-
+"10 mulheres que marcaram a vida de Jesus"    
 com Padre Nuno Santos
 
-Casa da Escrita
+Casa da Escrita    
+Entrada Livre
 
 No mapa existencial de Jesus não havia fronteiras. Nunca aprendeu a conjugar a palavra discriminação. Para ele cada pessoa com quem se cruza é isso mesmo - uma pessoa. Uma pessoa que precisa de amor, de perdão, de vida e de esperança. Neste sentido, as mulheres ocupam um lugar surpreendente na sua vida e na sua acção. Quando pensamos no contexto em que vivia ficamos impressionados com um evangelho tão radical na atenção ao feminino.
 
-### Pe NUNO SANTOS
+### Pe Nuno Santos
+
+<img src="images/NS.jpg" alt="">
 
 Reitor do Seminário Maior de Coimbra, acumulando com outros cargos, entre os quais: Director do Secretariado Diocesano da Pastoral Vocacional; Diretor do Pré-Seminário; Diretor do Instituto Dom Miguel da Anunciação; Assistente do Secretariado Diocesano da Pastoral Familiar; coordenador das Celebrações Diocesanas; membro do Conselho Episcopal; membro do Secretariado Coordenação Pastoral; membro do Colégio dos Consultores; membro do Conselho Presbiteral; membro do Cabido da Sé de Coimbra.
 
@@ -68,4 +70,5 @@ Tem colaborado na organização de Congressos, Encontros e Colóquios e particip
 
  
 
+<style>.image.main{display:none;}</style>
 

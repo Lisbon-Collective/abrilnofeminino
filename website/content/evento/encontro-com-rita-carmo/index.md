@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Encontro com Rita Carmo Dia 6 de Abril
+title: Encontro com Rita Carmo
 
 options:
   hideFooter: false
@@ -33,24 +33,27 @@ custom:
   local: Café Santa Cruz
 ---
 
+Dia 6 de Abril
+
 Conversa conduzida por Sara Meireles Graça no âmbito da Exposição "<a href="/evento/12-mulheres-12-vozes/">12 Mulheres, 12 Vozes</a>".
 
 **Café Santa Cruz**    
 **12h00**
 
 <!--more-->
+Dia 6 de Abril
 
 <div class="row">
   <span>Conversa conduzida por Sara Meireles Graça no âmbito da Exposição "<a href="/evento/12-mulheres-12-vozes/">12 Mulheres, 12 Vozes</a>".
 
-  <strong>Café Santa Cruz</strong> <br>
+<br>  <strong>Café Santa Cruz</strong> <br>
   <strong>12h00</strong>
   </span>
 </div>
 
 <div class="row">
   <div class="col-12">
-  <h2>Rita Carmo</h2>
+
 
   <div class="image right"><figure><img src="images/Rita Carmo foto©jose sena goulao.jpg" alt="Rita Carmo foto ©jose sena goulao.jpg">
     <figcaption>Rita Carmo foto © José Sena Goulão</figcaption>

@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: Exposição De Fotografia De Rita Carmo
+subtitle: Exposição de Fotografia de Rita Carmo
 
 tags:
   - Rita Carmo
@@ -36,20 +36,11 @@ custom:
 
 **6 de Abril** 
 
-
-Pela lente de Rita Carmo*, “passaram praticamente todos os nomes graúdos da mais criativa e vital expressão sonora nacional; uma mão-cheia de novos talentos; e uma série de exemplos internacionais incontornáveis na história da cultura nos séculos XX e XXI”. Nestas imagens, “faz-se prova da sua maior qualidade: a de se deixar “engolir” pelo imaginário dos artistas fotografados, e, juntamente com eles, reinterpretar a sua obra.»* Gonçalo Frota
-
-
-**Fotografias de Aldina Duarte, Ana Moura, Carminho, Celina da Piedade, Cidália Moreira, Cristina Branco, Gisela João, Márcia, Maria João, Mariza, Mísia, Surma.**
-
-
 Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
 
 **11h00 Inauguração (Largo da Portagem)**
 
-**Montras dos espaços comerciais:** 
-
-*Comur- Conserveira de Portugal, Colorvita, Ourivesaria Costa, Sweet Art, Salgueiro’s, PEDEMEIA, Tricots Brancal, Casa Baltazar, Pastelaria Visconde, Café Santa Cruz.*
+**Montras dos espaços comerciais:** *Comur- Conserveira de Portugal, Livraria Bertrand, Colorvita, Ourivesaria Costa, Sweet Art, Salgueiro’s, PEDEMEIA, Tricots Brancal, Casa Baltazar, avenida 7, Pastelaria Visconde, Café Santa Cruz.*
 
 **Até 30 de Abril**
 
@@ -64,13 +55,11 @@ Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
     <p>Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)</p>
     <p><strong>11h00 Inauguração (Largo da Portagem)</strong></p>
     <p><strong>Montras dos espaços comerciais:</strong> </p>
-    <p><em>Comur- Conserveira de Portugal, Colorvita, Ourivesaria Costa, Sweet Art, Salgueiro’s, PEDEMEIA, Tricots Brancal, Casa Baltazar, Pastelaria Visconde, Café Santa Cruz.</em></p>
+    <p><em>Comur- Conserveira de Portugal, Livraria Bertrand, Colorvita, Ourivesaria Costa, Sweet Art, Salgueiro’s, PEDEMEIA, Tricots Brancal, Casa Baltazar, avenida 7, Pastelaria Visconde, Café Santa Cruz.</em></p>
     <p><strong>Até 30 de Abril</strong></p>
   </div>
 </div>
 
-
-### Rita Carmo
 <div class="image right">
   <figure>
   <img src="index.assets/RITA CARMO©jose sena goulao.jpg" alt="Rita Carmo" />
@@ -88,5 +77,7 @@ Nesse documento, como nas imagens que fazem parte do livro Portugal XXI - Imagen
 
 As fotografias expostas aconteceram entre 2006 e 2018 e parte delas integram a edição “Bandas Sonoras - 100 Retratos na Música Portuguesa” - Chiado Editora, 2013.
 
-"12 mulheres, 12 vozes" com Aldina Duarte | Ana Moura | Carminho | Celina da Piedade | Cidália Moreira | Cristina Branco | Gisela João | Márcia | Maria João | Mariza | Mísia | Surma.
+**"12 mulheres, 12 vozes" com Aldina Duarte | Ana Moura | Carminho | Celina da Piedade | Cidália Moreira | Cristina Branco | Gisela João | Márcia | Maria João | Mariza | Mísia | Surma.**
+
+[www.RitaCarmo.com](https://www.ritacarmo.com/)
  

@@ -44,6 +44,9 @@ com Eugénia Cunha, Helena Freitas e Paula Santana
 **4 de Abril, 18h30**     
 com Eugénia Cunha, Helena Freitas e Paula Santana.
 
+<p>Casa da Escrita <br>
+Entrada Livre</p>
+
 **Moderação de Alexandre Quintanilha**
 
 ### Eugénia Cunha
@@ -78,7 +81,7 @@ Helena Freitas doutorou-se em Ecologia pela Universidade de Coimbra, em colabora
 
 Foi Vice-Reitora da Universidade de Coimbra entre 2011 e 2015, com o pelouro das Relações Institucionais, Museus e Desporto. Entre 23 de outubro de 2015 e 10 de março de 2016 foi deputada e vice-presidente do Grupo Parlamentar do Partido Socialista. 
 
-Entre 10 de Março de 2016 e 18 de julho de 2017 foi Coordenadora da Unidade de Missão para a Valorização do Interior, tendo coordenado o Programa Nacional para a Coesão Territorial ([www.pnct.gov.pt](http://www.pnct.gov.pt), Diário da República n.º 226/2016, Série I, de 2016-11-24). 
+Entre 10 de Março de 2016 e 18 de Julho de 2017 foi Coordenadora da Unidade de Missão para a Valorização do Interior, tendo coordenado o Programa Nacional para a Coesão Territorial ([www.pnct.gov.pt](http://www.pnct.gov.pt), Diário da República n.º 226 / 2016, Série I, de 2016-11-24). 
 
 Helena Freitas integrou o Conselho Geral da Universidade de Coimbra (2009-2011), foi Directora do Jardim Botânico da Universidade de Coimbra de 2004-2012, tendo elaborado e  coordenado o seu programa de requalificação,  Presidente da Liga para a Proteção da Natureza (1999 – 2002), primeira Provedora do Ambiente e Qualidade de Vida da cidade de Coimbra (2002 - 2005), fundadora e Presidente da Sociedade Portuguesa de Ecologia (2004 - 2013) e Vice-Presidente da Sociedade Europeia de Ecologia (2009 - 2012). 
 
@@ -113,7 +116,7 @@ Foi Vice-Presidente da Comissão de Coordenação e Desenvolvimento Regional de 
 
 Tem dedicado a sua actividade científica e pedagógica aos temas da Geografia da Saúde, desenvolvendo investigação no cruzamento entre várias áreas do saber (Ciências Sociais e Humanas, Ciências da Terra e Ciências da Saúde), fundamentais para explicar a complexidade da relação entre o território e a saúde das populações. Nos últimos anos, tem centrado o seu trabalho na avaliação das desigualdades em saúde, associadas aos factores sociais, económicos e ambientais, tentando responder aos actuais desafios societais e tendo como principal objectivo a tradução da evidência científica na tomada de decisão e reorientação de políticas públicas para uma maior justiça social.
 
-## Moderado por Alexandre Tiedtke Quintanilha
+### Alexandre Tiedtke Quintanilha
 
 <div class="row">
   <div class="col-12">

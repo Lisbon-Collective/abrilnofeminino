@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Lançamento do Livro "Coimbra"
+title: Lançamento de Livro "Coimbra"
 
 options:
   hideFooter: false
@@ -26,7 +26,7 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190414
+weight: 201904142
 custom:
   copyright:
   data: 2019-04-14T16:30:00Z
@@ -36,7 +36,8 @@ custom:
 14 de Abril
 
 Lançamento de “Coimbra”, da colecção A Minha Cidade, editada pelo Pato Lógico 
-com a presença da autora, Catarina Sobral 
+com a presença da autora, Catarina Sobral.
+
 *evento integrado na Exposição de Ilustração
 
 Museu Nacional de Machado de Castro
@@ -49,7 +50,8 @@ Museu Nacional de Machado de Castro
   14 de Abril
 
   Lançamento de “Coimbra”, da colecção A Minha Cidade, editada pelo Pato Lógico 
-  com a presença da autora, Catarina Sobral 
+  com a autora, Catarina Sobral.
+  
   *evento integrado na Exposição de Ilustração
 
   Museu Nacional de Machado de Castro

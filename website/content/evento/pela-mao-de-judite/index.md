@@ -17,7 +17,7 @@ categorias:
   - Leitura Encenada
 ciclo: 
 
-title: '“Pela Mão de Judite”'
+title: '“Pela mão de Judite”'
 
 options:
   hideFooter: false
@@ -35,7 +35,7 @@ custom:
 
 **12 de Abril**
 
-Maria Judite de Carvalho, unanimemente considerada uma das vozes femininas mais importantes da literatura nacional do século XX, é autora de contos, novelas, crónicas, assim como de uma peça de teatro e de um livro de poesia. Herdeira do existencialismo e do *nouveau roman*, a sua voz é intemporal, tratando com mestria e um sentido de humor único temas fundamentais, como a solidão da vida na cidade e a angústia e o desespero espelhados no seu quotidiano anónimo. Mais de vinte anos depois da sua morte, é tempo de recordar a sua contida escrita que mergulha fundo no universo feminino, não apenas junto daqueles que conhecem a sua obra mas também pensando nas novas gerações de leitores. 
+Maria Judite de Carvalho, unanimemente considerada uma das vozes femininas mais importantes da literatura nacional do século XX, é autora de contos, novelas, crónicas, assim como de uma peça de teatro e de um livro de poesia. Herdeira do existencialismo e do *nouveau roman*, a sua voz é intemporal, tratando com mestria e um sentido de humor único temas fundamentais, como a solidão da vida na cidade e a angústia e o desespero espelhados no seu quotidiano anónimo. Mais de vinte anos depois da sua morte, é tempo de recordar a sua contida escrita, a qual mergulha fundo no universo feminino, não apenas junto daqueles que conhecem a sua obra mas também pensando nas novas gerações de leitores. 
 
 **Crónicas e Contos de Maria Judite de Carvalho**
 
@@ -51,6 +51,10 @@ Galeria de Santa Clara
 
 <!--more-->
  
+<strong>12 de Abril</strong>, 19h00
+
+Galeria de Santa Clara    
+Entrada Livre
 
 ### Maria Judite de Carvalho (1921-1998)
 <div class="col-12">

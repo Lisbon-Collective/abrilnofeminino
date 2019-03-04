@@ -26,7 +26,7 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190414
+weight: 201904141
 custom:
   copyright:
   data: 2019-04-14T17:35:00Z
@@ -47,6 +47,20 @@ Museu Nacional de Machado de Castro
 Duração 60 minutos
 
 <!--more-->
+     
+
+**14 de Abril**     
+Por Carlos Santos, Pedro Ferrão e Virgínia Gomes
+
+Visita orientada em torno de três figuras femininas representadas nas obras das colecções do Museu e que evocam a sua memória: Agripina-a-Antiga; Rainha Santa Isabel e Josefa d’Óbidos.
+
+Museu Nacional de Machado de Castro
+
+**15h00**
+
+**Entrada Livre (máximo 20 participantes mediante inscrição prévia para MNMC 239 853 070)**
+
+Duração 60 minutos
 
 <div class="row">
   <div class="col-4 col-12-medium"> 

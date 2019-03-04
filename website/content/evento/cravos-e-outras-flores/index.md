@@ -35,7 +35,9 @@ custom:
 
 **6 de Abril** 
 
-CONCERTO DE MÚSICA BARROCA com Cândida Matos (cravo) e Leonor Barbosa de Melo (soprano)
+CONCERTO DE MÚSICA BARROCA    
+Cândida Matos (cravo)    
+Leonor Barbosa de Melo (soprano)
 
 Especialmente concebido para o “Abril no Feminino”, com uma cuidada escolha de repertório, destaque para as compositoras *B. Strozzi, F. Caccini, Elisabeth Jaquet de la Guèrre*, a par de outros nomes incontornáveis da música barroca, tais como *A. Vivaldi, J.B. Lully e C. Seixas*. Um recital que reunirá pela primeira vez as protagonistas convidadas.
 
@@ -54,7 +56,9 @@ Seminário Maior, Sala São Tomás
 
 <strong>6 de Abril</strong>
 
-CONCERTO DE MÚSICA BARROCA com Cândida Matos (cravo) e Leonor Barbosa de Melo (soprano)
+CONCERTO DE MÚSICA BARROCA    
+Cândida Matos (cravo)    
+Leonor Barbosa de Melo (soprano)
 
 
 **18h00**
