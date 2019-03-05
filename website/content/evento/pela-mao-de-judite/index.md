@@ -64,9 +64,6 @@ Entrada Livre
 <p>Foi uma escritora portuguesa, unanimemente considerada como uma das vozes femininas mais importantes da literatura nacional do século XX. É autora de contos, novelas, crónicas, assim como de uma peça de teatro e de um livro de poesia. Trabalhou nos periódicos Diário de Lisboa, Diário Popular, Diário de Notícias e O Jornal. Foi casada com Urbano Tavares Rodrigues e viveu em França e na Bélgica entre 1949 e 1955, ainda antes da sua estreia literária. O resto dos seus anos, passou-os na capital portuguesa.</p>
 
 
-
-
-
 <p>Herdeira do existencialismo e do nouveau roman, a sua voz permanece intemporal, tratando com mestria e um sentido de humor único temas fundamentais, como a solidão da vida na cidade e a angústia e o desespero espelhados no seu quotidiano anónimo.</p>
 
 <p>Observadora exímia, as suas personagens convivem com o ritmo fervilhante de uma vida avassalada por multidões, permanecendo reclusas em si mesmas, separadas por um monólogo da alma infinito.</p>
