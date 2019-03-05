@@ -109,7 +109,7 @@
 		&.major {
 			text-align: center;
 			margin: 0 auto _size(element-margin) auto;
-			max-width: 46rem;
+			max-width: 50rem;
 
 			@include breakpoint('<=medium') {
 				max-width: calc(100% - 6rem);

@@ -48,9 +48,18 @@ Apresentação de Rui Moutinho
 **De Matthew Seig**    
 **Documentário, Musical**
 
-Filme/documentário realizado em 1993, por Matthew Seig aborda a carreira e alguns aspectos da vida pessoal da cantora de jazz  (também, ocasionalmente, pianista)  SARAH VAUGHAN.    
-Baseado em excertos de prestações em clubes, salas de concertos e festivais de jazz e de entrevistas com ela própria e com alguns dos músicos que partilharam momentos importantes da sua carreira (Billy Eckstine, Roy Haynes, Joe Williams, George Gaffney e o arranjador Marty Paich), bem como com a mãe, Ana e a filha, Paris, o documentário revela o percurso de Sarah Vaughan desde a sua apresentação no Apollo Theater do Harlem (NY) em 1943 até 1989, ano que precedeu o seu falecimento em 1990.    
-Um filme que homenageia aquela que o crítico de jazz francês Philippe Carles considerou ser "a mais completa e notável vocalista do jazz moderno".
+<div class="row">
+  <div class="col-12">
+    <div class="image right">
+        <img src="images/1002004008493638.jpg" alt="">
+      </div>
+    <p>Filme/documentário realizado em 1993, por Matthew Seig aborda a carreira e alguns aspectos da vida pessoal da cantora de jazz  (também, ocasionalmente, pianista)  SARAH VAUGHAN.</p>   
+    
+    <p>Baseado em excertos de prestações em clubes, salas de concertos e festivais de jazz e de entrevistas com ela própria e com alguns dos músicos que partilharam momentos importantes da sua carreira (Billy Eckstine, Roy Haynes, Joe Williams, George Gaffney e o arranjador Marty Paich), bem como com a mãe, Ana e a filha, Paris, o documentário revela o percurso de Sarah Vaughan desde a sua apresentação no Apollo Theater do Harlem (NY) em 1943 até 1989, ano que precedeu o seu falecimento em 1990.</p>    
+    
+    <p>Um filme que homenageia aquela que o crítico de jazz francês Philippe Carles considerou ser "a mais completa e notável vocalista do jazz moderno".</p>
+  </div>
+</div>
 
 ### Apresentação de Rui Moutinho
 
@@ -69,3 +78,6 @@ Um filme que homenageia aquela que o crítico de jazz francês Philippe Carles c
   <p>A nível cultural, para além do jazz, tem como principais centros de interesse, a arquitectura, o cinema e as artes plásticas.  </p>
   </div>
 </div>
+
+<style>.image.main{display:none;}</style>
+

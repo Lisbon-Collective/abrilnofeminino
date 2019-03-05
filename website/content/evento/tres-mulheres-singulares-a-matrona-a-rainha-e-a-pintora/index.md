@@ -66,7 +66,7 @@ Duração 60 minutos
   <div class="col-4 col-12-medium"> 
     <h3>Retrato de Agripina</h3>
     <div class="image center fit">
-      <figure><img src="index.assets/1..jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
+      <figure><img src="index.assets/1_resized.jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
     </div>
     <p>30 – 40 d. C. </p>
     <p>MNMC 10135</p>
@@ -76,7 +76,7 @@ Duração 60 minutos
 <div class="col-4 col-12-medium">   
   <h3>Rainha Santa</h3>
   <div class="image center fit">
-    <figure><img src="index.assets/2..jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
+    <figure><img src="index.assets/2_resized.jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
   </div>
 
   <p>1540-60</p>
@@ -89,7 +89,7 @@ Duração 60 minutos
 <div class="col-4 col-12-medium">   
 <h3>Maria Madalena</h3>
   <div class="image center fit">
-    <figure><img src="index.assets/3..jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
+    <figure><img src="index.assets/3_resized.jpg" alt=""><figcaption>DGPC|ADF – Arquivo de Documentação Fotográfica.</figcaption></figure>
   </div>
 
   <p>c. 1650</p>

@@ -19,7 +19,7 @@
 	$size: (
 		border-radius:		4px,
 		element-height:		3.25rem,
-		element-margin:		2rem,
+		element-margin:		1rem,
 		container-width:	80rem,
 		header-height:		3.25rem,
 		menu-width:			20rem
@@ -47,8 +47,10 @@
 		border-bg:			rgba(144,144,144,0.075),
 
 		accent1:			#ff8b77,
-		accent2:			#6d64e7,
-		accent3:			#6158dd,
+/*		accent2:			#6d64e7,
+		accent3:			#6158dd,*/
+		accent2:			#1B957A,
+		accent3: 			#6158dd,
 
 		invert: (
 			bg:				#000000,

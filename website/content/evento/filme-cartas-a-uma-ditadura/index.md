@@ -73,20 +73,20 @@ Ao confrontar, hoje, estas mulheres com os fantasmas do passado, e graças a um 
 
 **Ficha Técnica**
 
-Título Original   
-CARTAS A UMA DITADURA
+<p>Título Original <br>
+  CARTAS A UMA DITADURA</p>
 
-Realização    
-Inês de Medeiros
+<p>Realização <br>
+  Inês de Medeiros</p>
 
-Produção     
-Sergio Tréfaut
+<p>Produção     <br>
+  Sergio Tréfaut</p>
 
-Autoria    
-Inês de Medeiros
+<p>Autoria    <br>
+  Inês de Medeiros</p>
 
-Música    
-Anne Vitorino d´Almeida
+<p>Música    <br>
+  Anne Vitorino d´Almeida</p>
 
 2006 | Duração 60 minutos
 

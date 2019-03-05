@@ -17,10 +17,16 @@
 							{{- with .Resources.GetMatch "header" -}}
 							<div class="image float-right">
 							    {{- if eq .MediaType.SubType "gif" -}}
-									<img src="{{- .RelPermalink -}}" alt="" class="float-right" />
+									<figure>
+										<img src="{{- .RelPermalink -}}" alt="" class="float-right" />
+										<figcaption>{{ $.Page.Params.custom.copyright  }}</figcaption>
+									</figure>
 							    {{- else }}
 							        {{- $image := .Resize "400x" -}}
-							        <img src="{{- $image.RelPermalink -}}" alt="" />
+							        <figure>
+							        	<img src="{{- $image.RelPermalink -}}" alt="" />
+							        	<figcaption>{{ $.Page.Params.custom.copyright  }}</figcaption>
+							        </figure>
 							    {{- end }}
 							</div>
 							{{- else }}

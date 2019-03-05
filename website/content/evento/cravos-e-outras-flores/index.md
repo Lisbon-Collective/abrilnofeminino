@@ -28,7 +28,7 @@ scripts:
   -
 weight: 20190406
 custom:
-  copyright:
+  copyright: 'Cravo: modelo alemão do séc. XVIII,  2010, construído  por Geert Karman em Portugal.'
   data: 2019-04-06T17:35:00Z
   local: Seminário Maior 
 ---

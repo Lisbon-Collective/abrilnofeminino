@@ -28,7 +28,7 @@ scripts:
   -
 weight: 20190406
 custom:
-  copyright:
+  copyright: © José Sena Goulão
   data: 2019-04-06T17:35:00Z
   local: Café Santa Cruz
 ---
