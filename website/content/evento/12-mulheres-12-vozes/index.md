@@ -49,6 +49,10 @@ Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
 
 <div class="row">
   <div class="col-12">
+    <div class="image right">
+      <figure><img src="images/SURMA026_ritacarmo.jpg" alt=""></figure>
+      <figcaption>© Rita Carmo</figcaption>
+    </div>
     <p><strong>6 de Abril</strong> </p>
     <p>Pela lente de Rita Carmo<em>, “passaram praticamente todos os nomes graúdos da mais criativa e vital expressão sonora nacional; uma mão-cheia de novos talentos; e uma série de exemplos internacionais incontornáveis na história da cultura nos séculos XX e XXI”. Nestas imagens, “faz-se prova da sua maior qualidade: a de se deixar “engolir” pelo imaginário dos artistas fotografados, e, juntamente com eles, reinterpretar a sua obra.»</em> Gonçalo Frota</p>
     <p><strong>Fotografias de Aldina Duarte, Ana Moura, Carminho, Celina da Piedade, Cidália Moreira, Cristina Branco, Gisela João, Márcia, Maria João, Mariza, Mísia, Surma.</strong></p>
@@ -80,4 +84,6 @@ As fotografias expostas aconteceram entre 2006 e 2018 e parte delas integram a e
 **"12 mulheres, 12 vozes" com Aldina Duarte | Ana Moura | Carminho | Celina da Piedade | Cidália Moreira | Cristina Branco | Gisela João | Márcia | Maria João | Mariza | Mísia | Surma.**
 
 [www.RitaCarmo.com](https://www.ritacarmo.com/)
+
+<style>div.image.main{display:none;}</style>
  

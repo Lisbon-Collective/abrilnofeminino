@@ -55,7 +55,7 @@ Dia 6 de Abril
   <div class="col-12">
 
 
-  <div class="image right"><figure><img src="images/Rita Carmo foto©jose sena goulao.jpg" alt="Rita Carmo foto ©jose sena goulao.jpg">
+  <div class="image right"><figure><img src="images/RITA CARMO©jose sena goulao.jpg" alt="Rita Carmo foto ©jose sena goulao.jpg">
     <figcaption>Rita Carmo foto © José Sena Goulão</figcaption>
   </figure></div>
 
@@ -70,7 +70,7 @@ Dia 6 de Abril
   </div>
 
 <div class="col-12">
-  <h2>Sara Meireles Graça</h2>
+  <h3>Sara Meireles Graça</h3>
   <div class="image right"><img src="images/sara 1.jpg" alt="Sara Meireles Graça"></div>
 
   <p>É Professora Adjunta da Área de Ciências da Comunicação, das Organizações e dos Media na Escola Superior de Educação do Instituto Politécnico de Coimbra (ESEC-IPC). Enquanto docente na Licenciatura em Comunicação Social da ESEC é também co-responsável pelo processo de integração e de orientação académica dos estudantes de jornalismo em estágios curriculares nas redacções.</p>
