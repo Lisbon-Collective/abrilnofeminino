@@ -1,19 +1,25 @@
 
-			<a href="{{ .RelPermalink }}"><h3 class="special lead">{{ .Title }}</h3></a>
+			<a href="{{ .RelPermalink }}"><h3 class="special lead">{{ .Title | safeHTML }}</h3></a>
 			<p class="special lead"><strong>{{ .Params.custom.data | dateFormat "2" }} de Abril</strong></p>
-			{{- with .Resources.GetMatch "header" -}}
+			<p>{{ .Params.custom.local }}</p>
+			
 			<a href="{{ .RelPermalink }}">
+				{{- with .Resources.GetMatch "header" -}}
 			<div class="image center">
 			    {{- if eq .MediaType.SubType "gif" -}}
 			        <img class="center" src="{{- .RelPermalink -}}" alt="" />
 			    {{- else }}
 			        {{- $image := .Fit "300x300" -}}
 			        <img class="center" src="{{- $image.RelPermalink -}}" alt="" />
+
 			    {{- end }}
+			    </div>
 			{{- else }}
 			    <img class="center" src="{{- $.Site.Params.headerPhoto -}}" alt="" />
+			    </div>
 			{{- end }}
-			</div>
+			
+			
 			</a>
 
 		<ul class="actions">

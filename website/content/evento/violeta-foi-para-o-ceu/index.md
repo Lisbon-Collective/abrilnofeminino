@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: Como Elas Cantam
 
-title: '"Violeta foi para o céu"'
+title: '<span style="color:#BF0013;">"Violeta foi para o céu"</span>'
 
 options:
   hideFooter: false
@@ -30,7 +30,7 @@ weight: 20190417
 custom:
   copyright:
   data: 2019-04-17T17:35:00Z
-  local: 
+  local: Salão Brasil
 ---
 
 **17 de Abril**    

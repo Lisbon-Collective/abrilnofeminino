@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: Como Elas Cantam
 
-title: '“Sarah Vaughan: The Divine One”'
+title: '<span style="color:#AE4A71;">“Sarah Vaughan: The Divine One”</span>'
 
 options:
   hideFooter: false
@@ -30,7 +30,7 @@ weight: 20190411
 custom:
   copyright:
   data: 2019-04-11T17:35:00Z
-  local: 
+  local: Salão Brazil
 ---
 
 **11 de Abril**    
