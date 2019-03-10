@@ -49,6 +49,6 @@ custom:
 </div>
 
 <style>
-  div.image.main{display: none;}
+
 </style>
 
