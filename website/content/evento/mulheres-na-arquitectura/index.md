@@ -29,7 +29,7 @@ scripts:
 weight: 20190413
 custom:
   copyright:
-  data: 2019-04-13T16:00:00Z
+  data: 2019-04-13T18:30:00Z
   local: Casa da Escrita
 ---
 

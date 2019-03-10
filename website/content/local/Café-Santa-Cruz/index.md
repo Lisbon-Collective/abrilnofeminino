@@ -3,7 +3,7 @@ date: 2019-02-16T00:02:38Z
 description: ""
 draft: false
 resources: 
-- src: mar_babo_nov_2014.jpg
+- src: cafe_santa_cruz.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter

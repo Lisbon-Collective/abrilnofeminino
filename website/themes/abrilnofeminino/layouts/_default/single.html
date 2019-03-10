@@ -18,7 +18,9 @@
 						{{ partial "get_header" . }}
 					</div>
 					 {{- end -}}
-					 {{ replace .Content .Summary "" | safeHTML }}
+					 <div class="row aln-center">
+					 	<div class="col-9 col-12-small">{{ replace .Content .Summary "" | safeHTML }}</div>
+					 </div>
 
 				</div>
 			</div>

@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - 
-title: "Museu Nacional de Machado De Castro"
+title: "Museu Nacional de Machado de Castro"
 
 options:
   hideFooter: false

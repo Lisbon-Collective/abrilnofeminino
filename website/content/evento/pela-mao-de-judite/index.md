@@ -17,7 +17,7 @@ categorias:
   - Leitura Encenada
 ciclo: 
 
-title: '“Pela mão de Judite”'
+title: 'Leitura Encenada “Pela mão de Judite”'
 
 options:
   hideFooter: false

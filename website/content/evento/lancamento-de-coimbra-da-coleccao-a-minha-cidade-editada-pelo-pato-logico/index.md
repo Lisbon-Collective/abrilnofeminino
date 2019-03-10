@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: 
+subtitle: com a autora, Catarina Sobral
 
 tags:
   -
@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Lançamento de Livro "Coimbra"
+title: Lançamento de "Coimbra"
 
 options:
   hideFooter: false

@@ -3,7 +3,7 @@ date: 2019-02-16T00:02:38Z
 description: ""
 draft: false
 resources: 
-- src: images/14157456842_6930a2adfb_k__brunoMiguelFlickr.jpg
+- src: images/
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -17,7 +17,7 @@ tags:
 categories: 
   - 
 
-title: "Baixa De Coimbra"
+title: "Baixa de Coimbra"
 
 options:
   hideFooter: false
@@ -33,30 +33,20 @@ custom:
   local:
 ---
 
-
-- Rua Ferreira Borges
-- Rua Visconde da Luz
-
-![Comur-Conserveira de Portugal](index.assets/Comur-Conserveir de Portugal.jpg)
-
-![Colorvital](index.assets/Colorvital.jpg)
-
-![Ourivesaria Costa](index.assets/Ourivesaria Costa.jpg)
-
-![Sweet Art](index.assets/Sweet Art.jpg)
-
-![Salgueiro's](index.assets/Salgueiro's.jpg)
-
-![PEDEMEIA](index.assets/PEDEMEIA.jpg)
-
-![Tricots Brancal](index.assets/Tricots Brancal.jpg)
-
-![Casa Baltazar](index.assets/Casa Baltazar.jpg)
-
-![Pastelaria Visconde](index.assets/Pastelaria Visconde.jpg)
-
-![Café Santa Cruz](index.assets/Café Santa Cruz.jpg)
-
+<div class="row aln-center">
+  <div class="col-6">
+    <div class="image fit"><img src="index.assets/Comur-Conserveir de Portugal.jpg" alt="Comur-Conserveira de Portugal" /> </div>
+    <div class="image fit"><img src="index.assets/Colorvital.jpg" alt="Colorvital" /> </div>
+    <div class="image fit"><img src="index.assets/Ourivesaria Costa.jpg" alt="Ourivesaria Costa" /> </div>
+    <div class="image fit"><img src="index.assets/Sweet Art.jpg" alt="Sweet Art" /> </div>
+    <div class="image fit"><img src="index.assets/Salgueiro's.jpg" alt="Salgueiro's" /> </div>
+    <div class="image fit"><img src="index.assets/PEDEMEIA.jpg" alt="PEDEMEIA" /> </div>
+    <div class="image fit"><img src="index.assets/Tricots Brancal.jpg" alt="Tricots Brancal" /> </div>
+    <div class="image fit"><img src="index.assets/Casa Baltazar.jpg" alt="Casa Baltazar" /> </div>
+    <div class="image fit"><img src="index.assets/Pastelaria Visconde.jpg" alt="Pastelaria Visconde" /> </div>
+    <div class="image fit"><img src="index.assets/cafe_santa_cruz.jpg" alt="Café Santa Cruz" /> </div>
+  </div>
+</div>
 
 <style>
   div.image.main{display: none;}

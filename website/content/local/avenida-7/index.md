@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: images/
+- src: avenida_7.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Informações e Contactos
+title: Avenida 7
 
 options:
   hideFooter: false
@@ -30,17 +30,5 @@ weight: 20190402
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
-  local: 
+  local: avenida 7
 ---
-
-
-<https://www.abrilnofeminino.pt>
-
-abrilnofeminino@gmail.com
-
-91 843 11 55 / 96 261 00 50
-
-[facebook.com/abrilnofeminino](http://facebook.com/abrilnofeminino)
-
-Instagram [@abrilnofeminino](https://www.instagram.com/abrilnofeminino/)
-

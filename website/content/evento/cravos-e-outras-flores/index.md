@@ -85,6 +85,22 @@ Seminário Maior, Sala São Tomás
   </div>
 </div>
 
+
+
+<p>Mulheres. Plural onde cabe tanta música. A ideia do concerto nasce da vontade de apresentar a diversidade do feminino em palco, num ramalhete de cor, frescura e beleza, interpretando música de Francesca Caccini, Barbara Strozzi, Elisabeth de la Guerre, a par de outros compositores incontornáveis do barroco, como Lully, Purcell ou o nosso Carlos Seixas. Cantaremos sobre o amor, tema inevitável na arte, e as diferentes perspectivas das mulheres que o vivem - as traídas, as desiludidas, as aguerridas, as sonhadoras, as marotas, as apaixonadas. Todas se reúnem no mesmo palco: as duas intérpretes actuais que emprestam o Cravo e o Canto às vozes das mulheres do passado, criaturas e criadoras, e convidam todos a deixarem-se envolver na inebriante fragância do Cravo(s) e outras flores.</p>
+
+<div class="row">
+  <div class="col-4"><div class="image fit">
+    <figure><img src="B. Strozzi_001.jpg" alt=""></figure>
+  </div></div>
+  <div class="col-4"><div class="image fit">
+    <figure><img src="francesca-caccini-2.jpg" alt=""></figure>
+  </div></div>
+  <div class="col-4"><div class="image fit">
+    <figure><img src="Elisabeth_Jacquet_de_La_Guerre-full.jpg" alt=""></figure>
+  </div></div>
+</div>
+
 <div class="row">
   <div class="col-12">
     <h3>Cândida Matos</h3>
@@ -111,5 +127,14 @@ Seminário Maior, Sala São Tomás
     
     <p>Realizou o Mestrado em Cravo na Escola Superior de Música de Lisboa, projecto artístico sobre as Peças de Carácter de Carl Philipp Emanuel Bach.</p></div>
 </div>
+
+<div class="row"><div class="col-12">
+  <h3>Leonor Barbosa de Melo</h3>
+
+  <div class="image right">
+    <figure><img src="images/LBM-157_small.jpg" alt=""></figure>
+  </div>
+  <p>A soprano conimbricense é licenciada e Mestre em Canto e Performance Musical pela Universidade Católica (orientada por António Salgado e Sofia Serra) e já integra no seu currículo não só a participação em vários concertos a solo com orquestras nacionais de renome e sob a batuta de maestros de excelência, como em gravações de CDs (destacando-se a obra «Shadow Circles» de V. Mendonça com o Remix Ensemble e Pedro Neves). Além disso, angariou diversos prémios (como o primeiro prémio do concurso da Academia do Fundão ou o terceiro prémio ex-aequo do Concurso de Canto da FRP). A par da sua carreira a solo, é cantora residente do Coro Casa da Música e maestrina do Coro dos Pequenos Cantores de Coimbra. Procura sempre ir aprendendo com cantores de excelência, tendo já aperfeiçoado a sua técnica vocal com Monserrat Caballé, Elisabete Matos (com quem trabalha regularmente), Rudolf Piernay, Anna Tomowa-Sintow, Pamela Armstrong, entre outros.</p>
+</div></div>
 
 <style>.image.main{display:none;</style>
