@@ -2,7 +2,7 @@ baseURL = "https://abrilnofeminino.pt/"
 languageCode = "pt-pt"
 title = "Abril No Feminino"
 theme = "abrilnofeminino"
-publishdir = "/var/web/abrilnofeminino.pt"
+publishdir = "public"
 
 resampleFilter = "lanczos"
 
