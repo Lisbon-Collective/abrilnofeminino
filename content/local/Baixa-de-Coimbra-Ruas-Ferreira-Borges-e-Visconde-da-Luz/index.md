@@ -3,7 +3,7 @@ date: 2019-02-16T00:02:38Z
 description: ""
 draft: false
 resources: 
-- src: images/
+- src: images/blank.png
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -17,7 +17,7 @@ tags:
 categories: 
   - 
 
-title: "Baixa de Coimbra"
+title: "2. Baixa de Coimbra"
 
 options:
   hideFooter: false
@@ -27,12 +27,14 @@ options:
 scripts:
   -
 custom:
-  copyright: Bruno Miguel @ Flickr
+  copyright: 
   data:
   hora: 
   local:
 ---
 
+Ruas Ferreira Borges e Visconde da Luz
+<!--more-->
 <div class="row aln-center">
   <div class="col-6">
     <div class="image fit"><img src="index.assets/Comur-Conserveir de Portugal.jpg" alt="Comur-Conserveira de Portugal" /> </div>
@@ -49,6 +51,6 @@ custom:
 </div>
 
 <style>
-
+div.image.main{display: none;}
 </style>
 

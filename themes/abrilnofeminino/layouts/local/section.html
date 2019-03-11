@@ -1,5 +1,5 @@
 {{ define "bodyclasses" }}
-	local/list 
+	local/section 
 {{ end }}
 
 {{ define "main" }}
@@ -7,6 +7,7 @@
 	<div class="wrapper alt special">
 		<div class="wrapper style3">
 			<div class="inner">
+				{{ .Content }}
 				<div class="profiles">
 
 				{{ range $i, $e :=  first 410 (.Data.Pages) }}  

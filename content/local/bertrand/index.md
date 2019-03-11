@@ -1,7 +1,7 @@
 ---
 date: 2019-02-15T23:33:21Z
 description: ""
-draft: false
+draft: true
 resources:
 - src: bertrand_2.jpg
   name: "header"

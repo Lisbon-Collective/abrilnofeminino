@@ -9,24 +9,12 @@ options:
   showHeader: true
 ---
 
-# ordem dos locais
 
-Museu Nacional de Machado de Castro
-
-Salão Brazil
-
-Casa da Escrita
-
-Baixa de Coimbra Ruas Ferreira Borges e Visconde da Luz (falta)
-
-Café Santa Cruz
-
-Seminário Maior de Coimbra
-
-Galeria de Santa Clara
-
-Teatro da Cerca de S. Bernardo
-
-
-Escola Básica de Solum Sul
+<div class="row">
+    <div class="col-12">
+        <div class="image fit">
+            <figure><img src="Mapa_AbrilNoFeminino_pth.png" alt=""></figure>
+        </div>
+    </div>
+</div>
 

@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - 
-title: "Seminário Maior de Coimbra"
+title: "6. Seminário Maior de Coimbra"
 
 options:
   hideFooter: false

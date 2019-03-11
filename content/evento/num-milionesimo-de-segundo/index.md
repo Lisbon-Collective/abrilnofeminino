@@ -75,6 +75,8 @@ Feira do Livro Infantil de Bolonha, que lhe atribuiu por unanimidade o Prémio I
 
 Numa reflexão subtil sobre a linguagem, o tempo e os afectos, as imagens de Catarina Sobral transportam-nos para um universo muito peculiar, composto por palavras misteriosas e inúmeras cartas de amor, disfarçadas de ilustrações e endereçadas a artistas e escritores vários, como James Joyce, Fernando Pessoa, Franz Kafka, Édouard Manet, Jacques Tati e Charlie Chaplin.
 
+<a href="/evento/lancamento-de-coimbra-da-coleccao-a-minha-cidade-editada-pelo-pato-logico/">*ver Lançamento de “Coimbra”, 14 de Abril</a>
+
 <style>.image.main{display:none;}</style>
 
 

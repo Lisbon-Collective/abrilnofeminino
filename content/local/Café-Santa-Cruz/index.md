@@ -16,7 +16,7 @@ tags:
   - 
 categories: 
   - 
-title: "Café Santa Cruz"
+title: "3. Café Santa Cruz"
 
 options:
   hideFooter: false

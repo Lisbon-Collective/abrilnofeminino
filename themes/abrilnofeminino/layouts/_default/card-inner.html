@@ -15,7 +15,7 @@
 
 						<a href="{{ .Permalink}}">
 							{{- with .Resources.GetMatch "header" -}}
-							<div class="image float-right">
+							<div class="image fit">
 							    {{- if eq .MediaType.SubType "gif" -}}
 									<figure>
 										<img src="{{- .RelPermalink -}}" alt="" class="float-right" />
@@ -48,7 +48,7 @@
 						        <img src="{{- $image.RelPermalink -}}" alt="" />
 						    {{- end }}
 					</div>
-					<div class="content">Lorem ipsum dolor</div>
+					<div class="content"></div>
 				</div>
 				{{- end }}
 			</div>
