@@ -29,7 +29,7 @@ scripts:
 weight: 20190403
 custom:
   copyright:
-  data: 2019-04-03T20:00:00Z
+  data: 2019-04-03T21:30:00Z
   local: Salão Brazil
 ---
 
@@ -70,9 +70,6 @@ EUA, 2016
     <p>Produtor e realizador de audiovisuais. Actualmente é o director da ESEC TV (RTP 2). É também autor de vários programas de rádio entre os quais "Íntima Fração" (Antena 1, TSF, RUC, RCP, Expresso Online). É director de Produção em televisão e docente universitário na área da Comunicação e das Artes. A sua formação académica passa pelas Artes Visuais, pela Arquitetura e pela História da Arte. Fez estágios em Cinema de Animação com Gaston Roch - Instituto Superior de Artes Visuais de Bruxelas. Foi bolseiro em França pela Federação Portuguesa de Cinema e Audiovisuais.</p>
   </div>
 </div>
-
-
-
 
 
 <style>.image.main{display:none;}</style>

@@ -29,7 +29,7 @@ scripts:
 weight: 20190417
 custom:
   copyright:
-  data: 2019-04-17T20:00:00Z
+  data: 2019-04-17T21:30:00Z
   local: Salão Brasil
 ---
 
