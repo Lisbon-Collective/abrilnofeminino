@@ -123,8 +123,9 @@ e-mail: [camaleao.ac@gmail.com](mailto:camaleao.ac@gmail.com)
 
 [claudvale@gmail.com](mailto:claudvale@gmail.com)
 
-![:CAMALEÃO - Associação Cultural.jpg](index.assets/camaleao2.jpg)
-
+<div class="image fit">
+  <figure><img src="index.assets/camaleao2.jpg" alt=""></figure>
+</div>
 
 <style>
   .image.main{display: none;}
