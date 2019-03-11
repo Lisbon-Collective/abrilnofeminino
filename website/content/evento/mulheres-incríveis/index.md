@@ -123,4 +123,9 @@ e-mail: [camaleao.ac@gmail.com](mailto:camaleao.ac@gmail.com)
 
 [claudvale@gmail.com](mailto:claudvale@gmail.com)
 
-![:CAMALEÃO - produção:simbolo da camaleão - verde.jpg](index.assets/OOCSCGXRBdpwC-xlLystpDAHS9RJbqE5nZxBT4-33H8vLTky_sRXFB2vvVaTIrzbU9iIi3E2-94yWOgxaSCxaTbiYpb8847dwyi_5IzC3gJyxfGS3gL9S9xILRcA5FK6Pf8jTXMx.jpeg)
+![:CAMALEÃO - Associação Cultural.jpg](index.assets/camaleao2.jpg)
+
+
+<style>
+  .image.main{display: none;}
+</style>
