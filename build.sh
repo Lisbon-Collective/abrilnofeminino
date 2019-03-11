@@ -1,3 +1,3 @@
 #!/bin/bash
 
-ssh DeLorean 'cd /home/doc/Freelance/abrilnofeminino/website; git pull; hugo --minify'
+ssh DeLorean 'cd /home/doc/Freelance/abrilnofeminino/; git pull; hugo --minify'
