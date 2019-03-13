@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: index.assets/hal-gatewood-405338-unsplash.jpg
+- src: 
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -42,12 +42,13 @@ com Eugénia Cunha, Helena Freitas e Paula Santana
 
 
 **4 de Abril, 18h30**     
-com Eugénia Cunha, Helena Freitas e Paula Santana.
+com Eugénia Cunha, Helena Freitas e Paula Santana.    
+**Moderação de Alexandre Quintanilha**
 
 <p>Casa da Escrita <br>
 Entrada Livre</p>
 
-**Moderação de Alexandre Quintanilha**
+
 
 ### Eugénia Cunha
 

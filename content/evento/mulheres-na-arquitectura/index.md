@@ -36,7 +36,7 @@ custom:
 **13 de Abril, 16h00**    
 “Mulheres na Arquitectura”
 
-com Letícia Callou, Patrícia Pedrosa, Susana Lobo    
+com Letícia Callou, Patrícia Pedrosa e Susana Lobo    
 Moderação de Paula Chaves
 
 Organização: associação Mulheres na Arquitectura
