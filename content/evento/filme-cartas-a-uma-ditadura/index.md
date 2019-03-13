@@ -100,24 +100,15 @@ Prémio Melhor Filme Português/Doclisboa 2006, Fipa de Prata/Biarritz 2007, Pr�
 
 <p>Nascida em Viena de Áustria em 1968, muda-se para Portugal em 1975, onde faz todo o seu percurso académico. Reside em Lisboa e tem 50 anos. </p>
 
-<p> Frequentou o Curso Superior de Literatura Portuguesa na Universidade Nova de Lisboa e o curso de Estudos Teatrais na Sorbonne de Paris.</p>
+<p>Frequentou o Curso Superior de Literatura Portuguesa na Universidade Nova de Lisboa e o curso de Estudos Teatrais na Sorbonne de Paris.</p>
 <p>Esteve desde sempre ligada ao cinema e teatro, tendo participado como actriz em inúmeras longas-metragens em Portugal e no estrangeiro, com realizadores como Pedro Costa, João Botelho, Jacques Rivette, Joaquim Pinto, José Fonseca e Costa, entre outros.</p>
 
-<p>Como realizadora, realizou os filmes documentários: </p>
-
-<p> “Le Portugal de Mário de Carvalho Lídia Jorge, Gonçalo M. Tavares e Mia Couto”, em 2015, “Cartas a Uma Ditadura”, em 2008 e realizou ainda “O Fato Completo”, em 2002 e “Senhor Jerónimo”, em 1998, tendo participado e recebido vários prémios em importantes festivais internacionais de cinema.</p> 
-
-<p>Actualmente a exercer o cargo de Presidente da Câmara Municipal de Almada, foi Vice-presidente da Fundação Inatel e diretora do Teatro da Trindade Inatel. Foi igualmente Presidente da Assembleia de Freguesia de Campo de Ourique, no mandato 2013-2017.</p>
-
-<p> É Conselheira no Conselho de Opinião da RTP e Presidente da Assembleia da Academia Portuguesa de Cinema.
-</p>   
-<p> Envolveu-se pela primeira vez na política activa em 1995 como Mandatária da Juventude na primeira eleição do Presidente Jorge Sampaio. </p> 
-<p>
+<p>Como realizadora, realizou os filmes documentários:  <br>“Le Portugal de Mário de Carvalho Lídia Jorge, Gonçalo M. Tavares e Mia Couto”, em 2015, “Cartas a Uma Ditadura”, em 2008 e realizou ainda “O Fato Completo”, em 2002 e “Senhor Jerónimo”, em 1998, tendo participado e recebido vários prémios em importantes festivais internacionais de cinema.<br>Actualmente a exercer o cargo de Presidente da Câmara Municipal de Almada, foi Vice-presidente da Fundação Inatel e diretora do Teatro da Trindade Inatel. Foi igualmente Presidente da Assembleia de Freguesia de Campo de Ourique, no mandato 2013-2017.
+<br>É Conselheira no Conselho de Opinião da RTP e Presidente da Assembleia da Academia Portuguesa de Cinema.
+<br> Envolveu-se pela primeira vez na política activa em 1995 como Mandatária da Juventude na primeira eleição do Presidente Jorge Sampaio. <br>
 Foi também mandatária nacional pelo Partido Socialista nas eleições europeias de 2009.
-</p>
-<p>Entre 2009 e 2016 foi Deputada na Assembleia da República, eleita pelo Partido Socialista pelo Distrito de Lisboa e pelo Distrito de Setúbal, tendo pertencido à Comissão de Cultura, Comunicação, Juventude e Desporto; Comissão da Educação, Ciência e Cultura; Comissão de Trabalho e Segurança Social; Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (suplente); assim como Subcomissão de Ética.
-</p>
-<p>Foi por duas vezes Vice-Presidente da Bancada do Partido Socialista e integrou os grupos interparlamentares de amizade Portugal-França, do qual foi Presidente e Vice-Presidente, e o grupo interparlamentar de amizade Portugal-Japão. Pertenceu sempre ao Conselho de Direção do Canal Parlamento. </p>
+<br>Entre 2009 e 2016 foi Deputada na Assembleia da República, eleita pelo Partido Socialista pelo Distrito de Lisboa e pelo Distrito de Setúbal, tendo pertencido à Comissão de Cultura, Comunicação, Juventude e Desporto; Comissão da Educação, Ciência e Cultura; Comissão de Trabalho e Segurança Social; Comissão de Assuntos Constitucionais, Direitos, Liberdades e Garantias (suplente); assim como Subcomissão de Ética.
+<br>Foi por duas vezes Vice-Presidente da Bancada do Partido Socialista e integrou os grupos interparlamentares de amizade Portugal-França, do qual foi Presidente e Vice-Presidente, e o grupo interparlamentar de amizade Portugal-Japão. Pertenceu sempre ao Conselho de Direção do Canal Parlamento. </p>
 
 <p>Fez parte da delegação parlamentar da OSCE, Organização para a Segurança e Cooperação da Europa.</p> </div>
 </div>
