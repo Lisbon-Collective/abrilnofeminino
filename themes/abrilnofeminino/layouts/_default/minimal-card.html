@@ -2,6 +2,7 @@
 			<a href="{{ .RelPermalink }}"><h3 class="special lead">{{ .Title | safeHTML }}</h3></a>
 			<p class="special lead"><strong>{{ .Params.custom.data | dateFormat "2" }} de Abril, {{ .Params.custom.data | dateFormat "15h04" }}</strong></p>
 			<p>{{ .Params.custom.local }}</p>
+			<p>{{ .Params.custom.text | safeHTML }}</p>
 			
 			<a href="{{ .RelPermalink }}">
 				{{- with .Resources.GetMatch "header" -}}

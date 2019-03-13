@@ -31,6 +31,12 @@ custom:
   copyright:
   data: 2019-04-03T21:30:00Z
   local: Salão Brazil
+  text: '
+Entrada: 2,00 € <br>
+
+Sócios JACC e Fila K: 1,00 €<br>
+
+Bilhetes à venda no local, no próprio dia, a partir das 21h00.'
 ---
 
 3 de Abril

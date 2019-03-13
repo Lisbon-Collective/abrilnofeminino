@@ -31,6 +31,12 @@ custom:
   copyright:
   data: 2019-04-17T21:30:00Z
   local: Salão Brasil
+  text: '
+  Entrada: 2,00 € <br>
+
+  Sócios JACC e Fila K: 1,00 € <br>
+
+  Bilhetes à venda no local, no próprio dia, a partir das 21h00.'
 ---
 
 **17 de Abril**    
