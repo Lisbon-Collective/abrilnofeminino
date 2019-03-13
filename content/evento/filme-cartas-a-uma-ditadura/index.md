@@ -120,38 +120,7 @@ Foi também mandatária nacional pelo Partido Socialista nas eleições europeia
 
 <p>Licenciada em História pela Faculdade de Letras da Universidade Clássica de Lisboa, mestre em História Contemporânea (século XX) e doutorada em História Institucional e Política Contemporânea, pela Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa. É investigadora doutorada do Instituto de História Contemporânea (FCSH da UNL), tendo coordenado o projecto apoiado pela FCT – PTDC/HIS-HIS/103286/2008. Até 2018, esteve empenhada num processo de investigação, no âmbito bolsa Pós-Doc da FCT, com a referência SFRH/BPD/88519/2012, sobre o processo de Justiça transicional na transição para a democracia em Portugal. Participou, desde 2015, regularmente no programa radiofónico da Antena Um, «Fio da Meada», além de colaborar com a imprensa generalista e científica, bem como tomar parte em diversos documentários televisivos. </p>
 
-<p>É autora e co-autora de mais de 20 livros de carácter historiográfico, entre os quais se contam:</p>
-
-<ul>
-<li><em>História das Organizações Femininas do Estado Novo</em> (Círculo de Leitores, 2000 e Temas &amp; Debates, 2001)</li>
-<li><em>Judeus em Portugal durante a Segunda Guerra Mundial. Em Fuga de Hitler e do Holocausto</em> (Esfera dos Livros, 2006)</li>
-<li><em>A História da PIDE</em> (Círculo de Leitores e Temas &amp; Debates, 2007)</li>
-<li><em>Mocidade Portuguesa Feminina</em> (Esfera dos Livros, 2007)</li>
-<li><em>Vítimas de Salazar. Estado Novo e Violência Política</em> (Esfera dos Livros, 2007), em co-autoria com João Madeira e Luís Farinha; </li>
-<li><em>Biografia de um Inspector da PIDE</em> (Esfera dos Livros, 2008)</li>
-<li><em>Fotobiografia de José Afonso</em> (Círculo de Leitores, 2009 e Temas &amp; Debates, 2010)</li>
-<li><em>Cardeal Cerejeira. O Príncipe da Igreja</em>, (Esfera dos Livros, 2010).</li>
-<li><em>A Cada um o seu Lugar. A Política Feminina do Estado Novo,</em> (Círculo de Leitores/Temas &amp; Debates, 2011)</li>
-<li><em>Salazar, Portugal e o Holocausto</em>, com Claudia Ninhos, Lisboa, Círculo de Leitores/Temas &amp; Debates, 2013</li>
-<li><em>Espiões em Portugal durante a Segunda Guerra Mundial</em> (Esfera dos Livros, 2013)</li>
-<li><em>Democracia, Ditadura. Memória e Justiça Política</em>, coord. Pimentel, Irene Flunser e Rezola, Maria Inácia, (Tinta da China Eds., 2013)</li>
-<li><em>História da Oposição à Ditadura em Portugal. 1926-1974</em>, (Porto, Ed. Figueirinhas, 2014)</li>
-<li><em>Júlio Pomar,</em> <em>O Pintor no Tempo</em> (Cadernos do Atelier-Museu Júlio Pomar - Documenta, Novembro de 2017</li>
-<li><em>Inimigos de Salazar. A história das principais figuras que arriscaram a liberdade, o trabalho e a vida contra a ditadura</em> (Clube do Autor, 2018)</li>
-
-</ul>
-
-
-<p>Entre outros prémios,:</p>
-
-<ul>
-<li><em>História das Organizações Femininas do Estado Novo,</em> prémio Carolina Michaelis, 1999</li>
-<li><em>Judeus em Portugal durante a Segunda Guerra Mundial. Em Fuga de Hitler e do Holocausto</em>, prémio ex-aequo Adérito Sedas Nunes, atribuído pelo Instituto de Ciências Sociais, 2007</li>
-<li>Prémio Pessoa, atribuído pelo Expresso e a Unysis, 2007</li>
-<li><em>A História da PIDE</em>, prémio especial da revista <em>Máxima</em>, 2008</li>
-<li>Prémio Seeds of Science, categoria «Ciências Sociais e Humanas», 2009</li>
-
-</ul>
+<p>É autora e co-autora de mais de 20 livros de carácter historiográfico. Recebeu vários prémios, nomeadamente: <em>História das Organizações Femininas do Estado Novo,</em> prémio Carolina Michaelis, 1999; <em>Judeus em Portugal durante a Segunda Guerra Mundial. Em Fuga de Hitler e do Holocausto</em>, prémio ex-aequo Adérito Sedas Nunes, atribuído pelo Instituto de Ciências Sociais, 2007; Prémio Pessoa, atribuído pelo Expresso e a Unysis, 2007; <em>A História da PIDE</em>, prémio especial da revista <em>Máxima</em>, 2008; Prémio Seeds of Science, categoria «Ciências Sociais e Humanas», 2009</p>
 
 
 <div class="row">
