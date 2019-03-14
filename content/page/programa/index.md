@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Programa
+title: Apresentação e Calendário
 
 options:
   hideFooter: false
@@ -33,6 +33,9 @@ custom:
   local: 
 ---
 
+<div class="image fit"><img src="images/v2_Desdobravel_ANF3.jpg" alt=""></div>
+
+<div class="image fit"><img src="images/v2_Desdobravel_ANF2.jpg" alt=""></div>
 
 
 <div class="image fit">
