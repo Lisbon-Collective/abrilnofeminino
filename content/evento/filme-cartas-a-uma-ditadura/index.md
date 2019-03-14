@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: de Inês Medeiros
+subtitle: de Inês de Medeiros
 
 tags:
   -

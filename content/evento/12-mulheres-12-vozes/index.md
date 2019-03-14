@@ -36,6 +36,10 @@ custom:
 
 **6 de Abril** 
 
+Pela lente de Rita Carmo, “passaram praticamente todos os nomes graúdos da mais criativa e vital expressão sonora nacional; uma mão-cheia de novos talentos; e uma série de exemplos internacionais incontornáveis na história da cultura nos séculos XX e XXI”. Nestas imagens, “faz-se prova da sua maior qualidade: a de se deixar “engolir” pelo imaginário dos artistas fotografados, e, juntamente com eles, reinterpretar a sua obra.» Gonçalo Frota
+
+**Fotografias de Aldina Duarte, Ana Moura, Carminho, Celina da Piedade, Cidália Moreira, Cristina Branco, Gisela João, Márcia, Maria João, Mariza, Mísia, Surma.**
+
 Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
 
 **11h00 Inauguração (Largo da Portagem)**
@@ -55,7 +59,7 @@ Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
     </div>
     <p><strong>6 de Abril</strong> </p>
     <p>Pela lente de Rita Carmo<em>, “passaram praticamente todos os nomes graúdos da mais criativa e vital expressão sonora nacional; uma mão-cheia de novos talentos; e uma série de exemplos internacionais incontornáveis na história da cultura nos séculos XX e XXI”. Nestas imagens, “faz-se prova da sua maior qualidade: a de se deixar “engolir” pelo imaginário dos artistas fotografados, e, juntamente com eles, reinterpretar a sua obra.»</em> Gonçalo Frota</p>
-    <p><strong>Fotografias de Aldina Duarte, Ana Moura, Carminho, Celina da Piedade, Cidália Moreira, Cristina Branco, Gisela João, Márcia, Maria João, Mariza, Mísia, Surma.</strong></p>
+    
     <p>Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)</p>
     <p><strong>11h00 Inauguração (Largo da Portagem)</strong></p>
     <p><strong>Montras dos espaços comerciais:</strong> </p>

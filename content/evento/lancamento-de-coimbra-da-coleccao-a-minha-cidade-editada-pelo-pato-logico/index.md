@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: com a autora, Catarina Sobral
+subtitle: 
 
 tags:
   -

@@ -77,6 +77,8 @@ Numa reflexão subtil sobre a linguagem, o tempo e os afectos, as imagens de Cat
 
 <a href="/evento/lancamento-de-coimbra-da-coleccao-a-minha-cidade-editada-pelo-pato-logico/">*ver Lançamento de “Coimbra”, 14 de Abril</a>
 
+[Catarina Sobral](http://www.catarinasobral.com/)
+
 <style>.image.main{display:none;}</style>
 
 

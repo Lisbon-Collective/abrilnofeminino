@@ -35,7 +35,9 @@ custom:
 
 Dia 6 de Abril
 
-Conversa conduzida por Sara Meireles Graça no âmbito da Exposição "<a href="/evento/12-mulheres-12-vozes/">12 Mulheres, 12 Vozes</a>".
+Conversa conduzida por Sara Meireles Graça\*
+
+\* Evento integrado na Exposição "<a href="/evento/12-mulheres-12-vozes/">12 Mulheres, 12 Vozes</a>".
 
 **Café Santa Cruz**    
 **12h00**
@@ -44,7 +46,9 @@ Conversa conduzida por Sara Meireles Graça no âmbito da Exposição "<a href="
 Dia 6 de Abril
 
 <div class="row">
-  <span>Conversa conduzida por Sara Meireles Graça no âmbito da Exposição "<a href="/evento/12-mulheres-12-vozes/">12 Mulheres, 12 Vozes</a>".
+  <span>Conversa conduzida por Sara Meireles Graça* <br>
+
+ * Evento integrado na Exposição "<a href="/evento/12-mulheres-12-vozes/">12 Mulheres, 12 Vozes</a>".
 
 <br>  <strong>Café Santa Cruz</strong> <br>
   <strong>12h00</strong>

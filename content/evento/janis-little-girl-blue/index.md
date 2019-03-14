@@ -50,11 +50,13 @@ Documentário, Musical
 Apresentação de Francisco Amaral
 
 <!--more-->
+&nbsp;
 <div class="row">
   <div class="col-12">
 
 <div class="image right"><img src="images/janis-little-girl-blue-5098.jpg" alt=""></div>
-**Janis: Little Girl Blue**
+
+<strong>Janis: Little Girl Blue</strong>
 
 De: [Amy Berg](http://us.imdb.com/Name?Amy%20Berg)
 

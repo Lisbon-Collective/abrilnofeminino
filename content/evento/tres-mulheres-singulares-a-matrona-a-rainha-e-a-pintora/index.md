@@ -17,7 +17,7 @@ categorias:
   - Visita Orientada
 ciclo: 
 
-title: '“Três Mulheres Singulares: a <em>Matrona</em>, a Rainha e a Pintora”'
+title: 'Visita Orientada “Três Mulheres Singulares: a <em>Matrona</em>, a Rainha e a Pintora”'
 
 options:
   hideFooter: false
@@ -49,7 +49,8 @@ Duração 60 minutos
 <!--more-->
      
 
-**14 de Abril**     
+<strong>14 de Abril</strong>
+
 Por Carlos Santos, Pedro Ferrão e Virgínia Gomes
 
 Visita orientada em torno de três figuras femininas representadas nas obras das colecções do Museu e que evocam a sua memória: Agripina-a-Antiga; Rainha Santa Isabel e Josefa d’Óbidos.
