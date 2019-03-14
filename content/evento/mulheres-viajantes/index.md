@@ -40,9 +40,6 @@ Moderação de Maria José Goulão
 
 Casa da Escrita    
 Entrada Livre
-
-Este livro conta a história de várias mulheres que ao longo dos séculos desafiaram convenções por viajarem sozinhas. Através destas viagens, elas desvendam-se a si próprias, partindo à descoberta de um novo mundo: aquele que sempre lhes foi proibido. Sónia Serrano traça dois percursos: o geográfico e temporal, por um lado, escrevendo sobre os lugares por onde estas mulheres se aventuraram e o tempo histórico em que viveram; e, por outro, o da evolução da condição feminina num domínio que, durante séculos, foi protagonizado por homens – a viagem. Desde a destemida Egéria que, no século IV da nossa era, partiu da Península Ibérica para a Terra Santa, ou as mulheres que andaram na aventura das grandes navegações portuguesas, passando pelas arrojadas vitorianas, que palmilharam os confins do vasto império britânico, até ao século XXI, onde encontramos algumas das mais extraordinárias viajantes. Algumas são viagens intimistas, outras políticas e de exploração, por vezes são fugas, quase sempre, procura da felicidade – todas estas mulheres viajaram porque se recusaram a ficar à espera, arriscando a vida.  
-
 <!--more-->
 
 <div class="row">

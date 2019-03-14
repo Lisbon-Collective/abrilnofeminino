@@ -70,36 +70,41 @@
 			</div>
 		</div>
 
-		<div id="two">
-			<div class="wrapper special style1">
-				<div class="inner">
-					<header class="major"><h2>Ciclo de Conversas</h2></header>
-					<div class="row">
-						<div class="col-3 col-12-medium">
-							{{ with .Site.GetPage "/evento/mulheres-na-ciencia/index.md" }}
-							{{ .Render "minimal-card-no-img" }}
-							{{ end }}
-						</div>
-						<div class="col-3 col-12-medium">
-							{{ with .Site.GetPage "/evento/mulheres-viajantes/index.md" }}
-							{{ .Render "minimal-card-no-img" }}
-							{{ end }}
-						</div>
-						<div class="col-3 col-12-medium">
-							{{ with .Site.GetPage "/evento/10-mulheres-que-marcaram-a-vida-de-jesus/index.md" }}
-							{{ .Render "minimal-card-no-img" }}
-							{{ end }}
-						</div>
-						<div class="col-3 col-12-medium">
-							{{ with .Site.GetPage "/evento/mulheres-na-arquitectura/index.md" }}
-							{{ .Render "minimal-card-no-img" }}
-							{{ end }}
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
 
+
+<div id="three">
+	<div class="wrapper alt special">
+		<div class="wrapper style3">
+			<div class="inner">
+				<header class="major"><h2>Ciclo de Conversas</h2></header>
+
+				<div class="profiles">
+					{{ with .Site.GetPage "/evento/mulheres-na-ciencia/index.md" }}
+					{{ .Render "summary_card" }}
+					{{ end }}
+
+					{{ with .Site.GetPage "/evento/mulheres-viajantes/index.md" }}
+					{{ .Render "summary_card" }}
+					{{ end }}
+				</div>
+&nbsp;
+				<div class="profiles">
+					{{ with .Site.GetPage "/evento/10-mulheres-que-marcaram-a-vida-de-jesus/index.md" }}
+					{{ .Render "summary_card" }}
+					{{ end }}
+
+					{{ with .Site.GetPage "/evento/mulheres-na-arquitectura/index.md" }}
+					{{ .Render "summary_card" }}
+					{{ end }}
+				</div>
+							
+
+			</div>
+
+		</div>
+	</div>
+
+</div>
 
 		{{ with .Site.GetPage "/evento/cravos-e-outras-flores/index.md" }}
 		<div id="">

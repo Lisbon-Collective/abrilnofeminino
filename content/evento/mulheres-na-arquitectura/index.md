@@ -44,7 +44,6 @@ Organização: Mulheres na Arquitectura
 Casa da Escrita.   
 Entrada Livre
 
-Os papéis e os estereótipos de género encontram-se presentes nas distintas profissões e configuram modos diversos de se estar dentro das mesmas. Na arquitectura não é diferente. Sendo uma profissão tradicionalmente masculina, mas com uma feminização crescente pelo menos em Portugal, levantam-se questões que profissionais e universidades devem debater e confrontar. Neste sentido, procurar-se-á discutir como é que a ideia do ser-se "arquitecto" se cruza com o contexto social actual, com perspectiva de género?
 
 <!--more-->
  
