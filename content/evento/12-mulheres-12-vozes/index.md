@@ -55,10 +55,10 @@ Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
   <div class="col-12">
     <div class="image right">
       <figure><img src="images/SURMA026_ritacarmo.jpg" alt=""></figure>
-      <figcaption>© Rita Carmo</figcaption>
+      <figcaption>Surma, © Rita Carmo</figcaption>
     </div>
     <p><strong>6 de Abril</strong> </p>
-    <p>Pela lente de Rita Carmo<em>, “passaram praticamente todos os nomes graúdos da mais criativa e vital expressão sonora nacional; uma mão-cheia de novos talentos; e uma série de exemplos internacionais incontornáveis na história da cultura nos séculos XX e XXI”. Nestas imagens, “faz-se prova da sua maior qualidade: a de se deixar “engolir” pelo imaginário dos artistas fotografados, e, juntamente com eles, reinterpretar a sua obra.»</em> Gonçalo Frota</p>
+
     
     <p>Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)</p>
     <p><strong>11h00 Inauguração (Largo da Portagem)</strong></p>

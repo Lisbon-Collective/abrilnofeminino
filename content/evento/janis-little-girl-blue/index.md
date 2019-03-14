@@ -58,10 +58,10 @@ Apresentação de Francisco Amaral
 
 <strong>Janis: Little Girl Blue</strong>
 
-De: [Amy Berg](http://us.imdb.com/Name?Amy%20Berg)
+**De [Amy Berg](http://us.imdb.com/Name?Amy%20Berg)**
 
-Documentário, Musical    
-EUA, 2016
+**Documentário, Musical**    
+**EUA, 2016**
 
 <p>Janis Lyn Joplin nasceu na cidade de Port Arthur, no Texas (EUA), em 1943. Considerada por muitos a maior cantora de blues e soul da sua geração, alcançou a fama no final da década de 1960 como vocalista do grupo Big Brother and the Holding Company e, posteriormente, numa carreira a solo, acompanhada pelas suas bandas de suporte: a Kozmic Blues Band e a Full Tilt Boogie. Influenciada por grandes nomes do jazz e blues – como Aretha Franklin, Billie Holiday, Etta James, Tina Turner, Big Mama Thornton, Odetta, Lead Belly ou Bessie Smith –, Joplin transformou-se num dos ícones do rock psicadélico dessa década. Durante a sua curta existência, lançou apenas quatro álbuns: "Big Brother and the Holding Company” (1967), "Cheap Thrills" (1968), "I Got Dem Ol' Kozmic Blues Again Mama!" (1969) e o póstumo "Pearl" (1971). As últimas gravações que fez foram as músicas "Mercedes Benz" e "Happy trails", esta como presente para o aniversário de John Lennon, a 9 de Outubro de 1970. A dependência de drogas e álcool marcou a vida de Joplin e foi a causa da sua trágica morte. A 4 de Outubro desse ano, com apenas 27 anos de idade, foi encontrada sem vida devido a uma “overdose” de heroína.</p>
 

@@ -17,7 +17,7 @@ categorias:
   - Visita Orientada
 ciclo: 
 
-title: 'Visita Orientada “Três Mulheres Singulares: a <em>Matrona</em>, a Rainha e a Pintora”'
+title: 'Visita Orientada <br>“Três Mulheres Singulares: a <em>Matrona</em>, a Rainha e a Pintora”'
 
 options:
   hideFooter: false

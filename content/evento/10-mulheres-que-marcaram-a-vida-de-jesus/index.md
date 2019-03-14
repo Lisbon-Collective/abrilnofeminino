@@ -56,7 +56,7 @@ No mapa existencial de Jesus não havia fronteiras. Nunca aprendeu a conjugar a 
 
 <div class="row">
   <div class="col-12">
-    <h3>Pe Nuno Santos</h3>
+    <h3>Padre Nuno Santos</h3>
     
     <div class="image right">
       <img src="images/NS.jpg" alt="">

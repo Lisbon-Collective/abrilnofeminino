@@ -91,13 +91,16 @@ Seminário Maior, Sala São Tomás
 
 <div class="row">
   <div class="col-4"><div class="image fit">
-    <figure><img src="B. Strozzi_001.jpg" alt=""></figure>
+    <figure><img src="images/B. Strozzi_001.jpg" alt=""></figure>
+    <figcaption>Barbara Strozzi</figcaption>
   </div></div>
   <div class="col-4"><div class="image fit">
-    <figure><img src="francesca-caccini-2.jpg" alt=""></figure>
+    <figure><img src="images/francesca-caccini-2.jpg" alt=""></figure>
+    <figcaption>Fracesca Caccini</figcaption>
   </div></div>
   <div class="col-4"><div class="image fit">
-    <figure><img src="Elisabeth_Jacquet_de_La_Guerre-full.jpg" alt=""></figure>
+    <figure><img src="images/Elisabeth_Jacquet_de_La_Guerre-full.jpg" alt=""></figure>
+    <figcaption>Elisabet Jacquet de La Guerre</figcaption>
   </div></div>
 </div>
 

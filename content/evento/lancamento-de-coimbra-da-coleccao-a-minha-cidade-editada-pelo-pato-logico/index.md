@@ -73,6 +73,8 @@ Em 2016, TÃO TÃO GRANDE troca por miúdos um dos livros mais conhecidos de Kaf
 
 Numa reflexão subtil sobre a linguagem, o tempo e os afectos, as imagens de Catarina Sobral transportam-nos para um universo muito peculiar, composto por palavras misteriosas e inúmeras cartas de amor, disfarçadas de ilustrações e endereçadas a artistas e escritores vários, como James Joyce, Fernando Pessoa, Franz Kafka, Édouard Manet, Jacques Tati e Charlie Chaplin.
 
+[Catarina Sobral](http://www.catarinasobral.com)
+
 <style>
   div.image.main{display: none;}
 </style>

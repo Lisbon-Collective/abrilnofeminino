@@ -38,6 +38,9 @@ Ruas Ferreira Borges e Visconde da Luz
 <div class="row aln-center">
   <div class="col-6">
     <div class="image fit"><img src="index.assets/Comur-Conserveir de Portugal.jpg" alt="Comur-Conserveira de Portugal" /> </div>
+
+    BERTRAN
+
     <div class="image fit"><img src="index.assets/Colorvital.jpg" alt="Colorvital" /> </div>
     <div class="image fit"><img src="index.assets/Ourivesaria Costa.jpg" alt="Ourivesaria Costa" /> </div>
     <div class="image fit"><img src="index.assets/Sweet Art.jpg" alt="Sweet Art" /> </div>
@@ -45,6 +48,9 @@ Ruas Ferreira Borges e Visconde da Luz
     <div class="image fit"><img src="index.assets/PEDEMEIA.jpg" alt="PEDEMEIA" /> </div>
     <div class="image fit"><img src="index.assets/Tricots Brancal.jpg" alt="Tricots Brancal" /> </div>
     <div class="image fit"><img src="index.assets/Casa Baltazar.jpg" alt="Casa Baltazar" /> </div>
+    
+    AVENIDA7
+
     <div class="image fit"><img src="index.assets/Pastelaria Visconde.jpg" alt="Pastelaria Visconde" /> </div>
     <div class="image fit"><img src="index.assets/cafe_santa_cruz.jpg" alt="Café Santa Cruz" /> </div>
   </div>

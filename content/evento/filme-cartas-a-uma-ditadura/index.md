@@ -96,7 +96,7 @@ Prémio Melhor Filme Português/Doclisboa 2006, Fipa de Prata/Biarritz 2007, Pr�
 
 <div class="row">
   <div class="col-12">
-    <div class="image right"><img src="images/ines_medeiros.jpg" alt=""></div>
+    <div class="image right"><img src="images/ines_Medeiros.jpg" alt=""></div>
 
 <p>Nascida em Viena de Áustria em 1968, muda-se para Portugal em 1975, onde faz todo o seu percurso académico. Reside em Lisboa e tem 50 anos. </p>
 
@@ -113,14 +113,17 @@ Foi também mandatária nacional pelo Partido Socialista nas eleições europeia
 <p>Fez parte da delegação parlamentar da OSCE, Organização para a Segurança e Cooperação da Europa.</p> </div>
 </div>
  
-
-<h3>Irene Flunser Pimentel</h3>
-
-<div class="image right"><img src="index.assets/Irene flunser pimentel.jpg" alt="Irene Flunser Pimentel"></div>
-
-<p>Licenciada em História pela Faculdade de Letras da Universidade Clássica de Lisboa, mestre em História Contemporânea (século XX) e doutorada em História Institucional e Política Contemporânea, pela Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa. É investigadora doutorada do Instituto de História Contemporânea (FCSH da UNL), tendo coordenado o projecto apoiado pela FCT – PTDC/HIS-HIS/103286/2008. Até 2018, esteve empenhada num processo de investigação, no âmbito bolsa Pós-Doc da FCT, com a referência SFRH/BPD/88519/2012, sobre o processo de Justiça transicional na transição para a democracia em Portugal. Participou, desde 2015, regularmente no programa radiofónico da Antena Um, «Fio da Meada», além de colaborar com a imprensa generalista e científica, bem como tomar parte em diversos documentários televisivos. </p>
-
-<p>É autora e co-autora de mais de 20 livros de carácter historiográfico. Recebeu vários prémios, nomeadamente: <em>História das Organizações Femininas do Estado Novo,</em> prémio Carolina Michaelis, 1999; <em>Judeus em Portugal durante a Segunda Guerra Mundial. Em Fuga de Hitler e do Holocausto</em>, prémio ex-aequo Adérito Sedas Nunes, atribuído pelo Instituto de Ciências Sociais, 2007; Prémio Pessoa, atribuído pelo Expresso e a Unysis, 2007; <em>A História da PIDE</em>, prémio especial da revista <em>Máxima</em>, 2008; Prémio Seeds of Science, categoria «Ciências Sociais e Humanas», 2009</p>
+<div class="row">
+  
+  <h3>Irene Flunser Pimentel</h3>
+  
+<div class="col-12">
+  <div class="image right"><img src="index.assets/Irene flunser pimentel.jpg" alt="Irene Flunser Pimentel"></div>
+  <p>Licenciada em História pela Faculdade de Letras da Universidade Clássica de Lisboa, mestre em História Contemporânea (século XX) e doutorada em História Institucional e Política Contemporânea, pela Faculdade de Ciências Sociais e Humanas da Universidade Nova de Lisboa. É investigadora doutorada do Instituto de História Contemporânea (FCSH da UNL), tendo coordenado o projecto apoiado pela FCT – PTDC/HIS-HIS/103286/2008. Até 2018, esteve empenhada num processo de investigação, no âmbito bolsa Pós-Doc da FCT, com a referência SFRH/BPD/88519/2012, sobre o processo de Justiça transicional na transição para a democracia em Portugal. Participou, desde 2015, regularmente no programa radiofónico da Antena Um, «Fio da Meada», além de colaborar com a imprensa generalista e científica, bem como tomar parte em diversos documentários televisivos. </p>
+  
+  <p>É autora e co-autora de mais de 20 livros de carácter historiográfico. Recebeu vários prémios, nomeadamente: <em>História das Organizações Femininas do Estado Novo,</em> prémio Carolina Michaelis, 1999; <em>Judeus em Portugal durante a Segunda Guerra Mundial. Em Fuga de Hitler e do Holocausto</em>, prémio ex-aequo Adérito Sedas Nunes, atribuído pelo Instituto de Ciências Sociais, 2007; Prémio Pessoa, atribuído pelo Expresso e a Unysis, 2007; <em>A História da PIDE</em>, prémio especial da revista <em>Máxima</em>, 2008; Prémio Seeds of Science, categoria «Ciências Sociais e Humanas», 2009</p>
+</div>
+</div>
 
 
 <div class="row">

@@ -45,18 +45,6 @@ Escola Básica de Solum Sul - Agrupamento de Escolas Eugénio de Castro
 
 <!--more-->
 
-<strong>30 de Abril</strong>
-
-<p>Mulheres portuguesas, de diferentes tempos históricos e com ocupações diversas, conheceram percursos extraordinários. Contar as suas histórias e partilhar as suas vidas é o propósito desta actividade de animação dirigida às crianças, na qual aprendizagem, reflexão e divertimento constituem momentos essenciais.</p> 
-
-Escola Básica de Solum Sul - Agrupamento de Escolas Eugénio de Castro
-
-**11h00 /14h45**
-
-***sessões reservadas aos alunos  da Escola**
-
-
-
 **30 de Abril**
 
 **“Mulheres Incríveis!”**
@@ -75,13 +63,9 @@ O espectáculo aborda temas como a história de Portugal, a arte (pintura e mús
 
 Acima de tudo, pretende ser um momento de aprendizagem e reflexão, divertido e lúdico. Quatro viagens a territórios desconhecidos, guiadas com algum humor e muita seriedade.
 
-Foto Cláudia Morais com legenda: Cláudia Morais
 
- 
 
 **Ficha Técnica**
-
- 
 
 Guião, textos e direção: José Geraldo
 
@@ -107,9 +91,16 @@ Produção: Cláudia do Vale
 
 <h3>A Camaleão – Associação Cultural</h3>
 
+<div class="row">
+  <div class="col-12">
+    <div class="image right">
+  <figure><img src="index.assets/camaleao2.jpg" alt=""></figure>
+</div>
 <p>É uma associação sem fins lucrativos, sediada em Coimbra, cujos objectivos são a produção e realização de eventos culturais. Foi constituida em 1999 por profissionais de diversas áreas artísticas (da arte dramática e de contar histórias à escrita poética e para cena; da imagem à música) no âmbito da sua prática e do seu estudo (da sociologia do espectáculo aos estudos de teatro).</p>
-
-<p>Desde a sua criação produziu e apresentou espectáculos de teatro, música e poesia, realizou exposições, organizou e participou em formações associadas às artes performativas, e, desde 2002, desenvolve também um trabalho sistemático na área dos contadores de histórias (formação e sessões de contos).</p>
+    
+    <p>Desde a sua criação produziu e apresentou espectáculos de teatro, música e poesia, realizou exposições, organizou e participou em formações associadas às artes performativas, e, desde 2002, desenvolve também um trabalho sistemático na área dos contadores de histórias (formação e sessões de contos).</p>
+  </div>
+</div>
 
 Camaleão-Associação Cultural
 
@@ -123,9 +114,7 @@ e-mail: [camaleao.ac@gmail.com](mailto:camaleao.ac@gmail.com)
 
 [claudvale@gmail.com](mailto:claudvale@gmail.com)
 
-<div class="image fit">
-  <figure><img src="index.assets/camaleao2.jpg" alt=""></figure>
-</div>
+
 
 <style>
   .image.main{display: none;}

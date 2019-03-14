@@ -75,13 +75,7 @@ Apresentação de Rui Moutinho
   </div>
   
   <p>Rui Moutinho, nasceu no Porto.</p>
-  <p>Reside, desde um ano de idade, em Coimbra.</p>
-  <p>Licenciou-se em Direito na Universidade de Coimbra. </p>
-  <p>Pós graduou-se em Administração Hospitalar na Escola Nacional de Saúde Pública de Lisboa. </p>
-  <p>Exerceu a profissão de administrador hospitalar durante trinta e cinco anos, tinta dos quais nos Hospitais da Universidade de Coimbra.</p>
-  <p>Educado num ambiente familiar em que se cultivava o gosto pela música dita clássica, começou a interessar-se pelo jazz na adolescência, interesse que viria a traduzir-se ao longo da vida, no estudo aprofundado das suas múltiplas dimensões (histórica, social e política), na frequência regular de concertos e festivais e na imprescindível aquisição de revistas, livros e discos.</p>
-  <p>Quando estudante universitário, dedicou algum tempo à divulgação do jazz promovendo sessões fonográficas e frequentou o Círculo de Artes Plásticas, cuja Direcção integrou nos dois primeiros anos da década 70 do século passado.</p>
-  <p>A nível cultural, para além do jazz, tem como principais centros de interesse, a arquitectura, o cinema e as artes plásticas.  </p>
+  <p>Reside, desde um ano de idade, em Coimbra.<br>Licenciou-se em Direito na Universidade de Coimbra. <br>Pós graduou-se em Administração Hospitalar na Escola Nacional de Saúde Pública de Lisboa. <br>Exerceu a profissão de administrador hospitalar durante trinta e cinco anos, tinta dos quais nos Hospitais da Universidade de Coimbra.<br>Educado num ambiente familiar em que se cultivava o gosto pela música dita clássica, começou a interessar-se pelo jazz na adolescência, interesse que viria a traduzir-se ao longo da vida, no estudo aprofundado das suas múltiplas dimensões (histórica, social e política), na frequência regular de concertos e festivais e na imprescindível aquisição de revistas, livros e discos.<br>Quando estudante universitário, dedicou algum tempo à divulgação do jazz promovendo sessões fonográficas e frequentou o Círculo de Artes Plásticas, cuja Direcção integrou nos dois primeiros anos da década 70 do século passado.<br>A nível cultural, para além do jazz, tem como principais centros de interesse, a arquitectura, o cinema e as artes plásticas.  </p>
   </div>
 </div>
 

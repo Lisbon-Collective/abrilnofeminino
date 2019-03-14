@@ -35,7 +35,7 @@ custom:
 
 Dia 6 de Abril
 
-Conversa conduzida por Sara Meireles Graça\*
+Conversa conduzida por Sara Meireles Graça
 
 \* Evento integrado na Exposição "<a href="/evento/12-mulheres-12-vozes/">12 Mulheres, 12 Vozes</a>".
 
@@ -46,7 +46,7 @@ Conversa conduzida por Sara Meireles Graça\*
 Dia 6 de Abril
 
 <div class="row">
-  <span>Conversa conduzida por Sara Meireles Graça* <br>
+  <span>Conversa conduzida por Sara Meireles Graça <br>
 
  * Evento integrado na Exposição "<a href="/evento/12-mulheres-12-vozes/">12 Mulheres, 12 Vozes</a>".
 

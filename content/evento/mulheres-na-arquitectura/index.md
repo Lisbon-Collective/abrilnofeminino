@@ -39,7 +39,7 @@ custom:
 com Letícia Callou, Patrícia Pedrosa e Susana Lobo    
 Moderação de Paula Chaves
 
-Organização: associação Mulheres na Arquitectura
+Organização: Mulheres na Arquitectura
 
 Casa da Escrita.   
 Entrada Livre
@@ -54,7 +54,7 @@ Os papéis e os estereótipos de género encontram-se presentes nas distintas pr
 <p>com Letícia Callou, Patrícia Pedrosa, Susana Lobo <br>   
   Moderação de Paula Chaves</p>
   
-<p>Organização: associação Mulheres na Arquitectura</p>
+<p><strong>Organização: Mulheres na Arquitectura</strong></p>
   
 <p>Casa da Escrita. <br>
 Entrada Livre</p></div>
@@ -100,7 +100,6 @@ Entrada Livre</p></div>
     <div class="image right"><img src="index.assets/PaulaChaves.JPG" alt=""></div>
     <p>Nasceu em 1996, no Recife, Brasil. Estudante do quarto ano do Mestrado de Arquitetura da Universidade de Coimbra. Co-fundou o grupo de estudos feministas Fem.in, que promoveu eventos que visavam discutir questões de género no meio acadêmico.</p>
     
-    <p><strong>Organização: Mulheres na Arquitectura</strong></p>
   </div>
 </div>
 
