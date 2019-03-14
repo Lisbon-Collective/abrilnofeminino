@@ -22,9 +22,9 @@
 										<figcaption>{{ $.Page.Params.custom.copyright  }}</figcaption>
 									</figure>
 							    {{- else }}
-							        {{- $image := .Resize "400x" -}}
+
 							        <figure>
-							        	<img src="{{- $image.RelPermalink -}}" alt="" />
+							        	<img src="{{- .RelPermalink -}}" alt="" />
 							        	<figcaption>{{ $.Page.Params.custom.copyright  }}</figcaption>
 							        </figure>
 							    {{- end }}
