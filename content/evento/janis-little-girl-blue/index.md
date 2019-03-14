@@ -75,7 +75,7 @@ EUA, 2016
 <div class="row">
   <div class="col-12">
     <div class="image right"><img src="images/Francisco_Amaral.jpg" alt=""></div>
-    <p>Produtor e realizador de audiovisuais. Actualmente é o director da ESEC TV (RTP 2). É também autor de vários programas de rádio entre os quais "Íntima Fração" (Antena 1, TSF, RUC, RCP, Expresso Online). É director de Produção em televisão e docente universitário na área da Comunicação e das Artes. A sua formação académica passa pelas Artes Visuais, pela Arquitetura e pela História da Arte. Fez estágios em Cinema de Animação com Gaston Roch - Instituto Superior de Artes Visuais de Bruxelas. Foi bolseiro em França pela Federação Portuguesa de Cinema e Audiovisuais.</p>
+    <p>Produtor e realizador de audiovisuais. Actualmente é o director da ESEC TV (RTP 2). É também autor de vários programas de rádio entre os quais "Íntima Fração" (Antena 1, TSF, RUC, RCP, Rádio Radar, Expresso Online). É director de Produção em televisão e docente universitário na área da Comunicação e das Artes. A sua formação académica passa pelas Artes Visuais, pela Arquitetura e pela História da Arte. Fez estágios em Cinema de Animação com Gaston Roch - Instituto Superior de Artes Visuais de Bruxelas. Foi bolseiro em França pela Federação Portuguesa de Cinema e Audiovisuais.</p>
   </div>
 </div>
 
