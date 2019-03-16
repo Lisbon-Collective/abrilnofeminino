@@ -38,12 +38,14 @@ com Eugénia Cunha, Helena Freitas e Paula Santana
 
 **Moderação de Alexandre Quintanilha**
 
+Casa da Escrita    
+Entrada Livre
 <!--more-->
 
 
 **4 de Abril, 18h30**     
 com Eugénia Cunha, Helena Freitas e Paula Santana.    
-**Moderação de Alexandre Quintanilha**
+Moderação de Alexandre Quintanilha
 
 <p>Casa da Escrita <br>
 Entrada Livre</p>
@@ -139,7 +141,7 @@ Tem dedicado a sua actividade científica e pedagógica aos temas da Geografia d
  
 
  
-
+<style>div.image.main{display:none;}</style>
  
 
  

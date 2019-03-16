@@ -96,11 +96,11 @@ Seminário Maior, Sala São Tomás
   </div></div>
   <div class="col-4"><div class="image fit">
     <figure><img src="images/francesca-caccini-2.jpg" alt=""></figure>
-    <figcaption>Fracesca Caccini</figcaption>
+    <figcaption>Francesca Caccini</figcaption>
   </div></div>
   <div class="col-4"><div class="image fit">
     <figure><img src="images/Elisabeth_Jacquet_de_La_Guerre-full.jpg" alt=""></figure>
-    <figcaption>Elisabet Jacquet de La Guerre</figcaption>
+    <figcaption>Elisabeth Jaquet de La Guèrre</figcaption>
   </div></div>
 </div>
 

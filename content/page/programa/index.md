@@ -42,3 +42,7 @@ custom:
   <a href="images/calendario.jpg">
     <img src="images/calendario.jpg" alt="Calendário de eventos Abril no Feminino"></a>
   </div>
+
+<style>
+  #main > div > div > header > h1{display: none;}
+</style>

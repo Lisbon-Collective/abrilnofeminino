@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: images/NS.jpg
+- src: images/anf_default.png
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -35,18 +35,15 @@ custom:
 
 **8 de Abril, 18h30**
 
-"10 mulheres que marcaram a vida de Jesus"
-
 com Padre Nuno Santos
 
-Casa da Escrita
-
+Casa da Escrita    
+Entrada Livre
 <!--more-->
 
 
 <strong>8 de Abril, 18h30</strong>
-
-"10 mulheres que marcaram a vida de Jesus"    
+ 
 com Padre Nuno Santos
 
 Casa da Escrita    

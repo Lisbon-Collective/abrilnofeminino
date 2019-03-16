@@ -38,7 +38,7 @@ SESSÃO ESPECIAL*
 **23 de Abril**    
 **Documentário**
 
-<h3>seguida de Conversa/Debate com <br>Inês de Medeiros (a confirmar)<br>Irene Flunser Pimentel<br>Rui Bebiano</h3>
+<h3>* seguida de Conversa/Debate com <br>Inês de Medeiros (a confirmar)<br>Irene Flunser Pimentel<br>Rui Bebiano</h3>
 
 Uma centena de cartas escritas por mulheres portuguesas durante a ditadura de Salazar foram encontradas por acaso num alfarrabista. Ao confrontar hoje as autoras destas cartas com os fantasmas do passado, e revelando material de arquivo inédito, CARTAS A UMA DITADURA leva-nos numa viagem profunda ao obscurantismo que dominou Portugal durante mais de 50 anos.
 

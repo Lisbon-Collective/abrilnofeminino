@@ -33,7 +33,7 @@ custom:
   local: Café Santa Cruz
 ---
 
-Dia 6 de Abril
+6 de Abril
 
 Conversa conduzida por Sara Meireles Graça
 

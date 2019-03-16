@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: images/clip_image001.jpg
+- src: images/anf_default.png
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -46,7 +46,7 @@ Entrada Livre
 
 <div class="col-12">
 <p>Com Sónia Serrano    <br>
-Moderação de Maria José Goulão</p>
+<strong>Moderação de Maria José Goulão</strong></p>
 
 <strong>5 de Abril, 18h30</strong>
 
