@@ -49,6 +49,14 @@ Apresentação de Né Ladeiras
 
 <!--more-->
 
+<strong>17 de Abril</strong>
+
+Salão Brasil    
+Sessãos às 21h30    
+Entrada: 2,00 €    
+Sócios JACC e Fila K: 1,00 €    
+Bilhetes à venda no local, no próprio dia, a partir das 21h00.
+
 <div class="row">
   <div class="col-12">
     <div class="image right"><img src="images/39a06-violeta-foi-para-o-cc3a9u.jpg" alt=""></div>

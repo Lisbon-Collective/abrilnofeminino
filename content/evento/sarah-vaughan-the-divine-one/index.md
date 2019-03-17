@@ -51,6 +51,12 @@ Apresentação de Rui Moutinho
 
 **11 de Abril**  
 
+Salão Brasil    
+Sessãos às 21h30    
+Entrada: 2,00 €    
+Sócios JACC e Fila K: 1,00 €    
+Bilhetes à venda no local, no próprio dia, a partir das 21h00.
+
 **De Matthew Seig**    
 **Documentário, Musical**
 

@@ -50,7 +50,13 @@ Documentário, Musical
 Apresentação de Francisco Amaral
 
 <!--more-->
-&nbsp;
+
+Salão Brasil    
+Sessãos às 21h30    
+Entrada: 2,00 €    
+Sócios JACC e Fila K: 1,00 €    
+Bilhetes à venda no local, no próprio dia, a partir das 21h00.
+
 <div class="row">
   <div class="col-12">
 

@@ -47,7 +47,7 @@ Entrada Livre
 <!--more-->
  
 <div><strong>13 de Abril, 16h00</strong>
-  <p>“Mulheres na Arquitectura”</p>
+
   
 <p>com Letícia Callou, Patrícia Pedrosa, Susana Lobo <br>   
   Moderação de Paula Chaves</p>

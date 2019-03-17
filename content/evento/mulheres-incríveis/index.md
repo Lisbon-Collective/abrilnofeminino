@@ -17,7 +17,7 @@ categorias:
   - Teatro Para A Infância
 ciclo: 
 
-title: 'Teatro para a Infância “Mulheres Incríveis!”'
+title: 'Teatro para a Infância <br> “Mulheres Incríveis!”'
 
 options:
   hideFooter: false

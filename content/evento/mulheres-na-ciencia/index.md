@@ -36,7 +36,7 @@ custom:
 **4 de Abril, 18h30**     
 com Eugénia Cunha, Helena Freitas e Paula Santana
 
-**Moderação de Alexandre Quintanilha**
+Moderação de Alexandre Quintanilha
 
 Casa da Escrita    
 Entrada Livre

@@ -43,7 +43,7 @@ Entrada Livre
 
 
 <strong>8 de Abril, 18h30</strong>
- 
+<br>
 com Padre Nuno Santos
 
 Casa da Escrita    
