@@ -96,7 +96,7 @@ Entrada Livre</p></div>
 <div class="row">
   <div class="col-12">
     <div class="image right"><img src="index.assets/PaulaChaves.JPG" alt=""></div>
-    <p>Nasceu em 1996, no Recife, Brasil. Estudante do quarto ano do Mestrado de Arquitetura da Universidade de Coimbra. Co-fundou o grupo de estudos feministas Fem.in, que promoveu eventos que visavam discutir questões de género no meio acadêmico.</p>
+    <p>Nasceu em 1996, no Recife, Brasil. Estudante do quarto ano do Mestrado de Arquitetura da Universidade de Coimbra. Co-fundou o grupo de estudos feministas Fem.in, que promoveu eventos que visavam discutir questões de género no meio académico.</p>
     
   </div>
 </div>

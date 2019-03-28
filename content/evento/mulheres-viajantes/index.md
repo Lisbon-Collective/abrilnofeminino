@@ -46,7 +46,7 @@ Entrada Livre
 
 <div class="col-12">
 <p>Com Sónia Serrano    <br>
-<strong>Moderação de Maria José Goulão</strong></p>
+Moderação de Maria José Goulão</p>
 
 <strong>5 de Abril, 18h30</strong>
 
