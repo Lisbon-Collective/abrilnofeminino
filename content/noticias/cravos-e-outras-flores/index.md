@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: "\"CRAVO(S) E OUTRAS FLORES\" | 6 de Abril"
+title: Cravo(s) e Outras Flores
 
 options:
   hideFooter: false
@@ -26,7 +26,6 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
@@ -65,4 +64,3 @@ custom:
     <img src='images/IMG_20190406_191743.jpg' alt='IMG_20190406_191743'  />
   </figure>
 </div>
-<p>&nbsp;</p>
