@@ -43,12 +43,8 @@ Findo o passeio, recolhemos ao Café Santa Cruz, para uma conversa com Rita Carm
 Ficam as imagens dessa bela manhã!
 
 
-<div class="image fit">
-  <figure><img src="images/56610502_10217366006879672_5734333196212895744_o.jpg" alt=""></figure>
-</div>
-<div class="image fit">
-  <figure><img src="images/55853753_10217366014079852_8706970015569543168_o.jpg" alt=""></figure>
-</div>
+
+
 <div class="image fit">
   <figure><img src="images/56247962_10217366007159679_7156494939201732608_o.jpg" alt=""></figure>
 </div>
@@ -58,33 +54,29 @@ Ficam as imagens dessa bela manhã!
 <div class="image fit">
   <figure><img src="images/56255634_10217366005719643_5716808359550648320_o.jpg" alt=""></figure>
 </div>
+
 <div class="image fit">
-  <figure><img src="images/56268558_10217366004639616_6097954735334096896_o.jpg" alt=""></figure>
+  <figure><img src="images/Márcia.jpg" alt=""></figure>
 </div>
-<div class="image fit">
-  <figure><img src="images/56285198_10217366009079727_738994795959025664_o.jpg" alt=""></figure>
-</div>
-<div class="image fit">
-  <figure><img src="images/56296930_10217366009599740_378772259596140544_o.jpg" alt=""></figure>
-</div>
+
+
+
 <div class="image fit">
   <figure><img src="images/56315679_10219104380059193_6087041996529074176_n.jpg" alt=""></figure>
 </div>
-<div class="image fit">
-  <figure><img src="images/56328584_10217366008079702_3478700880130211840_o.jpg" alt=""></figure>
-</div>
+
+
 <div class="image fit">
   <figure><img src="images/56365823_10219104365658833_1992436840442888192_n.jpg" alt=""></figure>
 </div>
-<div class="image fit">
-  <figure><img src="images/56367297_10217366009199730_8712484590368849920_o.jpg" alt=""></figure>
-</div>
+
+
+
 <div class="image fit">
   <figure><img src="images/56377080_10217366012639816_7913616245201567744_o.jpg" alt=""></figure>
 </div>
-<div class="image fit">
-  <figure><img src="images/56387526_10217366011919798_8623761561149767680_o.jpg" alt=""></figure>
-</div>
+
+
 <div class="image fit">
   <figure><img src="images/56398330_10217366013279832_2923501276798910464_o.jpg" alt=""></figure>
 </div>
