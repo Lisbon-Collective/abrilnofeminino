@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Ciclo de Conversas 4 e 5 de Abril
+title: Ciclo de Conversas 4&nbsp;e&nbsp;5&nbsp;de&nbsp;Abril
 
 options:
   hideFooter: false
