@@ -16,7 +16,7 @@ categorias:
   - 
 ciclo: 
 
-title: Hoje começou "Abril no Feminino"
+title: Hoje começou "Abril&nbsp;no&nbsp;Feminino"
 
 options:
   hideFooter: false
