@@ -95,27 +95,19 @@ Ficam as imagens dessa bela manhã!
 <div class="image fit">
   <figure><img src="images/56547313_10217366011679792_2810500992183828480_o.jpg" alt=""></figure>
 </div>
-<div class="image fit">
-  <figure><img src="images/56596551_10217366008799720_3777870306056601600_o.jpg" alt=""></figure>
-</div>
+
 <div class="image fit">
   <figure><img src="images/56659917_10217366005919648_7212896754675482624_o.jpg" alt=""></figure>
 </div>
-<div class="image fit">
-  <figure><img src="images/56830037_10217378528112695_1379548095385174016_o.jpg" alt=""></figure>
-</div>
+
 <div class="image fit">
   <figure><img src="images/56832517_10217366008159704_1414331167204704256_o.jpg" alt=""></figure>
 </div>
-<div class="image fit">
-  <figure><img src="images/56857546_10217366004839621_3475988741426774016_o.jpg" alt=""></figure>
-</div>
+
 <div class="image fit">
   <figure><img src="images/56904996_10217366010039751_3062644894200758272_o.jpg" alt=""></figure>
 </div>
+
 <div class="image fit">
-  <figure><img src="images/56938138_10217366007839696_1759216345288802304_o.jpg" alt=""></figure>
-</div>
-<div class="image fit">
-  <figure><img src="images/56949208_10217366004519613_2462177121548632064_o.jp" alt=""></figure>
+  <figure><img src="images/56949208_10217366004519613_2462177121548632064_o.jpg" alt=""></figure>
 </div>
