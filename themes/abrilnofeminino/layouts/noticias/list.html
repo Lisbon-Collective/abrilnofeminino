@@ -1,4 +1,4 @@
-{{ define "bodyclasses" }} list noticias {{ .Section }}  {{ end }}
+{{ define "bodyclasses" }} list noticias  {{ .Section }}  {{ end }}
 
 {{ define "main" }}
 	{{ range $i, $e := .Data.Pages }}
@@ -10,14 +10,6 @@
 					<header>
 						<h2 class="left"><a href="{{.Permalink}}">{{ .Title }}</a></h2>
 						<h3 class="left">{{ .Params.subtitle }}</h3>
-						<p>{{ .Summary }}</p>
-					</header>
-					<ul class="actions">
-						<li><a href="{{ .Permalink }}" class="button {{ if modBool (add $i 1) 2 }}{{else}}primary{{end}}">Ler mais</a></li>
-					</ul>
-				</div>
-				<div class="spotlight">
-					
 
 						<a href="{{ .Permalink}}">
 							{{- with .Resources.GetMatch "header" -}}
@@ -30,27 +22,18 @@
 							    {{- end }}
 							</div>
 							{{- else }}
-						
-
 						    <div class="image fit"><img src="" alt="" /></div>
 						{{- end }}
 						</a>
+						<p>{{ .Summary }}</p>
+					</header>
+					<ul class="actions">
+						<li><a href="{{ .Permalink }}" class="button {{ if modBool (add $i 1) 2 }}{{else}}primary{{end}}">Ler mais</a></li>
+					</ul>
 
-					<!-- <div class="content"><a href="{{.Permalink}}">Ler Mais</a></div> -->
 				</div>
-				{{- with .Resources.GetMatch "header_secondary" -}}
-				<div class="spotlight">
-					<div class="image fit">
-						    {{- if eq .MediaType.SubType "gif" -}}
-						        <img src="{{- .RelPermalink -}}" alt="" />
-						    {{- else }}
-						        {{- $image := .Resize "400x" -}}
-						        <img src="{{- $image.RelPermalink -}}" alt="" />
-						    {{- end }}
-					</div>
-					<div class="content">Lorem ipsum dolor</div>
-				</div>
-				{{- end }}
+
+
 			</div>
 		</div>
 	</div>
