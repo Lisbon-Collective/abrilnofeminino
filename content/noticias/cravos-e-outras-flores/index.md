@@ -41,7 +41,7 @@ custom:
 </div>
 <div class="image fit">
   <figure>
-    <img src='images/Teresa%20Soares%201.png' alt='Teresa Soares 1'  />
+    <img src='images/Teresa Soares 1.jpg' alt='Teresa Soares 1'  />
   </figure>
 </div>
 <div class="image fit">
