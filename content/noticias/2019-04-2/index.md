@@ -57,11 +57,7 @@ Crianças e adultos, todos são bem-vindos!
     <img src="images/20190402_174112.jpg" alt="Abril No Feminino, Coimbra 2019">
   </figure>
 </div>
-<div class="image fit">
-  <figure>
-    <img src="images/20190402_174403.jpg" alt="Abril No Feminino, Coimbra 2019">
-  </figure>
-</div>
+
 <div class="image fit">
   <figure>
     <img src="images/20190402_174415.jpg" alt="Abril No Feminino, Coimbra 2019">
