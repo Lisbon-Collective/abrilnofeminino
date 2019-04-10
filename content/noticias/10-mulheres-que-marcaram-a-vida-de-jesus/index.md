@@ -34,4 +34,4 @@ custom:
 
 Foi pequena a sala para acolher, no magnífico espaço da **Casa da Escrita**, todos aqueles que quiseram assistir à **terceira sessão do “Ciclo de Conversas”.** O tema proposto foi brilhantemente abordado pelo convidado, **Pe Nuno Santos, Reitor do Seminário Maior de Coimbra**. No tom informal e de modo clara, aprendemos sobre o lugar surpreendente que as mulheres ocupam na vida e acção de Jesus e a atenção ao feminino que o mesmo partilhava. E, com simplicidade, todos fomos convidados à reflexão: sobre o presente que nos cerca e o futuro que nos desafia.
 
-<video src="SlideShow - 08-04-19 (Som)_small.mp4" controls="true" width="100%"></video>
+<video src="SlideShow - 08-04-19 (Som)_small.mp4" controls="true" width="100%" preload="none"></video>
