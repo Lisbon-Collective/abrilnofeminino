@@ -36,13 +36,13 @@ custom:
 A Casa da Escrita encheu-se de gente para assistir às conversas programadas para a primeira semana de “ABRIL NO FEMININO”. **“Mulheres e Ciência”, reuniu Eugénia Cunha, Helena Freitas e Paula Santana, num encontro sabiamente conduzido por Alexandre Quintanilha.** Memórias pessoais e histórias partilhadas, num registo informal, simples e intimista. Uma sessão estimulante e enriquecedora para todos os presentes.
 
 <div class="col-12">
-  <video src="SlideShow - 04-04-19 (Som).mp4" class="col-12" width="100%" controls="true"></video>
+  <video src="SlideShow - 04-04-19 (Som)_small.mp4" class="col-12" width="100%" controls="true"></video>
 </div>
  
 
 No dia seguinte, foi a vez de “**Mulheres Viajantes”, com Sónia Serrano, à conversa com Maria José Goulão.** O gosto pela aventura, o prazer da descoberta, o risco da viagem…e sempre o encontro consigo mesmo. Porque “mais importante que o destino, é a viagem”. Mais um momento privilegiado de escuta e cativante abordagem do tema proposto. 
 
-<div class="col-12"><video src="SlideShow - 05-04-19 (Som) Final.mp4" class="col-12" width="100%"></video></div>
+<div class="col-12"><video src="SlideShow - 05-04-19 (Som) Final_small.mp4" class="col-12" width="100%"></video></div>
 
 
 <h3>4 de Abril</h3>
