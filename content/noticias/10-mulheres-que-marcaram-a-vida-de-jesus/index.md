@@ -1,7 +1,7 @@
 ---
-date: 2019-02-15T23:33:21Z
+date: 2019-04-08T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
 - src: images/
   name: "header"
@@ -18,7 +18,7 @@ categorias:
 ciclo: 
 
 title: "10 mulheres que marcaram a vida de Jesus"
-weight: 5
+
 options:
   hideFooter: false
   hideSubscribeForm: false

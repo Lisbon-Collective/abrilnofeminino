@@ -1,5 +1,5 @@
 ---
-date: 2019-02-15T01:00:21Z
+date: 2019-02-02T01:00:21Z
 description: ""
 draft: false
 resources:
@@ -17,7 +17,7 @@ categorias:
 ciclo: 
 
 title: Hoje começou "Abril&nbsp;no&nbsp;Feminino"
-weight: 1
+
 options:
   hideFooter: false
   hideSubscribeForm: false

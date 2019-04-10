@@ -1,7 +1,7 @@
 {{ define "bodyclasses" }} list noticias  {{ .Section }}  {{ end }}
 
 {{ define "main" }}
-	{{ range $i, $e := .Data.Pages.ByWeight }}
+	{{ range $i, $e := .Data.Pages }}
 <div id="two">
 	<div class="wrapper {{ if modBool (add $i 1) 2 }}style3{{else}}style3{{end}}">
 		<div class="inner">

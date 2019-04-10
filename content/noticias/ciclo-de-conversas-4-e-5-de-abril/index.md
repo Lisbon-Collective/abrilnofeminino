@@ -1,5 +1,5 @@
 ---
-date: 2019-02-15T02:00:21Z
+date: 2019-02-05T02:00:21Z
 description: ""
 draft: false
 resources:
@@ -18,7 +18,7 @@ categorias:
 ciclo: 
 
 title: Ciclo de Conversas 4&nbsp;e&nbsp;5&nbsp;de&nbsp;Abril
-weight: 2
+
 options:
   hideFooter: false
   hideSubscribeForm: false

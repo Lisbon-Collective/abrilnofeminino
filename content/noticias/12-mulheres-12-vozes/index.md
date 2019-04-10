@@ -1,7 +1,7 @@
 ---
-date: 2019-02-15T23:33:21Z
+date: 2019-02-06T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
 - src: images/Foto 14.jpg
   name: "header"
@@ -18,7 +18,7 @@ categorias:
 ciclo: 
 
 title: 12 Mulheres, 12 Vozes
-weight: 3
+
 options:
   hideFooter: false
   hideSubscribeForm: false
@@ -43,71 +43,53 @@ Findo o passeio, recolhemos ao Café Santa Cruz, para uma conversa com Rita Carm
 Ficam as imagens dessa bela manhã!
 
 
-
-
 <div class="image fit">
-  <figure><img src="images/56247962_10217366007159679_7156494939201732608_o.jpg" alt=""></figure>
+  <figure><img src="galeria/01.jpg" alt=""></figure>
 </div>
 <div class="image fit">
-  <figure><img src="images/56248094_10217366006679667_1033248700534620160_o.jpg" alt=""></figure>
+  <figure><img src="galeria/02.jpg" alt=""></figure>
 </div>
 <div class="image fit">
-  <figure><img src="images/56255634_10217366005719643_5716808359550648320_o.jpg" alt=""></figure>
-</div>
-
-<div class="image fit">
-  <figure><img src="images/Márcia.jpg" alt=""></figure>
-</div>
-
-
-
-<div class="image fit">
-  <figure><img src="images/56315679_10219104380059193_6087041996529074176_n.jpg" alt=""></figure>
-</div>
-
-
-<div class="image fit">
-  <figure><img src="images/56365823_10219104365658833_1992436840442888192_n.jpg" alt=""></figure>
-</div>
-
-
-
-<div class="image fit">
-  <figure><img src="images/56377080_10217366012639816_7913616245201567744_o.jpg" alt=""></figure>
-</div>
-
-
-<div class="image fit">
-  <figure><img src="images/56398330_10217366013279832_2923501276798910464_o.jpg" alt=""></figure>
+  <figure><img src="galeria/03.jpg" alt=""></figure>
 </div>
 <div class="image fit">
-  <figure><img src="images/56408540_10217366009919748_9081186066483904512_o.jpg" alt=""></figure>
+  <figure><img src="galeria/04.jpg" alt=""></figure>
 </div>
 <div class="image fit">
-  <figure><img src="images/56513035_10217366011239781_431732779768610816_o.jpg" alt=""></figure>
+  <figure><img src="galeria/05.jpg" alt=""></figure>
 </div>
 <div class="image fit">
-  <figure><img src="images/56513139_10219104368738910_8163367154649923584_n.jpg" alt=""></figure>
+  <figure><img src="galeria/06.jpg" alt=""></figure>
 </div>
 <div class="image fit">
-  <figure><img src="images/56536210_10219104031530480_5014086980472930304_n.jpg" alt=""></figure>
+  <figure><img src="galeria/07.jpg" alt=""></figure>
 </div>
 <div class="image fit">
-  <figure><img src="images/56547313_10217366011679792_2810500992183828480_o.jpg" alt=""></figure>
+  <figure><img src="galeria/08.jpg" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="galeria/09.jpg" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="galeria/10.jpg" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="galeria/11.jpg" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="galeria/12.jpg" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="galeria/13.jpg" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="galeria/14.jpg" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="galeria/15.jpg" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="galeria/16.jpg" alt=""></figure>
 </div>
 
-<div class="image fit">
-  <figure><img src="images/56659917_10217366005919648_7212896754675482624_o.jpg" alt=""></figure>
-</div>
-
-<div class="image fit">
-  <figure><img src="images/56832517_10217366008159704_1414331167204704256_o.jpg" alt=""></figure>
-</div>
-
-<div class="image fit">
-  <figure><img src="images/56904996_10217366010039751_3062644894200758272_o.jpg" alt=""></figure>
-</div>
-
-<div class="image fit">
-  <figure><img src="images/56949208_10217366004519613_2462177121548632064_o.jpg" alt=""></figure>
-</div>
+Copyright das fotos: Rita Carmo e Teresa Soares
