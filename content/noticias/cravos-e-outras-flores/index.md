@@ -47,11 +47,14 @@ Foi na magnífica Sala São Tomás, no Seminário Maior de Coimbra, que o numero
 <div class="image fit">
   <figure>
     <img src='images/Teresa Soares 1.jpg' alt='Teresa Soares 1'  />
+    <figcaption>© Teresa Matos</figcaption>
   </figure>
 </div>
 <div class="image fit">
   <figure>
     <img src='images/Teresa%20Soares%203.jpg' alt='Teresa Soares 3'  />
+        <figcaption>© Teresa Matos</figcaption>
+
   </figure>
 </div>
 <div class="image fit">

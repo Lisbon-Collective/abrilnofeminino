@@ -36,7 +36,7 @@ custom:
 **13 de Abril, 16h00**    
 
 com Letícia Callou, Patrícia Pedrosa e Susana Lobo    
-Moderação de Paula Chaves
+
 
 Organização: Mulheres na Arquitectura
 
@@ -50,7 +50,7 @@ Entrada Livre
 
   
 <p>com Letícia Callou, Patrícia Pedrosa, Susana Lobo <br>   
-  Moderação de Paula Chaves</p>
+</p>
   
 <p><strong>Organização: Mulheres na Arquitectura</strong></p>
   
@@ -91,15 +91,6 @@ Entrada Livre</p></div>
   </div>
 </div>
 
-### Paula Chaves
-
-<div class="row">
-  <div class="col-12">
-    <div class="image right"><img src="index.assets/PaulaChaves.JPG" alt=""></div>
-    <p>Nasceu em 1996, no Recife, Brasil. Estudante do quarto ano do Mestrado de Arquitetura da Universidade de Coimbra. Co-fundou o grupo de estudos feministas Fem.in, que promoveu eventos que visavam discutir questões de género no meio académico.</p>
-    
-  </div>
-</div>
 
 
 <style>.image.main{display:none;}</style>
