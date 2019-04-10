@@ -35,6 +35,10 @@ custom:
 
 <p>Foi na magnífica Sala São Tomás, no Seminário Maior de Coimbra, que o numeroso público presente escutou o belíssimo concerto de música barroca, protagonizado por Cândida Matos (cravo) e Leonor Barbosa de Melo (soprano). Mostrar a diversidade do feminino celebrada na música, foi o propósito deste recital que juntou pela primeira vez as duas intérpretes. Cantar as várias vertentes da Mulher, explorando o tema do amor e interpretar obras escritas por algumas compositoras da época barroca que escreveram música de inegável qualidade e beleza, constituiu o alinhamento de um recital que deixou memória, pela qualidade, talento e competência exibidas. Que este concerto seja o primeiro de muitas parcerias futuras.  </p>
 
+<!--more-->
+
+Foi na magnífica Sala São Tomás, no Seminário Maior de Coimbra, que o numeroso público presente escutou o belíssimo concerto de música barroca, protagonizado por Cândida Matos (cravo) e Leonor Barbosa de Melo (soprano). Mostrar a diversidade do feminino celebrada na música, foi o propósito deste recital que juntou pela primeira vez as duas intérpretes. Cantar as várias vertentes da Mulher, explorando o tema do amor e interpretar obras escritas por algumas compositoras da época barroca que escreveram música de inegável qualidade e beleza, constituiu o alinhamento de um recital que deixou memória, pela qualidade, talento e competência exibidas. Que este concerto seja o primeiro de muitas parcerias futuras.
+
 <div class="image fit">
   <figure>
     <img src='images/IMG-20190406-WA0000.jpg' alt='IMG-20190406-WA0000'  />
