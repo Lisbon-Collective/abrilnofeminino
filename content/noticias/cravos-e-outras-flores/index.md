@@ -1,7 +1,7 @@
 ---
 date: 2019-02-15T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
 - src: images/
   name: "header"
@@ -18,7 +18,7 @@ categorias:
 ciclo: 
 
 title: Cravo(s) e Outras Flores
-
+weight: 4
 options:
   hideFooter: false
   hideSubscribeForm: false

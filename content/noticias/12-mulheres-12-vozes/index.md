@@ -18,7 +18,7 @@ categorias:
 ciclo: 
 
 title: 12 Mulheres, 12 Vozes
-
+weight: 3
 options:
   hideFooter: false
   hideSubscribeForm: false

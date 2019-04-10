@@ -18,7 +18,7 @@ categorias:
 ciclo: 
 
 title: "10 mulheres que marcaram a vida de Jesus"
-
+weight: 5
 options:
   hideFooter: false
   hideSubscribeForm: false
