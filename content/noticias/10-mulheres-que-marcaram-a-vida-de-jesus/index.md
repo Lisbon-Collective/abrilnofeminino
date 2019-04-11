@@ -36,4 +36,23 @@ Foi pequena a sala para acolher, no magnífico espaço da **Casa da Escrita**, t
 
 <video src="SlideShow - 08-04-19 (Som)_small.mp4" controls="true" width="100%" preload="none"></video>
 
+<div class="image fit">
+  <figure><img src="images/3_optim.JPG" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="images/4_optim.JPG" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="images/6_optim.JPG" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="images/8_optim.JPG" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="images/9_optim.JPG" alt=""></figure>
+</div>
+<div class="image fit">
+  <figure><img src="images/10_optim.JPG" alt=""></figure>
+</div>
+
 © Nelson Gomes
