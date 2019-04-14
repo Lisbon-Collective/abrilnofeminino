@@ -19,7 +19,7 @@ ciclo:
 
 title: Cravo(s) e Outras Flores
 
-weight: 4
+
 options:
   hideFooter: false
   hideSubscribeForm: false
