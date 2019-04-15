@@ -47,12 +47,26 @@ arquitecto João Mendes Ribeiro.
 
 Fotos de Nelson Gomes.
 
-![IMG_0739](index.assets/IMG_0739.JPG)
+<div class="image fit">
+  <figure><img src="index.assets/IMG_0766.JPG" alt=""></figure>
+</div>
 
-![IMG_0747](index.assets/IMG_0747.JPG)
 
-![IMG_0756](index.assets/IMG_0756.JPG)
+<div class="image fit">
+  <figure><img src="index.assets/IMG_0739.JPG" alt=""></figure>
+</div>
 
-![IMG_0766](index.assets/IMG_0766.JPG)
 
-![IMG_0771](index.assets/IMG_0771.JPG)
+
+<div class="image fit">
+  <figure><img src="index.assets/IMG_0756.JPG" alt=""></figure>
+</div>
+
+<div class="image fit">
+  <figure><img src="index.assets/IMG_0771.JPG" alt=""></figure>
+</div>
+
+
+<div class="image fit">
+  <figure><img src="index.assets/IMG_0747.JPG" alt=""></figure>
+</div>
