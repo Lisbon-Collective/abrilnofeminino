@@ -46,3 +46,5 @@ custom:
 <div class="image fit">
   <figure><img src="images/5.JPG" alt=""></figure>
 </div>
+
+Fotos de Nelson Gomes.
