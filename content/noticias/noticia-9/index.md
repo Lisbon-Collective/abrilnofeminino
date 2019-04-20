@@ -36,6 +36,21 @@ custom:
 Foram muitos aqueles que se deslocaram ao Museu Nacional de Machado de Castro para seguir a **visita orientada** por **Carlos Santos, Pedro Ferrão e Virgínia Gomes**. Três peças escolhidas, para conhecer em detalhe, apresentadas por quem sabe e estuda a matéria: *Agripina-a-Antiga, Rainha Santa Isabel e Josefa d’Óbidos,* “Três Mulheres Singulares”. Depois, um salto à sala do Serviço Educativo, que foi pequena para tanta gente, para assistir ao **lançamento de “Coimbra”, de Catarina Sobral**, editado pela Pato Lógico. Na presença da autora, desvendaram-se as escolhas e o seu motivo, dos lugares da cidade eleitos por Catarina e ilustrados no seu livro/mapa. Entre (muitos) autógrafos e aquisições do livro que se apresentou pela primeira vez ao público em Portugal, ainda a oportunidade de ver ou rever a **exposição “Num milionésimo de segundo”,** com ilustrações de “Achimpa”, “Greve”, “Impossível”, “Tão tão  grande”, “Vazio”, “O meu avô” e “Coimbra”. Uma tarde cheia de cor e arte!
 
 <div class="image fit">
+  <figure><img src="museu/FB_IMG_1555528263532.jpg" alt=""></figure>
+</div>
+
+<div class="image fit">
+  <figure><img src="museu/FB_IMG_1555528277546.jpg" alt=""></figure>
+</div>
+
+<div class="image fit">
+  <figure><img src="museu/FB_IMG_1555528309171.jpg" alt=""></figure>
+</div>
+
+
+Fotos do Museu Nacional de Machado de Castro
+
+<div class="image fit">
   <figure><img src="images/DSC_0018.JPG" alt=""></figure>
 </div>
 <div class="image fit">
@@ -61,17 +76,3 @@ Foram muitos aqueles que se deslocaram ao Museu Nacional de Machado de Castro pa
 </div>
 
 Fotos de Nelson Gomes.
-
-<div class="image fit">
-  <figure><img src="museu/FB_IMG_1555528309171.jpg" alt=""></figure>
-</div>
-
-<div class="image fit">
-  <figure><img src="museu/FB_IMG_1555528263532.jpg" alt=""></figure>
-</div>
-
-<div class="image fit">
-  <figure><img src="museu/FB_IMG_1555528277546.jpg" alt=""></figure>
-</div>
-
-Fotos do Museu Nacional de Machado de Castro
