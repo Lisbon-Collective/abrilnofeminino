@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Cartas a uma ditadura
+title: Cartas a uma Ditadura
 
 options:
   hideFooter: false
