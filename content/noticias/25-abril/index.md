@@ -41,3 +41,5 @@ cidadania mais elementares simplesmente eram negados.  Tempos de miséria, desig
 
 
 <video src="Slide Show - 23-04-19.mp4" class="col-12" width="100%" preload="metadata" controls="true"></video>
+
+Créditos de Nelson Gomes
