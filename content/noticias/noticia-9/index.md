@@ -48,7 +48,6 @@ Foram muitos aqueles que se deslocaram ao Museu Nacional de Machado de Castro pa
 </div>
 
 
-Fotos do Museu Nacional de Machado de Castro
 
 <div class="image fit">
   <figure><img src="images/DSC_0018.JPG" alt=""></figure>
@@ -75,4 +74,5 @@ Fotos do Museu Nacional de Machado de Castro
   <figure><img src="images/DSC_0214.JPG" alt=""></figure>
 </div>
 
-Fotos de Nelson Gomes.
+
+Crédito das fotos: Museu Nacional de Machado de Castro
