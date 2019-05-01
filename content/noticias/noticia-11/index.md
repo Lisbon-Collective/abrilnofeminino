@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: "Para os mais novos<br>“MULHERES EXTRAORDINÁRIAS”"
+title: "Para os mais novos<br>“MULHERES INCRÍVEIS"
 
 options:
   hideFooter: false
