@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: "Para os mais novos<br>“MULHERES INCRÍVEIS"
+title: "Para os mais novos<br>“MULHERES INCRÍVEIS”"
 
 options:
   hideFooter: false
@@ -41,5 +41,6 @@ Fechámos a programação de “Abril no Feminino” com o futuro diante de nós
   <video src="build.mp4" class="col-12" width="100%" controls="true" preload="none"></video>
 </div>
 
+Créditos de Márcio César
 
 ​	
