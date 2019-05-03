@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: 2020 Com “Abril no Feminino”…
+title: 2020 com “Abril no Feminino”…
 
 options:
   hideFooter: false
