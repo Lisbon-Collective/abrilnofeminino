@@ -26,7 +26,7 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
+
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
