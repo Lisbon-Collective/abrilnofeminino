@@ -40,4 +40,6 @@ Permanecem várias lutas para futuro. Uma delas, é convencer diferentes interlo
 
 Oxalá nos possamos encontrar de novo em 2020!
 
+Crédios de Nelson Gomes, Teresa Soares, Museu Nacional Machado de Castro e Márcio César.
+
 {{< gallery folder="gallery" title="-" >}}
