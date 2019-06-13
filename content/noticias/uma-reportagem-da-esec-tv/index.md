@@ -1,5 +1,5 @@
 ---
-date: 2019-02-15T23:33:21Z
+date: 2019-06-12T23:33:21Z
 description: ""
 draft: false
 resources:
@@ -26,7 +26,7 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
+
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
@@ -34,5 +34,5 @@ custom:
 ---
 
 <div class="col-12">
-  <video src="Abril no Feminino _ Coimbra-Nvlsi8TdfC0.mp4" class="col-12" width="100%" controls="true" preload="none"></video>
+  <video src="/noticias/uma-reportagem-da-esec-tv/Abril no Feminino _ Coimbra-Nvlsi8TdfC0.mp4" class="col-12" width="100%" controls="true" preload="none"></video>
 </div>
