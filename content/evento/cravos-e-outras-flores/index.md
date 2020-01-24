@@ -116,33 +116,24 @@ Seminário Maior, Sala São Tomás
     <p>Iniciou os seus estudos musicais com o piano, tendo estudado
       com Mário de Sousa Santos, Joel Canhão, Campos Coelho, Tereza Vieira e Olga
       Pratts.</p>
-    
     <p>Posteriormente dedicou-se ao cravo, tendo iniciado os seus estudos no
       Conservatório Nacional, com Cremilde Rosado Fernandes. Seguidamente estudou
       com Ton Koopman no Sweelinck Conservatorium Amsterdam, Holanda, e com Ketil
       Haugsand na Academia de Música Antiga de Lisboa. Realizou masterclasses com os cravistas Robert Wooley, Jacques Ogg, Hans Knut e Kenneth Weiss.</p>
-    
     <p>Em 1999, fundou, juntamente com o flautista Olavo Tengner Barros, o grupo Contraverso e, presentemente, integra o Ensemble D. João V, com a soprano Sandra Medeiros, ambos agrupamentos dedicados à interpretação da música barroca em instrumentos da época. Criou, com o cravista Júlio Dias, o Duocembalo, duo de cravos.</p>
-    
     <p>Foi cravista assistente dos Cursos Internacionais da Academia de Música
       Antiga de Lisboa. Colaborou com a Orquestra do Norte, Orquestra Sinfónica
       Portuguesa, Orchestra Utópica, Segréis de Lisboa, Orquestra de Câmara de
       Aveiro, Orquestra Sinfonia B de Lisboa, Portugalante Ensemble e Solistas da Orquestra Gulbenkian.</p>
-    
     <p>Participou, entre outros, nos Festivais de Música da Costa do Estoril, Festival Ibérico de Badajoz, Festival de Órgão de Mafra, Festival de Música da Póvoa do Varzim, Temporada de Música Antiga de Oeiras, Festival de Música Antiga de Ponta Delgada, Açores, Encontros de Música Antiga de Loulé, Concertos Comentados do Foyer no Teatro Nacional de S. Carlos, Festival Cistermúsica de Alcobaça, e Concertos no Museu da Fundação Calouste Gulbenkian e Temporada de Música da Fundação Calouste Gulbenkian 2018.</p>
-    
     <p>Realizou um trabalho pioneiro no ensino do cravo no nosso país, tendo criado as Classes de Cravo nos Conservatórios de Música de Aveiro e de Coimbra. Desde 2000 é Professora de Cravo na Escola de Música do Conservatório Nacional de Lisboa.</p>
-    
     <p>Realizou o Mestrado em Cravo na Escola Superior de Música de Lisboa, projecto artístico sobre as Peças de Carácter de Carl Philipp Emanuel Bach.</p></div>
 </div>
-
 <div class="row"><div class="col-12">
   <h3>Leonor Barbosa de Melo</h3>
-
   <div class="image right">
     <figure><img src="images/LBM-157_small.jpg" alt=""></figure>
   </div>
   <p>A soprano conimbricense é licenciada e Mestre em Canto e Performance Musical pela Universidade Católica (orientada por António Salgado e Sofia Serra) e já integra no seu currículo não só a participação em vários concertos a solo com orquestras nacionais de renome e sob a batuta de maestros de excelência, como em gravações de CDs (destacando-se a obra «Shadow Circles» de V. Mendonça com o Remix Ensemble e Pedro Neves). Além disso, angariou diversos prémios (como o primeiro prémio do concurso da Academia do Fundão ou o terceiro prémio ex-aequo do Concurso de Canto da FRP). A par da sua carreira a solo, é cantora residente do Coro Casa da Música e maestrina do Coro dos Pequenos Cantores de Coimbra. Procura sempre ir aprendendo com cantores de excelência, tendo já aperfeiçoado a sua técnica vocal com Monserrat Caballé, Elisabete Matos (com quem trabalha regularmente), Rudolf Piernay, Anna Tomowa-Sintow, Pamela Armstrong, entre outros.</p>
 </div></div>
-
 <style>.image.main{display:none;</style>

@@ -58,8 +58,6 @@ Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
       <figcaption>Surma, © Rita Carmo</figcaption>
     </div>
     <p><strong>6 de Abril</strong> </p>
-
-    
     <p>Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)</p>
     <p><strong>11h00 Inauguração (Largo da Portagem)</strong></p>
     <p><strong>Montras dos espaços comerciais:</strong> </p>
@@ -67,7 +65,6 @@ Baixa de Coimbra (Ruas Ferreira Borges e Visconde da Luz)
     <p><strong>Até 30 de Abril</strong></p>
   </div>
 </div>
-
 <div class="image right">
   <figure>
   <img src="index.assets/RITA CARMO©jose sena goulao.jpg" alt="Rita Carmo" />
