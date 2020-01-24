@@ -74,11 +74,9 @@ Bilhetes à venda no local, no próprio dia, a partir das 21h00.
 <h3>Apresentação de Né Ladeiras</h3>
 <div class="row">
   <div class="col-12">
-    
     <p>Iniciou a sua carreira musical com a fundação, em 1974, da Brigada Victor Jara. Colabora com os Trovante e integra, no início da década de oitenta, um dos projectos mais inovadores da música portuguesa, a Banda do Casaco. O primeiro trabalho a solo de Né Ladeiras,  <em>Alhur</em>, é editado em 1982 pela Valentim de Carvalho, seguindo-se <em>Sonho Azul,</em> com produção de Pedro Ayres Magalhães. Participa no Festival RTP da Canção, de 1986 com “Dessas Juras que se fazem”, um inédito de Carlos Tê e Rui Veloso. Em 1989 lança um álbum dedicado à atriz sueca Greta Garbo, “Corsária”, com produção e arranjos de Luís Cília. Em 1994, Né Ladeiras edita o seu quarto álbum, com produção de Luís Pedro Fonseca, <em>Traz-os-Montes,</em> o qual resulta de dois anos de pesquisa de material relacionado com a música e a cultura tradicionais transmontana, tendo recebido o Prémio José Afonso e é justamente considerado um dos melhores discos de sempre da música portuguesa. Edita ainda <em>Espanta Espíritos</em> (1995) disco de natal idealizado e produzido por Manuel Faria, <em>Todo Este Céu</em> (1997), inteiramente consagrado às canções de Fausto. Em 2001 chega <em>“Da Minha Voz”,</em> com várias músicas de Chico César e participação de Ney Matogrosso, apresentado no Brasil e com espetáculos realizados em São Paulo. Mais recentemente, em 2016, lançou o CD &quot;Outras vidas&quot;, dedicado a várias mulheres que marcaram a sua vivência e a sua carreira como Avita, Greta Garbo, Frida Khalo, Madre Teresa, Isabelle Eberhardt ou Violeta Parra. A música tem a sua assinatura, com letras de Tiago Torres da Silva e produção de Amadeu Magalhães. </p>
     <p>Foram muitas e diversas as suas colaborações com outros artistas, de que é exemplo o disco editado em 2002, “Anamar, Né Ladeiras, Pilar – Ao Vivo” e participações especiais em vários trabalhos discográficos.</p>
   </div>
 </div>
-
 <style>.image.main{display:none;}</style>
  

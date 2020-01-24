@@ -60,7 +60,6 @@ Bilhetes à venda no local, no próprio dia, a partir das 21h00
   <p><strong>Documentário, Musical</strong></p>
   <p><strong>Apresentação de Rui Moutinho</strong></p>
 </div>
-
 <div class="col-4">
   <p>17 de Abril</p>
   <h3>“Violeta foi para o Céu”</h3>
