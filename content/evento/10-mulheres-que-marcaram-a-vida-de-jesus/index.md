@@ -54,10 +54,9 @@ No mapa existencial de Jesus não havia fronteiras. Nunca aprendeu a conjugar a 
 <div class="row">
   <div class="col-12">
     <h3>Padre Nuno Santos</h3>
-    
     <div class="image right">
       <img src="images/NS.jpg" alt="">
-    </div>
+</div>
     
 Reitor do Seminário Maior de Coimbra, acumulando com outros cargos, entre os quais: Director do Secretariado Diocesano da Pastoral Vocacional; Diretor do Pré-Seminário; Diretor do Instituto Dom Miguel da Anunciação; Assistente do Secretariado Diocesano da Pastoral Familiar; coordenador das Celebrações Diocesanas; membro do Conselho Episcopal; membro do Secretariado Coordenação Pastoral; membro do Colégio dos Consultores; membro do Conselho Presbiteral; membro do Cabido da Sé de Coimbra.
 
