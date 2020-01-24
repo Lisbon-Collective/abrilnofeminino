@@ -79,26 +79,21 @@ Produção: Cláudia do Vale
 
 <div class="row">
   <div class="col-12">
-    
     <h3>Cláudia Morais</h3>
-    
     <div class="image right">
       <figure><img src="index.assets/claudia_morais.jpg" alt=""></figure>
     </div>
     <p>Mestre em Estudos Artísticos pela Faculdade de Letras da Universidade de Coimbra, iniciou a sua vida profissional na área da educação pela arte. Implementou um serviço educativo no Teatro-Cine de Pombal, esteve um ano a assistir o Serviço Educativo do Museu da Ciência da UC e foi convidada a colaborar com a CultRede/CultIdeias (Lisboa) na produção de conteúdos e na concepção e dinamização de actividades no seu sector educativo, implementadas em escolas e bibliotecas de todo o país. Actualmente, tem colaborações pontuais com a Casa da Esquina (Coimbra) e com a Camaleão (Coimbra) nas áreas da educação e mediação de públicos, tarefa que tem sempre pautado a sua integração na equipa do Teatro Académico de Gil Vicente (Coimbra). Paralelamente, colaborou com os Estudos Curatoriais da UC com actividades para a infância, bem como com a Talkie Walkie (Porto) no mesmo âmbito.</p>
   </div>
 </div>
-
 <h3>A Camaleão – Associação Cultural</h3>
-
 <div class="row">
   <div class="col-12">
     <div class="image right">
   <figure><img src="index.assets/camaleao2.jpg" alt=""></figure>
 </div>
 <p>É uma associação sem fins lucrativos, sediada em Coimbra, cujos objectivos são a produção e realização de eventos culturais. Foi constituida em 1999 por profissionais de diversas áreas artísticas (da arte dramática e de contar histórias à escrita poética e para cena; da imagem à música) no âmbito da sua prática e do seu estudo (da sociologia do espectáculo aos estudos de teatro).</p>
-    
-    <p>Desde a sua criação produziu e apresentou espectáculos de teatro, música e poesia, realizou exposições, organizou e participou em formações associadas às artes performativas, e, desde 2002, desenvolve também um trabalho sistemático na área dos contadores de histórias (formação e sessões de contos).</p>
+<p>Desde a sua criação produziu e apresentou espectáculos de teatro, música e poesia, realizou exposições, organizou e participou em formações associadas às artes performativas, e, desde 2002, desenvolve também um trabalho sistemático na área dos contadores de histórias (formação e sessões de contos).</p>
   </div>
 </div>
 
