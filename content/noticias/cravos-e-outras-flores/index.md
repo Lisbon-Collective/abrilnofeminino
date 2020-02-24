@@ -2,12 +2,6 @@
 date: 2019-02-06T04:00:21Z
 description: ""
 draft: false
-resources:
-- src: images/
-  name: "header"
-- src: "gallery/*.jpg"
-  name: gallery-:counter
-  title: gallery-title-:counter
 slug:
 subtitle: 
 

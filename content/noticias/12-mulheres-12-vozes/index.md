@@ -5,9 +5,6 @@ draft: false
 resources:
 - src: images/Foto 14.jpg
   name: "header"
-- src: "gallery/*.jpg"
-  name: gallery-:counter
-  title: gallery-title-:counter
 slug:
 subtitle: 
 
