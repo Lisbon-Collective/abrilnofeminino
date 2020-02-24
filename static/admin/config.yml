@@ -1,0 +1,63 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "evento" # Used in routes, e.g., /admin/collections/blog
+    label: "Evento" # Used in the UI
+    folder: "content/evento" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Sub-Título", name: "subtitle", widget: "string", required: false}
+      - {label: "Data de Publicação", name: "date", widget: "datetime" }
+      - {label: "Data do Evento", name: "eventdate", widget: "datetime" }
+      - {label: "Foto de Destaque", name: "image", widget: "image"}
+      - {label: "Copyright", name: "copyright", widget: "string", required: false}
+      - {label: "Texto de Primeiro Nível", name: "paragraph", widget: "markdown"}
+      - label: "Alinhamento de Primeiro Nível"
+        name: "imagealign"
+        widget: "select"
+        options: 
+          - { label: "esquerda", value: "left" }
+          - { label: "direita", value: "right" }
+        
+      - {label: "Categoria", name: italic, widget: string, required: false}
+      - {label: "Corpo do Texto", name: "body", widget: "markdown"}
+
+  - name: "pagina" 
+    label: "pagina" 
+    folder: "content/pagina" 
+    create: true 
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
+    fields: 
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "url", name: "url", widget: string, required: false}
+      - {label: "Data de Publicação", name: "date", widget: "datetime"}
+      - {label: "Foto de Destaque", name: "image", widget: "image", required: false}
+      - {label: "Corpo do Texto", name: "body", widget: "markdown"}
+
+  - name: "noticia" 
+    label: "noticia" 
+    folder: "content/noticias" 
+    create: true 
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" 
+    fields: 
+      - {label: "Título", name: "title", widget: "string"}
+      - {label: "Data de Publicação", name: "date", widget: "datetime"}
+      - {label: "Foto de Destaque", name: "image", widget: "image", required: false}
+      - {label: "Corpo do Texto", name: "body", widget: "markdown"}
+  - name: "local" # Used in routes, e.g., /admin/collections/blog
+    label: "local" # Used in the UI
+    folder: "content/local" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields: # The fields for each document, usually in front matter
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Corpo do Texto", name: "body", widget: "markdown"}
