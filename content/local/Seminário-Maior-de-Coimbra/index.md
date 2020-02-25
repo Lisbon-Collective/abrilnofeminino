@@ -3,7 +3,7 @@ date: 2019-02-16T00:02:38Z
 description: ""
 draft: false
 resources: 
-- src: DJI_0148.JPG
+- src: DJI_0148.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
