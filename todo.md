@@ -1,5 +1,5 @@
 - [x] configurar netlify
-- [ ] configurar analytics
+- [x] configurar analytics
 - [ ] configurar dominino
 - [ ] mover conteúdo para subdominio
 - [ ] 
