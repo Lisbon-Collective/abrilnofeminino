@@ -3,6 +3,8 @@ date: 2019-02-16T00:02:38Z
 description: ""
 draft: false
 resources: 
+- src: images/arcodoalmedina-768x768.png
+  name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
@@ -32,7 +34,9 @@ custom:
 ---
 
 Ruas Ferreira Borges e Visconde da Luz
+
 <!--more-->
+
 <div class="row aln-center">
   <div class="col-6">
     <div class="image fit"><img src="index.assets/Comur-Conserveir de Portugal.jpg" alt="Comur-Conserveira de Portugal" /> </div>

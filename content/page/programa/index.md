@@ -1,0 +1,48 @@
+---
+date: 2019-02-15T23:33:21Z
+description: ""
+draft: false
+resources:
+- src: images/
+  name: "header"
+- src: "gallery/*.jpg"
+  name: gallery-:counter
+  title: gallery-title-:counter
+slug:
+subtitle: 
+
+tags:
+  -
+categorias:
+  - 
+ciclo: 
+
+title: Apresentação e Calendário
+
+options:
+  hideFooter: false
+  hideSubscribeForm: false
+  showHeader: true
+  unlisted: false
+scripts:
+  -
+weight: 20190402
+custom:
+  copyright:
+  data: 2019-04-02T17:35:00Z
+  local: 
+---
+
+<div class="image fit"><img src="images/v2_Desdobravel_ANF3.jpg" alt=""></div>
+
+<div class="image fit"><img src="images/v2_Desdobravel_ANF2.jpg" alt=""></div>
+
+
+<div class="image fit">
+  <a href="images/calendario.jpg">
+    <img src="images/calendario.jpg" alt="Calendário de eventos Abril no Feminino"></a>
+  </div>
+
+<style>
+  #main > div > div > header > h1{display: none;}
+</style>
