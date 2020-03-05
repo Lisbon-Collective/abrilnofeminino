@@ -1,4 +1,5 @@
-baseURL = "https://abrilnofeminino.pt/"
+# baseURL = "https://abrilnofeminino.pt/"
+baseURL = "https://clever-perlman-069d0d.netlify.com"
 languageCode = "pt-pt"
 title = "Abril No Feminino"
 theme = "abrilnofeminino"
