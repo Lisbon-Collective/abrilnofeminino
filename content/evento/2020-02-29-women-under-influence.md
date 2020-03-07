@@ -12,8 +12,6 @@ paragraph: >-
   compositor-pianista Filipe Raposo.
 
 
-
-
   **Seminário Maior, Sala São Tomás**
 
 
@@ -27,40 +25,33 @@ paragraph: >-
 
 
   **Venda de bilhetes no local, dia 4, a partir das 17h00.**
-
-
-  <!--EndFragment-->
 imagealign: left
 italic: MÚSICA
 ---
 Celebrada internacionalmente pelo seu trabalho no repertório barroco e mozartiano, Ana Quintans aceitou o desafio do Festival de Sintra para conceber um programa inesperado e insólito: um cruzamento de estilos e de épocas, que a confrontará nas suas alteridades artísticas e nos levará a uma viagem pelo mundo íntimo do *songbook* feminino. Agora a estreia deste projecto em Coimbra, no “Abril no Feminino”.
 
-
-
 *… Ana Quintans, a grande estrela portuguesa do canto barroco. Tudo nela é perfeito (...) como se a música fosse uma extensão do corpo!*\
 **Expresso**
 
-*And although her vamping sex-kitten characterisation seems superficial, Ana Quintans delivers perhaps the most polished and enjoyable singing of the evening as Amore***The Times**
+\*And although her vamping sex-kitten characterisation seems superficial, Ana Quintans delivers perhaps the most polished and enjoyable singing of the evening as Amore**\*The Times**
 
-*Ana Quintans est une éblouissante Belinda, aux aigus limpides et à l'aisance vocale indéniable***Opéra Magazine**
+\*Ana Quintans est une éblouissante Belinda, aux aigus limpides et à l'aisance vocale indéniable**\*Opéra Magazine**
 
-*Ana Quintans, making her Scottish Opera debut sounded as glam as her A-line costume. Her singing was consistent throughout the evening and consistently fabulous***Opera Britannia**
+\*Ana Quintans, making her Scottish Opera debut sounded as glam as her A-line costume. Her singing was consistent throughout the evening and consistently fabulous**\*Opera Britannia**
 
-*Ana Quintans who plays Despina was definitely the star of the show***Sussex Express**
+\*Ana Quintans who plays Despina was definitely the star of the show**\*Sussex Express**
 
-*Merveilleuse Ana Quintans, le plus joli timbre du plateau***Altamusica.com**
+\*Merveilleuse Ana Quintans, le plus joli timbre du plateau**\*Altamusica.com**
 
-*Quintans afirma-se aqui como uma estrela maior. A ópera roda em seu torno, e a sua presença é tão intensa que consegue preencher sozinha, durante minutos, um palco enorme literalmente vazio. (…) A inteligência artística, o talento de atriz e a graciosidade corporal, perfazem as qualidades que a tornaram na intérprete ideal de Alceste***Público**
+\*Quintans afirma-se aqui como uma estrela maior. A ópera roda em seu torno, e a sua presença é tão intensa que consegue preencher sozinha, durante minutos, um palco enorme literalmente vazio. (…) A inteligência artística, o talento de atriz e a graciosidade corporal, perfazem as qualidades que a tornaram na intérprete ideal de Alceste**\*Público**
 
+![](/images/uploads/ana-quintans.jpg)
 
-
-**Ana Quintans**é licenciada em Escultura e estudou Canto na Escola de Música do Conservatório Nacional, em Lisboa, e no Flanders Operastudio, em Gent, como bolseira da Fundação Calouste Gulbenkian.
+**Ana Quintans** é licenciada em Escultura e estudou Canto na Escola de Música do Conservatório Nacional, em Lisboa, e no Flanders Operastudio, em Gent, como bolseira da Fundação Calouste Gulbenkian.
 
 Iniciou-se profissionalmente em 2005 com a música de Monteverdi, tendo vindo a dedicar a maior parte do seu trabalho à música dos séculos XVII e XVIII, em colaboração com maestros como W. Christie, M. Minkowski, R. Pichon, A. Curtis, V. Dumestre, A. Florio, M. Magalhães, L. Cummings, L. G. Alarcón, E. Onofri, ou I. Bolton. Destacam-se apresentações em prestigiados palcos nacionais e internacionais: Opéra Comique, Théâtre des Champs-Élysées, Festival d’Aix-en-Provence, Festival de Glyndebourne, Concertgebouw de Amesterdão, Ópera de Lyon, Ópera de Rouen, Bayerische Staatsoper (Munique), Teatro Nacional de São Carlos, Alten Oper Frankfurt, Teatro Real de Madrid, Scottish Opera, Victoria Hall (Genebra); Bozar (Bruxelas), Fundação Gulbenkian, Centro Cultural de Belém, Casa da Música, Carnegie Hall (Nova Iorque), *La Folle Journée* (Japão); Helsinki Music Centre, *Maggio Musicale* (Florença), Festival de Viena, Festival de Edimburgo e Mozarteum de Salzburgo. Participou em várias gravações discográficas, incluindo: árias de Albinoni, com Marcello Di Lisa e a orquestra Concerto de’ Cavalieri; *La Spinalba*, *Il Trionfo d’Amore* (F. A. de Almeida) e *As Sementes do fado*, com Os Músicos do Tejo; *Round Time*, de Luís Tinoco, com D. A. Miller e a Orquestra Gulbenkian; *Requiem* de Fauré, com a Sinfonia Varsovia e Michel Corboz.
 
-
-
-**Filipe Raposo**nasceu em Lisboa em 1979. É pianista, compositor e orquestrador.
+**Filipe Raposo** nasceu em Lisboa em 1979. É pianista, compositor e orquestrador.
 
 Iniciou os seus estudos pianísticos no Conservatório Nacional de Lisboa.
 
