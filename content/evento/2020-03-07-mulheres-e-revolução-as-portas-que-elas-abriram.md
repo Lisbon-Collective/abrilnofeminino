@@ -2,7 +2,7 @@
 title: Mulheres e Revolução. As portas que Elas abriram.
 subtitle: com Custódia Martins Guerreiro e Maria Teresa Alves
 date: 2020-03-07T11:25:05.514Z
-eventdate: 2020-03-07T11:25:05.527Z
+eventdate: 2020-04-23T17:30:05.527Z
 eventlocation: Centro Cultural Penedo da Saudade
 paragraph: >-
   *Encontro conduzido por* **Manuela Cruzeiro**
