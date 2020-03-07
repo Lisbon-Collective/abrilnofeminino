@@ -4,6 +4,7 @@ subtitle: com Alice Luxo (Casas Contadas)
 date: 2020-03-07T11:22:36.610Z
 eventdate: 2020-04-04T09:30:36.621Z
 eventlocation: 'Ponto de encontro: escultura "Tricana", Quebra Costas'
+image: /images/uploads/arcodoalmedina-768x768-copy.jpg
 paragraph: >-
   Histórias contadas ao longo de um percurso citadino, para falar da importância
   das mulheres enquanto figuras centrais na dinâmica da cidade: no passado e no
