@@ -2,7 +2,7 @@
 title: '"Com Que Voz" de Nicholas Oulman'
 subtitle: Apresentação de Nicholas Oulman
 date: 2020-02-29T15:59:35.421Z
-eventdate: 2020-02-29T15:59:35.436Z
+eventdate: 2020-02-29T21:30:35.436Z
 eventlocation: Teatro Académico de Gil Vicente
 paragraph: >-
   Alain Oulman foi um dos grandes responsáveis por trazer para a música de
