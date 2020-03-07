@@ -4,6 +4,7 @@ subtitle: ''
 date: 2020-04-30T15:05:49.541Z
 eventdate: 2020-02-29T16:05:49.564Z
 eventlocation: Hotel Quinta das Lágrimas
+image: /images/uploads/image003.jpg
 paragraph: >-
   Personalidade incontornável da nossa gastronomia, é autora da magnífica obra
   “Cozinha Tradicional Portuguesa”, a qual representa um notável contributo para
@@ -35,13 +36,11 @@ italic: GASTRONOMIA
 
 ***Maria de Lourdes Modesto***
 
-
-
 **O livro “Cozinha Tradicional Portuguesa”**conhece a sua primeira edição em Janeiro de 1982 e apresenta uma selecção de 800 receitas, agrupadas por regiões, incluindo os Açores e a Madeira. ***“Desde há vinte anos que me dedico a um lento mas emocionante levantamento do património culinário português. Lento, porque se nos deparam segredos a desvendar, relutâncias a vencer, variantes a ensaiar; tempos, misturas e doseamentos a experimentar. Mas levantamento emocionante, porque se revelam sabedorias seculares, usos, costumes e, sobretudo, imaginação que, as mais das vezes, nos fazem sentir o pulsar de uma vida, de uma família, de uma região, de um país”(…).***
 
 Maria de Lourdes Modesto *(in “Cozinha Tradicional Portuguesa”).*
 
-**Foto Maria de Lourdes**
+![](/images/uploads/image001.jpg)
 
 Iniciou a sua carreira televisiva em 1958, quando, então professora de Trabalhos Manuais no Liceu Francês de Lisboa, foi convidada pela RTP para apresentar um programa de índole cultural (após uma notável prestação na peça de Molière Monsieur de Pourceaugnac, em cuja encenação estaria presente uma equipa da estação). Foi na televisão pública portuguesa que apresentou, ao longo de doze anos, o mais popular programa culinário de que há memória no país. O seu estilo particular, privilegiando o directo e o improviso (foi a pioneira portuguesa do "live cooking") ganhou-lhe inúmeros admiradores. O sucesso do formato, que partia da sua paixão pela cozinha alentejana, levou-a a alargar horizontes e a estudar a culinária francesa e as tradições gastronómicas portuguesas. Escreveu vários livros de cozinha portuguesa, dos quais se destacam a *Grande Enciclopédia da Cozinha*, *Cozinha Tradicional Portuguesa* (o livro de culinária mais vendido em Portugal) e *Receitas Escolhidas*. O seu nome está ainda ligado à tradução e edição de inúmeras obras estrangeiras. Conhecida como "A Diva da Gastronomia Portuguesa", foi colhendo honras e louros nos mais variados palcos. José Quitério aclamou-a como "uma das cada vez mais raras Guardiãs do Fogo". O *New York Times* chamou-lhe, num artigo de 4 de março de 1987, "Portugal's Julia Child". Também Miguel Esteves Cardoso, na sua coluna Ainda Ontem, a louvou como "Uma das três grandes génios nascidas no século XX \[em Portugal]". A 9 de junho de 2004 foi feita Comendadora da Ordem do Mérito.
 
