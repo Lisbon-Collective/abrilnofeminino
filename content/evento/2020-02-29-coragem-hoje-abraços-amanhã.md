@@ -4,6 +4,7 @@ subtitle: ' com Joana Brandão.'
 date: 2020-02-29T15:54:49.471Z
 eventdate: 2020-04-17T14:54:49.490Z
 eventlocation: Centro Cultural Penedo da Saudade
+image: /images/uploads/af-2020-nível-1-leitura-encenada-foto-joana-brandão.jpg
 paragraph: >-
   ***“Coragem Hoje, Abraços Amanhã”***parte de testemunhos reais, cartas e
   memórias de mulheres que estiveram presas pela PIDE durante o período do
