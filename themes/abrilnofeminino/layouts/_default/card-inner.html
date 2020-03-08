@@ -4,7 +4,7 @@
 					<header>
 						<h2 class="left"><a href="{{.Permalink}}">{{ .Title | safeHTML }}</a></h2>
 						<h3 class="left">{{ .Params.subtitle }}</h3>
-						<p>{{ .Summary }}</p>
+						<p>{{ .Params.paragraph | markdownify }}</p>
 					</header>
 					<ul class="actions">
 						<li><a href="{{ .Permalink }}" class="button">Ler mais</a></li>
@@ -19,13 +19,13 @@
 							    {{- if eq .MediaType.SubType "gif" -}}
 									<figure>
 										<img src="{{- .RelPermalink -}}" alt="" class="float-right" />
-										<figcaption>{{ $.Page.Params.custom.copyright  }}</figcaption>
+										<figcaption>{{ $.Page.Params.copyright  }}</figcaption>
 									</figure>
 							    {{- else }}
 
 							        <figure>
 							        	<img src="{{- .RelPermalink -}}" alt="" />
-							        	<figcaption>{{ $.Page.Params.custom.copyright  }}</figcaption>
+							        	<figcaption>{{ $.Page.Params.copyright  }}</figcaption>
 							        </figure>
 							    {{- end }}
 							</div>
