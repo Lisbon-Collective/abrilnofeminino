@@ -4,7 +4,9 @@ subtitle: Apresentação de Nicholas Oulman
 date: 2020-02-29T15:59:35.421Z
 eventdate: 2020-02-29T21:30:35.436Z
 eventlocation: Teatro Académico de Gil Vicente
-image: /images/uploads/amalia-alain-1964.jpg
+resources:
+- name: "header"
+  src: amalia-alain-1964.jpg
 paragraph: >-
   Alain Oulman foi um dos grandes responsáveis por trazer para a música de
   Amália nomes grandes da literatura como Luis de Camões, Alexandre O’Neill,

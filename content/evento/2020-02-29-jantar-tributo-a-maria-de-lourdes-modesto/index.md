@@ -4,7 +4,9 @@ subtitle: ''
 date: 2020-04-30T15:05:49.541Z
 eventdate: 2020-02-29T16:05:49.564Z
 eventlocation: Hotel Quinta das Lágrimas
-image: /images/uploads/image003.jpg
+resources:
+- name: "header"
+  src:  image003.jpg
 paragraph: >-
   Personalidade incontornável da nossa gastronomia, é autora da magnífica obra
   “Cozinha Tradicional Portuguesa”, a qual representa um notável contributo para

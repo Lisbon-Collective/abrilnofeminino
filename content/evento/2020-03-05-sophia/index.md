@@ -3,7 +3,9 @@ title: Sophia
 date: 2020-03-05T21:02:45.755Z
 eventdate: 2020-04-03T17:30:45.771Z
 eventlocation: Casa da Escrita
-image: /images/uploads/sophia.jpg
+resources:
+- name: "header"
+  src:  sophia.jpg
 paragraph: >-
   **3 de Abril, 18h30**
 
