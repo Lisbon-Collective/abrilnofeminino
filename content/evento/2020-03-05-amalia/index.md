@@ -5,14 +5,13 @@ eventdate: 2020-04-18T16:00:12.834Z
 eventlocation: Teatro Académico de Gil Vicente
 resources:
 - name: "header"
-  src: amália.jpg
+  src: amalia.jpg
 paragraph: >-
   **18 de Abril, 17h00**
 
 
   *“Não há uma Amália a preto e branco, uma Amália de trincheira.” **Miguel
   Carvalho***
-
 
 
 

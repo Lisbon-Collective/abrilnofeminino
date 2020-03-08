@@ -7,5 +7,8 @@ eventlocation: 'Seminário Maior, Sala São Tomás'
 paragraph: '***Apresentação de Rosário Gama***'
 imagealign: left
 italic: 'CINEMA / CICLO NADINE LABAKI '
+resources:
+- name: header
+  src: caramel.jpg
 ---
 ![](/images/uploads/foto-rosário-gama.jpg)

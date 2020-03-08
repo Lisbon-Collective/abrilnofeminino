@@ -3,6 +3,9 @@ title: '"Women under influence"'
 subtitle: com Ana Quintans (soprano) e Filipe Raposo (piano)
 date: 2020-02-29T15:48:01.572Z
 eventdate: 2020-04-04T20:30:01.586Z
+resources:
+- name: header
+  src: ana-quintans.jpg
 eventlocation: Seminário Maior
 copyright: Estelle Valente
 paragraph: >-
@@ -16,7 +19,6 @@ paragraph: >-
 
 
   **21h30**
-
 
   **Entrada 10,00 €**
 

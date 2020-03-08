@@ -6,7 +6,7 @@ eventdate: 2020-04-17T14:54:49.490Z
 eventlocation: Centro Cultural Penedo da Saudade
 resources:
 - name: "header"
-  src:  af-2020-nível-1-leitura-encenada-foto-joana-brandão.jpg
+  src:  leitura-encenada-joana-brandao.jpg
 paragraph: >-
   **“Coragem Hoje, Abraços Amanhã”** parte de testemunhos reais, cartas e
   memórias de mulheres que estiveram presas pela PIDE durante o período do
