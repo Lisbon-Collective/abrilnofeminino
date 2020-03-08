@@ -27,7 +27,7 @@ paragraph: >-
 imagealign: left
 italic: CINEMA/SESSÃO ESPECIAL
 ---
-Alain Oulman nasce em Lisboa em 1928 no seio de uma família judaica tradicional de origem francesa. Era um apaixonado por livros, por música e por Amália Rodrigues, com quem colaborou de uma forma duradoura e muito próxima. Perseguido pelo regime de Salazar e mais tarde exilado em França, Alain Oulman foi um dos grandes responsáveis por trazer para a música de Amália nomes grandes da literatura como Luis de Camões, Alexandre O’Neill, Pedro Homem de Melo ou David Mourão Ferreira. Oulman parece ter vivido várias existências – todas elas brilhantes - que neste filme que Nicholas Oulman realiza, nos permite finalmente conhecer.
+Alain Oulman nasce em Lisboa em 1928 no seio de uma família judaica tradicional de origem francesa. Era um apaixonado por livros, por música e por Amália Rodrigues, com quem colaborou de uma forma duradoura e muito próxima. Perseguido pelo regime de Salazar e mais tarde exilado em França, Alain Oulman foi um dos grandes responsáveis por trazer para a música de Amália nomes grandes da literatura como Luis de Camões, Alexandre O’Neill, Pedro Homem de Melo ou David Mourão Ferreira. Oulman parece ter vivido várias existências – todas elas brilhantes - que neste filme que Nicholas Oulman realiza, nos permite finalmente conhecer..
 
 **FICHA TÉCNICA**
 
