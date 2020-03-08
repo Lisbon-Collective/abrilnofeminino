@@ -4,6 +4,7 @@ subtitle: pela Camaleão
 date: 2020-02-29T16:02:07.416Z
 eventdate: 2020-04-21T15:02:07.427Z
 eventlocation: Escola Básica de Solum Sul
+image: /images/uploads/camaleao2.jpg
 paragraph: >-
   Animação para o 1º ciclo que ilumina a vida de 4 incríveis mulheres
   portuguesas: Maria de Parma, cozinheira e duquesa; Antónia Rodrigues,

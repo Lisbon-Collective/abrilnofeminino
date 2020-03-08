@@ -4,6 +4,7 @@ subtitle: EXPOSIÇÃO DE FOTOGRAFIA DE JORGE BACELAR
 date: 2020-02-29T15:44:45.627Z
 eventdate: 2020-04-02T17:00:45.652Z
 eventlocation: Museu Nacional de Machado de Castro
+image: /images/uploads/dsc01087-p2-cores.jpg
 copyright: Foto de Jorge Bacelar
 paragraph: >-
   As incríveis fotografias das gentes do campo, que parecem pinturas com uma
