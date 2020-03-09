@@ -101,6 +101,13 @@
 	</div>
 
 </div> -->
+		{{ with .Site.GetPage "/evento/2020-03-07-ruas-da-minha-cidade-tricanas-e-canções/index.md" }}
+		<div id="">
+			<div class="wrapper style1">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
 
 		{{ with .Site.GetPage "/evento/2020-02-29-women-under-influence.md" }}
 		<div id="">
@@ -174,17 +181,11 @@
 		</div>
 		{{ end }}
 
-		{{ with .Site.GetPage "/evento/2020-03-07-ruas-da-minha-cidade-tricanas-e-canções/index.md" }}
-		<div id="">
-			<div class="wrapper style1">
-			{{ .Render "card-inner" }}
-			</div>
-		</div>
-		{{ end }}
+
 
 		{{ with .Site.GetPage "/evento/2020-03-07-vozes-de-abril/index.md" }}
 		<div id="">
-			<div class="wrapper style2">
+			<div class="wrapper style1">
 			{{ .Render "card-inner" }}
 			</div>
 		</div>
