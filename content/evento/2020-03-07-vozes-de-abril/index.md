@@ -27,7 +27,6 @@ paragraph: >-
 
     **Entrada Livre**    
 
-
 imagealign: left
 italic: ROTEIRO
 ---
