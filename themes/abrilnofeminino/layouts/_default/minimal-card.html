@@ -1,6 +1,6 @@
 
 			<a href="{{ .RelPermalink }}"><h3 class="special lead">{{ .Title | safeHTML }}</h3></a>
-			<p class="special lead"><strong>{{ .Params.eventdate | dateFormat "2" }} de Abril</strong></p>
+			<p class="special lead"><strong>{{ .Params.eventdate | dateFormat "2" }} de Abril, {{ .Params.eventdate | dateFormat "15:04" }}</strong></p>
 
 
 			

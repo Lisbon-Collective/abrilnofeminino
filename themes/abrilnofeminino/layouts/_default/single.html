@@ -12,6 +12,12 @@
 						{{ with .Params.subtitle }}
 							<p>{{ . }}</p>
 						{{ end }}
+						{{ with .Params.eventdate }}
+						<strong>{{ . | dateFormat "2" }}</strong>	 {{ end }}
+						
+						 de Abril</strong>, {{ with .Params.eventlocation }} {{ . }} {{ end}}
+
+
 					</header>
 					{{- if (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}
 					<div class="image main">					
@@ -19,7 +25,10 @@
 					</div>
 					 {{- end -}}
 					 <div class="row aln-center">
-					 	<div class="col-9 col-12-small">{{ replace .Content .Summary "" | safeHTML }}</div>
+					 	<div class="col-9 col-12-small">
+						{{ .Params.paragraph | markdownify }}
+						<hr>
+					 	{{ replace .Content .Summary "" | safeHTML }}</div>
 					 </div>
 
 				</div>

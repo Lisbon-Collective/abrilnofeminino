@@ -3,7 +3,8 @@
 				<div class="intro">
 					<header>
 						<h2 class="left"><a href="{{.Permalink}}">{{ .Title | safeHTML }}</a></h2>
-						<h3 class="left">{{ .Params.subtitle }}</h3>
+						<h3 class="left">{{ .Params.subtitle | safeHTML }}</h3>
+						<h3><strong>{{ .Params.eventdate | dateFormat "2" }} de Abril</strong>, {{ .Params.eventlocation }}</h3>
 						<p>{{ .Params.paragraph | markdownify }}</p>
 					</header>
 					<ul class="actions">
