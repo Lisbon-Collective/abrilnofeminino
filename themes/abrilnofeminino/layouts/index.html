@@ -8,8 +8,6 @@
 					<p>Chega a Primavera e com ela a 2ª edição de <strong>“Abril no Feminino”.</strong> Em <strong>Coimbra,</strong> de <strong>2 a 30 de Abril</strong>, vários <strong>espaços e equipamentos</strong> da cidade vão acolher diversas actividades culturais com um denominador comum: <strong>dar voz às Mulheres</strong>. </p>
 					<p><strong>Conversas</strong> sobre <em>Sophia de Mello Breyner Andresen, Agustina Bessa-Luís e Amália Rodrigues</em>, a propósito das suas biografias, <strong>sessões de cinema</strong> para conhecer a filmografia da cineasta <em>Nadine Labaki</em>, ou a <strong>exposição de fotografia “Ruralidades”</strong> de <em>Jorge Bacelar</em>, com foco nas mulheres do mundo rural, são algumas das propostas. Prestamos ainda Tributo a <em>Maria de Lourdes Modesto</em> num <strong>jantar inspirado no seu livro, “Cozinha Tradicional Portuguesa”</strong>. Recordamos Amália, no ano do centenário do seu nascimento, com o <strong>filme documentário “Com Que Voz”</strong>, de <em>Nicholas Oulman</em>. Não faltará a música, com o <strong>Recital “Women under influence”,</strong> reunindo a cantora soprano <em>Ana Quintans</em> e o pianista <em>Filipe Raposo.</em> Neste Abril da Liberdade, “Mulheres e Revolução. Onde estavam Elas no 25 de Abril?” (<strong>conversa</strong>) e <strong>leitura encenada</strong> “Coragem Hoje, Abraços Amanhã”, pela actriz <em>Joana Brandão.</em> E ainda vamos contar <strong>Histórias</strong> sobre quatro portuguesas extraordinárias às crianças do 1º ciclo. Programação que se completa com a generosa participação de ilustres convidados que irão apresentar, moderar ou simplesmente conversar com o público.</p>
 					<p>Não nos deixem sós e venham ouvir as vozes que aqui se anunciam.</p>
-
-
 					<!-- 
 					<div class="image fit special">
 						<img src="images/pic01.jpg" alt="" />
@@ -124,17 +122,17 @@
 
 					<div class="row">
 						<div class="col-4 col-12-medium">
-							{{ with .Site.GetPage "/evento/2020-03-07-caramel.md" }}
+							{{ with .Site.GetPage "/evento/2020-03-07-caramel/index.md" }}
 							{{ .Render "minimal-card" }}
 							{{ end }}
 						</div>
 						<div class="col-4 col-12-medium">
-							{{ with .Site.GetPage "/evento/2020-03-07-e-agora-onde-vamos.md" }}
+							{{ with .Site.GetPage "/evento/2020-03-07-e-agora-onde-vamos/index.md" }}
 							{{ .Render "minimal-card" }}
 							{{ end }}
 						</div>
 						<div class="col-4 col-12-medium">
-						{{ with .Site.GetPage "/evento/2020-03-07-cafarnaum.md" }}
+						{{ with .Site.GetPage "/evento/2020-03-07-cafarnaum/index.md" }}
 						 {{ .Render "minimal-card" }}
 						{{ end }}
 						</div>
@@ -143,7 +141,7 @@
 			</div>
 		</div>
 
-		{{ with .Site.GetPage "/evento/2020-02-29-coragem-hoje-abraços-amanhã.md" }}
+		{{ with .Site.GetPage "/evento/2020-02-29-coragem-hoje-abraços-amanhã/index.md" }}
 		<div id="">
 			<div class="wrapper style1">
 			{{ .Render "card-inner" }}
@@ -151,7 +149,7 @@
 		</div>
 		{{ end }}
 
-		{{ with .Site.GetPage "/evento/2020-02-29-com-que-voz-de-nicholas-oulman.md" }}
+		{{ with .Site.GetPage "/evento/2020-02-29-com-que-voz-de-nicholas-oulman/index.md" }}
 		<div id="">
 			<div class="wrapper style2">
 			{{ .Render "card-inner" }}
@@ -160,26 +158,38 @@
 		{{ end }}
 
 
-{{ with .Site.GetPage "/evento/2020-02-29-teatro-infancia.md" }}
-<div id="">
-	<div class="wrapper style1">
-	{{ .Render "card-inner" }}
-	</div>
-</div>
-{{ end }}
+		{{ with .Site.GetPage "/evento/2020-02-29-teatro-infancia/index.md" }}
+		<div id="">
+			<div class="wrapper style1">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
 
 
+		{{ with .Site.GetPage "/evento/2020-02-29-jantar-tributo-a-maria-de-lourdes-modesto/index.md" }}
+		<div id="">
+			<div class="wrapper style2">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
 
+		{{ with .Site.GetPage "/evento/2020-03-07-ruas-da-minha-cidade-tricanas-e-canções/index.md" }}
+		<div id="">
+			<div class="wrapper style1">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
 
-{{ with .Site.GetPage "/evento/2020-02-29-jantar-tributo-a-maria-de-lourdes-modesto.md" }}
-<div id="">
-	<div class="wrapper style2">
-	{{ .Render "card-inner" }}
-	</div>
-</div>
-{{ end }}
-
-
+		{{ with .Site.GetPage "/evento/2020-03-07-vozes-de-abril/index.md" }}
+		<div id="">
+			<div class="wrapper style2">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
 <!--  with .Site.GetPage "/evento/lancamento-de-coimbra-da-coleccao-a-minha-cidade-editada-pelo-pato-logico/index.md" 
 <div id="">
 	<div class="wrapper style1">

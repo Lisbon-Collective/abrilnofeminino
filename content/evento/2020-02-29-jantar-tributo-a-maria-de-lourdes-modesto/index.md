@@ -1,8 +1,9 @@
 ---
 title: JANTAR | TRIBUTO A MARIA DE LOURDES MODESTO
-subtitle: ''
-date: 2020-04-30T15:05:49.541Z
-eventdate: 2020-02-29T16:05:49.564Z
+subtitle: 
+draft: false
+date: 2020-02-20T15:05:49.541Z
+eventdate: 2020-04-23T16:05:49.564Z
 eventlocation: Hotel Quinta das Lágrimas
 resources:
 - name: "header"
@@ -34,6 +35,7 @@ paragraph: >-
 imagealign: left
 italic: GASTRONOMIA
 ---
+
 *“Curiosamente a cozinha não corresponde muito à forma de nos mostrarmos. É mais exuberante do que somos. Temos uma comida muito sápida, muito colorida. Poderá não ser muito estética, segundo os cânones actuais. Não gostava de dizer uma coisa que tenho de dizer... É uma cozinha viril. É uma cozinha que se impõe. E é de mulheres.”*
 
 ***Maria de Lourdes Modesto***
