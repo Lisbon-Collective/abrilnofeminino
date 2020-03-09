@@ -28,12 +28,5 @@ paragraph: >-
 imagealign: left
 italic: TEATRO PARA A INFÂNCIA
 ---
-Animação para o 1º ciclo que ilumina a vida de 4 incríveis mulheres portuguesas: Maria de Parma, cozinheira e duquesa; Antónia Rodrigues, aventureira, viajante e guerreira; Catarina de Bragança, princesa de Portugal e rainha de Inglaterra e Maria de Lourdes Sá Teixeira, aviadora. Esta animação centra-se em actividades lúdicas, dramáticas ou de aprendizagem das regras de etiqueta.
 
 
-
-**Escola Básica de Solum Sul - Agrupamento de Escolas Eugénio de Castro***
-
-**9h30/11h00 /14h45**
-
-**\*sessões reservadas aos alunos da Escola**

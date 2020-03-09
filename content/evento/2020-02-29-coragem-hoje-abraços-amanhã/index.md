@@ -33,13 +33,13 @@ italic: LEITURA ENCENADA
 ---
 Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de serem privadas da sua liberdade. Mulheres que eram avós, mães, filhas, esposas, namoradas, amantes, companheiras, camaradas. Mulheres que não são figuras históricas dentro de um livro empoeirado, mas que existiram realmente, algumas que ainda se cruzam connosco na rua e guardam duras memórias no coração.
 
-**Direção artística, dramaturgia, encenação e interpretação: Joana Brandão**; **Assistência de encenação**: Elsa Galvão e Maria João Abreu**; Consultoria**: Irene Pimentel; **Desenho de Luz:** Paulo Santos; **Iluminação:** João Lopes; **Sonoplastia:** João Bucho; **Cenografia:** Joana Brandão; **Figurino:** Maria Gonzaga; **Apoio**: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).
+**Direção artística, dramaturgia, encenação e interpretação: Joana Brandão**; **Assistência de encenação**: Elsa Galvão e Maria João Abreu; **Consultoria**: Irene Pimentel; **Desenho de Luz:** Paulo Santos; **Iluminação:** João Lopes; **Sonoplastia:** João Bucho; **Cenografia:** Joana Brandão; **Figurino:** Maria Gonzaga; **Apoio**: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).
 
 **Joana Brandão** iniciou em 1995 a licenciatura bi-etápica em Formação de Actores/ Encenadores pela ESTC, tendo sido convidada para se estrear no Teatro da Comuna.
 
-Tem trabalhado com encenadores como Bruno Bravo, Carlos Pimenta, Fernando Gomes, João Mota, João Brites, João Lourenço, José Peixoto, José Martins, Rui Mendes, Solveig Nordlund, Helena Pimenta, Maria de La Ribot, Álvaro Correia, Jean- Paul Buccieri, Pedro Alvarez-Ossorio, entre outros.
+Tem trabalhado com encenadores como Bruno Bravo, Carlos Pimenta, Fernando Gomes, João Mota, João Brites, João Lourenço, José Peixoto, José Martins, Rui Mendes, Solveig Nordlund, Helena Pimenta, Maria de La Ribot, Álvaro Correia, Jean-Paul Buccieri, Pedro Alvarez-Ossorio, entre outros.
 
-Recebeu o**Prémio Autores (2016) de “Melhor Atriz”, na categoria “Teatro”, atribuído pela Sociedade Portuguesa de Autores (SPA)**, pelo espectáculo **“Constelações”** de Nick Payne, encenação de João Lourenço, Teatro Aberto.
+Recebeu o **Prémio Autores (2016) de “Melhor Atriz”, na categoria “Teatro”, atribuído pela Sociedade Portuguesa de Autores (SPA)**, pelo espectáculo **“Constelações”** de Nick Payne, encenação de João Lourenço, Teatro Aberto.
 
 Escreveu, encenou e interpretou os monólogos Caminhos e **“Coragem Hoje, Abraços Amanhã”**- nomeado para **Prémio Autores (2014) de “Melhor Texto Português Representado”, na categoria “Teatro”, atribuído pela Sociedade Portuguesa de Autores (SPA).**
 
@@ -49,6 +49,7 @@ Tem participado em filmes e curtas metragens com realizadores como Pedro Varela 
 
 Paralelamente ao seu percurso como actriz, desenvolve, desde 1999, trabalhos de direcção de actores (Quer o Destino, Equador, O Bando dos Quatro, etc), assistência de encenação (João Brites, Carlos Pimenta, Guillermo Heras, etc), locuções e docência/formação. Tem desenvolvido a sua actividade de formadora, ministrando vários cursos particulares de teatro, bem como em escolas profissionais com World Academy, RESTART, entre outras e várias escolas públicas. Tem Formação de Formadores no Âmbito do Desenvolvimento Curricular em Artes, pelo DGE- Ministério da Educação e Ciência.
 
-![](/images/uploads/joana-brandão.jpg)
-
-**Créditos deJoaquim Paulino**
+<div class="image fit">
+  <figure><img src="joana-brandao.jpg" alt=""></figure>
+  <figcaption>Créditos de Joaquim Paulino</figcaption>
+</div>

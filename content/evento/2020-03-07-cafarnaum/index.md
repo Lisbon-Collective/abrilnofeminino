@@ -22,7 +22,10 @@ Afirma sentir-se elogiada quando alguém lhe diz que sentiu uma presença femini
 
 <https://www.youtube.com/watch?v=2J84dthZMLU>
 
-![](/images/uploads/image001.jpg)
+
+<div class="image fit">
+    <figure><img src="foto-rosário-gama.jpg" alt=""></figure>
+</div>
 
 **Maria do Rosário Gama**, nasceu em Nisa, distrito de Portalegre, em 1949, viveu a sua infância e juventude em Viana do Alentejo e reside em Coimbra desde 1967, ano em que concluiu os estudos secundários no Liceu Nacional de Évora e ingressou na Faculdade de Ciências da Universidade de Coimbra onde se licenciou em Biologia (Ramo Educacional) no ano de 1973.
 
@@ -30,7 +33,9 @@ Foi Directora da Escola Secundária Infanta D. Maria, em Coimbra até 31 de Mar�
 
 Fundou o Movimento Cívico APRe! – Aposentados, Pensionistas e Reformados, em 22 de Outubro de 2012, que passou a Associação em 4 de Dezembro de 2012. É Presidente da APRe!
 
-![](/images/uploads/foto-cristina-robalo-cordeiro-1-small.jpg)
+<div class="image fit">
+    <figure><img src="/images/uploads/foto-cristina-robalo-cordeiro-1-small.jpg" alt=""></figure>
+</div>
 
 **Cristina Robalo-Cordeiro** é professora catedrática da Faculdade de Letras da Universidade de Coimbra, de que foi Vice-Reitora de 2003 a 2011.
 
@@ -58,7 +63,10 @@ Chevalier de la Légion d’Honneur, 2014
 
 Comendador da Ordem D. Infante Henrique, 2015
 
-![](/images/uploads/sofia-lobo-1.jpg)
+
+<div class="image fit">
+    <figure><img src="/images/uploads/sofia-lobo-1.jpg" alt=""></figure>
+</div>
 
 **Sofia Lobo**, Mortágua, 1966.\
 Actriz d´A Escola da Noite e voluntária da ONG A Drop in the Ocean.\

@@ -11,4 +11,7 @@ resources:
 - name: header
   src: caramel.jpg
 ---
-![](/images/uploads/foto-rosário-gama.jpg)
+
+<div class="image fit">
+    <figure><img src="/images/uploads/foto-rosário-gama.jpg" alt=""></figure>
+</div>

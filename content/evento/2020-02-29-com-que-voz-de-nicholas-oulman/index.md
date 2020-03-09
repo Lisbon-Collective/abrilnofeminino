@@ -55,7 +55,9 @@ Ano de Produção – 2009, Outubro
 
 Distribuição – NLC
 
-![](/images/uploads/com-que-voz.jpg)
+<div class="image fit">
+  <figure><img src="/images/uploads/com-que-voz.jpg" alt=""></figure>
+</div>
 
 **Nicholas Oulman** nasceu em Londres em 1967.
 

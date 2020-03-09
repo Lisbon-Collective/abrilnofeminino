@@ -36,8 +36,10 @@ A jornalista Isabel Nery traz-nos no seu novo livro, a primeira biografia de Sop
 
 *“Se alguém me perguntar se consegui encontrar Sophia nesta busca quase insana entre testemunhos, livros, arquivos – e lugares-, não sei se saberei responder. Acredito que me aproximei como poucos”. **Isabel Nery***
 
-**Foto Isabel Nery créditos Marcos Borga**
-
+<div class="image fit">
+  <figure><img src="IsabelNery.jpg" alt=""></figure>
+  <figcaption>Créditos Marcos Borga</figcaption>
+</div>
 
 
 **Isabel Nery**
@@ -49,9 +51,6 @@ O seu trabalho tem sido usado em diferentes formatos: a reportagem*[Vida Interro
 Enquanto jornalista, passou pela televisão, diários e semanários, tendo trabalhado quinze anos (até 2017) na VISÃO, onde escreveu para as secções de Sociedade, Internacional e Política e foi editora da revista VISÃO Júnior. Manteve colaboração com publicações internacionais, como o jornal holandês De Correspondent. O trabalho de Isabel Nery foi já distinguido com uma dezena de[prémios](http://www.isabelnery.info/pr%C3%A9mios), entre eles o Prémio Mulher Reportagem Maria Lamas, o Prémio Jornalismo pela Tolerância, o Prémio Paridade Mulheres e Homens na Comunicação Social, e o Prémio Jornalismo e Integração, da UNESCO.
 
 Actualmente é vice-presidente do Sindicato dos Jornalistas e aluna de Doutoramento, com tese sobre Jornalismo Literário e Neurociências, tendo sido coordenadora de um núcleo de investigação em Jornalismo e Literatura no Clepul, centro de investigação da Faculdade de Letras de Lisboa. Enquanto investigadora, publicou ensaio na área do Jornalismo e apresentou comunicações em várias instituições portuguesas e estrangeiras, entre elas a Universidade de Harvard e o King´s College, Canadá.
-
-
-
 
 
 **João Gobern**

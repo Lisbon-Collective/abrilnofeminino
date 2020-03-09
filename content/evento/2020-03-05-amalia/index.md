@@ -45,9 +45,11 @@ Investigação inédita sobre as ajudas da fadista à oposição anti-regime e a
 
 *Perceber isso, a sua relação íntima com o povo, é a maior homenagem que lhe podemos fazer.”*
 
-![](/images/uploads/miguel-carvalho.jpg)
+<div class="image fit">
+    <figure><img src="/images/uploads/miguel-carvalho.jpg" alt=""></figure>
+    <figcaption>Créditos fotografia: Mariana Correia Pinto</figcaption>
+</div>
 
-**Créditos fotografia: Mariana Correia Pinto**
 
 **Miguel Carvalho**
 
@@ -57,4 +59,7 @@ Nasceu em 1970, é Grande Repórter da revista Visão desde Dezembro de 1999. Em
 
 Nasceu em Coimbra, em 1962. É diplomado em docência de violino (Moscovo,1988), desenvolvendo, desde 1988, actividade docente no Conservatório de Música de Coimbra. Desempenhou funções de director daquela escola artística entre 2005 e 2017. Integrou o Grupo de Etnografia e Folclore da Academia de Coimbra (GEFAC) e a Tuna Académica da AAC. Enquanto músico, vem desenvolvendo actividade sobretudo no âmbito da chamada música popular. É membro da Brigada Victor Jara desde 1977. Apresentou-se em palco e/ou em registo fonográfico com nomes como Adriano Correia de Oliveira, Manuel Freire, Fausto, Vitorino Salomé, José Medeiros, Mísia, Filipa Pais, Pedro Barroso, Ala dos Namorados, Gaiteiros de Lisboa, Carlos do Carmo, entre muitos outros. Paralelamente, realizou trabalhos de diversa natureza de que destaca a série de documentários para a RTP sobre a música da tradição oral portuguesa, realizada a partir da série de Michel Giacometti e Alfredo Tropa "Povo que Canta". Colabora com grupos de teatro e em bandas sonoras de televisão e cinema (Ballet Rose, Sombra dos Abutres, Fátima, Mau Tempo no Canal, Pedro e Inês, etc.). Foi colaborador, entre 2005 e 2007, da Licenciatura de Estudos Artísticos da FLUC (Oficina de Artes). Integrou grupos de trabalho do Ministério da Educação e do Ministério da Cultura (em Portugal e junto da Comissão Europeia), integrando, presentemente, a Comissão Executiva do Projeto Meridiano, do MNE, cuja missão consiste na divulgação da música portuguesa junto das comunidades residentes no estrangeiro. Presidiu, no ano lectivo de 2018/19, à Comissão Administrativa Provisória (instaladora) do Conservatório de Música de Loulé - Francisco Rosado.
 
-![](/images/uploads/manuel-rocha.jpg)
+
+<div class="image fit">
+    <figure><img src="/images/uploads/manuel-rocha.jpg" alt=""></figure>
+</div>
