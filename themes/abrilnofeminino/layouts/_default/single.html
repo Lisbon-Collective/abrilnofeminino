@@ -12,10 +12,11 @@
 						{{ with .Params.subtitle }}
 							<p>{{ . }}</p>
 						{{ end }}
+						<h3>
 						{{ with .Params.eventdate }}
-						<strong>{{ . | dateFormat "2" }}</strong>	 {{ end }}
-						
-						 de Abril</strong>, {{ with .Params.eventlocation }} {{ . }} {{ end}}
+						{{ . | dateFormat "2" }}	 {{ end }}
+						de Abril, {{ with .Params.eventlocation }} {{ . }} {{ end}}
+						</h3>
 
 
 					</header>
