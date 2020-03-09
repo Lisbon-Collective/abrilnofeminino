@@ -1,15 +1,16 @@
 ---
 title: 'Vozes de Abril'
-subtitle: 
+subtitle: "Mulheres e Revolução. As portas que Elas abriram. <br>
+ com Custódia Martins Guerreiro e Maria Teresa Alves"
+
 date: 2020-03-07T11:22:36.610Z
 eventdate: 2020-04-23T09:30:36.621Z
 eventlocation: 'Centro Cultural Penedo da Saudade'
 resources:
 - name: "header"
-  src: arcodoalmedina-768x768-copy.jpg
-copyright: Catarina Sobral
+  src: rev-urgente.jpg
+copyright: 
 paragraph: >-
-    **23 de Abril**    
 
     Mulheres e Revolução. As portas que Elas abriram.    
 

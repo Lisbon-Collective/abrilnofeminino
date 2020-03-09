@@ -1,7 +1,7 @@
 ---
 title: '"Amália - A História Secreta", da autoria de Miguel Carvalho.'
 date: 2020-03-05T21:15:12.822Z
-eventdate: 2020-04-18T16:00:12.834Z
+eventdate: 2020-04-18T17:00:12.834Z
 eventlocation: Teatro Académico de Gil Vicente
 resources:
 - name: "header"

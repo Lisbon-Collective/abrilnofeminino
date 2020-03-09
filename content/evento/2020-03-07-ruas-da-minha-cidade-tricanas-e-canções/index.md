@@ -7,7 +7,7 @@ eventlocation: 'Ponto de encontro: escultura "Tricana", Quebra Costas'
 resources:
 - name: "header"
   src: arcodoalmedina-768x768-copy.jpg
-copyright: Catarina Sobral
+copyright: Arco de Almedina, Ilustração por Puk Ewdokia 
 paragraph: >-
   Histórias contadas ao longo de um percurso citadino, para falar da importância
   das mulheres enquanto figuras centrais na dinâmica da cidade: no passado e no

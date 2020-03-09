@@ -3,7 +3,7 @@ title: JANTAR | TRIBUTO A MARIA DE LOURDES MODESTO
 subtitle: 
 draft: false
 date: 2020-02-20T15:05:49.541Z
-eventdate: 2020-04-23T16:05:49.564Z
+eventdate: 2020-04-30T16:05:49.564Z
 eventlocation: Hotel Quinta das Lágrimas
 resources:
 - name: "header"

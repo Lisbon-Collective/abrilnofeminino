@@ -1,7 +1,7 @@
 ---
-title: Sophia
+title: Sophia<br><br>
 date: 2020-03-05T21:02:45.755Z
-eventdate: 2020-04-03T17:30:45.771Z
+eventdate: 2020-04-03T18:30:45.771Z
 eventlocation: Casa da Escrita
 resources:
 - name: "header"

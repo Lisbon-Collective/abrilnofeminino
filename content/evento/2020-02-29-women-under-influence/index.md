@@ -6,7 +6,7 @@ eventdate: 2020-04-04T20:30:01.586Z
 resources:
 - name: header
   src: ana-quintans.jpg
-eventlocation: Seminário Maior
+eventlocation: Seminário Maior, Sala São Tomás
 copyright: Estelle Valente
 paragraph: >-
   O recital da mais relevante e internacional cantora portuguesa da actualidade,
@@ -52,6 +52,9 @@ Celebrada internacionalmente pelo seu trabalho no repertório barroco e mozartia
 **Ana Quintans** é licenciada em Escultura e estudou Canto na Escola de Música do Conservatório Nacional, em Lisboa, e no Flanders Operastudio, em Gent, como bolseira da Fundação Calouste Gulbenkian.
 
 Iniciou-se profissionalmente em 2005 com a música de Monteverdi, tendo vindo a dedicar a maior parte do seu trabalho à música dos séculos XVII e XVIII, em colaboração com maestros como W. Christie, M. Minkowski, R. Pichon, A. Curtis, V. Dumestre, A. Florio, M. Magalhães, L. Cummings, L. G. Alarcón, E. Onofri, ou I. Bolton. Destacam-se apresentações em prestigiados palcos nacionais e internacionais: Opéra Comique, Théâtre des Champs-Élysées, Festival d’Aix-en-Provence, Festival de Glyndebourne, Concertgebouw de Amesterdão, Ópera de Lyon, Ópera de Rouen, Bayerische Staatsoper (Munique), Teatro Nacional de São Carlos, Alten Oper Frankfurt, Teatro Real de Madrid, Scottish Opera, Victoria Hall (Genebra); Bozar (Bruxelas), Fundação Gulbenkian, Centro Cultural de Belém, Casa da Música, Carnegie Hall (Nova Iorque), *La Folle Journée* (Japão); Helsinki Music Centre, *Maggio Musicale* (Florença), Festival de Viena, Festival de Edimburgo e Mozarteum de Salzburgo. Participou em várias gravações discográficas, incluindo: árias de Albinoni, com Marcello Di Lisa e a orquestra Concerto de’ Cavalieri; *La Spinalba*, *Il Trionfo d’Amore* (F. A. de Almeida) e *As Sementes do fado*, com Os Músicos do Tejo; *Round Time*, de Luís Tinoco, com D. A. Miller e a Orquestra Gulbenkian; *Requiem* de Fauré, com a Sinfonia Varsovia e Michel Corboz.
+
+<img src="© Estelle Valente (22).jpg" alt="" class="">
+Créditos: Estelle Valente
 
 **Filipe Raposo** nasceu em Lisboa em 1979. É pianista, compositor e orquestrador.
 
