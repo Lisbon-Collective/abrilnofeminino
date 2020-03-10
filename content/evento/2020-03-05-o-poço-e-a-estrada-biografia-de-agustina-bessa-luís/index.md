@@ -1,5 +1,10 @@
 ---
 title: '"O Poço e a Estrada, Biografia de Agustina Bessa Luís"'
+subtitle: '"Da autoria de Isabel Rio Novo.<br> Com Isabel Rio Novo <br>
+Moderação de Álvaro Laborinho Lúcio <br>
+Casa da Escrita
+Entrada Livre
+ '
 date: 2020-03-05T18:30:00.000Z
 eventdate: 2020-04-16T18:30:00.000Z
 eventlocation: Casa da Escrita
@@ -27,6 +32,7 @@ paragraph: >-
   **Entrada Livre**
 imagealign: left
 italic: Ciclo de Conversas
+quote: '<em>“Mas tenho uma história, e que história. […] Ninguém a conhece.”</em> Agustina Bessa-Luís'
 ---
 **Agustina: uma mulher controversa, uma vida extraordinária, uma obra genial.**
 

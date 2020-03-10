@@ -1,6 +1,6 @@
 ---
 title: '"E Agora, Onde Vamos?"'
-subtitle: Comédia Dramática | 2011
+subtitle: Comédia Dramática | 2011 <br> Apresentação de Cristina Robalo Cordeiro
 date: 2020-03-07T11:08:35.383Z
 eventdate: 2020-04-22T21:15:35.397Z
 eventlocation: 'Seminário Maior, Sala São Tomás'

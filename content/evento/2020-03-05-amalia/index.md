@@ -1,5 +1,10 @@
 ---
 title: '"Amália - A História Secreta", da autoria de Miguel Carvalho.'
+subtitle: 'com Miguel Carvalho<br>
+Moderação de Manuel Rocha<br>
+Teatro Académico de Gil Vicente<br> 
+Entrada Livre<br>
+'
 date: 2020-03-05T21:15:12.822Z
 eventdate: 2020-04-18T17:00:12.834Z
 eventlocation: Teatro Académico de Gil Vicente
@@ -29,7 +34,8 @@ paragraph: >-
 
   **Entrada Livre**
 imagealign: left
-italic: Ciclo de Conversas
+italic: Ciclo de Conversas 
+quote: '<em>“Não há uma Amália a preto e branco, uma Amália de trincheira.”</em>  Miguel Carvalho'
 ---
 Investigação inédita sobre as ajudas da fadista à oposição anti-regime e aos presos políticos. A infância em Alcântara; a adoração familiar por Salazar e a associação de Amália Rodrigues aos comunistas do Fado por parte da polícia política; a relação secreta com a resistência à ditadura; as ameaças do regime e as denúncias contra a alegada “princesa da PIDE”; os bastidores da prisão de Alain Oulman; as pontes com a célula clandestina do PCP para os espectáculos e a revolução antes da revolução. São estes os temas principais da investigação inédita intitulada **"Amália - A História Secreta" da autoria do jornalista Miguel Carvalho.**
 
