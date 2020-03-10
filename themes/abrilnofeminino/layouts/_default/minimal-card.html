@@ -1,8 +1,9 @@
-
+<p class="special lead"><strong>{{ .Params.eventdate | dateFormat "2" }} de Abril, {{ .Params.eventdate | dateFormat "15:04" }}</strong></p>
+<p>{{ .Params.quote | safeHTML }}</p>
 			<a href="{{ .RelPermalink }}"><h3 class="special lead">{{ .Title | safeHTML }}</h3></a>
-			<p class="special lead"><strong>{{ .Params.eventdate | dateFormat "2" }} de Abril, {{ .Params.eventdate | dateFormat "15:04" }}</strong></p>
+			<p>{{ .Params.subtitle | safeHTML }}</p>
 
-
+			
 			
 			<a href="{{ .RelPermalink }}">
 				{{- with .Resources.GetMatch "header" -}}
