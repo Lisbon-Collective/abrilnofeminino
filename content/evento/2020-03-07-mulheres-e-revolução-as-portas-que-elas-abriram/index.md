@@ -42,3 +42,7 @@ Foram testemunhas privilegiadas de uma revolução em curso. Perto ou à distân
 **18h30**
 
 **Entrada Livre**
+
+<div class="image fit">
+  <figure><img src="Maria Manuela Cruzeiro.jpg" alt=""></figure>
+</div>

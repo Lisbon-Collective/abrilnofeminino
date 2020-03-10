@@ -38,7 +38,9 @@ Prof. António Filipe Pimentel, *in* Prefácio livro ”Ruralidades”
 
 
 
-**Foto Jorge Bacelar**
+<div class="image fit">
+    <figure><img src="Foto Jorge Bacelar.jpg" alt=""></figure>
+</div>
 
 *Jorge Bacelar* nasceu a 1966, em Figueira de Castelo Rodrigo. É médico veterinário, exercendo clínica de espécies pecuárias há mais de vinte anos. Tendo o privilégio de conhecer o mundo rural e conviver com pessoas que muito admira, encontrou na fotografia uma forma de enaltecer e perpetuar a imagem dos agricultores, com quem tem uma relação familiar, de grande amizade e respeito.
 

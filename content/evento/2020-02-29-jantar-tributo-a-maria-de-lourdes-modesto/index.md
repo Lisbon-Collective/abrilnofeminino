@@ -62,4 +62,6 @@ Migas à Alentejana (Alentejo)
 
 Trilogia conventual (Beira Litoral)
 
-**Foto Chef Vitor Dias**
+<div class="image fit">
+  <figure><img src="Chef Vitor Dias.jpg" alt=""></figure>
+</div>
