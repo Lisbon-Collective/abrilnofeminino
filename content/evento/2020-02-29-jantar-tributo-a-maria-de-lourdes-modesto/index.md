@@ -49,14 +49,23 @@ Vitor Dias nasceu em 1980 e é natural de Cantanhede. Ingressou na Escola de Hot
 
 Vitor Dias privilegia uma cozinha cuidada e criativa, respeitando a sazonalidade dos produtos, cuja origem maioritária é da própria região. No Restaurante Arcadas, tem como principal missão servir bem, surpreendendo o cliente com uma oferta original e apelativa. Um desafio diário que o anima a fazer mais e melhor, com entrega e paixão, num espaço único e com uma singular história.
 
-**Menu**
+<br>
 
-Caldo verde (Minho)
+<h3 style="text-align: center">Menu</h3>
+<p style="text-align: center">
+  Caldo verde (Minho) <br>
+  Migas à Alentejana (Alentejo) <br>
+  Trilogia conventual (Beira Litoral)
+</p>
 
-Migas à Alentejana (Alentejo)
-
-Trilogia conventual (Beira Litoral)
+<br>
 
 <div class="image fit">
   <figure><img src="Chef Vitor Dias.jpg" alt=""></figure>
 </div>
+
+<style>
+    #main > div > div > div.image.main {
+        display: none;
+    }
+</style>

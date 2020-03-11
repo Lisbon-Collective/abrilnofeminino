@@ -7,7 +7,7 @@ eventdate: 2020-04-23T09:30:36.621Z
 eventlocation: 'Centro Cultural Penedo da Saudade'
 resources:
 - name: "header"
-  src: rev-urgente.jpg
+  src: 
 copyright: 
 paragraph: >-
     com Custódia Martins Guerreiro e Maria Teresa Alves     
