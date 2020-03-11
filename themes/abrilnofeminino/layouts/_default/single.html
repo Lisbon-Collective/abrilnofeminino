@@ -12,11 +12,13 @@
 						{{ with .Params.subtitle }}
 							<p>{{ . | safeHTML }}</p>
 						{{ end }}
-						<h3>
+						
 						{{ with .Params.eventdate }}
+						<h3>
 						{{ . | dateFormat "2" }}	 
 						de Abril {{ . | dateFormat "15h04"}}
 						</h3> 
+						{{ end }}
 
 					</header>
 					{{- if (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}
