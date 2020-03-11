@@ -34,3 +34,8 @@
 .flexbox > .element{
 	flex: 1 1 160px;	
 }
+
+// Hide CTA on Homepage
+a[id*="teatro-infancia"]{
+	display: none;
+}

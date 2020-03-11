@@ -9,7 +9,7 @@
 						<p>{{ .Params.paragraph | markdownify }}</p>
 					</header>
 					<ul class="actions">
-						<li><a href="{{ .Permalink }}" class="button">Ler mais</a></li>
+						<li><a href="{{ .Permalink }}" class="button" id="{{ replaceRE "/evento/" "" .RelPermalink | replaceRE "/" "" }}">Ler mais</a></li>
 					</ul>
 				</div>
 				<div class="spotlight">
