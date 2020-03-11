@@ -7,7 +7,7 @@ resources:
 - name: header
   src: ana-quintans.jpg
 eventlocation: Seminário Maior, Sala São Tomás
-copyright: Estelle Valente
+copyright: 
 paragraph: >-
   O recital da mais relevante e internacional cantora portuguesa da actualidade,
   Ana Quintans, será um exemplo do cruzamento de canções renascentistas com as
@@ -15,21 +15,21 @@ paragraph: >-
   compositor-pianista Filipe Raposo.
 
 
-  **Seminário Maior, Sala São Tomás**
+  **Seminário Maior, Sala São Tomás**    
 
+  **21h30**    
 
-  **21h30**
+  **Entrada 10,00 €**    
 
-  **Entrada 10,00 €**
+  **Reservas para 962 610 050**    
 
+  **Venda de bilhetes no local, dia 4**    
 
-  **Reservas para 962 610 050**
-
-
-  **Venda de bilhetes no local, dia 4, a partir das 17h00.**
+  **Horário: 18h - 19h | 20h30 - 21h30**
 imagealign: left
 italic: MÚSICA
 ---
+
 Celebrada internacionalmente pelo seu trabalho no repertório barroco e mozartiano, Ana Quintans aceitou o desafio do Festival de Sintra para conceber um programa inesperado e insólito: um cruzamento de estilos e de épocas, que a confrontará nas suas alteridades artísticas e nos levará a uma viagem pelo mundo íntimo do *songbook* feminino. Agora a estreia deste projecto em Coimbra, no “Abril no Feminino”.
 
 *… Ana Quintans, a grande estrela portuguesa do canto barroco. Tudo nela é perfeito (...) como se a música fosse uma extensão do corpo!*\
@@ -57,9 +57,8 @@ Iniciou-se profissionalmente em 2005 com a música de Monteverdi, tendo vindo a 
 
 <div class="image fit">
   <figure><img src="© Estelle Valente (22).jpg" alt="" class=""></figure>
-  <figcaption>Créditos: Estelle Valente</figcaption>
+  <figcaption>© Estelle Valente</figcaption>
 </div>
-
 
 **Filipe Raposo** nasceu em Lisboa em 1979. É pianista, compositor e orquestrador.
 

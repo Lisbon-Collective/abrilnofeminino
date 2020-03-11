@@ -1,42 +1,38 @@
 ---
 title: '"Ruralidades"'
-subtitle: Exposição de Fotografia de Jorge Bacelar
+subtitle: 
 date: 2020-02-29T15:44:45.627Z
-eventdate: 2020-04-02T17:00:45.652Z
+eventdate: 2020-04-02T18:00:45.652Z
 eventlocation: Museu Nacional de Machado de Castro
 resources:
 - name: "header"
   src:  dsc01087-p2-cores.jpg
-copyright: Foto de Jorge Bacelar
+copyright: © Jorge Bacelar
 paragraph: >-
   As incríveis fotografias das gentes do campo, que parecem pinturas com uma
   dimensão bíblica, do veterinário já considerado o principal retratista da
   ruralidade portuguesa, que tem acumulado prémios e distinções internacionais
-  como nenhum outro fotógrafo. Fotos sumptuosas que nos enchem alma e olhos,
-  parecendo aquecer-nos e iluminar por dentro.
+  como nenhum outro fotógrafo. 
 
 
-  **Museu Nacional de Machado de Castro**
+  *"Fotos sumptuosas que nos enchem alma e olhos,
+    parecendo aquecer-nos e iluminar por dentro."*, Prof. António Pimentel. 
 
 
-  **18h00 Inauguração**
+  **Museu Nacional de Machado de Castro**    
 
+  **Apresentação de Maria João Seixas**    
 
-  **Apresentação de Maria João Seixas.**
+  **Com a presença do grupo “Segue-me à Capela”**    
 
-
-  **Apontamento musical com “Segue-me à Capela”**
-
-
-  **Até x de Maio**
+  **Até 10 de Maio**
 imagealign: left
 italic: EXPOSIÇÃO
 ---
+
 “Jorge Bacelar — extraordinária figura de médico-fotógrafo — oferece-nos o sumptuoso manjar espiritual das imagens únicas que cria. Imagens que fixa por ter sido tocado (literalmente) a um tempo pelo dom divino e pelo dom do amor: ambos convergindo nos seus pacientes, que entende, em sentido inteiro e extenso, entre gente e bichos. E por isso os capta e prende nas imagens: para sempre.”
 
 Prof. António Filipe Pimentel, *in* Prefácio livro ”Ruralidades”
-
-
 
 <div class="image fit">
     <figure><img src="Foto Jorge Bacelar.jpg" alt=""></figure>

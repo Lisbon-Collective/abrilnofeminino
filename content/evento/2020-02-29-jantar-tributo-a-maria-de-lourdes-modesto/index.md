@@ -19,16 +19,13 @@ paragraph: >-
   prestamos tributo a Maria de Lourdes Modesto.
 
 
-  **Hotel Quinta das Lágrimas** 
+  **Hotel Quinta das Lágrimas**     
 
+  **20h00**    
 
-  **20h00**
+  **Preço: 30,00 €**   
 
-
-  **Preço: 30,00 €**
-
-
-  **Reservas para 91 843 11 55**
+  **Reservas 91 843 11 55**    
 
 
   [**abrilnofeminino@gmail.com**](mailto:abrilnofeminino@gmail.com)
@@ -36,9 +33,7 @@ imagealign: left
 italic: GASTRONOMIA
 ---
 
-*“Curiosamente a cozinha não corresponde muito à forma de nos mostrarmos. É mais exuberante do que somos. Temos uma comida muito sápida, muito colorida. Poderá não ser muito estética, segundo os cânones actuais. Não gostava de dizer uma coisa que tenho de dizer... É uma cozinha viril. É uma cozinha que se impõe. E é de mulheres.”*
-
-**Maria de Lourdes Modesto**
+*“Curiosamente a cozinha não corresponde muito à forma de nos mostrarmos. É mais exuberante do que somos. Temos uma comida muito sápida, muito colorida. Poderá não ser muito estética, segundo os cânones actuais. Não gostava de dizer uma coisa que tenho de dizer... É uma cozinha viril. É uma cozinha que se impõe. E é de mulheres.”* **Maria de Lourdes Modesto**
 
 **O livro “Cozinha Tradicional Portuguesa”** conhece a sua primeira edição em Janeiro de 1982 e apresenta uma selecção de 800 receitas, agrupadas por regiões, incluindo os Açores e a Madeira. **“Desde há vinte anos que me dedico a um lento mas emocionante levantamento do património culinário português. Lento, porque se nos deparam segredos a desvendar, relutâncias a vencer, variantes a ensaiar; tempos, misturas e doseamentos a experimentar. Mas levantamento emocionante, porque se revelam sabedorias seculares, usos, costumes e, sobretudo, imaginação que, as mais das vezes, nos fazem sentir o pulsar de uma vida, de uma família, de uma região, de um país”(…).**
 

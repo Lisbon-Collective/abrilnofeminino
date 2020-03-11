@@ -1,5 +1,5 @@
 ---
-title: Animação Educativa
+title: Mulheres Incríveis
 subtitle: pela Camaleão
 date: 2020-02-29T16:02:07.416Z
 eventdate: 2020-04-21T15:02:07.427Z
@@ -15,9 +15,6 @@ paragraph: >-
   centra-se em actividades lúdicas, dramáticas ou de aprendizagem das regras de
   etiqueta.
 
-
-
-
   **Escola Básica de Solum Sul - Agrupamento de Escolas Eugénio de Castro***
 
 
@@ -26,7 +23,7 @@ paragraph: >-
 
   **\*sessões reservadas aos alunos da Escola**
 imagealign: left
-italic: TEATRO PARA A INFÂNCIA
+italic: Animação Educativa
 ---
 
 

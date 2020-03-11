@@ -12,15 +12,12 @@ resources:
 - name: "header"
   src: amalia.jpg
 paragraph: >-
-  **18 de Abril, 17h00**
-
 
   *“Não há uma Amália a preto e branco, uma Amália de trincheira.” **Miguel
   Carvalho***
 
 
-
-  “**Amália - A História Secreta”,**da autoria de Miguel Carvalho.
+  “**Amália - A História Secreta”,** da autoria de Miguel Carvalho.
 
 
   com **Miguel Carvalho**
@@ -37,6 +34,7 @@ imagealign: left
 italic: Ciclo de Conversas 
 quote: '<em>“Não há uma Amália a preto e branco, uma Amália de trincheira.”</em>  Miguel Carvalho'
 ---
+
 Investigação inédita sobre as ajudas da fadista à oposição anti-regime e aos presos políticos. A infância em Alcântara; a adoração familiar por Salazar e a associação de Amália Rodrigues aos comunistas do Fado por parte da polícia política; a relação secreta com a resistência à ditadura; as ameaças do regime e as denúncias contra a alegada “princesa da PIDE”; os bastidores da prisão de Alain Oulman; as pontes com a célula clandestina do PCP para os espectáculos e a revolução antes da revolução. São estes os temas principais da investigação inédita intitulada **"Amália - A História Secreta" da autoria do jornalista Miguel Carvalho.**
 
 *"Amália Rodrigues foi uma das primeiras vítimas de fake news e da desinformação do pós-revolução. E, como sabem aqueles que com ela lidaram de perto, nunca se libertou desse desgosto.(…).*
@@ -53,7 +51,7 @@ Investigação inédita sobre as ajudas da fadista à oposição anti-regime e a
 
 <div class="image fit">
     <figure><img src="/images/uploads/miguel-carvalho.jpg" alt=""></figure>
-    <figcaption>Créditos fotografia: Mariana Correia Pinto</figcaption>
+    <figcaption>© Mariana Correia Pinto</figcaption>
 </div>
 
 
@@ -61,11 +59,12 @@ Investigação inédita sobre as ajudas da fadista à oposição anti-regime e a
 
 Nasceu em 1970, é Grande Repórter da revista Visão desde Dezembro de 1999. Em 1989, concluiu o Curso de Radiojornalismo do Centro de Formação de Jornalistas do Porto. Trabalhou ainda no Diário de Notícias e no semanário O Independente. Venceu o Prémio Orlando Gonçalves (Jornalismo), em 2008, e o Grande Prémio Gazeta, do Clube dos Jornalistas, em 2009. Publicou seis livros, o mais recente dos quais, *Quando Portugal Ardeu – Histórias e Segredos da Violência Política no pós-25 de Abril*(Oficina do Livro), vai na quarta edição. Nasceu no Porto, cidade que ama e onde gostaria de viver até ser pó, cinza e nada.
 
+<div class="image fit">
+    <figure><img src="/images/uploads/manuel-rocha.jpg" alt=""></figure>
+</div>
+
 **Manuel Rocha**
 
 Nasceu em Coimbra, em 1962. É diplomado em docência de violino (Moscovo,1988), desenvolvendo, desde 1988, actividade docente no Conservatório de Música de Coimbra. Desempenhou funções de director daquela escola artística entre 2005 e 2017. Integrou o Grupo de Etnografia e Folclore da Academia de Coimbra (GEFAC) e a Tuna Académica da AAC. Enquanto músico, vem desenvolvendo actividade sobretudo no âmbito da chamada música popular. É membro da Brigada Victor Jara desde 1977. Apresentou-se em palco e/ou em registo fonográfico com nomes como Adriano Correia de Oliveira, Manuel Freire, Fausto, Vitorino Salomé, José Medeiros, Mísia, Filipa Pais, Pedro Barroso, Ala dos Namorados, Gaiteiros de Lisboa, Carlos do Carmo, entre muitos outros. Paralelamente, realizou trabalhos de diversa natureza de que destaca a série de documentários para a RTP sobre a música da tradição oral portuguesa, realizada a partir da série de Michel Giacometti e Alfredo Tropa "Povo que Canta". Colabora com grupos de teatro e em bandas sonoras de televisão e cinema (Ballet Rose, Sombra dos Abutres, Fátima, Mau Tempo no Canal, Pedro e Inês, etc.). Foi colaborador, entre 2005 e 2007, da Licenciatura de Estudos Artísticos da FLUC (Oficina de Artes). Integrou grupos de trabalho do Ministério da Educação e do Ministério da Cultura (em Portugal e junto da Comissão Europeia), integrando, presentemente, a Comissão Executiva do Projeto Meridiano, do MNE, cuja missão consiste na divulgação da música portuguesa junto das comunidades residentes no estrangeiro. Presidiu, no ano lectivo de 2018/19, à Comissão Administrativa Provisória (instaladora) do Conservatório de Música de Loulé - Francisco Rosado.
 
 
-<div class="image fit">
-    <figure><img src="/images/uploads/manuel-rocha.jpg" alt=""></figure>
-</div>

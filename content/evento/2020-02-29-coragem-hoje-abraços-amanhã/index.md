@@ -14,19 +14,15 @@ paragraph: >-
   aquelas mulheres. Para que a memória permaneça e celebremos a liberdade.
 
 
-  **Centro Cultural Penedo da Saudade**
+  **Centro Cultural Penedo da Saudade**    
 
+  **15h00 (sessão reservada ao público escolar)**    
 
-  **15h00 (sessão reservada ao público escolar)**
+  **21h30 (público em geral)**    
 
+  **Entrada: 1,00 €/3,00 €/5,00 €**    
 
-  **21h30 (público em geral)**
-
-
-  **Entrada: 1,00 €/3,00 €/5,00 €**
-
-
-  **Reservas para 239 791 245 (14h00-20h00) ou cultura@ipc.pt (lotação
+  **Reservas 239 791 245 (14h00-20h00) ou cultura@ipc.pt (lotação
   limitada)**
 imagealign: left
 italic: LEITURA ENCENADA
@@ -34,6 +30,12 @@ italic: LEITURA ENCENADA
 Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de serem privadas da sua liberdade. Mulheres que eram avós, mães, filhas, esposas, namoradas, amantes, companheiras, camaradas. Mulheres que não são figuras históricas dentro de um livro empoeirado, mas que existiram realmente, algumas que ainda se cruzam connosco na rua e guardam duras memórias no coração.
 
 **Direção artística, dramaturgia, encenação e interpretação: Joana Brandão**; **Assistência de encenação**: Elsa Galvão e Maria João Abreu; **Consultoria**: Irene Pimentel; **Desenho de Luz:** Paulo Santos; **Iluminação:** João Lopes; **Sonoplastia:** João Bucho; **Cenografia:** Joana Brandão; **Figurino:** Maria Gonzaga; **Apoio**: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).
+
+
+<div class="image fit">
+  <figure><img src="joana-brandao.jpg" alt=""></figure>
+  <figcaption>© Joaquim Paulino</figcaption>
+</div>
 
 **Joana Brandão** iniciou em 1995 a licenciatura bi-etápica em Formação de Actores/ Encenadores pela ESTC, tendo sido convidada para se estrear no Teatro da Comuna.
 
@@ -49,7 +51,4 @@ Tem participado em filmes e curtas metragens com realizadores como Pedro Varela 
 
 Paralelamente ao seu percurso como actriz, desenvolve, desde 1999, trabalhos de direcção de actores (Quer o Destino, Equador, O Bando dos Quatro, etc), assistência de encenação (João Brites, Carlos Pimenta, Guillermo Heras, etc), locuções e docência/formação. Tem desenvolvido a sua actividade de formadora, ministrando vários cursos particulares de teatro, bem como em escolas profissionais com World Academy, RESTART, entre outras e várias escolas públicas. Tem Formação de Formadores no Âmbito do Desenvolvimento Curricular em Artes, pelo DGE- Ministério da Educação e Ciência.
 
-<div class="image fit">
-  <figure><img src="joana-brandao.jpg" alt=""></figure>
-  <figcaption>Créditos de Joaquim Paulino</figcaption>
-</div>
+
