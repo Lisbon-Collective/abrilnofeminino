@@ -6,7 +6,7 @@ eventdate: 2020-02-18T21:30:35.436Z
 eventlocation: Teatro Académico de Gil Vicente
 resources:
 - name: "header"
-  src: amalia-alain-1964.jpg
+  src: com-que-voz.jpg
 paragraph: >-
   Alain Oulman foi um dos grandes responsáveis por trazer para a música de
   Amália nomes grandes da literatura como Luís de Camões, Alexandre O’Neill,
@@ -55,7 +55,7 @@ Ano de Produção – 2009, Outubro
 Distribuição – NLC
 
 <div class="image fit">
-  <figure><img src="/images/uploads/com-que-voz.jpg" alt=""></figure>
+  <figure><img src="amalia-alain-1964.jpg" alt=""></figure>
 </div>
 
 **Nicholas Oulman** nasceu em Londres em 1967.
