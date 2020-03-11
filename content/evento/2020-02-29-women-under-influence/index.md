@@ -35,17 +35,17 @@ Celebrada internacionalmente pelo seu trabalho no repertório barroco e mozartia
 *… Ana Quintans, a grande estrela portuguesa do canto barroco. Tudo nela é perfeito (...) como se a música fosse uma extensão do corpo!*\
 **Expresso**
 
-\*And although her vamping sex-kitten characterisation seems superficial, Ana Quintans delivers perhaps the most polished and enjoyable singing of the evening as Amore**\*The Times**
+*And although her vamping sex-kitten characterisation seems superficial, Ana Quintans delivers perhaps the most polished and enjoyable singing of the evening as Amore* **The Times**
 
-\*Ana Quintans est une éblouissante Belinda, aux aigus limpides et à l'aisance vocale indéniable**\*Opéra Magazine**
+*Ana Quintans est une éblouissante Belinda, aux aigus limpides et à l'aisance vocale indéniable* **Opéra Magazine**
 
-\*Ana Quintans, making her Scottish Opera debut sounded as glam as her A-line costume. Her singing was consistent throughout the evening and consistently fabulous**\*Opera Britannia**
+*Ana Quintans, making her Scottish Opera debut sounded as glam as her A-line costume. Her singing was consistent throughout the evening and consistently fabulous* **Opera Britannia**
 
-\*Ana Quintans who plays Despina was definitely the star of the show**\*Sussex Express**
+*Ana Quintans who plays Despina was definitely the star of the show* **Sussex Express**
 
-\*Merveilleuse Ana Quintans, le plus joli timbre du plateau**\*Altamusica.com**
+*Merveilleuse Ana Quintans, le plus joli timbre du plateau*  **Altamusica.com**
 
-\*Quintans afirma-se aqui como uma estrela maior. A ópera roda em seu torno, e a sua presença é tão intensa que consegue preencher sozinha, durante minutos, um palco enorme literalmente vazio. (…) A inteligência artística, o talento de atriz e a graciosidade corporal, perfazem as qualidades que a tornaram na intérprete ideal de Alceste**\*Público**
+*Quintans afirma-se aqui como uma estrela maior. A ópera roda em seu torno, e a sua presença é tão intensa que consegue preencher sozinha, durante minutos, um palco enorme literalmente vazio. (…) A inteligência artística, o talento de atriz e a graciosidade corporal, perfazem as qualidades que a tornaram na intérprete ideal de Alceste*  **Público**
 
 <div class="image fit">
   <figure><img src="/images/uploads/ana-quintans.jpg" alt=""></figure>
