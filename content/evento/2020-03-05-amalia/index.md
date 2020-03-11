@@ -13,21 +13,16 @@ resources:
   src: amalia.jpg
 paragraph: >-
 
-  *“Não há uma Amália a preto e branco, uma Amália de trincheira.” **Miguel
-  Carvalho***
+  *“Não há uma Amália a preto e branco, uma Amália de trincheira.”* **Miguel
+  Carvalho**
 
+  “**Amália - A História Secreta”,** da autoria de Miguel Carvalho.    
 
-  “**Amália - A História Secreta”,** da autoria de Miguel Carvalho.
+  com **Miguel Carvalho**    
 
+  *Moderação de* **Manuel Rocha**     
 
-  com **Miguel Carvalho**
-
-
-  *Moderação de **Manuel Rocha***
-
-
-  **Teatro Académico de Gil Vicente**
-
+  **Teatro Académico de Gil Vicente**     
 
   **Entrada Livre**
 imagealign: left
