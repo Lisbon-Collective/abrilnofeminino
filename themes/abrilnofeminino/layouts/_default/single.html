@@ -10,26 +10,26 @@
 					<header class="major">
 						<h1>{{ .Title | safeHTML }}</h1>
 						{{ with .Params.subtitle }}
-							<p>{{ . }}</p>
+							<p>{{ . | safeHTML }}</p>
 						{{ end }}
 						<h3>
 						{{ with .Params.eventdate }}
-						{{ . | dateFormat "2" }}	 {{ end }}
-						de Abril, {{ with .Params.eventlocation }} {{ . }} {{ end}}
-						</h3>
-
+						{{ . | dateFormat "2" }}	 
+						de Abril {{ . | dateFormat "15h04"}}
+						</h3> 
 
 					</header>
 					{{- if (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}
 					<div class="image main">					
 						{{ partial "get_header" . }}
+						{{ with .Params.copyright}}{{.}}{{end}}
 					</div>
 					 {{- end -}}
 					 <div class="row aln-center">
 					 	<div class="col-9 col-12-small">
 						{{ .Params.paragraph | markdownify }}
 						<hr>
-					 	{{ replace .Content .Summary "" | safeHTML }}</div>
+					 	{{ .Content | safeHTML }}</div>
 					 </div>
 
 				</div>
