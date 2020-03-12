@@ -25,5 +25,5 @@
 			</a>
 
 		<ul class="actions">
-			<li><a href="{{ .RelPermalink }}" class="button">Detalhes</a></li>
+			<li><a href="{{ .RelPermalink }}" class="button" id="{{ replaceRE "evento" "" .RelPermalink | replaceRE "/" "" | replaceRE "-" "" }}">Detalhes</a></li>
 		</ul>
