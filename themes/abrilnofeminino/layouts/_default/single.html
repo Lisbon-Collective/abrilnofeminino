@@ -8,16 +8,12 @@
 			<div class="wrapper">
 				<div class="inner">
 					<header class="major">
+						{{ with .Params.eventdate }}
+						<h3>{{ . | dateFormat "2" }} de Abril | {{ . | dateFormat "15h04"}}</h3>
+						{{ end }}
 						<h1>{{ .Title | safeHTML }}</h1>
 						{{ with .Params.subtitle }}
 							<p>{{ . | safeHTML }}</p>
-						{{ end }}
-						
-						{{ with .Params.eventdate }}
-						<h3>
-						{{ . | dateFormat "2" }}	 
-						de Abril {{ . | dateFormat "15h04"}}
-						</h3> 
 						{{ end }}
 
 					</header>

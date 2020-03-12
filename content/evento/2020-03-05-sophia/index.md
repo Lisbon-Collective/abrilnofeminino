@@ -1,5 +1,5 @@
 ---
-title: '“Sophia de Mello Breyner Andresen”, da autoria de Isabel Nery'
+title: '“Sophia de Mello Breyner Andresen” <br> da autoria de Isabel Nery'
 subtitle: 'Com Isabel Nery <br> Moderação de João Gobern<br>
 Casa da Escrita<br>
 Entrada Livre
@@ -12,15 +12,10 @@ resources:
 - name: "header"
   src:  sophia.jpg
 paragraph: >-
-  *“Eu não acredito na biografia, que é a vida contada pelos outros. No fundo, a única biografia que eu tenho é a que está na minha poesia.”*
-
+  *“Eu não acredito na biografia, que é a vida contada pelos outros. No fundo, a única biografia que eu tenho é a que está na minha poesia.”*      
+  
   **Sophia de Mello Breyner Andresen**    
 
-  *Moderação* de João Gobern     
-
-  **Casa da Escrita**    
-
-  **Entrada Livre**    
 imagealign: left
 italic: Ciclo de Conversas
 ---
