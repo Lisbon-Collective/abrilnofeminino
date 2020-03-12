@@ -58,6 +58,10 @@ Distribuição – NLC
   <figure><img src="amalia-alain-1964.jpg" alt=""></figure>
 </div>
 
+<div class="image fit">
+  <figure><img src="com-que-voz.jpg" alt=""></figure>
+</div>
+
 **Nicholas Oulman** nasceu em Londres em 1967.
 
 Passou a infância vivendo entre Paris e Lisboa.
