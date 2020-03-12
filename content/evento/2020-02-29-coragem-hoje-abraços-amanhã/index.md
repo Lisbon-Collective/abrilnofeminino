@@ -2,7 +2,7 @@
 title: '"Coragem Hoje, Abraços Amanhã"'
 subtitle: ' com Joana Brandão.'
 date: 2020-02-29T15:54:49.471Z
-eventdate: 2020-04-17T14:54:49.490Z
+eventdate: 2020-04-17T15:00:49.490Z
 eventlocation: Centro Cultural Penedo da Saudade
 resources:
 - name: "header"

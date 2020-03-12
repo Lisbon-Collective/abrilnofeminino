@@ -2,7 +2,7 @@
 title: '"Women under influence"'
 subtitle: com Ana Quintans (soprano) e Filipe Raposo (piano)
 date: 2020-02-29T15:48:01.572Z
-eventdate: 2020-04-04T20:30:01.586Z
+eventdate: 2020-04-04T21:30:01.586Z
 resources:
 - name: header
   src: women_under_influence.jpg
@@ -21,7 +21,7 @@ paragraph: >-
 
   **Entrada 10,00 €**    
 
-  **Reservas para 962 610 050**    
+  **Reservas 962 610 050**    
 
   **Venda de bilhetes no local, dia 4**    
 

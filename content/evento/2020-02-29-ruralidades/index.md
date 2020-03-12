@@ -16,10 +16,12 @@ paragraph: >-
 
 
   *"Fotos sumptuosas que nos enchem alma e olhos,
-    parecendo aquecer-nos e iluminar por dentro."*, Prof. António Pimentel. 
+    parecendo aquecer-nos e iluminar por dentro."*     
+    Prof. António Filipe Pimentel. 
 
 
-  **Museu Nacional de Machado de Castro** 
+  **Museu Nacional de Machado de Castro**     
+
 
   **Inauguração 18h00**       
 
@@ -30,9 +32,8 @@ paragraph: >-
   **Até 10 de Maio**    
 
   **Horário**    
-  3ª feira: 14h — 18h
 
-  4ª feira a domingo: 10h — 18h
+  3ª feira: 14h — 18h | 4ª feira a domingo: 10h — 18h
 
 
 imagealign: left

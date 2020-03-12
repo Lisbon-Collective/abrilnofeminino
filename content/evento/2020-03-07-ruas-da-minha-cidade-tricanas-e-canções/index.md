@@ -31,6 +31,7 @@ O ponto de partida é a figura da **Tricana**, abordada na perspectiva da sua ut
 
 <style>
     #main > div > div > div.image.main {
-        display: none;
-    }
+      display: none;
 </style>
+
+

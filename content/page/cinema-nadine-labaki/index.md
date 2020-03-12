@@ -53,31 +53,31 @@ http://www.nadinelabaki.com/
 
 https://www.youtube.com/watch?v=2J84dthZMLU
 
-8 de Abril
+**8 de Abril**
 
- “Caramel”
+**“Caramel”**
 
-Comédia Dramática|2007
+Comédia Dramática | 2007
 
-*Apresentação de Rosário Gama*    
+***Apresentação de Rosário Gama***
 
-22 de Abril 
+**22 de Abril**
 
-“E Agora, Onde Vamos?”
+**“E Agora, Onde Vamos?”**
 
-Comédia Dramática|2011
+Comédia Dramática | 2011
 
-*Apresentação de Cristina Robalo Cordeiro*
+***Apresentação de Cristina Robalo Cordeiro***
 
  
 
-29 de Abril 
+**29 de Abril** 
 
-“Cafarnaum”
+**“Cafarnaum”**
 
-Drama|2018
+Drama | 2018
 
-*Apresentação de Sofia Lobo*
+***Apresentação de Sofia Lobo***
 
  
 
@@ -85,7 +85,7 @@ Drama|2018
   <figure><img src="rosario_gama_cropped.jpg" alt=""></figure>
 </div>
 
-Maria do Rosário Gama, nasceu em Nisa, distrito de Portalegre, em 1949, viveu a sua infância e juventude em Viana do Alentejo e reside em Coimbra desde 1967, ano em que concluiu os estudos secundários no Liceu Nacional de Évora e ingressou na Faculdade de Ciências da Universidade de Coimbra onde se licenciou em Biologia (Ramo Educacional) no ano de 1973.
+**Maria do Rosário Gama**, nasceu em Nisa, distrito de Portalegre, em 1949, viveu a sua infância e juventude em Viana do Alentejo e reside em Coimbra desde 1967, ano em que concluiu os estudos secundários no Liceu Nacional de Évora e ingressou na Faculdade de Ciências da Universidade de Coimbra onde se licenciou em Biologia (Ramo Educacional) no ano de 1973.
 
 Foi Directora da Escola Secundária Infanta D. Maria, em Coimbra até 31 de Março de 2011, data em que se aposentou.
 
@@ -97,7 +97,7 @@ Fundou o Movimento Cívico APRe! – Aposentados, Pensionistas e Reformados, em 
   <figure><img src="Foto Cristina Robalo Cordeiro (1)small.jpg" alt=""></figure>
 </div>
 
-Cristina Robalo-Cordeiro é professora catedrática da Faculdade de Letras da Universidade de Coimbra, de que foi Vice-Reitora de 2003 a 2011.
+**Cristina Robalo-Cordeiro** é professora catedrática da Faculdade de Letras da Universidade de Coimbra, de que foi Vice-Reitora de 2003 a 2011.
 
 Consagrou o seu trabalho e investigação ao estudo da Literatura, sobretudo na área dos estudos franceses (dos séculos XIX e XX) e francófonos. 
 
@@ -129,7 +129,7 @@ Comendador da Ordem D. Infante Henrique, 2015
   <figure><img src="Sofia Lobo 1.jpg" alt=""></figure>
 </div>
 
-Sofia Lobo, Mortágua, 1966.
+**Sofia Lobo**, Mortágua, 1966.
 
 Actriz d´A Escola da Noite e voluntária da ONG A Drop in the Ocean.
 

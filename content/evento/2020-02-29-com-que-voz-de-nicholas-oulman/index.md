@@ -1,5 +1,5 @@
 ---
-title: '"Com Que Voz" de Nicholas Oulman'
+title: '"Com Que Voz" <br> de Nicholas Oulman'
 subtitle: Apresentação de Nicholas Oulman
 date: 2020-02-29T15:59:35.421Z
 eventdate: 2020-02-18T21:30:35.436Z
@@ -77,3 +77,9 @@ Em 1993 instala-se em Nova York onde se forma em realização cinematográfica e
 Trabalhou depois em vários filmes independentes e participou como argumentista em diversos projectos.
 
 “**Com Que Voz**” é a sua primeira longa-metragem.
+
+<style>
+    #main > div > div > div.image.main {
+        display: none;
+    }
+</style>

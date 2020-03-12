@@ -1,5 +1,5 @@
 ---
-title: '"O Poço e a Estrada, Biografia de Agustina Bessa-Luís", da autoria de Isabel Rio Novo'
+title: '"O Poço e a Estrada, Biografia de Agustina Bessa-Luís" <br> de Isabel Rio Novo'
 subtitle: 'Com Isabel Rio Novo <br>
 Moderação de Álvaro Laborinho Lúcio <br>
 Casa da Escrita <br>
@@ -11,17 +11,7 @@ eventlocation: Casa da Escrita
 resources:
 - name: "header"
   src:  poco_estrada.jpg
-paragraph: >-
-
-  *“Mas tenho uma história, e que história. \[…] Ninguém a conhece.” **Agustina
-  Bessa-Luís***
-
-
-  *Moderação* de Álvaro Laborinho Lúcio     
-
-  **Casa da Escrita**    
-
-  **Entrada Livre**
+paragraph: 
 imagealign: left
 italic: Ciclo de Conversas
 quote: '<em>“Mas tenho uma história, e que história. […] Ninguém a conhece.”</em> Agustina Bessa-Luís'

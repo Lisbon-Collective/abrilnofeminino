@@ -14,6 +14,7 @@ paragraph: >-
   e rainha de Inglaterra e Maria de Lourdes Sá Teixeira, aviadora. Esta animação
   centra-se em actividades lúdicas, dramáticas ou de aprendizagem das regras de
   etiqueta.
+  
 
   **Escola Básica de Solum Sul - Agrupamento de Escolas Eugénio de Castro***
 

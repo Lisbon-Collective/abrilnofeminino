@@ -1,5 +1,5 @@
 ---
-title: '"Amália - A História Secreta", da autoria de Miguel Carvalho.'
+title: '"Amália - A História Secreta", de Miguel Carvalho.'
 subtitle: 'com Miguel Carvalho<br>
 Moderação de Manuel Rocha<br>
 Teatro Académico de Gil Vicente<br> 
@@ -16,15 +16,7 @@ paragraph: >-
   *“Não há uma Amália a preto e branco, uma Amália de trincheira.”* **Miguel
   Carvalho**
 
-  “**Amália - A História Secreta”,** da autoria de Miguel Carvalho.    
 
-  com **Miguel Carvalho**    
-
-  *Moderação de* **Manuel Rocha**     
-
-  **Teatro Académico de Gil Vicente**     
-
-  **Entrada Livre**
 imagealign: left
 italic: Ciclo de Conversas 
 quote: '<em>“Não há uma Amália a preto e branco, uma Amália de trincheira.”</em>  Miguel Carvalho'
