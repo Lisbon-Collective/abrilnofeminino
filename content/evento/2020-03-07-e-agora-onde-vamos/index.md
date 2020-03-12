@@ -7,8 +7,13 @@ eventlocation: 'Seminário Maior, Sala São Tomás'
 resources:
 - name: "header"
   src:  e_agora_onde_vamos.jpg
-paragraph: '**Apresentação de Cristina Robalo Cordeiro**'
+paragraph: ''
 imagealign: left
 italic: 'CINEMA / CICLO NADINE LABAKI '
 ---
-**Apresentação de Cristina Robalo Cordeiro**
+
+<style>
+    #main > div > div > div.image.main {
+        display: none;
+    }
+</style>
