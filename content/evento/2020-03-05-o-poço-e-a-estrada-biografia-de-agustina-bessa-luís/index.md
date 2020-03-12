@@ -17,17 +17,9 @@ paragraph: >-
   Bessa-Luís***
 
 
-  **"O Poço e a Estrada, Biografia de Agustina Bessa Luís",** da autoria de
-  Isabel Rio Novo**    
+  *Moderação* de Álvaro Laborinho Lúcio     
 
-  com **Isabel Rio Novo**
-
-
-  *Moderação* de **Álvaro Laborinho Lúcio**
-
-
-  **Casa da Escrita**
-
+  **Casa da Escrita**    
 
   **Entrada Livre**
 imagealign: left
