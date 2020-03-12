@@ -84,7 +84,7 @@ Drama|2018
  
 
 <div class="image fit">
-  <figure><img src="rosario_gama.jpg" alt=""></figure>
+  <figure><img src="rosario_gama_cropped.jpg" alt=""></figure>
 </div>
 
 Maria do Rosário Gama, nasceu em Nisa, distrito de Portalegre, em 1949, viveu a sua infância e juventude em Viana do Alentejo e reside em Coimbra desde 1967, ano em que concluiu os estudos secundários no Liceu Nacional de Évora e ingressou na Faculdade de Ciências da Universidade de Coimbra onde se licenciou em Biologia (Ramo Educacional) no ano de 1973.
