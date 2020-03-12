@@ -6,7 +6,7 @@ eventdate: 2020-02-18T21:30:35.436Z
 eventlocation: Teatro Académico de Gil Vicente
 resources:
 - name: "header"
-  src: com-que-voz.jpg
+  src: Com_que_Voz_poster.jpg
 paragraph: >-
   Alain Oulman foi um dos grandes responsáveis por trazer para a música de
   Amália nomes grandes da literatura como Luís de Camões, Alexandre O’Neill,
