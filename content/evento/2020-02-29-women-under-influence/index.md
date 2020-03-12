@@ -5,7 +5,7 @@ date: 2020-02-29T15:48:01.572Z
 eventdate: 2020-04-04T20:30:01.586Z
 resources:
 - name: header
-  src: ana-quintans.jpg
+  src: women_under_influence.jpg
 eventlocation: Seminário Maior, Sala São Tomás
 copyright: 
 paragraph: >-
@@ -48,7 +48,7 @@ Celebrada internacionalmente pelo seu trabalho no repertório barroco e mozartia
 *Quintans afirma-se aqui como uma estrela maior. A ópera roda em seu torno, e a sua presença é tão intensa que consegue preencher sozinha, durante minutos, um palco enorme literalmente vazio. (…) A inteligência artística, o talento de atriz e a graciosidade corporal, perfazem as qualidades que a tornaram na intérprete ideal de Alceste*  **Público**
 
 <div class="image fit">
-  <figure><img src="/images/uploads/ana-quintans.jpg" alt=""></figure>
+  <figure><img src="ana-quintans.jpg" alt=""></figure>
 </div>
 
 **Ana Quintans** é licenciada em Escultura e estudou Canto na Escola de Música do Conservatório Nacional, em Lisboa, e no Flanders Operastudio, em Gent, como bolseira da Fundação Calouste Gulbenkian.
@@ -87,3 +87,9 @@ Em nome próprio editou os discos:
 – Rita Maria & Filipe Raposo Live in Oslo (2018).
 
 – ØCRE (2019) – Disco a solo
+
+<style>
+    #main > div > div > div.image.main {
+        display: none;
+    }
+</style>
