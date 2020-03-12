@@ -59,9 +59,7 @@ https://www.youtube.com/watch?v=2J84dthZMLU
 
 Comédia Dramática|2007
 
-*Apresentação de Rosário Gama*
-
- 
+*Apresentação de Rosário Gama*    
 
 22 de Abril 
 
