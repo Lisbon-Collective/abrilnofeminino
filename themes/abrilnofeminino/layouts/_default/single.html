@@ -15,6 +15,9 @@
 						{{ with .Params.subtitle }}
 							<p>{{ . | safeHTML }}</p>
 						{{ end }}
+						{{ if eq .Section "noticias" }}
+							Notícia publicada a {{ .Date | dateFormat "02-01-2006, 15h04" }}
+						{{ end }}
 
 					</header>
 					{{- if (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}

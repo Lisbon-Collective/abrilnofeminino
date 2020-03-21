@@ -11,7 +11,7 @@ copyright: Arco de Almedina, Ilustração de Puk Ewdokia
 paragraph: >-
   Histórias contadas ao longo de um percurso citadino, para falar da importância
   das mulheres enquanto figuras centrais na dinâmica da cidade: no passado e no
-  presente.
+  presente.    
 
   10h30    
 

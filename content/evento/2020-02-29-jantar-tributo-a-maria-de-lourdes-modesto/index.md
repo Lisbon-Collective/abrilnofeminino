@@ -61,12 +61,8 @@ Iniciou a sua carreira televisiva em 1958, quando, então professora de Trabalho
   <figure><img src="Chef Vitor Dias.jpg" alt=""></figure>
 </div>
 
-Vitor Dias nasceu em 1980 e é natural de Cantanhede. Ingressou na Escola de Hotelaria e Turismo de Coimbra, e no decurso da sua vida escolar, estagiou na Pousada Santa Marinha, em Guimarães e no Hotel Mercure, na Figueira da Foz. Concluído o curso, integrou a equipa do Hotel Quinta das Lágrimas, liderada pelo Chefe Albano Loureço, tendo como consultor o Chefe Joaquim Koerper. A partir de 2006, foram vários os desafios profissionais, nomeadamente para chefiar a cozinha do Marialva Park Hotel. Regressa em 2008 ao Hotel Quinta das Lágrimas, assumindo o cargo de subchefe, até 2015, data a partir da qual lhe é entregue a liderança da equipa.
+**Vitor Dias** nasceu em 1980 e é natural de Cantanhede. Ingressou na Escola de Hotelaria e Turismo de Coimbra, e no decurso da sua vida escolar, estagiou na Pousada Santa Marinha, em Guimarães e no Hotel Mercure, na Figueira da Foz. Concluído o curso, integrou a equipa do Hotel Quinta das Lágrimas, liderada pelo Chef Albano Loureço, tendo como consultor o Chef Joaquim Koerper. A partir de 2006, foram vários os desafios profissionais, nomeadamente para chefiar a cozinha do Marialva Park Hotel. Regressa em 2008 ao Hotel Quinta das Lágrimas, assumindo o cargo de subChef, até 2015, data a partir da qual lhe é entregue a liderança da equipa.
 
 Vitor Dias privilegia uma cozinha cuidada e criativa, respeitando a sazonalidade dos produtos, cuja origem maioritária é da própria região. No Restaurante Arcadas, tem como principal missão servir bem, surpreendendo o cliente com uma oferta original e apelativa. Um desafio diário que o anima a fazer mais e melhor, com entrega e paixão, num espaço único e com uma singular história.
 
-<style>
-    #main > div > div > div.image.main {
-        display: none;
-    }
-</style>
+<style>#main > div > div > div.image.main {display: none;}</style>

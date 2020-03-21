@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: 
+subtitle: Rua António Augusto Gonçalves., 3041-901 Coimbra
 
 tags:
   -
@@ -33,4 +33,4 @@ custom:
   local: Rua António Augusto Gonçalves., 3041-901 Coimbra
 ---
 
-Rua António Augusto Gonçalves., 3041-901 Coimbra
+

@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: Largo Dr. José Rodrigues
 tags: 
   - 
 categories: 
@@ -31,9 +31,8 @@ custom:
   hora: 
   local:
 ---
-Largo Dr. José Rodrigues
+
 
 **Horário**    
-3ª feira: 14h — 18h
 
-4ª feira a domingo: 10h — 18h
+Terça a Domingo: 10h-18h

@@ -3,11 +3,11 @@ title: 'Vozes de Abril'
 subtitle: "Mulheres e Revolução. As portas que Elas abriram."
 
 date: 2020-03-07T11:22:36.610Z
-eventdate: 2020-04-23T09:30:36.621Z
+eventdate: 2020-04-23T18:30:36.621Z
 eventlocation: 'Centro Cultural Penedo da Saudade'
 resources:
 - name: "header"
-  src: 
+  src: Foto_25_de_Abril_optim.jpg
 copyright: 
 paragraph: >-
     com Custódia Martins Guerreiro e Maria Teresa Alves     
@@ -40,7 +40,9 @@ Continua a viver com o marido [**Manuel Martins Guerreiro**] em Algés, na mesma
 
 *In Capitãs de Abril, A revolução dos cravos vivida pelas mulheres dos militares, de Ana Sofia Fonseca (1ª edição Fevereiro 2014).*
 
-**Foto Teresa Alves falta**
+<div class="image fit">
+    <figure><img src="Teresa_Alves_optim.jpg" alt=""></figure>
+</div>
 
 **TERESA ALVES**
 

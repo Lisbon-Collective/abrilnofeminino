@@ -72,24 +72,20 @@ Tem colaborações em concerto e em disco com alguns dos principais nomes da mú
 
 Desde 2004 que colabora com a Cinemateca Portuguesa como pianista residente no acompanhamento de filmes mudos. A convite da Cinemateca Portuguesa compôs e gravou a banda sonora para as edições em DVD de filmes portugueses do Cinema Mudo, em 2017 foi lançado “Lisboa, Crónica Anedótica” de Leitão de Barros, tendo ganho uma Menção Honrosa no Festival Il Cinema Ritrovato em Bolonha, e em 2018 “O Táxi n.º9297” de Reinaldo Ferreira.
 
-Ganhou o Prémio de Melhor Banda Sonora no Festival Caminhos Film Festival com o filme “O Gelo” e o filme “Refrigerantes e Canções de Amor” ganhou o Prémio de Melhor Canção Original nos Prémios Sophia – Academia de Cinema.\
-Tem desenvolvido com o artista visual António Jorge Gonçalves o projecto “4 Mãos” onde desenho em tempo real e música interagem num diálogo onde se exploram as fronteiras da criação.\
+Ganhou o Prémio de Melhor Banda Sonora no Festival Caminhos Film Festival com o filme “O Gelo” e o filme “Refrigerantes e Canções de Amor” ganhou o Prémio de Melhor Canção Original nos Prémios Sophia – Academia de Cinema.
+
+Tem desenvolvido com o artista visual António Jorge Gonçalves o projecto “4 Mãos” onde desenho em tempo real e música interagem num diálogo onde se exploram as fronteiras da criação.
+
 Enquanto compositor e orquestrador tem colaborado com inúmeras orquestras: Orquestra Gulbenkian, Orquestra Sinfónica Portuguesa, Orquestra Metropolitana, Orquestra Filarmonia das Beiras, Orquestra Clássica da Madeira, Orquestra do Sul.
 
 Em nome próprio editou os discos:
 
 – First Falls (2011) – Prémio artista revelação Fundação Amália;
-
 – A Hundred Silent Ways (2013) – Disco a Solo;
-
 – Inquiétude (2015);
-
 – Rita Maria & Filipe Raposo Live in Oslo (2018).
-
 – ØCRE (2019) – Disco a solo
 
-<style>
-    #main > div > div > div.image.main {
-        display: none;
-    }
-</style>
+Fotografia de Filipe Raposo © Estelle Valente
+
+<style>#main > div > div > div.image.main {display: none;}</style>

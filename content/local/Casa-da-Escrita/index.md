@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: Rua João Jacinto, 8
 tags: 
   - 
 categories: 
@@ -32,4 +32,3 @@ custom:
   local:
 ---
 
-Rua João Jacinto, 8

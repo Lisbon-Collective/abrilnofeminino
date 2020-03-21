@@ -32,34 +32,18 @@ Alain Oulman nasce em Lisboa em 1928 no seio de uma família judaica tradicional
 
 **FICHA TÉCNICA**
 
-Realização e argumento – Nicholas Oulman
+Realização e argumento **Nicholas Oulman**| Produtor **Paulo de Sousa e Beth Calabro Oulman**| Directora de Produção **Susana Bicho**| Fotografia **Miguel Sales Lopes**| Montagem **Patrícia Saramago|** Montagem Online **Rui Branquinho|** Som **Quintino Bastos|** Produção **Glimpse/Dragocom|** Duração **1H48Min|** Ano de Produção **2009, Outubro|**Distribuição NLC
 
-Produtor – Paulo de Sousae Beth Calabro Oulman
+ 
 
-Directora de Produção – Susana Bicho
-
-Fotografia – Miguel Sales Lopes
-
-Montagem – Patrícia Saramago
-
-Montagem Online – Rui Branquinho
-
-Som – Quintino Bastos
-
-Produção – Glimpse/Dragocom
-
-Duração – 1H48Min
-
-Ano de Produção – 2009, Outubro
-
-Distribuição – NLC
-
-<div class="image fit">
-  <figure><img src="amalia-alain-1964.jpg" alt=""></figure>
-</div>
 
 <div class="image fit">
   <figure><img src="com-que-voz.jpg" alt=""></figure>
+</div>
+
+
+<div class="image fit">
+  <figure><img src="amalia-alain-1964.jpg" alt=""></figure>
 </div>
 
 **Nicholas Oulman** nasceu em Londres em 1967.
@@ -78,8 +62,7 @@ Trabalhou depois em vários filmes independentes e participou como argumentista 
 
 “**Com Que Voz**” é a sua primeira longa-metragem.
 
-<style>
-    #main > div > div > div.image.main {
+<style>#main > div > div > div.image.main {
         display: none;
     }
 </style>

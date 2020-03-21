@@ -12,8 +12,4 @@ imagealign: left
 italic: 'CINEMA / CICLO NADINE LABAKI '
 ---
 
-<style>
-    #main > div > div > div.image.main {
-        display: none;
-    }
-</style>
+<style>#main > div > div > div.image.main {display: none;}</style>

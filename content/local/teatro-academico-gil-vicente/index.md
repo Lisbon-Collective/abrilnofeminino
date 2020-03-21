@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: 
+subtitle: Praça da República, 3000-343 Coimbra
 
 tags:
   -
@@ -33,4 +33,3 @@ custom:
   local: avenida 7
 ---
 
-Praça da República, 3000-343 Coimbra

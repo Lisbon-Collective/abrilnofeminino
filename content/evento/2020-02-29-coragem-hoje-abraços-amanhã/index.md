@@ -51,8 +51,4 @@ Tem participado em filmes e curtas metragens com realizadores como Pedro Varela 
 
 Paralelamente ao seu percurso como actriz, desenvolve, desde 1999, trabalhos de direcção de actores (Quer o Destino, Equador, O Bando dos Quatro, etc), assistência de encenação (João Brites, Carlos Pimenta, Guillermo Heras, etc), locuções e docência/formação. Tem desenvolvido a sua actividade de formadora, ministrando vários cursos particulares de teatro, bem como em escolas profissionais com World Academy, RESTART, entre outras e várias escolas públicas. Tem Formação de Formadores no Âmbito do Desenvolvimento Curricular em Artes, pelo DGE- Ministério da Educação e Ciência.
 
-<style>
-    #main > div > div > div.image.main {
-        display: none;
-    }
-</style>
+<style>#main > div > div > div.image.main {display: none;}</style>

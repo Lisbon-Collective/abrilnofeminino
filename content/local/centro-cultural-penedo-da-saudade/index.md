@@ -10,7 +10,7 @@ resources:
   title: gallery-title-:counter
 
 slug:
-subtitle: 
+subtitle: Av. Marnoco e Sousa, 30, Coimbra
 
 tags:
   -
@@ -34,4 +34,3 @@ custom:
   local: Centro Cultural Penedo da Saudade
 ---
 
-Av. Marnoco e Sousa, 30, Coimbra

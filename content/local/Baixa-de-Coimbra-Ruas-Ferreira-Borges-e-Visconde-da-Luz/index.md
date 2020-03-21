@@ -31,6 +31,7 @@ custom:
   data:
   hora: 
   local:
+paragrap: "Ruas Ferreira Borges e Visconde da Luz"
 ---
 
 Ruas Ferreira Borges e Visconde da Luz
