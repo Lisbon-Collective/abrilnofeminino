@@ -80,8 +80,9 @@ Drama | 2018
 ***Apresentação de Sofia Lobo***
 
  
-
-<div class="image fit">
+<div class="row">
+  <div class="col-12">
+<div class="image right">
   <figure><img src="rosario_gama_cropped.jpg" alt=""></figure>
 </div>
 
@@ -90,10 +91,13 @@ Drama | 2018
 Foi Directora da Escola Secundária Infanta D. Maria, em Coimbra até 31 de Março de 2011, data em que se aposentou.
 
 Fundou o Movimento Cívico APRe! – Aposentados, Pensionistas e Reformados, em 22 de Outubro de 2012, que passou a Associação em 4 de Dezembro de 2012. É Presidente da APRe!
-
+</div>
+</div>
  
+<div class="row">
+ <div class="col-12">
 
-<div class="image fit">
+<div class="image right">
   <figure><img src="Foto Cristina Robalo Cordeiro (1)small.jpg" alt=""></figure>
 </div>
 
@@ -123,9 +127,10 @@ Chevalier de la Légion d’Honneur, 2014
 
 Comendador da Ordem D. Infante Henrique, 2015
 
- 
+</div>
+</div>
 
-<div class="image fit">
+<div class="image right">
   <figure><img src="Sofia Lobo 1.jpg" alt=""></figure>
 </div>
 

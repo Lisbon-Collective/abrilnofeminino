@@ -40,7 +40,7 @@ Continua a viver com o marido [**Manuel Martins Guerreiro**] em Algés, na mesma
 
 *In Capitãs de Abril, A revolução dos cravos vivida pelas mulheres dos militares, de Ana Sofia Fonseca (1ª edição Fevereiro 2014).*
 
-<div class="image fit">
+<div class="image right">
     <figure><img src="Teresa_Alves_optim.jpg" alt=""></figure>
 </div>
 
@@ -50,7 +50,7 @@ Os anos passaram por ela sem apagar o sorriso perspicaz nem a vontade de estudar
 
 *In Capitãs de Abril, A revolução dos cravos vivida pelas mulheres dos militares, de Ana Sofia Fonseca (1ª edição Fevereiro 2014).*
 
-<div class="image fit">
+<div class="image right">
     <figure><img src="Maria Manuela Cruzeiro.jpg" alt=""></figure>
 </div>
 

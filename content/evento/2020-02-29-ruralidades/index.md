@@ -48,7 +48,7 @@ italic: EXPOSIÇÃO
 
 Prof. António Filipe Pimentel, *in* Prefácio livro ”Ruralidades”
 
-<div class="image fit">
+<div class="image right">
     <figure><img src="Foto Jorge Bacelar.jpg" alt=""></figure>
 </div>
 

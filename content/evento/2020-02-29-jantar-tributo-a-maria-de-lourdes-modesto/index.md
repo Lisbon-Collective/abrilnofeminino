@@ -57,7 +57,7 @@ Iniciou a sua carreira televisiva em 1958, quando, então professora de Trabalho
 
 
 
-<div class="image fit">
+<div class="image right">
   <figure><img src="Chef Vitor Dias.jpg" alt=""></figure>
 </div>
 

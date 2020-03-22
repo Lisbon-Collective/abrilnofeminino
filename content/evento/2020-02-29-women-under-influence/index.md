@@ -47,7 +47,7 @@ Celebrada internacionalmente pelo seu trabalho no repertório barroco e mozartia
 
 *Quintans afirma-se aqui como uma estrela maior. A ópera roda em seu torno, e a sua presença é tão intensa que consegue preencher sozinha, durante minutos, um palco enorme literalmente vazio. (…) A inteligência artística, o talento de atriz e a graciosidade corporal, perfazem as qualidades que a tornaram na intérprete ideal de Alceste*  **Público**
 
-<div class="image fit">
+<div class="image right">
   <figure><img src="ana-quintans.jpg" alt=""></figure>
 </div>
 
@@ -55,7 +55,7 @@ Celebrada internacionalmente pelo seu trabalho no repertório barroco e mozartia
 
 Iniciou-se profissionalmente em 2005 com a música de Monteverdi, tendo vindo a dedicar a maior parte do seu trabalho à música dos séculos XVII e XVIII, em colaboração com maestros como W. Christie, M. Minkowski, R. Pichon, A. Curtis, V. Dumestre, A. Florio, M. Magalhães, L. Cummings, L. G. Alarcón, E. Onofri, ou I. Bolton. Destacam-se apresentações em prestigiados palcos nacionais e internacionais: Opéra Comique, Théâtre des Champs-Élysées, Festival d’Aix-en-Provence, Festival de Glyndebourne, Concertgebouw de Amesterdão, Ópera de Lyon, Ópera de Rouen, Bayerische Staatsoper (Munique), Teatro Nacional de São Carlos, Alten Oper Frankfurt, Teatro Real de Madrid, Scottish Opera, Victoria Hall (Genebra); Bozar (Bruxelas), Fundação Gulbenkian, Centro Cultural de Belém, Casa da Música, Carnegie Hall (Nova Iorque), *La Folle Journée* (Japão); Helsinki Music Centre, *Maggio Musicale* (Florença), Festival de Viena, Festival de Edimburgo e Mozarteum de Salzburgo. Participou em várias gravações discográficas, incluindo: árias de Albinoni, com Marcello Di Lisa e a orquestra Concerto de’ Cavalieri; *La Spinalba*, *Il Trionfo d’Amore* (F. A. de Almeida) e *As Sementes do fado*, com Os Músicos do Tejo; *Round Time*, de Luís Tinoco, com D. A. Miller e a Orquestra Gulbenkian; *Requiem* de Fauré, com a Sinfonia Varsovia e Michel Corboz.
 
-<div class="image fit">
+<div class="image right">
   <figure><img src="© Estelle Valente (22).jpg" alt="" class=""></figure>
   <figcaption>© Estelle Valente</figcaption>
 </div>

@@ -28,6 +28,13 @@ paragraph: >-
 imagealign: left
 italic: CINEMA/SESSÃO ESPECIAL
 ---
+
+<div class="row">
+  <div class="col-12">
+<div class="image right">
+  <figure><img src="com-que-voz.jpg" alt=""></figure>
+</div>
+
 Alain Oulman nasce em Lisboa em 1928 no seio de uma família judaica tradicional de origem francesa. Era um apaixonado por livros, por música e por Amália Rodrigues, com quem colaborou de uma forma duradoura e muito próxima. Perseguido pelo regime de Salazar e mais tarde exilado em França, Alain Oulman foi um dos grandes responsáveis por trazer para a música de Amália nomes grandes da literatura como Luis de Camões, Alexandre O’Neill, Pedro Homem de Melo ou David Mourão Ferreira. Oulman parece ter vivido várias existências – todas elas brilhantes - que neste filme que Nicholas Oulman realiza, nos permite finalmente conhecer.
 
 **FICHA TÉCNICA**
@@ -35,22 +42,15 @@ Alain Oulman nasce em Lisboa em 1928 no seio de uma família judaica tradicional
 Realização e argumento **Nicholas Oulman**| Produtor **Paulo de Sousa e Beth Calabro Oulman**| Directora de Produção **Susana Bicho**| Fotografia **Miguel Sales Lopes**| Montagem **Patrícia Saramago|** Montagem Online **Rui Branquinho|** Som **Quintino Bastos|** Produção **Glimpse/Dragocom|** Duração **1H48Min|** Ano de Produção **2009, Outubro|**Distribuição NLC
 
  
-
-
-<div class="image fit">
-  <figure><img src="com-que-voz.jpg" alt=""></figure>
+</div>
 </div>
 
 
-<div class="image fit">
+<div class="image right">
   <figure><img src="amalia-alain-1964.jpg" alt=""></figure>
 </div>
 
-**Nicholas Oulman** nasceu em Londres em 1967.
-
-Passou a infância vivendo entre Paris e Lisboa.
-
-No cinema, começou por ser 2º assistente de realização em filmes portugueses de longa-metragem.
+**Nicholas Oulman** nasceu em Londres em 1967. Passou a infância vivendo entre Paris e Lisboa. No cinema, começou por ser 2º assistente de realização em filmes portugueses de longa-metragem.
 
 Foi Produtor Associado do filme “**Os Olhos Azuis de Yonta**” realizado por Flora Gomes, produzido por Paulo de Sousa, que esteve presente no Festival de Cinema de Cannes em Selecção Oficial – Un Certain Regard em 1992.
 

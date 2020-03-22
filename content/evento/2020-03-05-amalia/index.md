@@ -36,17 +36,26 @@ Investigação inédita sobre as ajudas da fadista à oposição anti-regime e a
 
 *Perceber isso, a sua relação íntima com o povo, é a maior homenagem que lhe podemos fazer.”*
 
-<div class="image fit">
+
+
+<div class="row">
+<div class="col-12">
+<div class="image right">
     <figure><img src="/images/uploads/miguel-carvalho.jpg" alt=""></figure>
     <figcaption>© Mariana Correia Pinto</figcaption>
 </div>
+<strong>Miguel Carvalho</strong>
+
+<p>Nasceu em 1970, é Grande Repórter da revista Visão desde Dezembro de 1999. Em 1989, concluiu o Curso de Radiojornalismo do Centro de Formação de Jornalistas do Porto. Trabalhou ainda no Diário de Notícias e no semanário O Independente. Venceu o Prémio Orlando Gonçalves (Jornalismo), em 2008, e o Grande Prémio Gazeta, do Clube dos Jornalistas, em 2009. Publicou seis livros, o mais recente dos quais, <em>Quando Portugal Ardeu – Histórias e Segredos da Violência Política no pós-25 de Abril</em> (Oficina do Livro), vai na quarta edição. Nasceu no Porto, cidade que ama e onde gostaria de viver até ser pó, cinza e nada.</p>
 
 
-**Miguel Carvalho**
 
-Nasceu em 1970, é Grande Repórter da revista Visão desde Dezembro de 1999. Em 1989, concluiu o Curso de Radiojornalismo do Centro de Formação de Jornalistas do Porto. Trabalhou ainda no Diário de Notícias e no semanário O Independente. Venceu o Prémio Orlando Gonçalves (Jornalismo), em 2008, e o Grande Prémio Gazeta, do Clube dos Jornalistas, em 2009. Publicou seis livros, o mais recente dos quais, *Quando Portugal Ardeu – Histórias e Segredos da Violência Política no pós-25 de Abril*(Oficina do Livro), vai na quarta edição. Nasceu no Porto, cidade que ama e onde gostaria de viver até ser pó, cinza e nada.
 
-<div class="image fit">
+
+</div>
+</div>
+
+<div class="image right">
     <figure><img src="/images/uploads/manuel-rocha.jpg" alt=""></figure>
 </div>
 

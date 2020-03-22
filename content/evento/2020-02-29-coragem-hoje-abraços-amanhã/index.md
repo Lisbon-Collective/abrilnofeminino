@@ -32,7 +32,7 @@ Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de
 **Direção artística, dramaturgia, encenação e interpretação: Joana Brandão**; **Assistência de encenação**: Elsa Galvão e Maria João Abreu; **Consultoria**: Irene Pimentel; **Desenho de Luz:** Paulo Santos; **Iluminação:** João Lopes; **Sonoplastia:** João Bucho; **Cenografia:** Joana Brandão; **Figurino:** Maria Gonzaga; **Apoio**: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).
 
 
-<div class="image fit">
+<div class="image right">
   <figure><img src="joana-brandao.jpg" alt=""></figure>
   <figcaption>© Joaquim Paulino</figcaption>
 </div>

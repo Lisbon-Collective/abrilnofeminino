@@ -24,15 +24,15 @@ Desde cedo, Agustina revelou ter consciência de que não era uma pessoa convenc
 
 Através de uma pesquisa extensiva e rigorosa, baseada em dezenas de entrevistas, testemunhos, documentários, registos oficiais e textos epistolares, estabelecendo pontes constantes com a obra literária de Agustina, Isabel Rio Novo, uma das mais talentosas romancistas portuguesas da actualidade, reconstitui o percurso de vida de uma figura ímpar da nossa cultura contemporânea, numa biografia que se lê como um romance.
 
-<div class="image fit">
+<div class="image right">
     <figure><img src="/images/uploads/isabel-rio-novo_small.jpg" alt=""></figure>
     <figcaption>© Paulo M.Morais</figcaption>
 </div>
 
 **Isabel Rio Novo** nasceu e cresceu no Porto, onde fez mestrado em História da Cultura Portuguesa e se doutorou em Literatura Comparada. Ao longo do seu percurso académico, recebeu bolsas da Fundação para a Ciência e Tecnologia, do Instituto Camões, da Fundação Engenheiro António de Almeida e da Fundação Calouste Gulbenkian. Lecciona história da arte, estudos literários, escrita criativa e outras disciplinas nas áreas da literatura, da história e dos estudos interartes, e é autora de várias publicações nessas áreas, com destaque para o dicionário ilustrado *Literatura Portuguesa no Mundo* (2005), em parceria com Célia Vieira. Enquanto ficcionista, está representada em antologias de contos e colabora com ensaios e textos de ficção nas revistas *Granta*, *Egoísta*,*LER* e *Colóquio/Letras*. É autora da narrativa fantástica *O Diabo Tranquilo* (2004), a partir de poemas de Daniel Maia-Pinto Rodrigues, da novela *A Caridade* (2005, Prémio Literário Manuel Teixeira Gomes), do livro de contos *Histórias com Santos* (2014) e dos romances *Rio do Esquecimento* (2016, finalista do Prémio LeYa e semifinalista do Prémio Oceanos), *Madalena* (inédito, Prémio Literário João Gaspar Simões), *A Febre das Almas Sensíveis* (2018, finalista do Prémio LeYa) e *Rua de Paris em Dia de Chuva* (2020), escrito ao abrigo de uma Bolsa de Criação Literária atribuída pela Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB). Em 2019 publicou *O Poço e a Estrada*, biografia de Agustina Bessa-Luís.
 
-<div class="image fit">
-    <figure><img src="/images/uploads/foto-laborinho-lúcio.jpg" alt=""></figure>
+<div class="image right">
+    <figure><img src="alvaro-laborinho-lucio.jpg" alt=""></figure>
 </div>
 
 **Álvaro Laborinho Lúcio**

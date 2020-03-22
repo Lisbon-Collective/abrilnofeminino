@@ -24,7 +24,7 @@ A jornalista Isabel Nery traz-nos no seu novo livro, a primeira biografia de Sop
 
 *“Se alguém me perguntar se consegui encontrar Sophia nesta busca quase insana entre testemunhos, livros, arquivos – e lugares-, não sei se saberei responder. Acredito que me aproximei como poucos”. **Isabel Nery***
 
-<div class="image fit">
+<div class="image right">
   <figure><img src="IsabelNery.jpg" alt=""></figure>
   <figcaption>© Marcos Borga</figcaption>
 </div>
@@ -45,8 +45,4 @@ Actualmente é vice-presidente do Sindicato dos Jornalistas e aluna de Doutorame
 
 Nasceu em Agosto de 1960, na clássica Maternidade Alfredo da Costa. Viveu em Campo de Ourique – a que regressaria adulto – até ao êxodo familiar rumo aos Estoris. Cresceu com vista para o mar e com espaço aberto para futebóis e coboiadas. Estudou Direito até ao momento em que os jornais falaram mais alto. Começou no jornal *A Capital*, mudou-se para o *Se7e*, assentou praça no Correio da Manhã Rádio. Retornou ao vespertino antes do desafio de *O Independente*. Foi director do *Se7e* (1991-1994), transitando para a *Visão*. Preparou o lançamento da *Focus*, onde foi director-adjunto. Dirigiu a *TV Guia*. Foi o director fundador da revista *Sábado*. Colaborou na *Música & Som*, em *O Ponto*, em *O Jornal*, no *Semanário*, na revista *Bravo*, no *Blitz*, no *DNA* (*Diário de Notícias*), no *Diário Económico*, na *Máxima*, na *Vogue*, no *Record*, no *Correio da Manhã* e no *Diário de Notícias*. Escreveu ficção para a revista do *i*. Escreve, sempre que pode, nas revistas *Visão História* e *Máxima*, bem como no suplemento *Must* (do *Jornal de Negócios*). Na rádio, passou também pela Rádio Marginal, pela RFM, pela Rádio Comercial, pela TSF e pela Rádio Energia. Na televisão, colaborou no *Vivámúsica* e em *Teledependentes*, escreveu guiões para programas especiais, como a emissão de despedida dos estúdios do Lumiar, sempre na RTP. Na Antena 1, realizou, em parceria com Pedro Rolo Duarte, o programa *Hotel Babilónia,* e assinou uma crónica diária, *Pano Para Mangas* (que deu origem a um livro). Actualmente, divide com Margarida Pinto Correia a responsabilidade pelo programa *Encontros Imediatos* e, a solo, *Bairro Latino*. Integra, desde a época futebolística 2012/2013, o painel de comentadores do *Trio d’Ataque* (RTP3). Publicou em 2016 o livro *Quando A TV Parava o País*, que se seguiu a *Pano Para Mangas*, em 2014, e *Boca Doce*, em 2006. Tem mais livros em carteira… e a caminho. Tenta aproveitar a qualidade de vida da Póvoa de Varzim, outra vez com vista para o mar.
 
-<style>
-#main>div>div > div.image.main {
-display: none;
-}
-</style>
+<style>#main>div>div > div.image.main {display: none;}</style>
