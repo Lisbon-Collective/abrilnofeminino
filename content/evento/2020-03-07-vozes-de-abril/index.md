@@ -32,7 +32,14 @@ italic: ENCONTRO
 ---
 
 
-Foto Custódia falta
+<div class="row">
+    <div class="col-12">
+        <div class="image right">
+            <figure><img src="Custodia_Guerreiro.jpg" alt=""></figure>
+            <figcaption>Custódia Guerreiro e Manuel Martins Guerreiro (Arquivo Particular de Custódia Guerreiro).
+</figcaption>
+</div>
+
 
 **CUSTÓDIA GUERREIRO**
 
@@ -40,8 +47,16 @@ Continua a viver com o marido [**Manuel Martins Guerreiro**] em Algés, na mesma
 
 *In Capitãs de Abril, A revolução dos cravos vivida pelas mulheres dos militares, de Ana Sofia Fonseca (1ª edição Fevereiro 2014).*
 
+</div>
+</div>
+
+<div class="row">
+    <div class="col-12">
+
 <div class="image right">
-    <figure><img src="Teresa_Alves_optim.jpg" alt=""></figure>
+<figure><img src="Teresa_Alves_optim.jpg" alt=""></figure>
+<figcaption>Teresa Alves e Vítor Alves a caminho das urnas, nas primeiras eleições livres e com sufrágio universal (Arquivo Particular de Teresa Alves).
+</figcaption>
 </div>
 
 **TERESA ALVES**
@@ -49,6 +64,9 @@ Continua a viver com o marido [**Manuel Martins Guerreiro**] em Algés, na mesma
 Os anos passaram por ela sem apagar o sorriso perspicaz nem a vontade de estudar. Doutorada, está ligada ao centro de investigação de Estudos Americanos da Universidade de Lisboa. Continua a orientar teses de mestrado e doutoramento, sempre às voltas com livros e trabalhos. A 9 de Janeiro de 2011, a morte de **Vitor Alves** foi duro golpe: “Tivemos um casamento como todos, com altos e baixos…Os últimos 20 anos foram um fabuloso reencontro. Olhando para trás, fui muito feliz.” Tem uma filha, uma neta e uma bisneta. O 25 de Abril com 40 anos, Teresa com 75.
 
 *In Capitãs de Abril, A revolução dos cravos vivida pelas mulheres dos militares, de Ana Sofia Fonseca (1ª edição Fevereiro 2014).*
+
+</div>
+</div>
 
 <div class="image right">
     <figure><img src="Maria Manuela Cruzeiro.jpg" alt=""></figure>
