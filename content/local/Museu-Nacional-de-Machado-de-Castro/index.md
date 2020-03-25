@@ -1,5 +1,5 @@
 ---
-date: 2019-02-16T00:02:38Z
+date: 2019-02-01T00:02:38Z
 description: ""
 draft: false
 resources: 
@@ -17,7 +17,7 @@ tags:
 categories: 
   - 
 title: "1. Museu Nacional de Machado de Castro"
-
+weight: 1
 options:
   hideFooter: false
   hideSubscribeForm: false

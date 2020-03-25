@@ -1,5 +1,5 @@
 ---
-date: 2019-02-16T00:02:38Z
+date: 2019-02-07T00:00:00Z
 description: ""
 draft: false
 resources: 
@@ -16,7 +16,8 @@ tags:
   - 
 categories: 
   - 
-title: "9. Escola Básica de Solum Sul"
+title: "7. Escola Básica de Solum Sul"
+weight: 7
 
 options:
   hideFooter: false

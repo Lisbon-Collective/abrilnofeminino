@@ -1,5 +1,5 @@
 ---
-date: 2019-02-15T23:33:21Z
+date: 2019-02-03T00:00:01Z
 description: ""
 draft: false
 resources:
@@ -17,7 +17,8 @@ categorias:
   - 
 ciclo: 
 
-title: Teatro Académico de Gil Vicente
+title: 3. Teatro Académico de Gil Vicente
+weight: 3
 
 options:
   hideFooter: false
@@ -26,7 +27,6 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z

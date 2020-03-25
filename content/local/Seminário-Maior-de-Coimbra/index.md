@@ -1,5 +1,5 @@
 ---
-date: 2019-02-16T00:02:38Z
+date: 2019-02-05T00:02:38Z
 description: ""
 draft: false
 resources: 
@@ -16,8 +16,8 @@ tags:
   - 
 categories: 
   - 
-title: "6. Seminário Maior de Coimbra"
-
+title: "5. Seminário Maior de Coimbra"
+weight: 5
 options:
   hideFooter: false
   hideSubscribeForm: false

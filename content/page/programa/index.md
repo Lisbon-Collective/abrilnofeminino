@@ -43,9 +43,8 @@ Chega a Primavera e com ela a 2ª edição de **“Abril no Feminino”.** Em **
 
 <div class="image fit">
   <a href="images/calendario.jpg">
+    <img src="images/calendario.jpg" alt="">
     </a>
   </div>
 
-<style>
-  #main > div > div > header > h1{display: none;}
-</style>
+<style>#main > div > div > header > h1{display: none;}</style>

@@ -1,5 +1,5 @@
 ---
-date: 2019-02-15T23:33:21Z
+date: 2019-02-06T23:33:21Z
 description: ""
 draft: false
 resources:
@@ -18,7 +18,8 @@ categorias:
   - 
 ciclo: 
 
-title: Centro Cultural Penedo da Saudade 
+title: 6. Centro Cultural Penedo da Saudade 
+weight: 6
 
 options:
   hideFooter: false
@@ -27,7 +28,6 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
