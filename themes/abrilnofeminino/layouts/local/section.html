@@ -10,7 +10,7 @@
 				{{ .Content }}
 				<div class="profiles">
 
-				{{ range $i, $e :=  first 410 (.Data.Pages) }}  
+				{{ range $i, $e :=  first 410 (.Data.Pages.ByWeight) }}  
 					{{ .Render "summary_card" }}
 					{{ if modBool (add $i 1) 3 }}
 							</div>
