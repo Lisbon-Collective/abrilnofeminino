@@ -32,4 +32,3 @@ custom:
   hora: 
   local:
 ---
-R. Tomé Rodrigues Sobral 15

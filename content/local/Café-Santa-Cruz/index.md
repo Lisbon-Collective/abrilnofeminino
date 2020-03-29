@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: Praça 8 de Maio
 tags: 
   - 
 categories: 
@@ -32,4 +32,3 @@ custom:
   local:
 ---
 
-Praça 8 de Maio

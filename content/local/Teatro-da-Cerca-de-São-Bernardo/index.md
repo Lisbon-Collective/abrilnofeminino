@@ -31,5 +31,3 @@ custom:
   hora: 
   local:
 ---
-
-Cerca de São Bernardo

@@ -31,5 +31,3 @@ custom:
   hora: 
   local:
 ---
-
-R. Vandelli 2

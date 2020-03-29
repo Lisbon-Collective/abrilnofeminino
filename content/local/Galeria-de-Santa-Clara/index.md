@@ -31,5 +31,3 @@ custom:
   hora: 
   local:
 ---
-
-R. António Augusto Gonçalves 67

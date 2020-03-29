@@ -8,7 +8,7 @@ eventlocation: 'Centro Cultural Penedo da Saudade'
 resources:
 - name: "header"
   src: Foto_25_de_Abril_optim.jpg
-copyright: 
+copyright: "© CD25A-UC | Col. DGCS"
 paragraph: >-
     com Custódia Martins Guerreiro e Maria Teresa Alves     
 

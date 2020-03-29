@@ -11,7 +11,7 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: 
+subtitle: Largo do Poço, 3, 1º andar
 tags: 
   - 
 categories: 
@@ -32,4 +32,3 @@ custom:
   local:
 ---
 
-Largo do Poço, 3, 1º andar

@@ -84,8 +84,6 @@ Em nome próprio editou os discos:
 – A Hundred Silent Ways (2013) – Disco a Solo;
 – Inquiétude (2015);
 – Rita Maria & Filipe Raposo Live in Oslo (2018).
-– ØCRE (2019) – Disco a solo
-
-Fotografia de Filipe Raposo © Estelle Valente
+– ØCRE (2019) – Disco a solo 
 
 <style>#main > div > div > div.image.main {display: none;}</style>

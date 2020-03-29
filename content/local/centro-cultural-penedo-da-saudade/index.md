@@ -10,7 +10,7 @@ resources:
   title: gallery-title-:counter
 
 slug:
-subtitle: Av. Marnoco e Sousa, 30, Coimbra
+subtitle: Av. Marnoco e Sousa, 30
 
 tags:
   -
