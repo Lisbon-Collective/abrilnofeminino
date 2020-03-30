@@ -42,6 +42,8 @@ italic: EXPOSIÇÃO
 
 <div class="image fit">
   <figure><img src="Estarreja_Veiros_abril 2017_DSC2930_P2_cores.jpg" alt=""></figure>
+  <figcaption>© Jorge Bacelar</figcaption>
+
 </div>
 
 “Jorge Bacelar — extraordinária figura de médico-fotógrafo — oferece-nos o sumptuoso manjar espiritual das imagens únicas que cria. Imagens que fixa por ter sido tocado (literalmente) a um tempo pelo dom divino e pelo dom do amor: ambos convergindo nos seus pacientes, que entende, em sentido inteiro e extenso, entre gente e bichos. E por isso os capta e prende nas imagens: para sempre.”
