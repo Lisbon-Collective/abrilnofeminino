@@ -1,6 +1,6 @@
 baseURL = "https://2020.abrilnofeminino.pt/"
 # baseURL = "https://clever-perlman-069d0d.netlify.com"
-#publishDir = "/var/www/2020.abrilnofeminino.pt"
+publishDir = "/var/www/2020.abrilnofeminino.pt"
 languageCode = "pt-pt"
 title = "Abril No Feminino"
 theme = "abrilnofeminino"
