@@ -26,6 +26,7 @@ paragraph: >-
   limitada)**
 imagealign: left
 italic: LEITURA ENCENADA
+draft: true
 ---
 Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de serem privadas da sua liberdade. Mulheres que eram avós, mães, filhas, esposas, namoradas, amantes, companheiras, camaradas. Mulheres que não são figuras históricas dentro de um livro empoeirado, mas que existiram realmente, algumas que ainda se cruzam connosco na rua e guardam duras memórias no coração.
 

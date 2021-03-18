@@ -1,7 +1,7 @@
 ---
 title: 'Vozes de Abril'
 subtitle: "Mulheres e Revolução. As portas que Elas abriram."
-
+draft: true
 date: 2020-03-07T11:22:36.610Z
 eventdate: 2020-04-23T18:30:36.621Z
 eventlocation: 'Centro Cultural Penedo da Saudade'

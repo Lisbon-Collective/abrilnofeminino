@@ -2,12 +2,12 @@
 title: '"Amália - A História Secreta", <br>de Miguel Carvalho.'
 subtitle: 'com Miguel Carvalho<br>
 Moderação de Manuel Rocha<br>
-Teatro Académico de Gil Vicente<br> 
+Hotel Quinta das Lágrimas<br> 
 Entrada Livre<br>
 '
 date: 2020-03-05T21:15:12.822Z
-eventdate: 2020-04-18T17:00:12.834Z
-eventlocation: Teatro Académico de Gil Vicente
+eventdate: 2020-04-29T17:00:12.834Z
+eventlocation: Hotel Quinta das Lágrimas
 resources:
 - name: "header"
   src: amalia.jpg

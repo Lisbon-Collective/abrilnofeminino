@@ -2,7 +2,7 @@
 title: 'Ruas da Minha Cidade: Tricanas e Canções'
 subtitle: com Alice Luxo (Casas Contadas)
 date: 2020-03-07T11:22:36.610Z
-eventdate: 2020-04-04T10:30:36.621Z
+eventdate: 2020-05-22T10:30:36.621Z
 eventlocation: 'Ponto de encontro: escultura "Tricana", Quebra Costas'
 resources:
 - name: "header"

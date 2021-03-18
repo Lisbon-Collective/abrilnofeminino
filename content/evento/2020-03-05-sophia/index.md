@@ -1,13 +1,13 @@
 ---
 title: '“Sophia de Mello Breyner Andresen” <br> de Isabel Nery'
 subtitle: 'Com Isabel Nery <br> Moderação de João Gobern<br>
-Casa da Escrita<br>
+Hotel Quinta das Lágrimas<br>
 Entrada Livre
 '
 quote: '“<em>Eu não acredito na biografia, que é a vida contada pelos outros. No fundo, a única biografia que eu tenho é a que está na minha poesia.”</em> Sophia de Mello Breyner Andresen'
 date: 2020-03-05T21:02:45.755Z
-eventdate: 2020-04-03T18:30:45.771Z
-eventlocation: Casa da Escrita
+eventdate: 2020-05-14T18:30:45.771Z
+eventlocation: Hotel Quinta das Lágrimas
 resources:
 - name: "header"
   src:  sophia.jpg

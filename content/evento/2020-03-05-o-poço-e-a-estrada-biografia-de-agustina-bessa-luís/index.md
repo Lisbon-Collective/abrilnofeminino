@@ -1,13 +1,13 @@
 ---
 title: '"O Poço e a Estrada, Biografia de Agustina Bessa-Luís" <br> de Isabel Rio Novo'
 subtitle: 'Com Isabel Rio Novo <br>
-Moderação de Álvaro Laborinho Lúcio <br>
-Casa da Escrita <br>
+Moderador a indicar <br>
+Hotel Quinta das Lágrimas <br>
 Entrada Livre
  '
 date: 2020-03-05T18:30:00.000Z
-eventdate: 2020-04-16T18:30:00.000Z
-eventlocation: Casa da Escrita
+eventdate: 2020-05-20T18:30:00.000Z
+eventlocation: Hotel Quinta das Lágrimas
 resources:
 - name: "header"
   src:  poco_estrada.jpg

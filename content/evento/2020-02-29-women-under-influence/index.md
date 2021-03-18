@@ -2,7 +2,7 @@
 title: '"Women under influence"'
 subtitle: com Ana Quintans (soprano) e Filipe Raposo (piano)
 date: 2020-02-29T15:48:01.572Z
-eventdate: 2020-04-04T21:30:01.586Z
+eventdate: 2020-05-16T18:00:01.586Z
 resources:
 - name: header
   src: women_under_influence.jpg
@@ -17,15 +17,15 @@ paragraph: >-
 
   **Seminário Maior, Sala São Tomás**    
 
-  **21h30**    
+  **18h00**    
 
   **Entrada 10,00 €**    
 
   **Reservas 962 610 050**    
 
-  **Venda de bilhetes no local, dia 4**    
+  **Venda de bilhetes no local, dia 16**    
 
-  **Horário: 18h - 19h | 20h30 - 21h30**
+  **Horário: 15h - 18h**
 imagealign: left
 italic: MÚSICA
 ---

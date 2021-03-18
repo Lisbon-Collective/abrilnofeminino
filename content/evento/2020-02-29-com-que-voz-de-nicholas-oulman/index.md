@@ -26,6 +26,7 @@ paragraph: >-
 
   **Reservas 239 052 563**
 imagealign: left
+draft: true
 italic: CINEMA/SESSÃO ESPECIAL
 ---
 
