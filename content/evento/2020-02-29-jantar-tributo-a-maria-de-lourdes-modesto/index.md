@@ -30,7 +30,7 @@ paragraph: >-
   [**abrilnofeminino@gmail.com**](mailto:abrilnofeminino@gmail.com)
 imagealign: left
 italic: GASTRONOMIA
-draft: true
+draft: false
 ---
 
 <h3 style="text-align: center">Menu</h3>
