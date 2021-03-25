@@ -10,7 +10,7 @@ eventdate: 2020-04-29T17:00:12.834Z
 eventlocation: Hotel Quinta das Lágrimas
 resources:
 - name: "header"
-  src: amalia.jpg
+  src: Capa_livro_Amalia.jpg
 paragraph: >-
 
   *“Não há uma Amália a preto e branco, uma Amália de trincheira.”* **Miguel
