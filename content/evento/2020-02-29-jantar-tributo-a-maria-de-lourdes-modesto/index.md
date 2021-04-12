@@ -3,7 +3,7 @@ title: Jantar | Tributo <br>a Maria de Lourdes Modesto
 subtitle: 
 draft: false
 date: 2020-02-20T15:05:49.541Z
-eventdate: 2020-04-30T20:00:49.564Z
+eventdate: 2020-04-29T20:00:49.564Z
 eventlocation: Hotel Quinta das Lágrimas
 resources:
 - name: "header"
@@ -15,7 +15,7 @@ paragraph: >-
   Maria de Lourdes, *“reencontramos a nossa identidade, a nossa maneira original
   de ser e de sentir – que se manifesta com toda a sua diversidade e exuberância
   no receituário tradicional”.* A ementa do jantar, inspirada neste livro, é
-  assinada pelo Chef Vitor Dias (Hotel Quinta das Lágrimas). No ano em que completa 90 anos de idade,
+  assinada pelo Chef Vitor Dias (Hotel Quinta das Lágrimas). Um ano depois de ter completado 90 anos de idade,
   prestamos tributo a Maria de Lourdes Modesto.
 
 
@@ -30,7 +30,6 @@ paragraph: >-
   [**abrilnofeminino@gmail.com**](mailto:abrilnofeminino@gmail.com)
 imagealign: left
 italic: GASTRONOMIA
-draft: false
 ---
 
 <h3 style="text-align: center">Menu</h3>
@@ -64,6 +63,6 @@ Iniciou a sua carreira televisiva em 1958, quando, então professora de Trabalho
 
 **Vitor Dias** nasceu em 1980 e é natural de Cantanhede. Ingressou na Escola de Hotelaria e Turismo de Coimbra, e no decurso da sua vida escolar, estagiou na Pousada Santa Marinha, em Guimarães e no Hotel Mercure, na Figueira da Foz. Concluído o curso, integrou a equipa do Hotel Quinta das Lágrimas, liderada pelo Chef Albano Loureço, tendo como consultor o Chef Joaquim Koerper. A partir de 2006, foram vários os desafios profissionais, nomeadamente para chefiar a cozinha do Marialva Park Hotel. Regressa em 2008 ao Hotel Quinta das Lágrimas, assumindo o cargo de subChef, até 2015, data a partir da qual lhe é entregue a liderança da equipa.
 
-Vitor Dias privilegia uma cozinha cuidada e criativa, respeitando a sazonalidade dos produtos, cuja origem maioritária é da própria região. No Restaurante Arcadas, tem como principal missão servir bem, surpreendendo o cliente com uma oferta original e apelativa. Um desafio diário que o anima a fazer mais e melhor, com entrega e paixão, num espaço único e com uma singular história.
+**Vitor Dias** privilegia uma cozinha cuidada e criativa, respeitando a sazonalidade dos produtos, cuja origem maioritária é da própria região. No Restaurante Arcadas, tem como principal missão servir bem, surpreendendo o cliente com uma oferta original e apelativa. Um desafio diário que o anima a fazer mais e melhor, com entrega e paixão, num espaço único e com uma singular história.
 
 <style>#main > div > div > div.image.main {display: none;}</style>

@@ -46,8 +46,8 @@ Junte-se a nós e venha ouvir as vozes que aqui se anunciam. Sem medo ou qualque
  
 
 <div class="image fit">
-  <a href="images/calendario.jpg">
-    <img src="images/calendario.jpg" alt="">
+  <a href="images/v1.6_Calendario_ANF2021.jpg">
+    <img src="images/v1.6_Calendario_ANF2021.jpg" alt="">
     </a>
   </div>
 

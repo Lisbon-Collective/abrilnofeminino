@@ -1,5 +1,5 @@
 ---
-date: 2019-02-04T00:02:38Z
+date: 2019-02-03T00:02:38Z
 description: ""
 draft: false
 resources: 
@@ -17,8 +17,8 @@ tags:
 categories: 
   - 
 
-title: "4. Baixa de Coimbra"
-weight: 4
+title: "3. Baixa de Coimbra"
+weight: 3
 
 options:
   hideFooter: false

@@ -1,5 +1,5 @@
 ---
-date: 2019-02-08T23:33:21Z
+date: 2019-02-02T23:33:21Z
 description: ""
 draft: false
 resources:
@@ -17,8 +17,8 @@ categorias:
   - 
 ciclo: 
 
-title: 8. Hotel Quinta das Lágrimas
-weight: 8
+title: 2. Hotel Quinta das Lágrimas
+weight: 2
 options:
   hideFooter: false
   hideSubscribeForm: false
@@ -26,7 +26,6 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z

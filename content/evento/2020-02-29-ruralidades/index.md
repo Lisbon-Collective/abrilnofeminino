@@ -41,7 +41,7 @@ imagealign: left
 italic: EXPOSIÇÃO
 ---
 
-<div class="image fit">
+<div class="image fit" >
   <figure><img src="Estarreja_Veiros_abril 2017_DSC2930_P2_cores.jpg" alt=""></figure>
   <figcaption>© Jorge Bacelar</figcaption>
 
