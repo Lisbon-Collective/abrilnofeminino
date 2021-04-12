@@ -2,7 +2,7 @@
 title: '"Ruralidades"'
 subtitle: 
 date: 2020-02-29T15:44:45.627Z
-eventdate: 2020-05-08T16:00:45.652Z
+eventdate: 2020-05-08T11:00:45.652Z
 eventlocation: Museu Nacional de Machado de Castro
 resources:
 - name: "header"
@@ -23,17 +23,18 @@ paragraph: >-
   **Museu Nacional de Machado de Castro**     
 
 
-  **Inauguração 16h00**       
+  **Inauguração 11h00**       
 
   **Apresentação de Maria João Seixas**    
 
   **Com a presença do grupo “Segue-me à Capela”**    
 
-  **Até 4 de Julho**    
+  **Até 20 de Junho**    
 
   **Horário**    
 
   Terça a Domingo: 10h - 18h
+  Fins de semana 10h00-13h00 (sujeito a alteração)
 
 
 imagealign: left
