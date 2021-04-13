@@ -83,7 +83,7 @@
 							<div class="col-4">
 							<p> <strong>
 								  	Seminário Maior, Sala São Tomás <br>
-									Entrada 3€ (sujeita à lotação da sala) <br>
+									Entrada 3€ (lotação limitada) <br>
 									</strong>
 							</p>
 							</div>
@@ -101,17 +101,17 @@
 					<div class="row">
 						<div class="col-4 col-12-medium">
 							{{ with .Site.GetPage "/evento/2020-03-07-caramel/index.md" }}
-							{{ .Render "minimal-card" }}
+							{{ .Render "minimal-card-no-link" }}
 							{{ end }}
 						</div>
 						<div class="col-4 col-12-medium">
 							{{ with .Site.GetPage "/evento/2020-03-07-e-agora-onde-vamos/index.md" }}
-							{{ .Render "minimal-card" }}
+							{{ .Render "minimal-card-no-link" }}
 							{{ end }}
 						</div>
 						<div class="col-4 col-12-medium">
 						{{ with .Site.GetPage "/evento/2020-03-07-cafarnaum/index.md" }}
-						 {{ .Render "minimal-card" }}
+						 {{ .Render "minimal-card-no-link" }}
 						{{ end }}
 						</div>
 					</div>

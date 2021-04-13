@@ -61,9 +61,6 @@ Iniciou a sua carreira televisiva em 1958, quando, então professora de Trabalho
 Em 1987, (a primeira vez que abordou o tema da gastronomia portuguesa) procedeu (em co-autoria) à atualização da “Arte de Cozinha” de Domingos Rodrigues, o primeiro Livro de cozinha impresso em Portugal, cuja 1ª edição data de 1680, obra que viria a ser reeditada trinta anos depois ((Relógio d´Água, 2017). Uma vez aposentada e a par com outros trabalhos de investigação na área do livro antigo, a história da gastronomia passou a ser o foco das atenções, daí a publicação de um vocabulário gastronómico com o título “Do comer e do falar tudo vai do começar” (Relógio d´Água, 2015) em coautoria com Ana M. Pereira; encontra-se em provas o trabalho sobre um manuscrito de Francisco Borges Henriques datado de 1715, existente na Biblioteca nacional de Lisboa com leitura paleográfica e atualizada a publicar em breve acompanhado de um estudo prévio de Isabel Drumond Braga; ainda este ano vai ser publicado o segundo livro de cozinha impresso em Portugal curiosamente datado de 1780, (exatamente cem anos após a publicação da “Arte de Cozinha”) intitulado “Cozinheiro Moderno ou Nova Arte de Cozinha” de Lucas Rigaud. Outros dois projetos estão em curso na mesma área…
 
 
-Inserir a foto
-
-
 <div class="image right">
  <figure><img src="Chef Vitor Dias.jpg" alt=""></figure>
 </div>

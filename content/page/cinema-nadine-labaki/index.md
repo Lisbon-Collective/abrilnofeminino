@@ -109,23 +109,11 @@ Cônsul Honorária de França em Coimbra, Presidente do Comité da Alliance Fran
 
 Obteve um doutoramento de 3º Ciclo, em Poitiers, em 1980, e um doutoramento pela Universidade de Coimbra, em 1991. 
 
-É autora de 10 livros (9 ensaios, um livro de novelas e dois romances), de 7 traduções de ensaios e romances e de cerca de 200 artigos, na sua maioria sobre autores franceses e francófonos. Proferiu conferências em 19 países.
+É autora de 10 livros (7 ensaios, um livro de novelas e dois romances), de 7 traduções de ensaios e romances e de cerca de 200 artigos, na sua maioria sobre autores franceses e francófonos. Proferiu conferências em 19 países.
 
 É coordenadora do Plano Nacional de Leitura para a Ciência, Tecnologia e Ensino Superior, PNL2027 – Ler+ Ciência.
 
-Alguns dos Prémios e distinções que recebeu:
-
-Officier de l’Ordre des Palmes Académiques, 2001
-
-Prémio Richelieu Senghor de la Francophonie, 2008
-
-Doutor Honoris Causa pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO), Novembro de 2010 
-
-Prémio Literário Orlando Gonçalves (Menção Honrosa)
-
-Chevalier de la Légion d’Honneur, 2014
-
-Comendador da Ordem D. Infante Henrique, 2015
+Alguns dos Prémios e distinções que recebeu: Officier de l’Ordre des Palmes Académiques, 2001; Prémio Richelieu Senghor de la Francophonie, 2008; Doutor *Honoris Causa* pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO), Novembro de 2010; Prémio Literário Orlando Gonçalves (Menção Honrosa); Chevalier de la Légion d’Honneur, 2014; Comendador da Ordem D. Infante Henrique, 2015.
 
 </div>
 </div>

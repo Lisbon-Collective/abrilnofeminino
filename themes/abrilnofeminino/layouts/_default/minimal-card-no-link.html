@@ -1,0 +1,23 @@
+<p class="special lead"><strong>{{ .Params.eventdate | dateFormat "2" }} de Maio | {{ .Params.eventdate | dateFormat "15h04" }}</strong></p>
+<p>{{ .Params.quote | safeHTML }}</p>
+			<h3 class="special lead">{{ .Title | safeHTML }}</h3>
+			<p>{{ .Params.subtitle | safeHTML }}</p>
+			
+				{{- with .Resources.GetMatch "header" -}}
+			<div class="image center">
+			    {{- if eq .MediaType.SubType "gif" -}}
+			        <img class="center" src="{{- .RelPermalink -}}" alt="" />
+			    {{- else }}
+			        {{- $image := .Fit "300x300" -}}
+			        <img class="center" src="{{- $image.RelPermalink -}}" alt="" />
+
+			    {{- end }}
+			    </div>
+			{{- else }}
+			    <img class="center" src="{{- $.Site.Params.headerPhoto -}}" alt="" />
+			    </div>
+			{{- end }}
+
+		<ul class="actions">
+			<li><a href="{{ .RelPermalink }}" class="button" id="{{ replaceRE "evento" "" .RelPermalink | replaceRE "/" "" | replaceRE "-" "" }}">Detalhes</a></li>
+		</ul>

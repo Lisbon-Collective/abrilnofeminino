@@ -25,15 +25,13 @@ paragraph: >-
 
   **Inauguração 11h00**       
 
-  **Apresentação de Maria João Seixas**    
-
   **Com a presença do grupo “Segue-me à Capela”**    
 
   **Até 20 de Junho**    
 
   **Horário**    
 
-  Terça a Domingo: 10h - 18h
+  Terça a Sexta: 10h - 18h
   Fins de semana 10h00-13h00 (sujeito a alteração)
 
 
@@ -57,7 +55,7 @@ Prof. António Filipe Pimentel, *in* Prefácio livro ”Ruralidades”
 
 *Jorge Bacelar* nasceu a 1966, em Figueira de Castelo Rodrigo. É médico veterinário, exercendo clínica de espécies pecuárias há mais de vinte anos. Tendo o privilégio de conhecer o mundo rural e conviver com pessoas que muito admira, encontrou na fotografia uma forma de enaltecer e perpetuar a imagem dos agricultores, com quem tem uma relação familiar, de grande amizade e respeito.
 
-Tem recebido importantes prémios e distinções pelo seu trabalho fotográfico, tais como: Nomination Award HPA 2015, World Photographic Cup 2016, FEP European Professional Photographer of the Year Awards 2016, 2016 OIE Photo Competition, Documentary Award HPA 2017, Global Photographic Union, Concurso Internacional de Fotografia Transversalidades 2017, Singapura Photo Cup 2017, Photographic Society of America 2017, IUP 5th Anniversary Celebration Photo Circuits 2017. Já em 2021 ano recebeu o prémio "Travel Photographer of the Year", na categoria "People' s' Choice".
+Tem recebido importantes prémios e distinções pelo seu trabalho fotográfico, tais como: Nomination Award HPA 2015, World Photographic Cup 2016, FEP European Professional Photographer of the Year Awards 2016, 2016 OIE Photo Competition, Documentary Award HPA 2017, Global Photographic Union, Concurso Internacional de Fotografia Transversalidades 2017, Singapura Photo Cup 2017, Photographic Society of America 2017, IUP 5th Anniversary Celebration Photo Circuits 2017. Já em 2021 recebeu o prémio "Travel Photographer of the Year", na categoria "People' s' Choice".
 
 É frequentemente convidado a participar em exposições individuais e em programas televisivos culturais para falar do seu trabalho fotográfico.
 

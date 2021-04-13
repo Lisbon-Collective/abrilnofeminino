@@ -45,10 +45,9 @@ Natural da Nazaré, onde nasceu em 1941, é hoje juiz conselheiro jubilado do Su
 
  
 
-**João Rasteiro:**
+**João Rasteiro**
 
 <img src="joao_rasteiro.jpg" class="float-right"> 
-
 
 Ameal - Coimbra, 1965, é Licenciado em *Estudos Portugueses e Lusófonos* pela Universidade de Coimbra. Integra a Direção do *PEN Clube Português* e os Conselhos editoriais das Revistas “*DEVIR: Revista Ibero-americana de Cultura*” e "*Folhas, Letras & Outros Ofícios*". Tem poemas publicados em Itália, França, Espanha, Finlândia, República Checa, Hungria, USA, Brasil, Argentina, México, Chile, Honduras, Nicarágua e Colômbia e vários poemas traduzidos para o espanhol, catalão, italiano, inglês, francês, holandês, checo, finlandês, húngaro, japonês, persa e occitano. Obteve vários prémios, entre eles o *Prémio Literário Manuel António Pina* (2010). Publicou 18 livros de poesia (Portugal, Brasil e Espanha), que vão de *A Respiração das Vértebras*, 2001 a *Levedura*, 2019. Publicou em 2020 o livro de contos *Governadores de Orvalho* e prepara-se para neste 2021 ver publicada pela Porto Editora a antologia: *OFÍCIO Poesia: 2000-2020*. Em 2016, conjuntamente com Paulo José Miranda, foi poeta convidado a representar Portugal, no Festival de poesia *VOIX VIVES, de Méditerranée en Méditerranée*, em Sète, Languedoc, França. Em 2009 e 2018 organizou antologias dedicadas à poesia portuguesa, respectivamente: "*Poesia Portuguesa Hoje*" (Arquitrave, Colômbia) e "*Aquí, en Esta Babilonia*" (Amargord, Espanha). Em 2017, o grupo 'Os Controversos' (com encenação e adaptação dramatúrgica de Ricardo Kalash) levou à cena no Convento São Francisco (Coimbra), a peça 'A rose is a rose', a partir do livro "*A rose is a rose is a rose et coetera*" Escreveu algumas letras para a denominada ‘Canção de Coimbra’. Vive e trabalha (Casa da Escrita/CMC) em Coimbra. 
 
