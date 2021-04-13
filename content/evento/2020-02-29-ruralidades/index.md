@@ -42,7 +42,7 @@ italic: EXPOSIÇÃO
 ---
 
 <div class="image fit" >
-  <figure><img src="Estarreja_Veiros_abril 2017_DSC2930_P2_cores.jpg" alt=""></figure>
+  <figure><img src="IMG-20210411-WA0049.jpg" alt=""></figure>
   <figcaption>© Jorge Bacelar</figcaption>
 
 </div>
@@ -57,7 +57,7 @@ Prof. António Filipe Pimentel, *in* Prefácio livro ”Ruralidades”
 
 *Jorge Bacelar* nasceu a 1966, em Figueira de Castelo Rodrigo. É médico veterinário, exercendo clínica de espécies pecuárias há mais de vinte anos. Tendo o privilégio de conhecer o mundo rural e conviver com pessoas que muito admira, encontrou na fotografia uma forma de enaltecer e perpetuar a imagem dos agricultores, com quem tem uma relação familiar, de grande amizade e respeito.
 
-Tem recebido importantes prémios e distinções pelo seu trabalho fotográfico, tais como: Nomination Award HPA 2015, World Photographic Cup 2016, FEP European Professional Photographer of the Year Awards 2016, 2016 OIE Photo Competition, Documentary Award HPA 2017, Global Photographic Union, Concurso Internacional de Fotografia Transversalidades 2017, Singapura Photo Cup 2017, Photographic Society of America 2017, IUP 5th Anniversary Celebration Photo Circuits 2017.
+Tem recebido importantes prémios e distinções pelo seu trabalho fotográfico, tais como: Nomination Award HPA 2015, World Photographic Cup 2016, FEP European Professional Photographer of the Year Awards 2016, 2016 OIE Photo Competition, Documentary Award HPA 2017, Global Photographic Union, Concurso Internacional de Fotografia Transversalidades 2017, Singapura Photo Cup 2017, Photographic Society of America 2017, IUP 5th Anniversary Celebration Photo Circuits 2017. Já em 2021 ano recebeu o prémio "Travel Photographer of the Year", na categoria "People' s' Choice".
 
 É frequentemente convidado a participar em exposições individuais e em programas televisivos culturais para falar do seu trabalho fotográfico.
 

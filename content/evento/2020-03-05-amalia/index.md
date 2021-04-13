@@ -1,5 +1,5 @@
 ---
-title: '"Amália - A História Secreta", <br>de Miguel Carvalho.'
+title: '"Amália. Ditadura e Revolução. A História Secreta.", <br>de Miguel Carvalho.'
 subtitle: 'com Miguel Carvalho<br>
 Moderação de Manuel Rocha<br>
 Hotel Quinta das Lágrimas<br> 
@@ -22,7 +22,7 @@ italic: Ciclo de Conversas
 quote: '<em>“Não há uma Amália a preto e branco, uma Amália de trincheira.”</em>  Miguel Carvalho'
 ---
 
-Investigação inédita sobre as ajudas da fadista à oposição anti-regime e aos presos políticos. A infância em Alcântara; a adoração familiar por Salazar e a associação de Amália Rodrigues aos comunistas do Fado por parte da polícia política; a relação secreta com a resistência à ditadura; as ameaças do regime e as denúncias contra a alegada “princesa da PIDE”; os bastidores da prisão de Alain Oulman; as pontes com a célula clandestina do PCP para os espectáculos e a revolução antes da revolução. São estes os temas principais da investigação inédita intitulada **"Amália - A História Secreta" da autoria do jornalista Miguel Carvalho.**
+Investigação inédita sobre as ajudas da fadista à oposição anti-regime e aos presos políticos. A infância em Alcântara; a adoração familiar por Salazar e a associação de Amália Rodrigues aos comunistas do Fado por parte da polícia política; a relação secreta com a resistência à ditadura; as ameaças do regime e as denúncias contra a alegada “princesa da PIDE”; os bastidores da prisão de Alain Oulman; as pontes com a célula clandestina do PCP para os espectáculos e a revolução antes da revolução. São estes os temas principais da investigação inédita intitulada **"Amália. Ditadura e Revolução. A História Secreta." da autoria do jornalista Miguel Carvalho.**
 
 *"Amália Rodrigues foi uma das primeiras vítimas de fake news e da desinformação do pós-revolução. E, como sabem aqueles que com ela lidaram de perto, nunca se libertou desse desgosto.(…).*
 

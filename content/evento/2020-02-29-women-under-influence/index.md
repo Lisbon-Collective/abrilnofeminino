@@ -49,6 +49,7 @@ Celebrada internacionalmente pelo seu trabalho no repertório barroco e mozartia
 
 <div class="image right">
   <figure><img src="ana-quintans.jpg" alt=""></figure>
+  <figcaption>© Mário Melo Costa</figcaption>
 </div>
 
 **Ana Quintans** é licenciada em Escultura e estudou Canto na Escola de Música do Conservatório Nacional, em Lisboa, e no Flanders Operastudio, em Gent, como bolseira da Fundação Calouste Gulbenkian.
@@ -85,5 +86,7 @@ Em nome próprio editou os discos:
 – Inquiétude (2015);
 – Rita Maria & Filipe Raposo Live in Oslo (2018).
 – ØCRE (2019) – Disco a solo 
+
+{{< youtube qB-hgE_-7R8 >}}
 
 <style>#main > div > div > div.image.main {display: none;}</style>

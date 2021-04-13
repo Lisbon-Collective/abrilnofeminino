@@ -33,7 +33,7 @@ custom:
   local: 
 ---
 
-<div class="image fit"><img src="images/ANF2020header.jpg" alt=""></div>
+<div class="image fit"><img src="images/ANF2021header.jpg" alt=""></div>
 
 Chega a Primavera e com ela a **2ª edição de “Abril no Feminino”** a acontecer excepcionalmente **em Maio**, neste ano de 2021, depois de um adiamento forçado em Abril de 2020. Fácil de imaginar a razão desta imperativa mudança de calendário…mas cá estamos de volta com um programa aliciante, assim é nosso desejo! De **8 a 29**, **espaços emblemáticos do património** cultural de Coimbra vão acolher diversas actividades culturais com um denominador comum: **dar voz às Mulheres**. 
 
