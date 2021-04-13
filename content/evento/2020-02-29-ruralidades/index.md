@@ -65,3 +65,9 @@ Tem recebido importantes prémios e distinções pelo seu trabalho fotográfico,
 [Facebook](https://facebook.com/jorge.dora)
 
 <https://www.rtp.pt/play/p5018/e379880/afinidades>
+
+[https://sicnoticias.pt/](https://sicnoticias.pt/cultura/2021-03-21-Veterinario-de-Aveiro-vence-premio-internacional-com-fotografia-de-agricultor-abracado-a-uma-cabra-4a74cd1e)
+
+[https://vimeo.com/190320468](https://vimeo.com/190320468)
+
+<iframe src="https://player.vimeo.com/video/190320468" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
