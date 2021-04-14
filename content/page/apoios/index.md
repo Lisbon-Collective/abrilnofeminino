@@ -39,40 +39,30 @@ custom:
     <div class="col-4">
       <ul>
       <li>Museu Nacional de Machado de Castro</li>
-      <li>Câmara Municipal de Coimbra</li>
       <li>Seminário Maior de Coimbra</li>
-      <li>Politécnico de Coimbra - Centro Cultural Penedo da Saudade</li>
-      <li>Teatro Académico Gil Vicente</li>
       <li>Hotel Quinta das Lágrimas</li>
       </ul> 
     </div>
     
   <div class="col-4">
-    
     <ul>
       <li>BPI | Fundação La Caixa </li>
       <li><a href="https://www.vilagale.com">Hotel Vila Galé</a></li>
       <li>Sodicentro</li>
       <li>Sapientia Boutique Hotel</li>
-      <li>Restaurante Casas do Bragal</li>
-
-    <li>Dux Bistrot</li> 
-    <li>ZONAPRO</li>
-    <li>Arte & Flor</li> 
-    <li>Centro Documentação 25 de Abril</li>
+      <li>Dux Bistrot</li> 
+      <li>ZONAPRO</li>
+      <li>Arte & Flor</li> 
     </ul>
   </div>
     
   <div class="col-4">
-
-    
     <ul>
     <li>Antena 1</li>
     <li>Diário As Beiras</li>
     <li>Diário de Coimbra</li>
     </ul>
   </div>
-
 </div>
   
 <div class="row">
