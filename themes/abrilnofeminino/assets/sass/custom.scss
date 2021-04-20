@@ -2,7 +2,9 @@
 	@include padding(6rem, 0);
 
 	&.home_bg {
-		background: url('/images/home_bg_2020.jpg');
+		//background: url('/images/home_bg_2020.jpg');
+		background: url('/images/bg-home-2020-crop.jpg');
+		background-size: cover;
 	}
 }
 
