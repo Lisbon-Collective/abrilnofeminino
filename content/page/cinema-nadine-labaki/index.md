@@ -23,7 +23,7 @@ subtitle: "Seminário Maior, Sala São Tomás <br>
 
 Sessões às 21h15<br>
 
-Entrada Livre (sujeita à lotação da sala) "
+Entrada 3€ (lotação limitada)"
 
 url: /evento/ciclo-nadine-labaki
 
@@ -53,7 +53,7 @@ http://www.nadinelabaki.com/
 
 https://www.youtube.com/watch?v=2J84dthZMLU
 
-**8 de Abril**
+**12 de Maio**
 
 **“Caramel”**
 
@@ -61,7 +61,7 @@ Comédia Dramática | 2007
 
 ***Apresentação de Rosário Gama***
 
-**22 de Abril**
+**19 de Maio**
 
 **“E Agora, Onde Vamos?”**
 
@@ -71,7 +71,7 @@ Comédia Dramática | 2011
 
  
 
-**29 de Abril** 
+**26 de Maio** 
 
 **“Cafarnaum”**
 
@@ -101,7 +101,7 @@ Fundou o Movimento Cívico APRe! – Aposentados, Pensionistas e Reformados, em 
   <figure><img src="Foto Cristina Robalo Cordeiro (1)small.jpg" alt=""></figure>
 </div>
 
-**Cristina Robalo-Cordeiro** é professora catedrática da Faculdade de Letras da Universidade de Coimbra, de que foi Vice-Reitora de 2003 a 2011.
+**Cristina Robalo Cordeiro** é professora catedrática da Faculdade de Letras da Universidade de Coimbra, de que foi Vice-Reitora de 2003 a 2011.
 
 Consagrou o seu trabalho e investigação ao estudo da Literatura, sobretudo na área dos estudos franceses (dos séculos XIX e XX) e francófonos. 
 

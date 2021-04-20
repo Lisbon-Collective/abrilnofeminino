@@ -1,6 +1,6 @@
 ---
 title: '"Ruralidades"'
-subtitle: 
+subtitle: "de Jorge Bacelar"
 date: 2020-02-29T15:44:45.627Z
 eventdate: 2020-05-08T11:00:45.652Z
 eventlocation: Museu Nacional de Machado de Castro
@@ -17,7 +17,7 @@ paragraph: >-
 
   *"Fotos sumptuosas que nos enchem alma e olhos,
     parecendo aquecer-nos e iluminar por dentro."*     
-    Prof. António Filipe Pimentel. 
+    Prof. António Filipe Pimentel
 
 
   **Museu Nacional de Machado de Castro**     
