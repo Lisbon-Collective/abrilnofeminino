@@ -1,5 +1,5 @@
 ---
-title: '"Amália. Ditadura e Revolução. A História Secreta" <br>de Miguel Carvalho.'
+title: '"Amália. Ditadura e Revolução. A História Secreta" <br>de Miguel Carvalho'
 subtitle: 'com Miguel Carvalho<br>
 Moderação de Manuel Rocha<br>
 Hotel Quinta das Lágrimas<br> 
