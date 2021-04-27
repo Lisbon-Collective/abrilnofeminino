@@ -46,7 +46,7 @@ custom:
     
   <div class="col-4">
     <ul>
-      <li>BPI | Fundação La Caixa </li>
+      <li><a href="https://fundacaolacaixa.pt/pt/">BPI | Fundação La Caixa</a></li>
       <li><a href="https://www.vilagale.com">Hotel Vila Galé</a></li>
       <li>Sodicentro</li>
       <li>Sapientia Boutique Hotel</li>
