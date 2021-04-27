@@ -1,5 +1,5 @@
 ---
-title: '"Women under influence"'
+title: '"Women under the influence"'
 subtitle: com Ana Quintans (soprano) e Filipe Raposo (piano)
 date: 2020-02-29T15:48:01.572Z
 eventdate: 2020-05-16T18:00:01.586Z
