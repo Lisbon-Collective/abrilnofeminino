@@ -125,6 +125,7 @@ Alguns dos Prémios e distinções que recebeu: Officier de l’Ordre des Palmes
 **Sofia Lobo**, Mortágua, 1966.
 
 Actriz e voluntária da ONG A Drop in the Ocean.
+
 Licenciada em Línguas e Literaturas Modernas, foi professora do ensino básico e secundário. Elemento fundador da companhia de teatro A Escola da Noite, em 1992. Integrou o elenco de 45 espectáculos e encenou os seguintes: Play, com peças curtas de Samuel Beckett, que traduziu; Noites de Amor Efémero, com peças curtas de Paloma Pedrero que também traduziu; Nunca estive em Bagdad, de Abel Neves; Desmesura, de Hélia Correia, que co-encenou com Igor Lebreaud e Jarbas Bittencourt e A Mulher como Campo de Batalha, de Matéi Visniec, que traduziu com Ana Teresa Santos.
 
 Com A Drop in the Ocean faz voluntariado em campos de refugiados na Grécia, onde já esteve sete vezes.
