@@ -66,4 +66,5 @@ Licenciada em Línguas e Literaturas Modernas, foi professora do ensino básico 
 
 Com A Drop in the Ocean faz voluntariado em campos de refugiados na Grécia, onde já esteve sete vezes.
 
+
 <style>#main > div > div > div.image.main {display: none;}</style>
