@@ -32,7 +32,7 @@ paragraph: >-
   **Horário**    
 
   Terça a Sexta: 10h - 18h
-  Fins de semana 10h00-13h00 (sujeito a alteração)
+  Fins de semana 10h00-18h00 (sujeito a alteração)
 
 
 imagealign: left
