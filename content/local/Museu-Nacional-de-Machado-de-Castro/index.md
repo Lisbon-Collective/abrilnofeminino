@@ -35,6 +35,7 @@ custom:
 
 **Horário**    
 
-Terça a Sexta: 10h-18h
+Terça a Domingo: 10h - 18h
 
-Sábado e Domingo: 10h-13h (sujeito a alteração)
+Fins de semana 10h00-18h00 (sujeito a alteração)
+
