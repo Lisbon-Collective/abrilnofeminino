@@ -29,6 +29,10 @@ paragraph: >-
 
   **Até 20 de Junho**    
 
+  **Encerramento temporário do Museu Nacional Machado de Castro.**
+  
+  Por motivos de saúde pública, o MNMC encontra-se temporariamente encerrado ao público.
+
   **Horário**    
 
   Terça a Domingo: 10h - 18h
