@@ -1,5 +1,5 @@
 ---
-date: 2019-02-15T23:33:21Z
+date: 2021-06-07T18:39:52+0100
 description: ""
 draft: false
 resources:
@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: CICLO DE CINEMA, Nadine Labaki
+title: CICLO DE CINEMA<br>Nadine Labaki
 
 options:
   hideFooter: false
