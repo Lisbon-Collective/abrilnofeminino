@@ -1,5 +1,5 @@
 ---
-date: 2019-02-15T23:33:21Z
+date: 2021-06-11T11:38:18+0100
 description: ""
 draft: false
 resources:
@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: 
+title: Ruralidades
 
 options:
   hideFooter: false
