@@ -1,5 +1,5 @@
 ---
-date: 2021-06-07T19:04:47+0100
+date: 2021-06-07T19:04:47Z
 description: ""
 draft: false
 resources:
@@ -26,7 +26,7 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
+
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
