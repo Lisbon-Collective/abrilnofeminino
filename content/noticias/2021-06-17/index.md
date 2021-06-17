@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Jantar Tributo A Maria De Lourdes Modesto
+title: Jantar Tributo a Maria De Lourdes Modesto
 
 options:
   hideFooter: false
