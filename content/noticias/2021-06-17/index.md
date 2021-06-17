@@ -47,11 +47,12 @@ A de 1 Junho completou 91 anos de idade.
 
 *Fotografias de Marisa Martins.*
 
-<img src="DSC_0984.jpg" class="image fit"></img>
-<img src="DSC_1015.jpg" class="image fit"></img>
-<img src="DSC_1023.jpg" class="image fit"></img>
-<img src="DSC_1025.jpg" class="image fit"></img>
-<img src="DSC_1057.jpg" class="image fit"></img>
-<img src="DSC_1063.jpg" class="image fit"></img>
-<img src="DSC_1071.jpg" class="image fit"></img>
-<img src="DSC_1098.jpg" class="image fit"></img>
+
+<img src="01_DSC_1015.jpg" class="image fit"></img>
+<img src="02_DSC_1025.jpg" class="image fit"></img>
+<img src="03_DSC_0984.jpg" class="image fit"></img>
+<img src="04_DSC_1023.jpg" class="image fit"></img>
+<img src="05_DSC_1057.jpg" class="image fit"></img>
+<img src="06_DSC_1063.jpg" class="image fit"></img>
+<img src="07_DSC_1071.jpg" class="image fit"></img>
+<img src="08_DSC_1098.jpg" class="image fit"></img>
