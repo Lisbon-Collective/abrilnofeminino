@@ -29,14 +29,9 @@ paragraph: >-
 
   **Até 20 de Junho**    
 
-  **Encerramento temporário do Museu Nacional Machado de Castro.**    
+  AVISO    
   
-  Por motivos de saúde pública, o MNMC encontra-se temporariamente encerrado ao público.    
-
-  **Horário**    
-
-  Terça a Domingo: 10h - 18h
-  Fins de semana 10h00-18h00 (sujeito a alteração)
+  A EXPOSIÇÃO DE FOTOGRAFIA “RURALIDADES”, DE JORGE BACELAR, QUE PODE SER VISITADA  NO MUSEU NACIONAL MACHADO DE CASTRO, AO CONTRÁRIO DO INICIALMENTE PREVISTO (20.06.2021), TERMINARÁ A SUA TEMPORADA NO DIA 5 DE SETEMBRO. DE TERÇA A DOMINGO, DAS 10H00 ÀS 18H00.
 
 
 imagealign: left
