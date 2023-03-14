@@ -1,0 +1,47 @@
+.wrapper {
+	@include padding(6rem, 0);
+
+	&.home_bg {
+		//background: url('/images/home_bg_2020.jpg');
+		background: url('/images/bg-home-2020-crop.jpg');
+		background-size: cover;
+	}
+}
+
+.float-right{
+	float:right;
+	display:block;
+}
+
+.float-left{
+	float:left;
+}
+.apoios{
+	// height:150px;
+	width:100%;
+	margin: 3em 0 3em 0;
+}
+
+/*COLUNAS*/
+
+.flexbox {
+        display: flex;
+        flex-wrap: wrap;
+}
+
+// .box>* {
+//     flex: 1 1 160px;
+// }
+
+.flexbox > .element{
+	flex: 1 1 160px;	
+}
+
+// Hide CTA on Homepage
+a[id*="teatroinfancia"]{
+	display: none;
+}
+
+a[id="20200307caramel"],a[id="20200307eagoraondevamos"],a[id="20200307cafarnaum"]{
+	display: none;
+}

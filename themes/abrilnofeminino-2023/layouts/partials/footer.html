@@ -1,0 +1,29 @@
+<div id="footer">
+				<div class="wrapper style1">
+					<div class="inner">
+						<div class="content">
+
+							<img src="/apoios/apoios-2021-SemCMC.png" class="apoios" alt="">
+
+						</div>
+					</div>
+					<div class="copyright">
+						Cultura e Risco, Associação Cultural.
+					</div>
+				</div>
+			</div>
+
+<!-- Scripts -->
+{{ $jquery := resources.Get "js/jquery.min.js" | resources.Minify | resources.Fingerprint }}
+{{ $jquerydroptron := resources.Get "js/jquery.dropotron.min.js" | resources.Minify | resources.Fingerprint }}
+{{ $browser := resources.Get "js/browser.min.js" | resources.Minify | resources.Fingerprint }}
+{{ $breakpoints := resources.Get "js/breakpoints.min.js" | resources.Minify | resources.Fingerprint }}
+{{ $util := resources.Get "js/util.js" | resources.Minify | resources.Fingerprint }}
+{{ $main := resources.Get "js/main.js" | resources.Minify | resources.Fingerprint }}
+
+<script src="{{ $jquery.Permalink }}"></script>
+<script src="{{ $jquerydroptron.Permalink }}"></script>
+<script src="{{ $browser.Permalink }}"></script>
+<script src="{{ $breakpoints.Permalink }}"></script>
+<script src="{{ $util.Permalink }}"></script>
+<script src="{{ $main.Permalink }}"></script>

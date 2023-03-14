@@ -1,0 +1,39 @@
+{{ define "bodyclasses" }}
+	single {{ .Title | lower | urlize}}
+{{ end }}
+
+{{ define "main" }}
+	<!-- One -->
+		<div id="main">
+			<div class="wrapper">
+				<div class="inner">
+					<header class="major">
+						{{ with .Params.eventdate }}
+						<h3>{{ . | dateFormat "2" }} de Maio | {{ . | dateFormat "15h04"}}</h3>
+						{{ end }}
+						<h1>{{ .Title | safeHTML }}</h1>
+						{{ with .Params.subtitle }}
+							<p>{{ . | safeHTML }}</p>
+						{{ end }}
+						{{ if eq .Section "noticias" }}
+							Notícia publicada a {{ .Date | dateFormat "02-01-2006, 15h04" }}
+						{{ end }}
+
+					</header>
+					{{- if (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}
+					<div class="image main">					
+						{{ partial "get_header" . }}
+						{{ with .Params.copyright}}{{.}}{{end}}
+					</div>
+					 {{- end -}}
+					 <div class="row aln-center">
+					 	<div class="col-9 col-12-small">
+						{{ .Params.paragraph | markdownify }}
+						<hr>
+					 	{{ .Content | safeHTML }}</div>
+					 </div>
+
+				</div>
+			</div>
+		</div>
+{{ end }}

@@ -1,0 +1,43 @@
+{{ define "bodyclasses" }} list noticias  {{ .Section }}  {{ end }}
+
+{{ define "main" }}
+	{{ range $i, $e := .Data.Pages }}
+<div id="two">
+	<div class="wrapper {{ if modBool (add $i 1) 2 }}style3{{else}}style3{{end}}">
+		<div class="inner">
+			<div class="">
+				<div class="intro">
+					<header>
+						<h2 class="left"><a href="{{.Permalink}}">{{ .Title | safeHTML }}</a></h2>
+						<h3 class="left">{{ .Params.subtitle }}</h3>
+
+						<a href="{{ .Permalink}}">
+							{{- with .Resources.GetMatch "header" -}}
+							<div class="image float-right">
+							    {{- if eq .MediaType.SubType "gif" -}}
+									<img src="{{- .RelPermalink -}}" alt="" class="float-right" />
+							    {{- else }}
+							        {{- $image := .Resize "400x" -}}
+							        <img src="{{- $image.RelPermalink -}}" alt="" />
+							    {{- end }}
+							</div>
+							{{- else }}
+						    <div class="image fit"><img src="" alt="" /></div>
+						{{- end }}
+						</a>
+						<p>{{ .Summary }}</p>
+					</header>
+					<ul class="actions">
+						<li><a href="{{ .Permalink }}" class="button {{ if modBool (add $i 1) 2 }}{{else}}primary{{end}}">Ler mais</a></li>
+					</ul>
+
+				</div>
+
+
+			</div>
+		</div>
+	</div>
+</div>
+
+{{ end }}
+{{ end }}

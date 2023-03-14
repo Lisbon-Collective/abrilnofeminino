@@ -1,0 +1,12 @@
+	<head>
+		<title>{{ .Site.Title }}</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<meta name="description" content="" />
+		<meta name="keywords" content="" />
+
+		{{ $options := (dict "targetPath" "main.css" "outputStyle" "compressed" "enableSourceMap" true ) }}
+		{{ $main := resources.Get "sass/main.scss" | resources.ToCSS $options | resources.Fingerprint }}
+		<link rel="stylesheet" href="{{ $main.Permalink }}" />
+	</head>
+	<!-- Global site tag (gtag.js) - Google Analytics --> <script async src="https://www.googletagmanager.com/gtag/js?id=UA-10997142-33"></script> <script> window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);} gtag("js", new Date()); gtag("config", "UA-10997142-33"); </script>

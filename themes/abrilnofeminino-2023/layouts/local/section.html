@@ -1,0 +1,27 @@
+{{ define "bodyclasses" }}
+	local/section 
+{{ end }}
+
+{{ define "main" }}
+<div id="three">
+	<div class="wrapper alt special">
+		<div class="wrapper style3">
+			<div class="inner">
+				{{ .Content }}
+				<div class="profiles">
+
+				{{ range $i, $e :=  first 410 (.Data.Pages.ByWeight) }}  
+					{{ .Render "summary_card" }}
+					{{ if modBool (add $i 1) 4 }}
+							</div>
+							<div class="profiles"> 
+					{{ end }}
+				{{ end }}
+
+				</div>
+			</div>
+			<footer>
+			</footer>
+		</div>
+	</div>
+{{ end }}
