@@ -193,7 +193,7 @@ input, select, textarea {
 			}
 
 	header h1:before, header h2:before, header h3:before, header h4:before, header h5:before, header h6:before {
-		background-color: #ff8b77;
+		background-color: #00000;
 		content: '';
 		display: block;
 		height: 2px;
@@ -401,7 +401,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #ff8b77;
+		color: #ff5577;
 	}
 
 		a:hover {
@@ -2932,11 +2932,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background: #ff8b77;
+			background: #F8BCD6;
 		}
 
 		.wrapper.style2 {
-			background: #6d64e7;
+			background: #6554e0;
 		}
 
 		.wrapper.style3 {
