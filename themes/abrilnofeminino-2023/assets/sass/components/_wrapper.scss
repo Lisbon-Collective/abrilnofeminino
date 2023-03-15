@@ -44,6 +44,10 @@
 
 		&.style1 {
 			background: _palette(accent1);
+			p, h2, h3, h2>a{
+			color: _palette(accent2)!important;
+			
+			}
 		}
 
 		&.style2 {

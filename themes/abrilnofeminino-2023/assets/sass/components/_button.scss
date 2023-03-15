@@ -70,12 +70,12 @@
 		input[type="button"],
 		button,
 		.button {
-			background-color: transparent;
+			background-color: _palette(accent1);
 			box-shadow: inset 0 0 0 1px _palette(accent1);
-			color: _palette(accent1) !important;
+			color: _palette(accent2) !important;
 
 			&:hover {
-				background-color: transparentize(_palette(accent1), 0.9);
+				background-color: transparentize(_palette(accent1), 0.4);
 
 				&:active {
 					background-color: transparentize(_palette(accent1), 0.75);
