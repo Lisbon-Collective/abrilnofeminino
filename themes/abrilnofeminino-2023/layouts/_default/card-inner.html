@@ -1,9 +1,13 @@
-		<div class="inner">
+<div class="inner">
 			<div class="spotlights">
 				<div class="intro">
 					<header>
-						<strong>{{ .Params.italic }}</strong> 
-						<h3>{{ .Params.eventdate | dateFormat "2" }} de Maio</h3>
+						<strong>{{ .Params.italic | upper }}</strong> 
+						<h3>{{ .Params.eventdate | dateFormat "02" }} {{ .Params.eventdate | dateFormat "01" | i18n  }}
+							{{ if eq (.Params.showtime) true }}
+								{{ .Params.eventdate | dateFormat "15h04"}}
+							{{ end }}
+						</h3>
 						<h2 class="left"><a href="{{.Permalink}}">{{ .Title | safeHTML }}</a></h2>
 						<h3 class="left">{{ .Params.subtitle | safeHTML }}</h3>
 						<p>{{ .Params.paragraph | markdownify }}</p>
@@ -14,7 +18,6 @@
 				</div>
 				<div class="spotlight">
 					
-
 						<a href="{{ .Permalink}}">
 							{{- with .Resources.GetMatch "header" -}}
 							<div class="image fit">
@@ -24,7 +27,6 @@
 										<figcaption>{{ $.Page.Params.copyright  }}</figcaption>
 									</figure>
 							    {{- else }}
-
 							        <figure>
 							        	<img src="{{- .RelPermalink -}}" alt="" />
 							        	<figcaption>{{ $.Page.Params.copyright  }}</figcaption>
