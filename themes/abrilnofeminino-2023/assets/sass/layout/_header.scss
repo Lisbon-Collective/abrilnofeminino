@@ -53,6 +53,8 @@
 					margin: 0 .15rem;
 					position: relative;
 					text-align: center;
+					font-size: 16px;
+    font-weight: 600;
 
 					> a {
 						@include vendor('transition', 'box-shadow #{_duration(transition)} ease-in-out');

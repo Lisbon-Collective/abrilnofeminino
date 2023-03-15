@@ -142,7 +142,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Lato", Arial, Helvetica, sans-serif;
+		font-family: "Barlow", Arial, Helvetica, sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 2.15;
@@ -166,6 +166,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+
 	}
 
 		p.special {
@@ -2936,7 +2937,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style2 {
-			background: #6554e0;
+			background: #681555;
 		}
 
 		.wrapper.style3 {

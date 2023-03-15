@@ -26,19 +26,23 @@
 	);
 
 // Font.
-	@import url('https://fonts.googleapis.com/css?family=Oswald:300,400|Tinos');
+	// @import url('https://fonts.googleapis.com/css?family=Oswald:300,400|Tinos');
+
+  @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,400;0,700;1,400;1,700&family=Barlow:ital,wght@0,400;0,600;1,400;1,600&family=Montserrat&display=swap');
+
+
 
 	$font: (
-		family-title:		('Tinos', serif),
-		family: 			('Oswald', sans-serif),
+		family-title:		('Barlow Condensed', sans-serif),
+		family: 			('Barlow', sans-serif),
 		family-fixed:		('Courier New', monospace),
-		weight:				300,
-		weight-bold:		700
+		weight:				400,
+		weight-bold:		600
 	);
 
 // Palette.
 	$palette: (
-		bg:					#ffffff,
+		bg:					#F8BCD6,
 		bg-alt:				#fafafa,
 		fg:					#424242,
 		fg-bold:			#424242,
@@ -48,11 +52,11 @@
 
 		accent1:			#F8BCD6,
 		/*
-		accent2:			#499D85,
+		accent2:			#681542,
 		accent3: 			#882F61,
 		*/
-		accent2:			#6ABDA4,
-		accent3: 			#F38A84,
+		accent2:			#681542,
+		accent3: 			#681542,
 
 		invert: (
 			bg:				#000000,
