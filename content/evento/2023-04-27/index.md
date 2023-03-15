@@ -9,7 +9,8 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: 
+subtitle: com Joana Brandão
+
 
 tags:
   -
@@ -17,13 +18,22 @@ categorias:
   - 
 ciclo: 
 
-title: 
+title: Coragem Hoje, Abraços Amanhã
+
 copyright: ""
-paragraph: >-
- 
+paragraph: >- 
+  *Coragem Hoje, Abraços Amanhã* parte de testemunhos reais, cartas e memórias de mulheres que estiveram presas pela PIDE durante o período do Estado Novo, expondo o lado pessoal de vivências desumanas experienciadas por aquelas mulheres. Para que a memória permaneça.
+
+
+  **Convento São Francisco | Black Box**    
+
+  Preço único: 10,00 €
+
+
+  Contacto e reservas: bilheteira do Convento São Francisco diariamente entre as 15h00 e as 20h00 | 239 857 191 ou [bilheteira@coimbraconvento.pt](mailto:bilheteira@coimbraconvento.pt)
 
 imagealign: left
-italic: 
+italic: teatro
 options:
   hideFooter: false
   hideSubscribeForm: false
@@ -32,33 +42,12 @@ options:
 scripts:
   -
 weight: 
+eventDate: 2023-04-27T18:00:00Z
+showTime: true
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
   local: 
 ---
 
-**TEATRO**
-
-
-
 **Imagen Site cartaz peça “Coragem Hoje, Abraços Amanhã”**
-
-
-
-27 de Abril Quinta 18h00
-
-
-
-Coragem Hoje, Abraços Amanhã
-
-**com Joana Brandão**
-
-
-*Coragem Hoje, Abraços Amanhã* parte de testemunhos reais, cartas e memórias de mulheres que estiveram presas pela PIDE durante o período do Estado Novo, expondo o lado pessoal de vivências desumanas experienciadas por aquelas mulheres. Para que a memória permaneça.
-
-Convento São Francisco | Black Box
-
-Preço único: 10,00 €
-
-Contacto e reservas: bilheteira do Convento São Francisco diariamente entre as 15h00 e as 20h00 | 239 857 191 ou [bilheteira@coimbraconvento.pt](mailto:bilheteira@coimbraconvento.pt)

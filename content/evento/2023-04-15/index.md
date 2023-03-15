@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: 
+subtitle: de Marta Pessoa
 
 tags:
   -
@@ -17,13 +17,23 @@ categorias:
   - 
 ciclo: 
 
-title: 
+title: Um nome para o que sou
 copyright: ""
 paragraph: >-
- 
+  \**no final da sessão conversa com o público na presença da realizadora e da argumentista*
+
+
+
+  Entre 1947 e 1949, a escritora Maria Lamas percorreu o país para dar a conhecer a realidade em que viviam as mulheres portuguesas. O resultado deste périplo foi o livro “As Mulheres do Meu País”. Passados mais de 70 anos, a realizadora Marta Pessoa e a escritora Susana Moreira Marques procuram compreender que livro é este e o que nos pode dizer hoje. UM NOME PARA O QUE SOU é um filme sobre um livro e sobre o movimento que ele opera em nós quando o lemos.
+
+
+  **Seminário Maior de Coimbra**    
+
+  **Entrada livre sujeita à lotação da sala**  
 
 imagealign: left
-italic: 
+italic: Cinema
+eventDate: 2023-04-15T15:00:00Z
 options:
   hideFooter: false
   hideSubscribeForm: false
@@ -38,28 +48,4 @@ custom:
   local: 
 ---
 
-**CINEMA**
 
-
-
-Site imagem cartaz filme “Um nome para o que sou” 
-
-
-
-15 de Abril Sábado 15h00 *
-
-***Um nome para o que sou\***
-
-**de Marta Pessoa**
-
-**no final da sessão conversa com o público na presença da realizadora e da argumentista*
-
-
-
-Entre 1947 e 1949, a escritora Maria Lamas percorreu o país para dar a conhecer a realidade em que viviam as mulheres portuguesas. O resultado deste périplo foi o livro “As Mulheres do Meu País”. Passados mais de 70 anos, a realizadora Marta Pessoa e a escritora Susana Moreira Marques procuram compreender que livro é este e o que nos pode dizer hoje. UM NOME PARA O QUE SOU é um filme sobre um livro e sobre o movimento que ele opera em nós quando o lemos.
-
-
-
-Seminário Maior de Coimbra
-
-Entrada livre sujeita à lotação da sala 
