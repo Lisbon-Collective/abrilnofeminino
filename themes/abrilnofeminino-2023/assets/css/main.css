@@ -430,6 +430,12 @@ input, select, textarea {
 		border-bottom-color: rgba(144, 144, 144, 0.25);
 	}
 
+
+
+
+figcaption a. {
+	font-size: 12px !important;
+}
 /* Row */
 
 	.row {
