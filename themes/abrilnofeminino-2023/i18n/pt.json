@@ -46,5 +46,17 @@
   "tags": { "other":"Etiquetas" },
   "toggle-all-years": {"other":"Expandir Todos os Anos"},
   "translations": {"other":"Traduções"},
-  "zero_comments": {"other": " "}
+  "zero_comments": {"other": " "},
+  "01": {"other": "janeiro"},
+  "02": {"other": "fevereiro"},
+  "03": {"other": "março"},
+  "04": {"other": "abril"},
+  "05": {"other": "maio"},
+  "06": {"other": "junho"},
+  "07": {"other": "julho"},
+  "08": {"other": "agosto"},
+  "09": {"other": "setembro"},
+  "10": {"other": "outubro"},
+  "11": {"other": "novembro"},
+  "12": {"other": "dezembro"}    
 }

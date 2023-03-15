@@ -46,5 +46,17 @@
   { "id": "tags", "translation":"Tags"},
   { "id": "toggle-all-years", "translation":"Toggle all years"},
   { "id": "translations", "translation": "Translations"},
-  { "id": "zero_comments", "translation":" "}
+  { "id": "zero_comments", "translation":" "},
+    {"id": "jan", "translation": "January"},
+    {"id": "feb", "translation": "February"},
+    {"id": "mar", "translation": "March"},
+    {"id": "apr", "translation": "April"},
+    {"id": "may", "translation": "May"},
+    {"id": "jun", "translation": "June"},
+    {"id": "jul", "translation": "July"},
+    {"id": "aug", "translation": "August"},
+    {"id": "sep", "translation": "September"},
+    {"id": "oct", "translation": "October"},
+    {"id": "nov", "translation": "November"},
+    {"id": "dec", "translation": "December"}  
 ]
