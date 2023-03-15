@@ -1,4 +1,4 @@
-@import url(font-awesome.min.css);
+header@import url(font-awesome.min.css);
 @import url("https://fonts.googleapis.com/css?family=Lato:300,300i,400,400i,700,700i");
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -142,7 +142,7 @@ input, select, textarea {
 	}
 
 	body, input, select, textarea {
-		font-family: "Lato", Arial, Helvetica, sans-serif;
+		font-family: "Barlow", Arial, Helvetica, sans-serif;
 		font-weight: 300;
 		font-size: 1rem;
 		line-height: 2.15;
@@ -166,6 +166,7 @@ input, select, textarea {
 
 	p {
 		margin: 0 0 2rem 0;
+
 	}
 
 		p.special {
@@ -193,7 +194,7 @@ input, select, textarea {
 			}
 
 	header h1:before, header h2:before, header h3:before, header h4:before, header h5:before, header h6:before {
-		background-color: #ff8b77;
+		background-color: #00000;
 		content: '';
 		display: block;
 		height: 2px;
@@ -401,7 +402,7 @@ input, select, textarea {
 	}
 
 	a {
-		color: #ff8b77;
+		color: #ff5577;
 	}
 
 		a:hover {
@@ -428,6 +429,7 @@ input, select, textarea {
 	hr {
 		border-bottom-color: rgba(144, 144, 144, 0.25);
 	}
+
 
 /* Row */
 
@@ -2932,11 +2934,11 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background: #ff8b77;
+			background: #F8BCD6;
 		}
 
 		.wrapper.style2 {
-			background: #6d64e7;
+			background: #681555;
 		}
 
 		.wrapper.style3 {

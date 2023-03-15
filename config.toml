@@ -3,7 +3,7 @@ baseURL = "https://abrilnofeminino.pt/"
 publishDir = "/var/www/abrilnofeminino.pt"
 languageCode = "pt"
 title = "Abril No Feminino"
-theme = "abrilnofeminino"
+theme = "abrilnofeminino-2023"
 
 resampleFilter = "lanczos"
 

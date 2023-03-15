@@ -22,7 +22,7 @@
 		z-index: _misc(z-index-base) + 1;
 
 		> .logo {
-			color: _palette($accent, fg-bold);
+			color: _palette(accent2);
 			font-size: 1rem;
 			font-weight: _font(weight-bold);
 			height: inherit;
@@ -31,8 +31,8 @@
 			text-decoration: none;
 
 			span {
-				color: _palette($accent, fg-bold);
-				font-weight: _font(weight);
+				color: _palette($accent, accent2);
+				
 			}
 		}
 
@@ -53,19 +53,23 @@
 					margin: 0 .15rem;
 					position: relative;
 					text-align: center;
+					font-size: 16px;
+    				font-weight: 600;
 
 					> a {
 						@include vendor('transition', 'box-shadow #{_duration(transition)} ease-in-out');
 						border-radius: _size(border-radius);
 						box-shadow: none;
-						color: _palette($accent, fg-bold);
+						color: _palette( accent2);
 						overflow: hidden;
 						padding: .5rem 1rem;
 						position: relative;
 						text-decoration: none;
 
 						&:hover {
-							box-shadow: inset 0 0 0 1px _palette($accent, fg-light);
+							color: _palette(fg-bold);
+							border-color: _palette(fg-bold);
+							box-shadow: inset 0 0 0 2px 
 						}
 
 						&.dropdown {

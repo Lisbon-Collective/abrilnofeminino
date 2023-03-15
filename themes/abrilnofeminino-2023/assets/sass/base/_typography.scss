@@ -30,8 +30,8 @@
 	body, input, select, textarea {
 		font-family: _font(family);
 		font-weight: _font(weight);
-		font-size: 1rem;
-		line-height: 2.15;
+		font-size: 1.2rem;
+		line-height: 1.55;
 	}
 	h1, h2, h3, h4, h5, h6{
 		font-family: _font(family-title);
@@ -136,17 +136,21 @@
 	}
 
 	h1 {
-		font-size: 4rem;
+		font-size: 5rem;
 		line-height: 1.2;
 	}
 
 	h1 + p, .lead {
-		font-size: 1.5rem;
+		font-size: 1.6rem;
+		line-height: 1.4em;
 	}
 
 	h2 {
-		font-size: 3rem;
-		line-height: 1.3;
+		font-size: 5rem;
+		line-height: 0.65;
+		font-variant-caps: all-petite-caps;
+		letter-spacing: 1px;
+
 	}
 
 	h3 {
