@@ -20,7 +20,7 @@
 						{{ end }}
 
 					</header>
-					{{- if (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}
+					{{- if eq (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}
 					<div class="image main">					
 						{{ partial "get_header" . }}
 						{{ with .Params.copyright}}{{.}}{{end}}
