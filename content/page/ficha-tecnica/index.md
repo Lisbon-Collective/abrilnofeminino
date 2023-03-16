@@ -34,101 +34,49 @@ custom:
 ---
 
 
-Projecto da autoria    
+**Projecto da autoria**    
 de Margarida Mendes Silva
 
-Produção    
+**Produção**    
 Cultura e Risco
 
+ 
 
-
-Equipa
-
-Cláudia do Vale
-
-José Manuel Penetra
-
-Margarida Mendes Silva
-
+**Equipa**    
+Cláudia do Vale    
+José Manuel Penetra    
+Margarida Mendes Silva    
 Silvina Pereira
 
 
-
-Design Gráfico
-
+**Design Gráfico**    
 Mariana Gonçalves
 
+ 
 
-
-Site
-
+**Site**    
 Bruno Amaral
 
+**Assessoria de Imprensa e Digital**    
+Alexandra Ferreira
 
-
-Agradecimentos
-
+**Agradecimentos**    
 Filipe Pereira Duarte
+A Escola da Noite    
+Biblioteca Municipal de Coimbra    
+Biblioteca Municipal de Sintra    
+Produtora Três Vinténs
 
-Produtora Três Vinténs 
+**Informações e Contactos**    
 
-Biblioteca Municipal SUJEITO A CONFIRMAÇÃO
+<www.abrilnofeminino.pt>
 
-Galeria de Santa Clara SUJEITO A CONFIRMAÇÃO
+<abrilnofeminino@gmail.com>
 
+**Imprensa** 93 910 31 67
 
+**Geral** 91 843 11 55 / 96 261 00 50
 
-Informações e Contactos
+<https://facebook.com/abrilnofeminino>
 
-[www.abrilnofeminino.pt](http://www.abrilnofeminino.pt)
-
-[abrilnofeminino@gmail.com](mailto:abrilnofeminino@gmail.com)
-
-91 843 11 55 / 96 261 00 50
-
-facebook.com/abrilnofeminino
-
-instagram@abrilnofeminino 
-
-
-
-**Logos**
-
-
-
-**2021**
-
-**Produção** CR
-
-**Mecenas** BPI Fundação laCaixa
-
-
-
-**Parceiros**
-
-MNMC mas completo (3 logos) ver o OMV
-
-Seminário Maior de Coimbra
-
-CSF (3 logos) enviado a 9 de Março
-
-2023 Novo
-Museu da Ciência enviado a 9 de Março
-Bairro dos Livros enviado a 9 de Março
-
-Apoios
-2021
-Câmara Municipal da Póvoa do Varzim a enviar
-Vila Galé ?
-Sodicentro?
-Sapientia
-Arte&Flor
-
-2023 Novo
-O Palco enviado a 9 de Março
-Fangas a enviar
-
-Parceiros Media
-2021
-Antena 1 ?
-Diário de Coimbra
+<https://instagram.com/abrilnofeminino>
