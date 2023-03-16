@@ -2,7 +2,7 @@
 			<div class="spotlights">
 				<div class="intro">
 					<header>
-						<strong>{{ .Params.italic | upper }}</strong> 
+						<span class="category"><strong>{{ .Params.italic | upper }}</strong></span>
 						<h3>{{ .Params.eventdate | dateFormat "02" }} {{ .Params.eventdate | dateFormat "01" | i18n  }}
 							{{ if eq (.Params.showtime) true }}
 								{{ .Params.eventdate | dateFormat "15h04"}}
