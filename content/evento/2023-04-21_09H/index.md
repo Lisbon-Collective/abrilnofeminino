@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: images/
+- src: LIVRO 1.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -46,6 +46,7 @@ options:
   unlisted: false
 eventDate: 2023-04-21T10:00:00Z
 showTime: false
+copyright: 
 weight: 
 custom:
   copyright:
@@ -53,13 +54,26 @@ custom:
   local: 
 ---
 
+<div class="image right">
+  <figure><img src="INSTALAÇÃO%201.jpg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
+
+
+TEXTO pdf
+
+Ficha técnica pdf 
+
+NOTA: ESTES DOIS TEXTOS SEGUEM EM ANEXO.
 
 
 
 
+**Documentário**
 
+https://youtu.be/4ZdvJy-MV5o?t=14679 
 
-**Site imagem foto livro As Penélopes. Crédito Bairro dos Livros.**
+(4:04:39)
 
 
 
