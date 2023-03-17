@@ -62,7 +62,3 @@ Considerado um género menor pela academia de pintura do séc. XVII – curiosam
 De 1991 a 1999 fez parte da Equipa Nacional do Inventário do Património Cultural Móvel, colaborando no estudo das colecções de ourivesaria e têxteis do *Museu Nacional de Machado de Castro* (MNMC), dos acervos patrimoniais dos Arciprestados de Anadia e de Vila Nova de Foz Côa, e ainda do Governo Civil do Distrito de Coimbra. Desde 1999 é Técnico Superior de Museologia do quadro de pessoal do MNMC, sendo co-responsável pelas colecções de ourivesaria, metais, têxteis e escultura. Apresentou diversas comunicações e publicou vários livros e artigos em revistas e catálogos, dos quais salientamos:
 
 “A construção da Casa da Livraria das Universidade de Coimbra”, 1993; “Misericórdia de Coimbra – Devoção e Arte”, 2000; *Ourivesaria Medieval. Séculos XII a XV. A Colecção do Museu Nacional de Machado de Castro*, 2004; “Colecção de Escultura”, *Museu da Guarda. Roteiro*, 2004; “Coimbra Medieval e a Arte da Ourivesaria”, 2004; *Museu Nacional de Machado de Castro*. Roteiro, 2005; Normas de Inventário. Arte. Ourivesaria, 2011; *Manuel Jardim – Memórias de um percurso inacabado*. 1884-1923, 2013; *Diálogos em pedra – da matéria-prima à obra de arte. Séculos XII-XVIII,* 2013; “O clero secular e a ourivesaria da Sé de Coimbra entre os séculos XIV-XVI”, 2014.
-
-
-
-O Pedro Ferrão não envia foto.
