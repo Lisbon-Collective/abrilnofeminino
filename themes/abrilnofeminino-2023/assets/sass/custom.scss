@@ -61,3 +61,9 @@ div.image.main > img, #headerimage, #headerimage > img {
 div.image.main > #headercopyright {
 	float:right
 }
+#main > p > a,
+#main > div > div > div > div > p > a {
+	color: _palette(fg-bold) !important;
+	text-decoration: underline;
+	// color: #FF0000;
+}
