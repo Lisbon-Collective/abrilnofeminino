@@ -77,35 +77,32 @@ Foto Susana Moreira Marques
 
 
 
-FICHA TÉCNICA
- TÍTULO PORTUGUÊS: UM NOME PARA O QUE SOU
- TÍTULO INGLÊS: A NAME FOR WHAT I AM
- 2022, Portugal, DOC, Cor, 116’
- REALIZAÇÃO E IMAGEM: Marta Pessoa
- TEXTO E NARRAÇÃO: Susana Moreira Marques
- SOM E MONTAGEM: Rita Palma
- MONTAGEM DE SOM E MISTURAS: Miguel Lima
- CORRECÇÃO DE COR: Aurélio Vasques
- PRODUTORES: Rita Palma, Marta Pessoa e João Pinto Nogueira
- PRODUÇÃO: TRÊS VINTÉNS
+**FICHA TÉCNICA**
+
+TÍTULO PORTUGUÊS: UM NOME PARA O QUE SOU    
+TÍTULO INGLÊS: A NAME FOR WHAT I AM    
+2022, Portugal, DOC, Cor, 116’    
+REALIZAÇÃO E IMAGEM: Marta Pessoa    
+TEXTO E NARRAÇÃO: Susana Moreira Marques    
+SOM E MONTAGEM: Rita Palma    
+MONTAGEM DE SOM E MISTURAS: Miguel Lima    
+CORRECÇÃO DE COR: Aurélio Vasques    
+PRODUTORES: Rita Palma, Marta Pessoa e João Pinto Nogueira    
+PRODUÇÃO: TRÊS VINTÉNS    
 
 https://vimeo.com/699518059
 
-
-
 https://tresvintens.com/um-nome-para-o-que-sou/
-
-
 
 https://www.facebook.com/tresvintens | https://www.instagram.com/tresvintens 
 
 
+<div class="image right">
+  <figure><img src="unpoqs-maria-lamas.jpg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
 
-Foto Maria Lamas
-
-
-
-“Comprei uma máquina fotográfica muito rudimentar. Tinha a minha máquina de escrever. Passei dois anos a viajar. O meu sistema de trabalho era este: tinha um mapa de Portugal dividido por regiões. Comecei pelo Norte. Partia, estava duas, três semanas, o que era preciso. Andei de comboio, de camionete, de carro de bois, de burro, a pé... Eu recolhia os elementos e vinha a Lisboa. Descansava da viagem, que aquilo era muito violento! Estava em Lisboa o tempo indispensável para escrever, coligir, todos os apontamentos que eu trazia. E partia imediatamente. E assim foi de Norte a Sul. (...) Foram os dois anos mais ricos, interiormente, da minha vida. E as minhas forças parecia que eram inesgotáveis. Eu era mais nova, muito nova ainda... Relativamente, tinha mais de 50 anos, mas também foram dois anos que marcaram a minha vida.”
+"Comprei uma máquina fotográfica muito rudimentar. Tinha a minha máquina de escrever. Passei dois anos a viajar. O meu sistema de trabalho era este: tinha um mapa de Portugal dividido por regiões. Comecei pelo Norte. Partia, estava duas, três semanas, o que era preciso. Andei de comboio, de camionete, de carro de bois, de burro, a pé... Eu recolhia os elementos e vinha a Lisboa. Descansava da viagem, que aquilo era muito violento! Estava em Lisboa o tempo indispensável para escrever, coligir, todos os apontamentos que eu trazia. E partia imediatamente. E assim foi de Norte a Sul. (...) Foram os dois anos mais ricos, interiormente, da minha vida. E as minhas forças parecia que eram inesgotáveis. Eu era mais nova, muito nova ainda... Relativamente, tinha mais de 50 anos, mas também foram dois anos que marcaram a minha vida."    
  **Maria Lamas em entrevista radiofónica, 1975**
 
 Ao lançar-se na escrita de “As Mulheres do Meu País”, Maria Lamas queria dar a conhecer a verdadeira situação das mulheres em Portugal. O livro é um gesto político.
@@ -122,7 +119,6 @@ Casa jovem, em 1911, e acompanha o marido a Angola. Divorcia-se em 1919 e volta 
 mas a união dura pouco. Têm três filhas a seu cargo. Foi uma das primeiras mulheres jornalistas
 profissionais. Em 1929, entra para o jornal “O Século”, onde dirige o suplemento feminino
 Modas & Bordados.
-
 
 Em 1945, é eleita para a presidência do Conselho Nacional das Mulheres Portuguesas e, em
 1947, organiza a exposição “Livros Escritos por Mulheres”, que será a gota de água numa série
