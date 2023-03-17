@@ -50,3 +50,14 @@ figure > figcaption{font-size:12px; padding:10px; background-color: transparent 
 
 // CATEGORIA (bruno)
 strong > span.category{color:_palette(fg-bold) !important;}
+
+div.image.main > img, #headerimage, #headerimage > img {
+	max-height: 400px;
+	width: auto;
+	float: right;
+	margin: 0 auto;
+}
+
+div.image.main > #headercopyright {
+	float:right
+}

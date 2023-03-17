@@ -21,13 +21,15 @@
 
 					</header>
 					{{- if eq (.Params.options.showHeader) nil | or (.Params.options.showHeader) true }}
-					<div class="image main">					
-						{{ partial "get_header" . }}
-						{{ with .Params.copyright}}{{.}}{{end}}
-					</div>
 					 {{- end -}}
 					 <div class="row aln-center">
 					 	<div class="col-9 col-12-small">
+							<div class="image main">			
+								<figure id="headerimage">
+									{{ partial "get_header" . }}
+									<figcaption>{{ with .Params.copyright}}{{.}}{{end}}</figcaption>
+								</figure>
+							</div>
 						{{ .Params.paragraph | markdownify }}
 						<hr>
 					 	{{ .Content | safeHTML }}</div>
