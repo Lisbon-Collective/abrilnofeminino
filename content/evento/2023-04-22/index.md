@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Natália%203.JPG
+- src: Natália 3.JPG
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -59,17 +59,12 @@ Mulher da ilha. Contudo a linha do horizonte oceânico do seu ser permaneceu sem
 
 A música é o seu caminho e a sua respiração.
 
-
-
 Com este espectáculo procuramos aceder a uma paisagem chamada Natália. Abrir as portas à mulher e à obra, sem filtros nem lápis azul.
 
-
-
-Foto Lena e Mité
-
-
-
-
+<div class="image right">
+  <figure><img src="Mité%20e%20Lena%204.jpg" alt="helena e mité" class=""></figure>
+  <figcaption></figcaption>
+</div>
 
 **Helena Faria** é actriz, narradora, educadora. Iniciou o seu percurso teatral no teatro universitário em Coimbra no CITAC. Licenciada em Teatro pela Universidade de Évora. Especialista em Estudos de Teatro pela Faculdade de Letras da Universidade de Lisboa. Estagiou na École Internationale de Théatre Jacques Lecoq com orientação do mestre Jacques Lecoq. Mestre em Análise Textual e Literatura Infantil pela Universidade do Minho. Trabalhou e aprendeu com Mário Barradas, José Carretas, Jacques Lecoq, Norman Taylor, Paulo Coimbra, João Maria André, Marcia Haufrecht, Vvoitek, Regina Goerger, Antón Valen, Eugénio Barba, Anatoli Vassiliev, Daniel Simon, José Barata, José Geraldo, Pierre Voltz, Richard Schechner, entre outros. Foi co-fundadora de Teatrão, Efémero e Camaleão. Trabalhou como actriz, dramaturga e encenadora em várias companhias de teatro da região Centro (Teatrão, Teatro das Beiras, Efémero, Camaleão) e em projectos pontuais em Lisboa, Porto e Coimbra.
 

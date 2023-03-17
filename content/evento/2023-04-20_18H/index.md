@@ -72,7 +72,6 @@ A doçaria de Tentúgal acompanha-me desde que nasci é o berço do meu sabor. P
 
 Viver na liberdade da expectativa, no entusiasmo da descoberta, no seguir o rio curva após curva, no pôr-de-sol que se esconde para além do planalto. Viver segundo a emoção. Viver #semanualdeinstruções.
 
-
 <div class="image right">
   <figure><img src="olga%20cebola.jpeg" alt="" class=""></figure>
   <figcaption>© Olga Cavaleiro</figcaption>
