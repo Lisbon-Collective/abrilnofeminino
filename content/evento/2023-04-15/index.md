@@ -42,7 +42,7 @@ options:
 scripts:
   -
 weight: 
-copyright: Crédito Marta Pessoa
+copyright: © Marta Pessoa
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z

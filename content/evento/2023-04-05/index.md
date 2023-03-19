@@ -44,7 +44,7 @@ options:
 
 weight: 20190402
 eventdate: 2023-04-05T18:00:00Z
-copyright: Crédito Bárbara Marques
+copyright: © Bárbara Marques
 custom:
   data: 2023-04-05T10:35:00Z
   local: 
