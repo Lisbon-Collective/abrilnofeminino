@@ -3,7 +3,7 @@ date: 2023-03-01T18:00:00Z
 description: ""
 draft: false
 resources:
-- src: classico.jpg
+- src: despenteado100x150.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
