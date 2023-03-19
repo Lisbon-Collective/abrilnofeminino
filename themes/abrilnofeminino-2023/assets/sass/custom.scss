@@ -86,3 +86,8 @@ a.button.border{
 figure > figcaption{font-size:12px; padding:10px; background-color: transparent !important;}
 
 ul.actions  a.button.primary{color:_palette(fg-bold)  !important;}
+
+// subscrever
+form input[type=submit] {
+	border:1px solid;
+}

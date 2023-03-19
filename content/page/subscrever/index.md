@@ -35,6 +35,7 @@ custom:
 
 Preencha o seu endereço de email para receber informação de novas iniciativas da Cultura e Risco.
 
-<form style="" action="https://tinyletter.com/artelivre" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/artelivre', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail"></label></p><p><input type="text" style="width:140px" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscrever" /><p>
-</p></form>
+<form style="" action="https://tinyletter.com/artelivre" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/artelivre', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><label for="tlemail"></label><input type="text" style="width: 300px;
+    float: left;
+    margin-right: 10px;" name="email" placeholder="eu@email.com" id="tlemail" /><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscrever" /></form>
      
