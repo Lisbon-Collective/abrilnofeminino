@@ -57,10 +57,5 @@ A escrita deste site obedece à antiga ortografia.
 
  
 
-<div class="image fit">
-  <a href="images/v1.6_Calendario_ANF2021.jpg">
-    <img src="images/v1.6_Calendario_ANF2021.jpg" alt="">
-    </a>
-  </div>
 
 <style>#main > div > div > header > h1{display: none;}</style>
