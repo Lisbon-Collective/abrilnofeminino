@@ -3,14 +3,43 @@
 {{ end }}
 
 {{ define "main" }}
+{{ $dayOfWeek := "" }}
+
+{{ $dayOfWeekPt := "" }}
+
+{{ if .Params.eventdate }}
+
+{{ $dayOfWeek = dateFormat "Monday" .Params.eventdate }}
+
+
+{{ if eq $dayOfWeek "Monday" }}
+	{{ $dayOfWeekPt = "Segunda-feira" }}
+{{ else if eq $dayOfWeek "Tuesday" }}
+	{{ $dayOfWeekPt = "Terça-feira" }}
+{{ else if eq $dayOfWeek "Wednesday" }}
+	{{ $dayOfWeekPt = "Quarta-feira" }}
+{{ else if eq $dayOfWeek "Thursday" }}
+	{{ $dayOfWeekPt = "Quinta-feira" }}
+{{ else if eq $dayOfWeek "Friday" }}
+	{{ $dayOfWeekPt = "Sexta-feira" }}
+{{ else if eq $dayOfWeek "Saturday" }}
+	{{ $dayOfWeekPt = "Sábado" }}
+{{ else if eq $dayOfWeek "Sunday" }}
+	{{ $dayOfWeekPt = "Domingo" }}
+{{ end }}
+{{ end }}
 	<!-- One -->
 		<div id="main">
 			<div class="wrapper">
 				<div class="inner">
 					<header class="major">
-						{{ with .Params.eventdate }}
-						<h3>{{ . | dateFormat "2" }} de Maio | {{ . | dateFormat "15h04"}}</h3>
-						{{ end }}
+{{ if .Params.eventdate }}
+						<h3>{{ .Params.eventdate | dateFormat "02" }} {{ .Params.eventdate | dateFormat "01" | i18n  }},
+							{{$dayOfWeekPt}}
+							{{ if eq (.Params.showtime) true }},
+								{{ .Params.eventdate | dateFormat "15h04"}}
+							{{ end }}</h3>
+							{{end}}
 						<h1>{{ .Title | safeHTML }}</h1>
 						{{ with .Params.subtitle }}
 							<p>{{ . | safeHTML }}</p>

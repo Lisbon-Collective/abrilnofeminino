@@ -45,9 +45,6 @@ a[id*="teatroinfancia"]{
 a[id="20200307caramel"],a[id="20200307eagoraondevamos"],a[id="20200307cafarnaum"]{
 	display: none;
 }
-// legenda das imagens
-figure > figcaption{font-size:12px; padding:10px; background-color: transparent !important;}
-
 // CATEGORIA (bruno)
 strong > span.category{color:_palette(fg-bold) !important;}
 
@@ -77,3 +74,14 @@ a.button.border{
 .wrapper.home_bg.special{
 	text-shadow: 2px 2px 13px rgba(0, 0, 0, 0.5);
 }
+.single  figure, figure#headerimage{
+	margin: 10px 15px 15px 15px;
+}
+.single figcaption{
+	width: 310px;
+	font-size: 12px;
+	margin: 10px;
+}
+// legenda das imagens
+figure > figcaption{font-size:12px; padding:10px; background-color: transparent !important;}
+
