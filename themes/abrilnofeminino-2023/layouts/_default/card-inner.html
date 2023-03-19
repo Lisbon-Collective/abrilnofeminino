@@ -1,3 +1,23 @@
+{{ $dayOfWeek := dateFormat "Monday" .Params.eventdate }}
+
+{{ $dayOfWeek := dateFormat "Monday" .Params.eventdate }}
+
+{{ $dayOfWeekPt := "" }}
+{{ if eq $dayOfWeek "Monday" }}
+	{{ $dayOfWeekPt = "Segunda-feira" }}
+{{ else if eq $dayOfWeek "Tuesday" }}
+	{{ $dayOfWeekPt = "Terça-feira" }}
+{{ else if eq $dayOfWeek "Wednesday" }}
+	{{ $dayOfWeekPt = "Quarta-feira" }}
+{{ else if eq $dayOfWeek "Thursday" }}
+	{{ $dayOfWeekPt = "Quinta-feira" }}
+{{ else if eq $dayOfWeek "Friday" }}
+	{{ $dayOfWeekPt = "Sexta-feira" }}
+{{ else if eq $dayOfWeek "Saturday" }}
+	{{ $dayOfWeekPt = "Sábado" }}
+{{ else if eq $dayOfWeek "Sunday" }}
+	{{ $dayOfWeekPt = "Domingo" }}
+{{ end }}
 <div class="inner">
 			<div class="spotlights">
 				<div class="intro">
@@ -7,6 +27,7 @@
 							{{ if eq (.Params.showtime) true }}
 								{{ .Params.eventdate | dateFormat "15h04"}}
 							{{ end }}
+							{{$dayOfWeekPt}}
 						</h3>
 						<h2 class="left"><a href="{{.Permalink}}">{{ .Title | safeHTML }}</a></h2>
 						<h3 class="left">{{ .Params.subtitle | safeHTML }}</h3>
