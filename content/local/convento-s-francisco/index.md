@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug: 
-subtitle: Av. da Guarda Inglesa nrº 1A
+subtitle: Av. da Guarda Inglesa nº 1A
 
 tags:
   -
@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: 5. Convento de São Francisco | Black box
+title: 5. Convento de São Francisco
 
 options:
   hideFooter: false
