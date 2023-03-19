@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: unpoqs-tres-fotografias-porto-estacao-comboio.jpg
+- src: Capa_LencosPretos.jpeg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -49,19 +49,24 @@ options:
   unlisted: false
 showtime: true
 eventDate: 2023-04-14T18:30:00Z
-copyright: Maria Lamas
+copyright: 
 weight: 
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
   local: 
 ---
+<div class="image fit">
+  <figure><img src="unpoqs-tres-fotografias-porto-estacao-comboio.jpg" alt="" class=""></figure>
+  <figcaption>© Maria Lamas</figcaption>
+</div>
 
 
 <div class="image right">
   <figure><img src="SUSANAMOREIRAMARQUES_Fondation%20Jan%20Michalski%20©%20Wiktoria%20Bosc.jpeg" alt="" class=""></figure>
   <figcaption>© Fondation Jan Michalski © Wiktoria Bosc</figcaption>
 </div>
+
 
 **Susana Moreira Marques** é autora dos livros de não-ficção literária *Agora e na hora da nossa morte* (traduzido para inglês, francês e espanhol) e *Quanto tempo tem um dia.* O seu trabalho tem sido publicado em revistas como *Granta*, *Tin House* e *Literary Hub*, e em meios de comunicação como *Público*, Antena 1, *Jornal de Negócios*, BBC World Service e *Mensagem*. Também escreve para televisão e cinema, mais recentemente para o documentário *Um nome para o que sou* (2022), de Marta Pessoa. Vive em Lisboa com as duas filhas.
 
