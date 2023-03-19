@@ -55,7 +55,4 @@ Texto escrito de acordo com a antiga ortografia
 
 A escrita deste site obedece à antiga ortografia.
 
- 
-
-
 <style>#main > div > div > header > h1{display: none;}</style>
