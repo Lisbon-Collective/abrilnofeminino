@@ -50,15 +50,20 @@ custom:
   local: 
 ---
 
-**Em viagem, descubro o Portugal Gastronómico** A sociologia ensinou-me que era possível descobrir o mundo através da minha janela. Aprendi a olhar os outros pelo que eles me diziam e não pelo que eu pensava. Pelas viagens descobri um Portugal Gastronómico pleno de pronúncias alimentares onde a mesa tem as marcas da geografia e é ponto de chegada de uma história da fome e da abundância. Fascinada pelas diferenças das cozinhas regionais, quero ir ao encontro das singularidades que constroem linhas invisíveis que atravessam o território do nosso Portugal.
+**Em viagem, descubro o Portugal Gastronómico**    
+A sociologia ensinou-me que era possível descobrir o mundo através da minha janela. Aprendi a olhar os outros pelo que eles me diziam e não pelo que eu pensava. Pelas viagens descobri um Portugal Gastronómico pleno de pronúncias alimentares onde a mesa tem as marcas da geografia e é ponto de chegada de uma história da fome e da abundância. Fascinada pelas diferenças das cozinhas regionais, quero ir ao encontro das singularidades que constroem linhas invisíveis que atravessam o território do nosso Portugal.
 
-**As Mãos por detrás das receitas** Ouvir as pessoas dá-nos o entendimento perfeito sobre a forma como as comunidades organizavam o seu calendário alimentar. Da geografia à cultura, a alimentação sustém-se de práticas agrícolas e de transformação onde o sabor sempre foi o mote para a transformação dos produtos. A criatividade e a inovação na cozinha apresentam-se como momentos naturais na longa aventura alimentar das comunidades. Investigar dá-nos as respostas e ajuda-nos a preparar o futuro.   
+**As Mãos por detrás das receitas**    
+Ouvir as pessoas dá-nos o entendimento perfeito sobre a forma como as comunidades organizavam o seu calendário alimentar. Da geografia à cultura, a alimentação sustém-se de práticas agrícolas e de transformação onde o sabor sempre foi o mote para a transformação dos produtos. A criatividade e a inovação na cozinha apresentam-se como momentos naturais na longa aventura alimentar das comunidades. Investigar dá-nos as respostas e ajuda-nos a preparar o futuro.   
 
-**Adoro dar aulas** Formadora em várias escolas de Hotelaria e Turismo descubro o prazer de contar as histórias entrelaçadas da cozinha portuguesa. Da geografia à história, a gastronomia como uma paixão a partir de uma sala de aula.
+**Adoro dar aulas**    
+Formadora em várias escolas de Hotelaria e Turismo descubro o prazer de contar as histórias entrelaçadas da cozinha portuguesa. Da geografia à história, a gastronomia como uma paixão a partir de uma sala de aula.
 
-**Em Tentúgal, tenho o meu chão** A doçaria de Tentúgal acompanha-me desde que nasci é o berço do meu sabor. Por isso, preservo a sua história como uma marca de família e da comunidade a que pertenço.
+**Em Tentúgal, tenho o meu chão**    
+A doçaria de Tentúgal acompanha-me desde que nasci é o berço do meu sabor. Por isso, preservo a sua história como uma marca de família e da comunidade a que pertenço.
 
-**Viver #semanualdeinstruções** Viver na liberdade da expectativa, no entusiasmo da descoberta, no seguir o rio curva após curva, no pôr-de-sol que se esconde para além do planalto. Viver segundo a emoção. Viver #semanualdeinstruções.
+**Viver #semanualdeinstruções**   
+Viver na liberdade da expectativa, no entusiasmo da descoberta, no seguir o rio curva após curva, no pôr-de-sol que se esconde para além do planalto. Viver segundo a emoção. Viver #semanualdeinstruções.
 
 <div class="image right">
   <figure><img src="olga%20cebola.jpeg" alt="" class=""></figure>

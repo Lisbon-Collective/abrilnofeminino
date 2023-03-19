@@ -63,12 +63,25 @@ Uma escritora olha para outra escritora. Uma mulher e outra mulher. Mais de sete
 
 O que este documentário propõe então, enquanto gesto fílmico, é um diálogo, um jogo de olhares. Há o olhar de Maria Lamas sobre as mulheres, o olhar da escritora sobre Maria Lamas e o livro, e o olhar da realizadora (do filme) que se envolve e simultaneamente observa todo este processo. Há as imagens e as palavras, de antes e de hoje.
 
+**FICHA TÉCNICA**
+
+Título Português: Um nome para o que sou    
+Título Inglês: A name for what I am    
+2022, Portugal, Doc, Cor, 116’    
+Realização e Imagem: Marta Pessoa    
+Texto e Narração: Susana Moreira Marques    
+Som e Montagem: Rita Palma    
+Montagem de som e misturas: Miguel Lima    
+Correcção de cor: Aurélio Vasques    
+Produtores: Rita Palma, Marta Pessoa e João Pinto Nogueira    
+Produção: Três Vinténs    
+
+
+
 <div class="image right">
   <figure><img src="unpoqs-marta-camara.jpg" alt="" class=""></figure>
   <figcaption></figcaption>
 </div>
-
-
 
 
 **Marta Pessoa** (n.1974) é licenciada em Cinema (ESTC/IPL) e tem o Mestrado em Ciências da Comunicação (FCSH/UN). Realizou, entre outros filmes, as curtas-metragens Dia de Feira (2004), Alguém Olhará Por Ti (2005), Manual do Sentimento Doméstico (2007), Bolor Negro (2015), os documentários Lisboa Domiciliária (2009), Quem Vai à Guerra (2011) e O Medo à Espreita (2015) e a longa-metragem de ficção Donzela Guerreira (2020).
@@ -84,19 +97,6 @@ O que este documentário propõe então, enquanto gesto fílmico, é um diálogo
 </div>
 
 (n. 1976) É autora dos livros de não-ficção literária *Agora e na hora da nossa morte* (traduzido para inglês, francês e espanhol) e *Quanto tempo tem um dia.* O seu trabalho tem sido publicado em revistas como *Granta*, *Tin House* e *Literary Hub*, e em meios de comunicação como *Público*, Antena 1, *Jornal de Negócios*, BBC World Service e *Mensagem*. Também escreve para televisão e cinema, mais recentemente para o documentário *Um nome para o que sou* (2022), de Marta Pessoa. Vive em Lisboa com as duas filhas.
-
-**FICHA TÉCNICA**
-
-Título Português: Um nome para o que sou    
-Título Inglês: A name for what i am    
-2022, Portugal, Doc, Cor, 116’    
-Realização E Imagem: Marta Pessoa    
-Texto E Narração: Susana Moreira Marques    
-Som E Montagem: Rita Palma    
-Montagem De Som E Misturas: Miguel Lima    
-Correcção De Cor: Aurélio Vasques    
-Produtores: Rita Palma, Marta Pessoa E João Pinto Nogueira    
-Produção: Três Vinténs    
 
 https://vimeo.com/699518059
 

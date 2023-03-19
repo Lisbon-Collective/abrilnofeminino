@@ -47,14 +47,20 @@ custom:
 ---
 Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de serem privadas da sua liberdade. Mulheres que eram avós, mães, filhas, esposas, namoradas, amantes, companheiras, camaradas. Mulheres que não são figuras históricas dentro de um livro empoeirado, mas que existiram realmente, algumas que ainda se cruzam connosco na rua e guardam duras memórias no coração.
 
+
+
+*Coragem Hoje, Abraços Amanhã* é um testemunho composto a partir de entrevistas realizadas em discurso direto, que expõe o lado pessoal de vivências desumanas experienciadas por essas mulheres. Para que a memória permaneça.
+
+<div style="clear: both;"></div>
+
 <div class="image right">
   <figure><img src="Joana%20Brandao_Foto%20espectáculo.jpg" alt="" class=""></figure>
   <figcaption>© Rui Palha</figcaption>
 </div>
 
-*Coragem Hoje, Abraços Amanhã* é um testemunho composto a partir de entrevistas realizadas em discurso direto, que expõe o lado pessoal de vivências desumanas experienciadas por essas mulheres. Para que a memória permaneça.
-
 **Direcção artística, dramaturgia, encenação e interpretação: Joana Brandão; Assistência de encenação: Elsa Galvão e Maria João Abreu; Consultoria: Irene Pimentel; Desenho de Luz: Paulo Santos; Iluminação: João Lopes; Sonoplastia: João Bucho; Cenografia: Joana Brandão; Figurino: Maria Gonzaga; Apoio: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).**
+
+<div style="clear: both;"></div>
 
 **Joana Brandão**
 
