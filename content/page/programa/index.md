@@ -33,7 +33,7 @@ custom:
   local: 
 ---
 
-<div class="image fit"><img src="images/ANF2021header.jpg" alt=""></div>
+<div class="image fit"><img src="images/v1.0_Calendario_ANF2023.jpg" alt=""></div>
 
 2023 assinala a 3ª edição de “Abril no Feminino”. Em Coimbra, de 5 a 27 de Abril, vamos poder acompanhar, em espaços museológicos, equipamentos culturais e património histórico da cidade, uma programação plural e inclusiva focada essencialmente nas mulheres. Teatro, Cinema, Arte, Literatura, Poesia, Fotografia e Gastronomia preenchem as sessões propostas, em formatos diversos. 
 
