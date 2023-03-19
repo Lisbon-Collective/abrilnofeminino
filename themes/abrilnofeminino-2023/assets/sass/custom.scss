@@ -67,3 +67,10 @@ div.image.main > #headercopyright {
 	text-decoration: underline;
 	// color: #FF0000;
 }
+// Buttons
+
+a.button.border{
+	border:2px solid;
+	border-radius: 3px;
+	border-color: _palette(fg-bold);
+}
