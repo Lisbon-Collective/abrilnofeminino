@@ -49,21 +49,26 @@ custom:
   data: 2019-04-02T17:35:00Z
   local: 
 ---
-
-
 Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de serem privadas da sua liberdade. Mulheres que eram avós, mães, filhas, esposas, namoradas, amantes, companheiras, camaradas. Mulheres que não são figuras históricas dentro de um livro empoeirado, mas que existiram realmente, algumas que ainda se cruzam connosco na rua e guardam duras memórias no coração.
+
+<div class="image right">
+  <figure><img src="Joana%20Brandao_Foto%20espectáculo.jpg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
 
 *Coragem Hoje, Abraços Amanhã* é um testemunho composto a partir de entrevistas realizadas em discurso direto, que expõe o lado pessoal de vivências desumanas experienciadas por essas mulheres. Para que a memória permaneça.
 
 **Direcção artística, dramaturgia, encenação e interpretação: Joana Brandão; Assistência de encenação: Elsa Galvão e Maria João Abreu; Consultoria: Irene Pimentel; Desenho de Luz: Paulo Santos; Iluminação: João Lopes; Sonoplastia: João Bucho; Cenografia: Joana Brandão; Figurino: Maria Gonzaga; Apoio: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).**
 
+## Joana Brandão
 
 <div class="image right">
   <figure><img src="Foto%20actual%20Joana%20Brandão.png" alt="" class=""></figure>
   <figcaption></figcaption>
 </div>
 
-**Joana Brandão**, actriz e encenadora de formação, tem trabalhado com encenadores como Bruno Bravo, Carlos Pimenta, Fernando Gomes, João Mota, João Brites, João Lourenço, José Peixoto, José Martins, Rui Mendes, Solveig Nordlund, Helena Pimenta, Maria de La Ribot, Álvaro Correia, Jean- Paul Buccieri, Pedro Alvarez-Ossorio, entre outros.
+
+Actriz e encenadora de formação, tem trabalhado com encenadores como Bruno Bravo, Carlos Pimenta, Fernando Gomes, João Mota, João Brites, João Lourenço, José Peixoto, José Martins, Rui Mendes, Solveig Nordlund, Helena Pimenta, Maria de La Ribot, Álvaro Correia, Jean- Paul Buccieri, Pedro Alvarez-Ossorio, entre outros.
 
 Recebeu o Prémio Autores (2016) de “Melhor Actriz”, na categoria “Teatro”, atribuído pela Sociedade Portuguesa de Autores (SPA), pelo espectáculo “Constelações” de Nick Payne, encenação de João Lourenço, Teatro Aberto.
 
