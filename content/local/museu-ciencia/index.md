@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug: 
-subtitle: 
+subtitle: Largo Marquês de Pombal
 
 tags:
   -

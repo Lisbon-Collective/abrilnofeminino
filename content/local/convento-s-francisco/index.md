@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug: 
-subtitle: 
+subtitle: Av. da Guarda Inglesa nro 1A
 
 tags:
   -
