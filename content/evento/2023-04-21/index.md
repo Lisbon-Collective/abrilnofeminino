@@ -53,10 +53,6 @@ custom:
   local: 
 ---
 
-<div class="image right">
-  <figure><img src="INSTALAÇÃO%201.jpg" alt="" class=""></figure>
-  <figcaption></figcaption>
-</div>
 
 
 _"Os pretendentes insistem nas bodas, mas eu ato um fio/ de mentiras. (...) trabalhava de dia ao grande tear,/ mas desfazia a trama de noite à luz das tochas"._
@@ -78,21 +74,32 @@ Durante janeiro e fevereiro de 2021, este projeto fez nascer uma comunidade feit
 ### Ficha técnica    
 Coordenação geral do projeto Manuela Costa Ribeiro
 
-INSTALAÇÃO    
-© BAIRRO DOS LIVROS
+<div class="image right">
+  <figure><img src="INSTALAÇÃO%201.jpg" alt="" class=""></figure>
+  <figcaption>© BAIRRO DOS LIVROS</figcaption>
+</div>
 
-**Direção artística**: Catarina Rocha e Minês Castanheira Produção: Isabel Costa e Susana Oliveira
+**Direção artística**: Catarina Rocha e Minês Castanheira
+
+**Produção**: Isabel Costa e Susana OliveiraFotografia e **Vídeo**: Carlos Oliveira Camisola Poveira 
+
+**Curadoria dos símbolos**: Raquel Patriarca
+
+**Composição e desenho**: ©Bairro dos Livros
+
+**Coordenação da produção**: Carmen Flores e Deolinda Carneiro
+
+**Direção artística**: Catarina Rocha e Minês Castanheira 
+
+**Produção**: Isabel Costa e Susana Oliveira
 
 **Fotografia e Vídeo**: Carlos Oliveira
 
 
-<div class="image fit">
+<div class="image right">
   <figure><img src="montagem_6.jpg" alt="" class=""></figure>
   <figcaption>Camisola Poveira</figcaption>
 </div>
-
-
-Curadoria dos símbolos: Raquel Patriarca Composição e desenho: ©Bairro dos Livros Coordenação da produção: Carmen Flores e Deolinda Carneiro
 
 **Artesãs:** 
 

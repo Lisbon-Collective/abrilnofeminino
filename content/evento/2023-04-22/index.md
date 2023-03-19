@@ -48,8 +48,10 @@ custom:
   local: 
 ---
 
-
-Site foto 2 Natália Correia créditos José António Correia
+<div class="image right">
+  <figure><img src="Natália%202.jpg" alt="helena e mité" class=""></figure>
+  <figcaption>Natália Correia créditos José António Correia</figcaption>
+</div>
 
 Através, sobretudo, da poesia de Natália, das suas palavras, apropriando-nos, quiçá, da sua voz, faremos uma incursão por espaços temáticos do seu interesse e da sua vida. Como ela se vê, como encara a *língua mater*, a natureza, a condição humana, a militância política, a dor, a alegria, o amor, o humor, a vida e a morte. A fúria com que ela encara o touro da vida!
 
@@ -71,8 +73,6 @@ Com este espectáculo procuramos aceder a uma paisagem chamada Natália. Abrir a
 Dedicou parte da sua carreira à mediação e promoção do livro e da leitura, principalmente através da narração oral, tendo participado em Festivais internacionais em Portugal, Espanha, Brasil e Argentina. 
 
 Nos últimos anos tem integrado equipas de serviços educativos em estruturas de mediação de cultura científica e patrimonial.
-
-
 
 **Teresa Faria** é profissional das artes do espectáculo desde 1983. Actriz, dramaturga, professora de Teatro e encenadora. Mestre em Artes Cénicas pela FCSH da UN, diplomada em Estudos de Teatro pela FLUL, formadora creditada pela Universidade do Minho e investigadora do CET da FLUL. Formação artística na Fundação Calouste Gulbenkian, com Marcia Haufrecht, Sygmont Molik, Polina Klimoviskaia, H. Sonenkler, Eugenio Barba, Ferrucio Solleri, entre outros.
 

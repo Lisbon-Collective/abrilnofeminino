@@ -42,7 +42,7 @@ options:
 scripts:
   -
 weight: 
-copyright: Marta Pessoa
+copyright: Crédito Marta Pessoa
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
@@ -80,8 +80,6 @@ Foto Marta Pessoa
 
 (n. 1976) É autora dos livros de não-ficção literária *Agora e na hora da nossa morte* (traduzido para inglês, francês e espanhol) e *Quanto tempo tem um dia.* O seu trabalho tem sido publicado em revistas como *Granta*, *Tin House* e *Literary Hub*, e em meios de comunicação como *Público*, Antena 1, *Jornal de Negócios*, BBC World Service e *Mensagem*. Também escreve para televisão e cinema, mais recentemente para o documentário *Um nome para o que sou* (2022), de Marta Pessoa. Vive em Lisboa com as duas filhas.
 
-
-
 **FICHA TÉCNICA**
 
 TÍTULO PORTUGUÊS: UM NOME PARA O QUE SOU    
@@ -108,7 +106,7 @@ https://www.facebook.com/tresvintens | https://www.instagram.com/tresvintens
 </div>
 
 "Comprei uma máquina fotográfica muito rudimentar. Tinha a minha máquina de escrever. Passei dois anos a viajar. O meu sistema de trabalho era este: tinha um mapa de Portugal dividido por regiões. Comecei pelo Norte. Partia, estava duas, três semanas, o que era preciso. Andei de comboio, de camionete, de carro de bois, de burro, a pé... Eu recolhia os elementos e vinha a Lisboa. Descansava da viagem, que aquilo era muito violento! Estava em Lisboa o tempo indispensável para escrever, coligir, todos os apontamentos que eu trazia. E partia imediatamente. E assim foi de Norte a Sul. (...) Foram os dois anos mais ricos, interiormente, da minha vida. E as minhas forças parecia que eram inesgotáveis. Eu era mais nova, muito nova ainda... Relativamente, tinha mais de 50 anos, mas também foram dois anos que marcaram a minha vida."    
- **Maria Lamas em entrevista radiofónica, 1975**
+**Maria Lamas em entrevista radiofónica, 1975**
 
 Ao lançar-se na escrita de “As Mulheres do Meu País”, Maria Lamas queria dar a conhecer a verdadeira situação das mulheres em Portugal. O livro é um gesto político.
 

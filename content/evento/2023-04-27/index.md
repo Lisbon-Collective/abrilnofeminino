@@ -53,7 +53,7 @@ Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de
 
 <div class="image right">
   <figure><img src="Joana%20Brandao_Foto%20espectáculo.jpg" alt="" class=""></figure>
-  <figcaption></figcaption>
+  <figcaption>Créditos Rui Palha</figcaption>
 </div>
 
 *Coragem Hoje, Abraços Amanhã* é um testemunho composto a partir de entrevistas realizadas em discurso direto, que expõe o lado pessoal de vivências desumanas experienciadas por essas mulheres. Para que a memória permaneça.
@@ -64,7 +64,7 @@ Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de
 
 <div class="image right">
   <figure><img src="Foto%20actual%20Joana%20Brandão.png" alt="" class=""></figure>
-  <figcaption></figcaption>
+  <figcaption>Créditos Joana Correia</figcaption>
 </div>
 
 
