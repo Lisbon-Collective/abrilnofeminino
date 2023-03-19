@@ -42,6 +42,7 @@ options:
   showHeader: true
   unlisted: false
 
+centerimage: true
 weight: 20190402
 eventdate: 2023-04-05T18:00:00Z
 copyright: © Bárbara Marques

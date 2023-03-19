@@ -40,8 +40,7 @@ Evocaremos **Maria Lamas**, figura cimeira do activismo político, autora de “
 
 Sem financiamento público, “Abril no Feminino” acontece graças aos nossos mecenas, apoiantes empresariais, parceiros media e de acolhimento. A todos eles o nosso comovido agradecimento. Mas também um especial obrigada aos nossos convidados que, com o seu entusiasmo e cumplicidade, tornaram possível a presente edição.
 
-O tempo de hoje, para muitas mulheres, neste violento e conturbado mundo, é ainda de “reclusão em céu aberto”. Conhecidas e anónimas fizeram a diferença e foram determinantes para a mudança, como lembra a presente edição. Mas há muito ainda a fazer. Não deixemos o futuro de lado.
-
+O tempo de hoje, para muitas mulheres, neste violento e conturbado mundo, é ainda de “reclusão em céu aberto”. Conhecidas e anónimas fizeram a diferença e foram determinantes para a mudança, como lembra a presente edição. Mas há muito ainda a fazer. Não deixemos o futuro de lado.   
 **“Se deixarmos de olhar para o futuro com olhos de quem acredita que é possível melhorá-lo, estamos completamente tramados”.** *Onésio Teotónio Almeida*
 
 
@@ -49,9 +48,7 @@ ABRIL NO FEMININO É UM PROJECTO CULTURAL DA AUTORIA DE MARGARIDA MENDES SILVA, 
 
 TODA A PROGRAMAÇÃO EM [WWW.ABRILNOFEMININO.PT](http://WWW.ABRILNOFEMININO.PT) 
 
-Texto escrito de acordo com a antiga ortografia
-
-A escrita deste site obedece à antiga ortografia.
+<small style="font-size:14px;">Texto escrito de acordo com a antiga ortografia</small>
 
 <div class="image fit"><img src="images/v1.0_Calendario_ANF2023.jpg" alt=""></div>
 

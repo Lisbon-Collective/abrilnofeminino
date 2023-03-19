@@ -38,32 +38,28 @@ custom:
 <div class="row">
 <div class="col-4">
 <ul>
-  <li>Câmara Municipal da Póvoa do Varzim a enviar</li>
-  <li>Vila Galé ?</li>
-  <li>Sodicentro?</li>
+<li>Museu Nacional de Machado de Castro</li>
+<li>Seminário Maior de Coimbra</li>
+<li>Convento de São Francisco</li>
 </ul>
 </div>
-
 <div class="col-4">
 <ul>
-  <li>Sapientia</li>
-  <li>Arte&amp;Flor</li>
-  <li>O Palco? a enviar</li>
+<li><a href="https://fundacaolacaixa.pt/pt/">BPI | Fundação La Caixa</a></li>
+<li><a href="https://www.vilagale.com">Hotel Vila Galé</a></li>
+
+<li>Sapientia Boutique Hotel</li>
+<li>O Palco</li> 
+<li>O Fangas</li>
+<li>ZONAPRO</li>
+<li>Arte &amp; Flor</li>
 </ul>
 </div>
-</div>
-
-
-<div class="row">
-  <div class="col-12">
-<strong>Agradecimentos</strong>
+<div class="col-4">
 <ul>
-<li>Filipe Pereira Duarte A Escola da Noite</li>
-<li>Biblioteca Municipal de Coimbra</li>
-<li>Biblioteca Municipal de Sintra</li>
-<li>Produtora Três Vinténs</li>
+<li>Antena 1</li>
 
+<li>Diário de Coimbra</li>
 </ul>
 </div>
 </div>
-
