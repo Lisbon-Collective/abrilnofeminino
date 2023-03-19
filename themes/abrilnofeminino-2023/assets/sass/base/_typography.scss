@@ -292,7 +292,8 @@
 				color: _palette($p, fg-bold);
 			}
 			@else {
-				color: _palette(accent1);
+				color: _palette(fg-bold);
+				text-decoration: underline;
 			}
 
 			&:hover {

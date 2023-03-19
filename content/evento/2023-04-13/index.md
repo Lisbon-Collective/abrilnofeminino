@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona Foto B.jpg
+- src: Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona Foto A.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -33,7 +33,7 @@ paragraph: >-
 
   **Entrada livre sujeita à lotação da sala**    
 
-  **Inscrição prévia para [se@mnmc.dgpc.pt](mailto:se@mnmc.dgpc.pt) 239 853 070**
+  **Inscrição prévia para [se@mnmc.dgpc.pt](mailto:se@mnmc.dgpc.pt), ou pelo telefone 239 853 070**
 
 imagealign: left
 italic: SERVIÇO EDUCATIVO/PALESTRA
@@ -56,7 +56,7 @@ Num jogo que, ora ilude a realidade, ora explicita a aparência dos objectos ou 
 Considerado um género menor pela academia de pintura do séc. XVII – curiosamente na mesma época em que alcança o seu maior esplendor –, a natureza-morta atingiu, por vezes, uma dimensão complexa e multifacetada. Este género de pintura aborda temas muito diversificados, elegendo objectos produzidos pelo engenho humano, combinados ou não com modelos inanimados do mundo animal, mineral e vegetal – destacando-se deste último grupo os motivos que reproduzem flores, frutos e produtos hortícolas. 
 
 <div class="image right">
-  <figure><img src="Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona Foto A.jpg" alt="" class=""></figure>
+  <figure><img src="Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona Foto B.jpg" alt="" class=""></figure>
   <figcaption>Foto Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona</figcaption>
 </div>
 

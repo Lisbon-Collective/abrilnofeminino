@@ -71,9 +71,14 @@ Foto Marta Pessoa
 
 
 
-Foto Susana Moreira Marques
+## Susana Moreira Marques
 
-**Susana Moreira Marques** (n. 1976) é autora dos livros de não-ficção literária *Agora e na hora da nossa morte* (traduzido para inglês, francês e espanhol) e *Quanto tempo tem um dia.* O seu trabalho tem sido publicado em revistas como *Granta*, *Tin House* e *Literary Hub*, e em meios de comunicação como *Público*, Antena 1, *Jornal de Negócios*, BBC World Service e *Mensagem*. Também escreve para televisão e cinema, mais recentemente para o documentário *Um nome para o que sou* (2022), de Marta Pessoa. Vive em Lisboa com as duas filhas.
+<div class="image right">
+  <figure><img src="SUSANAMOREIRAMARQUES_Fondation%20Jan%20Michalski%20©%20Wiktoria%20Bosc.jpeg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
+
+(n. 1976) É autora dos livros de não-ficção literária *Agora e na hora da nossa morte* (traduzido para inglês, francês e espanhol) e *Quanto tempo tem um dia.* O seu trabalho tem sido publicado em revistas como *Granta*, *Tin House* e *Literary Hub*, e em meios de comunicação como *Público*, Antena 1, *Jornal de Negócios*, BBC World Service e *Mensagem*. Também escreve para televisão e cinema, mais recentemente para o documentário *Um nome para o que sou* (2022), de Marta Pessoa. Vive em Lisboa com as duas filhas.
 
 
 
