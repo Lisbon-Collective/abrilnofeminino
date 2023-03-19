@@ -63,3 +63,15 @@ custom:
 </ul>
 </div>
 </div>
+
+<div class="row">
+  <div class="col-12">
+<strong>Agradecimentos</strong>
+  <ul>
+    <li>Filipe Pereira Duarte A Escola da Noite</li>
+    <li>Biblioteca Municipal de Coimbra</li>
+    <li>Biblioteca Municipal de Sintra</li>
+    <li>Produtora Três Vinténs</li>
+  </ul>
+  </div>
+</div>
