@@ -33,7 +33,7 @@ custom:
   local: 
 ---
 
-<img src="/apoios/apoios-2023.png" alt="" class="apoios">
+<img src="/images/ReguasLogosANF2023_Rosa.jpg" alt="" class="apoios">
 
 <div class="row">
 <div class="col-4">
@@ -75,3 +75,8 @@ custom:
   </ul>
   </div>
 </div>
+
+
+<style>
+#footer > div > div.inner > div > img{display:none;}
+</style>
