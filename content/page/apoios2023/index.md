@@ -33,38 +33,27 @@ custom:
   local: 
 ---
 
-<img src="/apoios/apoios-2021-SemCMC.png" alt="" class="apoios">
+<img src="/apoios/apoios-2023.png" alt="" class="apoios">
 
 <div class="row">
-    <div class="col-4">
-      <ul>
-      <li>Museu Nacional de Machado de Castro</li>
-      <li>Seminário Maior de Coimbra</li>
-      <li>Hotel Quinta das Lágrimas</li>
-      </ul> 
-    </div>
-    
-  <div class="col-4">
-    <ul>
-      <li><a href="https://fundacaolacaixa.pt/pt/">BPI | Fundação La Caixa</a></li>
-      <li><a href="https://www.vilagale.com">Hotel Vila Galé</a></li>
-      <li>Sodicentro</li>
-      <li>Sapientia Boutique Hotel</li>
-      <li>Dux Bistrot</li> 
-      <li>ZONAPRO</li>
-      <li>Arte & Flor</li> 
-    </ul>
-  </div>
-    
-  <div class="col-4">
-    <ul>
-    <li>Antena 1</li>
-    <li>Diário As Beiras</li>
-    <li>Diário de Coimbra</li>
-    </ul>
-  </div>
+<div class="col-4">
+<ul>
+  <li>Câmara Municipal da Póvoa do Varzim a enviar</li>
+  <li>Vila Galé ?</li>
+  <li>Sodicentro?</li>
+</ul>
 </div>
-  
+
+<div class="col-4">
+<ul>
+  <li>Sapientia</li>
+  <li>Arte&amp;Flor</li>
+  <li>O Palco? a enviar</li>
+</ul>
+</div>
+</div>
+
+
 <div class="row">
   <div class="col-12">
     <h2><strong>Agradecimentos</strong></h2>
