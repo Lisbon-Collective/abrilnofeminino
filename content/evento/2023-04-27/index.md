@@ -38,7 +38,7 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2023-04-27T18:00:00Z
+eventDate: 2023-04-27T19:00:00Z
 showTime: true
 custom:
   copyright:

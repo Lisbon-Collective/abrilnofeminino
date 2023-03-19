@@ -33,14 +33,16 @@ custom:
   local: 
 ---
 
+**Informações e Contactos**    
 
-<https://www.abrilnofeminino.pt>
+[AbrilNoFeminino](https://abrilnofeminino.pt)
 
-abrilnofeminino@gmail.com
+<abrilnofeminino@gmail.com>
 
-91 843 11 55 / 96 261 00 50
+**Imprensa** 93 910 31 67
 
-[facebook.com/abrilnofeminino](http://facebook.com/abrilnofeminino)
+**Geral** 91 843 11 55 / 96 261 00 50
 
-Instagram [@abrilnofeminino](https://www.instagram.com/abrilnofeminino/)
+<https://facebook.com/abrilnofeminino>
 
+<https://instagram.com/abrilnofeminino>

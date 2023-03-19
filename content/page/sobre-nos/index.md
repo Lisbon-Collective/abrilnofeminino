@@ -6,15 +6,8 @@ layout: post
 type: post
 ---
 
-
-
 **Projecto da autoria de Margarida Mendes Silva**    
 [http://www.margaridamendessilva.com](http://www.margaridamendessilva.com)
-
-
-
-**Projecto da autoria**    
-de Margarida Mendes Silva
 
 **Produção**    
 Cultura e Risco
@@ -36,17 +29,3 @@ Bruno Amaral
 
 **Assessoria de Imprensa e Digital**    
 Alexandra Ferreira
-
-**Informações e Contactos**    
-
-[AbrilNoFeminino](https://abrilnofeminino.pt)
-
-<abrilnofeminino@gmail.com>
-
-**Imprensa** 93 910 31 67
-
-**Geral** 91 843 11 55 / 96 261 00 50
-
-<https://facebook.com/abrilnofeminino>
-
-<https://instagram.com/abrilnofeminino>

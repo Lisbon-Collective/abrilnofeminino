@@ -33,7 +33,6 @@ custom:
   local: 
 ---
 
-<div class="image fit"><img src="images/v1.0_Calendario_ANF2023.jpg" alt=""></div>
 
 2023 assinala a 3ª edição de “Abril no Feminino”. Em Coimbra, de 5 a 27 de Abril, vamos poder acompanhar, em espaços museológicos, equipamentos culturais e património histórico da cidade, uma programação plural e inclusiva focada essencialmente nas mulheres. Teatro, Cinema, Arte, Literatura, Poesia, Fotografia e Gastronomia preenchem as sessões propostas, em formatos diversos. 
 
@@ -46,13 +45,14 @@ O tempo de hoje, para muitas mulheres, neste violento e conturbado mundo, é ain
 **“Se deixarmos de olhar para o futuro com olhos de quem acredita que é possível melhorá-lo, estamos completamente tramados”.** *Onésio Teotónio Almeida*
 
 
-
-ABRIL NO FEMININO É UM PROJECTO CULTURAL DA AUTORIA DE MARGARIDA MENDES SILVA, PRODUZIDO PELA CULTURA E RISCO ASSOCIAÇÃO CULTURAL.
+ABRIL NO FEMININO É UM PROJECTO CULTURAL DA AUTORIA DE MARGARIDA MENDES SILVA, PRODUZIDO PELA CULTURA E RISCO ASSOCIAÇÃO CULTURAL
 
 TODA A PROGRAMAÇÃO EM [WWW.ABRILNOFEMININO.PT](http://WWW.ABRILNOFEMININO.PT) 
 
 Texto escrito de acordo com a antiga ortografia
 
 A escrita deste site obedece à antiga ortografia.
+
+<div class="image fit"><img src="images/v1.0_Calendario_ANF2023.jpg" alt=""></div>
 
 <style>#main > div > div > header > h1{display: none;}</style>
