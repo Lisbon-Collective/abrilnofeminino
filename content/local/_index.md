@@ -13,7 +13,7 @@ options:
 <div class="row">
     <div class="col-12">
         <div class="image fit">
-            <figure><img src="https://placeholder.pics/svg/1280x200/DEDEDE/555555/para%20inserir%20o%20mapa%20dos%20locais" alt=""></figure>
+            <figure><img src="v1.1_Mapa_ANF2023.jpg" alt=""></figure>
         </div>
     </div>
 </div>

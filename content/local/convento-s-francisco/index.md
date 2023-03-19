@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Convento de São Francisco
+title: 5. Convento de São Francisco | Black box
 
 options:
   hideFooter: false
@@ -26,7 +26,7 @@ options:
   unlisted: false
 scripts:
   -
-weight: 20190402
+weight: 5
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z

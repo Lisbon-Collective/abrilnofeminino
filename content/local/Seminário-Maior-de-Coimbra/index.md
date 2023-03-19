@@ -16,8 +16,8 @@ tags:
   - 
 categories: 
   - 
-title: "4. Seminário Maior de Coimbra"
-weight: 4
+title: "2. Seminário Maior de Coimbra"
+weight: 2
 options:
   hideFooter: false
   hideSubscribeForm: false
