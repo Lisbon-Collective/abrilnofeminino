@@ -1,7 +1,7 @@
 ---
 date: 2019-02-02T00:02:38Z
 description: ""
-draft: true
+draft: false
 resources: 
 - src: Casa da Escrita I.jpg
   name: "header"

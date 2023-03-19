@@ -1,7 +1,7 @@
 ---
 date: 2019-02-02T23:33:21Z
 description: ""
-draft: false
+draft: true
 resources:
 - src: "Fachada Hotel Quinta das Lagrimas.jpg"
   name: "header"
