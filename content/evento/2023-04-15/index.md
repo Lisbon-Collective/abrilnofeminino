@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: cartaz_recortado.png
+- src: cartaz_recortado.jpeg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -20,7 +20,7 @@ ciclo:
 title: Um nome para o que sou
 copyright: ""
 paragraph: >-
-  \**no final da sessão conversa com o público na presença da realizadora e da autora do argumento*
+  \***no final da sessão conversa com o público na presença da realizadora e da autora do argumento**
 
 
 
@@ -42,7 +42,8 @@ options:
 scripts:
   -
 weight: 
-copyright: © Marta Pessoa
+copyright:
+showTime: true
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
@@ -62,7 +63,11 @@ Uma escritora olha para outra escritora. Uma mulher e outra mulher. Mais de sete
 
 O que este documentário propõe então, enquanto gesto fílmico, é um diálogo, um jogo de olhares. Há o olhar de Maria Lamas sobre as mulheres, o olhar da escritora sobre Maria Lamas e o livro, e o olhar da realizadora (do filme) que se envolve e simultaneamente observa todo este processo. Há as imagens e as palavras, de antes e de hoje.
 
-Foto Marta Pessoa
+<div class="image right">
+  <figure><img src="unpoqs-marta-camara.jpg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
+
 
 
 
@@ -71,10 +76,10 @@ Foto Marta Pessoa
 
 
 
-## Susana Moreira Marques
+**Susana Moreira Marques**
 
 <div class="image right">
-  <figure><img src="SUSANAMOREIRAMARQUES_Fondation%20Jan%20Michalski%20©%20Wiktoria%20Bosc.jpeg" alt="" class=""></figure>
+  <figure><img src="./unpoqs-susana-bnp.jpg" alt="" class=""></figure>
   <figcaption></figcaption>
 </div>
 
@@ -82,16 +87,16 @@ Foto Marta Pessoa
 
 **FICHA TÉCNICA**
 
-TÍTULO PORTUGUÊS: UM NOME PARA O QUE SOU    
-TÍTULO INGLÊS: A NAME FOR WHAT I AM    
-2022, Portugal, DOC, Cor, 116’    
-REALIZAÇÃO E IMAGEM: Marta Pessoa    
-TEXTO E NARRAÇÃO: Susana Moreira Marques    
-SOM E MONTAGEM: Rita Palma    
-MONTAGEM DE SOM E MISTURAS: Miguel Lima    
-CORRECÇÃO DE COR: Aurélio Vasques    
-PRODUTORES: Rita Palma, Marta Pessoa e João Pinto Nogueira    
-PRODUÇÃO: TRÊS VINTÉNS    
+Título Português: Um nome para o que sou    
+Título Inglês: A name for what i am    
+2022, Portugal, Doc, Cor, 116’    
+Realização E Imagem: Marta Pessoa    
+Texto E Narração: Susana Moreira Marques    
+Som E Montagem: Rita Palma    
+Montagem De Som E Misturas: Miguel Lima    
+Correcção De Cor: Aurélio Vasques    
+Produtores: Rita Palma, Marta Pessoa E João Pinto Nogueira    
+Produção: Três Vinténs    
 
 https://vimeo.com/699518059
 

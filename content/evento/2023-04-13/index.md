@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: 
+subtitle: com Pedro Miguel Ferrão
 
 tags:
   -
@@ -17,10 +17,10 @@ categorias:
   - 
 ciclo: 
 
-title: Da vida dos vegetais. Uma história da natureza-morta<br>com Pedro Miguel Ferrão
+title: Da vida dos vegetais. Uma história da natureza-morta
 copyright: ""
 paragraph: >-
-  _repete 16 de Abril, Domingo 11h00_
+  _(repete 16 de Abril, Domingo 11h00)_
 
 
   Considerado um género menor pela academia de pintura do séc. XVII – curiosamente na mesma época em que alcança o seu maior esplendor –, a natureza-morta atingiu, por vezes, uma dimensão complexa e multifacetada. Este género de pintura aborda temas muito diversificados, elegendo objetos produzidos pelo engenho humano, combinados ou não com modelos inanimados do mundo animal, mineral e vegetal – destacando-se deste último grupo os motivos que reproduzem flores, frutos e produtos hortícolas. 
@@ -29,7 +29,7 @@ paragraph: >-
   Esta comunicação foi pensada em articulação com a exposição de fotografia de Bárbara Marques.
 
 
-  **Museu Nacional de Machado de Castro**    
+  **MUSEU NACIONAL DE MACHADO DE CASTRO**    
 
   **Entrada livre sujeita à lotação da sala**    
 
@@ -51,14 +51,15 @@ custom:
   local: 
 ---
 
+<div class="image right">
+  <figure><img style="width:305px; float:right;" src="Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona Foto B.jpg" alt="" class=""></figure>
+  <figcaption style="width:305px; float:right;">Foto Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona</figcaption>
+</div>
+
+
 Num jogo que, ora ilude a realidade, ora explicita a aparência dos objectos ou que, pelo contrário, procura ocultar subtilmente o significado de símbolos e alegorias nem sempre fáceis de descodificar, a natureza-morta – cuja definição varia entre “modelo inanimado” ou “natureza imóvel” – transmite um sentido estético próprio no campo artístico, ao mesmo tempo que contribuiu como documento para a compreensão de importantes transformações na História da Humanidade.
 
 Considerado um género menor pela academia de pintura do séc. XVII – curiosamente na mesma época em que alcança o seu maior esplendor –, a natureza-morta atingiu, por vezes, uma dimensão complexa e multifacetada. Este género de pintura aborda temas muito diversificados, elegendo objectos produzidos pelo engenho humano, combinados ou não com modelos inanimados do mundo animal, mineral e vegetal – destacando-se deste último grupo os motivos que reproduzem flores, frutos e produtos hortícolas. 
-
-<div class="image right">
-  <figure><img src="Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona Foto B.jpg" alt="" class=""></figure>
-  <figcaption>Foto Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona</figcaption>
-</div>
 
 **Pedro Miguel Ferrão** nasceu em Coimbra em 1965. Concluiu a licenciatura em *História – variante de História da Arte*, pela Faculdade de Letras da Universidade de Coimbra. Foi membro do Secretariado do Núcleo Português da Exposição *Feitorias. Arte Portuguesa na Época dos Descobrimentos*, Europália/91. Entre 1991-1993 colaborou no semanário *Jornal de Coimbra*. Foi professor em escolas e cursos técnico-profissionais, leccionando cadeiras nas áreas da História da Arte, Património Cultural e Museologia. Professor convidado em 2002 do curso de História da Arte, da Universidade do Tempo Livre – *Associação Nacional de Apoio ao Idoso* (ANAI).
 

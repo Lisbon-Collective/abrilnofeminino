@@ -8,7 +8,7 @@ resources:
 - src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
-slug:
+slug: apoios
 subtitle: 
 
 tags:
@@ -56,15 +56,13 @@ custom:
 
 <div class="row">
   <div class="col-12">
-    <h2><strong>Agradecimentos</strong></h2>
+<strong>Agradecimentos</strong>
 <ul>
-  <li><strong>Agradecimentos</strong></li>
-  <li>Cláudio Cardoso (Cesto d'Alice)</li>
-  <li>Filipe Pereira Duarte (Super Local)</li>
-  <li>A Escola da Noite</li>
-  <li>Biblioteca Municipal de Coimbra</li>
-  <li>Biblioteca Municipal de Sintra</li>
-  <li>Produtora Três Vinténs</li>
+<li>Filipe Pereira Duarte A Escola da Noite</li>
+<li>Biblioteca Municipal de Coimbra</li>
+<li>Biblioteca Municipal de Sintra</li>
+<li>Produtora Três Vinténs</li>
+
 </ul>
 </div>
 </div>

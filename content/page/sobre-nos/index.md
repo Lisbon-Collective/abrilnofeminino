@@ -37,13 +37,6 @@ Bruno Amaral
 **Assessoria de Imprensa e Digital**    
 Alexandra Ferreira
 
-**Agradecimentos**    
-Filipe Pereira Duarte
-A Escola da Noite    
-Biblioteca Municipal de Coimbra    
-Biblioteca Municipal de Sintra    
-Produtora Três Vinténs
-
 **Informações e Contactos**    
 
 [AbrilNoFeminino](https://abrilnofeminino.pt)

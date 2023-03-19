@@ -20,9 +20,7 @@ ciclo:
 title: Apresentação do livro<br>Lenços pretos, chapéus de palha e brincos de ouro<br>
 
 copyright: ""
-paragraph: >-
-  **Moderação de João Gobern**
-  
+paragraph: >-  
 
   *Lenços pretos, chapéus de palha e brincos de ouro* é um livro múltiplo: 
 
@@ -36,6 +34,10 @@ paragraph: >-
   A narrativa autobiográfica de uma escritora que tenta encontrar e desvendar a sua própria história nas histórias das mulheres anónimas que povoam o nosso imaginário.
 
   Susana Moreira Marques viaja pelas aldeias ruidosas do passado e as aldeias-museu do presente; passa por hotéis modernos aonde já chegou o progresso de ter um quarto só para si; encontra mulheres que ainda vivem no silêncio de antigamente; procura registar velhas memórias e fazer perguntas que sejam úteis hoje: começa a desenhar as mulheres do país do futuro. 
+
+
+  **Moderação de João Gobern**
+
 
 
   **Seminário Maior de Coimbra**    
@@ -64,22 +66,19 @@ custom:
 </div>
 
 
-## Susana Moreira Marques
+**Susana Moreira Marques**
 
-Autora dos livros de não-ficção literária *Agora e na hora da nossa morte* (traduzido para inglês, francês e espanhol) e *Quanto tempo tem um dia.* O seu trabalho tem sido publicado em revistas como *Granta*, *Tin House* e *Literary Hub*, e em meios de comunicação como *Público*, Antena 1, *Jornal de Negócios*, BBC World Service e *Mensagem*. Também escreve para televisão e cinema, mais recentemente para o documentário *Um nome para o que sou* (2022), de Marta Pessoa. Vive em Lisboa com as duas filhas.
 
 <div class="image right">
   <figure><img src="SUSANAMOREIRAMARQUES_Fondation%20Jan%20Michalski%20©%20Wiktoria%20Bosc.jpeg" alt="" class=""></figure>
   <figcaption>© Fondation Jan Michalski © Wiktoria Bosc</figcaption>
 </div>
 
+Autora dos livros de não-ficção literária *Agora e na hora da nossa morte* (traduzido para inglês, francês e espanhol) e *Quanto tempo tem um dia.* O seu trabalho tem sido publicado em revistas como *Granta*, *Tin House* e *Literary Hub*, e em meios de comunicação como *Público*, Antena 1, *Jornal de Negócios*, BBC World Service e *Mensagem*. Também escreve para televisão e cinema, mais recentemente para o documentário *Um nome para o que sou* (2022), de Marta Pessoa. Vive em Lisboa com as duas filhas.
 
-<div class="image right">
-  <figure><img src="Capa_LencoaPretos.jpeg" alt="" class=""></figure>
-  <figcaption></figcaption>
-</div>
+<div style="clear: both;"></div>
 
-## João Gobern
+**João Gobern**
 
 <div class="image right">
   <figure><img src="João%20Gobern.jpg" alt="" class=""></figure>

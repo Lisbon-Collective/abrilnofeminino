@@ -10,16 +10,12 @@ resources:
   title: gallery-title-:counter
 slug:
 subtitle: com Joana Brandão
-
-
 tags:
   -
 categorias:
   - 
 ciclo: 
-
 title: Coragem Hoje, Abraços Amanhã
-
 copyright: ""
 paragraph: >- 
   *Coragem Hoje, Abraços Amanhã* parte de testemunhos reais, cartas e memórias de mulheres que estiveram presas pela PIDE durante o período do Estado Novo, expondo o lado pessoal de vivências desumanas experienciadas por aquelas mulheres. Para que a memória permaneça.
@@ -53,18 +49,18 @@ Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de
 
 <div class="image right">
   <figure><img src="Joana%20Brandao_Foto%20espectáculo.jpg" alt="" class=""></figure>
-  <figcaption>Créditos Rui Palha</figcaption>
+  <figcaption>© Rui Palha</figcaption>
 </div>
 
 *Coragem Hoje, Abraços Amanhã* é um testemunho composto a partir de entrevistas realizadas em discurso direto, que expõe o lado pessoal de vivências desumanas experienciadas por essas mulheres. Para que a memória permaneça.
 
 **Direcção artística, dramaturgia, encenação e interpretação: Joana Brandão; Assistência de encenação: Elsa Galvão e Maria João Abreu; Consultoria: Irene Pimentel; Desenho de Luz: Paulo Santos; Iluminação: João Lopes; Sonoplastia: João Bucho; Cenografia: Joana Brandão; Figurino: Maria Gonzaga; Apoio: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).**
 
-## Joana Brandão
+**Joana Brandão**
 
 <div class="image right">
   <figure><img src="Foto%20actual%20Joana%20Brandão.png" alt="" class=""></figure>
-  <figcaption>Créditos Joana Correia</figcaption>
+  <figcaption>© Joana Correia</figcaption>
 </div>
 
 

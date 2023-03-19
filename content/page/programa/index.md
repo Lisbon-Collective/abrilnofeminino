@@ -35,13 +35,25 @@ custom:
 
 <div class="image fit"><img src="images/ANF2021header.jpg" alt=""></div>
 
-Chega a Primavera e com ela a **2ª edição de “Abril no Feminino”** a acontecer excepcionalmente **em Maio**, neste ano de 2021, depois de um adiamento forçado em Abril de 2020. Fácil de imaginar a razão desta imperativa mudança de calendário…mas cá estamos de volta com um programa aliciante, assim é nosso desejo! De **8 a 29**, **espaços emblemáticos do património** cultural de Coimbra vão acolher diversas actividades culturais com um denominador comum: **dar voz às Mulheres**. 
+2023 assinala a 3ª edição de “Abril no Feminino”. Em Coimbra, de 5 a 27 de Abril, vamos poder acompanhar, em espaços museológicos, equipamentos culturais e património histórico da cidade, uma programação plural e inclusiva focada essencialmente nas mulheres. Teatro, Cinema, Arte, Literatura, Poesia, Fotografia e Gastronomia preenchem as sessões propostas, em formatos diversos. 
 
-**Conversas** sobre *Sophia de Mello Breyner Andresen, Agustina Bessa-Luís e Amália Rodrigues,* com a presença dos autores das biografias a elas dedicadas e recentemente editadas. **Sessões de cinema** para conhecer a filmografia da cineasta *Nadine Labaki*, realizadora libanesa com crescente notoriedade internacional. **Exposição** “Ruralidades” e as admiráveis fotografias de *Jorge Bacelar*, com foco nas mulheres do mundo rural. **Tributo** a *Maria de Lourdes Modesto* com um jantar inspirado no seu livro, “Cozinha Tradicional Portuguesa”, obra incontornável da nossa gastronomia. Música com o **recital “Women under influence**” e ainda um **passeio urbano** com histórias contadas sobre mulheres que deixaram a sua marca na cidade.
+Evocaremos **Maria Lamas**, figura cimeira do activismo político, autora de “As Mulheres do meu País”, obra que será revisitada, setenta e muitos anos depois da sua publicação, pela escritora e jornalista *Susana Moreira Marques* e pela cineasta *Marta Pessoa*. **Natália Correia**, em ano de centenário, personalidade marcante e singular na sociedade portuguesa contemporânea, será recordada no recital conduzido pelas actrizes *Helena Faria e Teresa Faria*. Daremos voz às mulheres que lutaram pela liberdade em tempos de ditadura, com *Joana Brandão,* quando completamos quase meio século sobre um inesquecível dia em que *“numa rubra fraternidade de cravos os homens saudaram a revolução”.* A instalação “As Penélopes”, pela equipa *Bairro dos Livros*, as fotografias de *Bárbara Marques*, a conversa com *Olga Cavaleiro* e a palestra de *Pedro* *Miguel* *Ferrão*, completam o programa.
 
-Aos ilustres convidados que nos farão companhia nesta edição, o nosso sincero obrigada pela sua generosidade e interesse em participar. E, *“last but not the least*”, um especial agradecimento aos nossos mecenas, apoiantes, parceiros media e de acolhimento.
+Sem financiamento público, “Abril no Feminino” acontece graças aos nossos mecenas, apoiantes empresariais, parceiros media e de acolhimento. A todos eles o nosso comovido agradecimento. Mas também um especial obrigada aos nossos convidados que, com o seu entusiasmo e cumplicidade, tornaram possível a presente edição.
 
-Junte-se a nós e venha ouvir as vozes que aqui se anunciam. Sem medo ou qualquer receio, com tranquilidade e segurança, abraçando a liberdade que finalmente começa a despertar, neste Maio, maduro Maio, esperançoso Maio.
+O tempo de hoje, para muitas mulheres, neste violento e conturbado mundo, é ainda de “reclusão em céu aberto”. Conhecidas e anónimas fizeram a diferença e foram determinantes para a mudança, como lembra a presente edição. Mas há muito ainda a fazer. Não deixemos o futuro de lado.
+
+**“Se deixarmos de olhar para o futuro com olhos de quem acredita que é possível melhorá-lo, estamos completamente tramados”.** *Onésio Teotónio Almeida*
+
+
+
+ABRIL NO FEMININO É UM PROJECTO CULTURAL DA AUTORIA DE MARGARIDA MENDES SILVA, PRODUZIDO PELA CULTURA E RISCO ASSOCIAÇÃO CULTURAL.
+
+TODA A PROGRAMAÇÃO EM [WWW.ABRILNOFEMININO.PT](http://WWW.ABRILNOFEMININO.PT) 
+
+Texto escrito de acordo com a antiga ortografia
+
+A escrita deste site obedece à antiga ortografia.
 
  
 
