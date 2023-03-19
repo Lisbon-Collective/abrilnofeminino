@@ -19,7 +19,7 @@ ciclo:
 
 title: O Conto da Couve, Fios de Luz e de Sombra
 
-copyright: "Olga Cavaleiro"
+copyright: "Crédito Olga Cavaleiro"
 paragraph: >-
   Pelas viagens que realiza, Olga Cavaleiro descobriu um Portugal Gastronómico pleno de pronúncias alimentares onde a mesa tem as marcas da geografia e é ponto de chegada de uma história da fome e da abundância. Fascinada pelas diferenças das cozinhas regionais, vai ao encontro das singularidades que constroem linhas invisíveis que atravessam o território do nosso Portugal.
 

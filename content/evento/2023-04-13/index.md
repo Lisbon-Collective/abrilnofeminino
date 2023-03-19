@@ -20,6 +20,9 @@ ciclo:
 title: Da vida dos vegetais. Uma história da natureza-morta<br>com Pedro Miguel Ferrão
 copyright: ""
 paragraph: >-
+  _repete 16 de Abril, Domingo 11h00_
+
+
   Considerado um género menor pela academia de pintura do séc. XVII – curiosamente na mesma época em que alcança o seu maior esplendor –, a natureza-morta atingiu, por vezes, uma dimensão complexa e multifacetada. Este género de pintura aborda temas muito diversificados, elegendo objetos produzidos pelo engenho humano, combinados ou não com modelos inanimados do mundo animal, mineral e vegetal – destacando-se deste último grupo os motivos que reproduzem flores, frutos e produtos hortícolas. 
 
 
@@ -41,9 +44,9 @@ options:
   unlisted: false
 eventDate: 2023-04-13T17:00:00Z
 showtime: true
-weight: 
+weight:
+copyright: Pintura Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone 
 custom:
-  copyright:
   data: 2023-04-13T17:00:00Z
   local: 
 ---

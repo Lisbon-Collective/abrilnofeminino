@@ -40,10 +40,10 @@ options:
 scripts:
   -
 weight: 
+copyright: Créditos José António Correia
 eventDate: 2023-04-22T17:00:00Z
 showTime: true
 custom:
-  copyright:
   data: 2019-04-02T17:35:00Z
   local: 
 ---

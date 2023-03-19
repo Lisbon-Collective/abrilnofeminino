@@ -21,6 +21,9 @@ title: Apresentação do livro<br>Lenços pretos, chapéus de palha e brincos
 
 copyright: ""
 paragraph: >-
+  **Moderação de João Gobern**
+  
+
   *Lenços pretos, chapéus de palha e brincos de ouro* é um livro múltiplo: 
 
 
@@ -33,7 +36,6 @@ paragraph: >-
   A narrativa autobiográfica de uma escritora que tenta encontrar e desvendar a sua própria história nas histórias das mulheres anónimas que povoam o nosso imaginário.
 
   Susana Moreira Marques viaja pelas aldeias ruidosas do passado e as aldeias-museu do presente; passa por hotéis modernos aonde já chegou o progresso de ter um quarto só para si; encontra mulheres que ainda vivem no silêncio de antigamente; procura registar velhas memórias e fazer perguntas que sejam úteis hoje: começa a desenhar as mulheres do país do futuro. 
-
 
 
   **Seminário Maior de Coimbra**    

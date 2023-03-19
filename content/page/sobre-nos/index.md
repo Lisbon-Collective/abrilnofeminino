@@ -11,30 +11,49 @@ type: post
 **Projecto da autoria de Margarida Mendes Silva**    
 [http://www.margaridamendessilva.com](http://www.margaridamendessilva.com)
 
- 
 
-**Produção**
 
+**Projecto da autoria**    
+de Margarida Mendes Silva
+
+**Produção**    
 Cultura e Risco
 
 <img src="C&R03_B.jpg" alt="" class="img-responsive">
 
-**Equipa**
-
-Cláudia do Vale
-
-José Manuel Penetra
-
-<a href="https://www.margaridamendessilva.com">Margarida Mendes Silva</a>
-
-Silvia Carballo
-
+**Equipa**    
+Cláudia do Vale    
+José Manuel Penetra    
+Margarida Mendes Silva    
 Silvina Pereira
 
-**Design Gráfico**
 
-Mariana D. Gonçalves
+**Design Gráfico**    
+Mariana Gonçalves
 
-**Site**
+**Site**    
+Bruno Amaral
 
-<a href="https://brunoamaral.eu">Bruno Amaral</a>
+**Assessoria de Imprensa e Digital**    
+Alexandra Ferreira
+
+**Agradecimentos**    
+Filipe Pereira Duarte
+A Escola da Noite    
+Biblioteca Municipal de Coimbra    
+Biblioteca Municipal de Sintra    
+Produtora Três Vinténs
+
+**Informações e Contactos**    
+
+[AbrilNoFeminino](https://abrilnofeminino.pt)
+
+<abrilnofeminino@gmail.com>
+
+**Imprensa** 93 910 31 67
+
+**Geral** 91 843 11 55 / 96 261 00 50
+
+<https://facebook.com/abrilnofeminino>
+
+<https://instagram.com/abrilnofeminino>
