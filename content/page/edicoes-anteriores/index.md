@@ -36,6 +36,6 @@ custom:
 
 
 <ul>
-<li><a href="https://2019.abrilnofeminino.pt/">2019</a></li>
-<li><a href="https://2021.abrilnofeminino.pt/">2021</a></li>
+<li><a style="color: #00675D; text-decoration: underline;" href="https://2019.abrilnofeminino.pt/">2019</a></li>
+<li><a style="color: #00675D; text-decoration: underline;" href="https://2021.abrilnofeminino.pt/">2021</a></li>
 </ul>
