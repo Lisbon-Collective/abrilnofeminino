@@ -57,7 +57,7 @@ custom:
 </div>
 <div class="col-4">
 <ul>
-<li>Antena 1</li>
+<li<a href="https://antena1.rtp.pt/">>Antena 1</a></li>
 
 <li>Diário de Coimbra</li>
 </ul>
