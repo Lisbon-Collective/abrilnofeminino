@@ -33,8 +33,12 @@ custom:
   local: 
 ---
 
+</div>
+
 <img src="/images/ReguasLogosANF2023_Rosa.jpg" alt="" class="apoios">
 
+
+<div class="col-9 col-12-small">
 <div class="row">
 <div class="col-4">
 <ul>
