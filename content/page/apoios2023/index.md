@@ -41,9 +41,9 @@ custom:
 <li><a href="https://fundacaolacaixa.pt/pt/">BPI | Fundação La Caixa</a></li>
 <li><a href="https://www.vilagale.com">Hotel Vila Galé</a></li>
 
-<li>Sapientia Boutique Hotel</li>
-<li>O Palco</li> 
-<li>O Fangas</li>
+<li><a href="https://www.sapientiahotel.com/">Sapientia Boutique Hotel</a></li>
+<li><a href="https://www.o-palco.pt/">O Palco</a></li> 
+<li><a href="https://fangas.pt/home/">O Fangas</a></li>
 </ul>
 </div>
 <div class="col-4">
