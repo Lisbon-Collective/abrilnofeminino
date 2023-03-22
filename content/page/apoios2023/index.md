@@ -43,14 +43,14 @@ custom:
 
 <li><a href="https://www.sapientiahotel.com/">Sapientia Boutique Hotel</a></li>
 <li><a href="https://www.o-palco.pt/">O Palco</a></li> 
-<li><a href="https://fangas.pt/home/">O Fangas</a></li>
+<li><a href="https://fangas.pt/home/">Fangas</a></li>
 </ul>
 </div>
 <div class="col-4">
 <ul>
 <li><a href="https://antena1.rtp.pt/">Antena 1</a></li>
 
-<li>Diário de Coimbra</li>
+<li><a href="https://www.diariocoimbra.pt/">Diário de Coimbra</a></li>
 </ul>
 </div>
 </div>
