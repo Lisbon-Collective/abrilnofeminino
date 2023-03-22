@@ -41,7 +41,7 @@ Enquanto jornalista, passou pela televisão, diários e semanários, tendo traba
 Actualmente é vice-presidente do Sindicato dos Jornalistas e aluna de Doutoramento, com tese sobre Jornalismo Literário e Neurociências, tendo sido coordenadora de um núcleo de investigação em Jornalismo e Literatura no Clepul, centro de investigação da Faculdade de Letras de Lisboa. Enquanto investigadora, publicou ensaio na área do Jornalismo e apresentou comunicações em várias instituições portuguesas e estrangeiras, entre elas a Universidade de Harvard e o King´s College, Canadá.
 
 <div class="image right">
-  <figure><img src="joaoGobern.jpg" alt=""></figure>
+  <figure><img src="João%20%20Gobern%201.webp" alt=""></figure>
 
 </div>
 
