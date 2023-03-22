@@ -81,7 +81,7 @@ Autora dos livros de não-ficção literária *Agora e na hora da nossa morte* (
 **João Gobern**
 
 <div class="image right">
-  <figure><img src="João%20Gobern.jpg" alt="" class=""></figure>
+  <figure><img src="João%20%20Gobern%201.webp" alt="" class=""></figure>
   <figcaption></figcaption>
 </div>
 
