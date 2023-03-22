@@ -66,7 +66,7 @@ custom:
 
 <div class="row">
   <div class="col-12">
-<strong>Agradecimentos</strong>
+<strong>AGRADECIMENTOS</strong>
   <ul>
   <li>Cláudio Cardoso (O cesto da Alice)</li>
    <li>Filipe Pereira Duarte (Super Local)</li>
