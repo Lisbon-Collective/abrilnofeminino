@@ -63,7 +63,7 @@ custom:
   <div class="col-12">
 <strong>AGRADECIMENTOS</strong>
   <ul>
-  <li>Cláudio Cardoso (O cesto da Alice)</li>
+  <li>Cláudio Cardoso (O cesto d'Alice)</li>
    <li>Filipe Pereira Duarte (Super Local)</li>
     <li>A Escola da Noite</li>
     <li>Biblioteca Municipal de Coimbra</li>
