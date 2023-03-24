@@ -35,8 +35,6 @@ custom:
 
 **Informações e Contactos**    
 
-[AbrilNoFeminino](https://abrilnofeminino.pt)
-
 <abrilnofeminino@gmail.com>
 
 **Imprensa** 93 910 31 67

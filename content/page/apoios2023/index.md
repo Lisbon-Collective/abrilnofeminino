@@ -63,7 +63,7 @@ custom:
   <div class="col-12">
 <strong>AGRADECIMENTOS</strong>
   <ul>
-  <li>Cláudio Cardoso (O Cesto d'Alice)</li>
+  <li>Cláudio Cardoso (Cesto d'Alice)</li>
    <li>Filipe Pereira Duarte (Super Local)</li>
    <li>Ulisses Teixeira e Ana Dias (Quinta dos Sardões)</li>
     <li>A Escola da Noite</li>
