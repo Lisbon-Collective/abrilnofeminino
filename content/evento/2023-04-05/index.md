@@ -28,8 +28,8 @@ paragraph: >-
   **MUSEU NACIONAL DE MACHADO DE CASTRO**    
 
   **18H00 INAUGURAÇÃO**\*    
-   \* 16H00 MOSTRA PRODUTOS HORTÍCOLAS    
-  E ARRANJOS FLORAIS COM VEGETAIS E FRUTOS
+   \* 16H00 MOSTRA PRODUTOS HORTÍCOLAS (Cesto d'Alice, Quinta dos Sardões e Super Local)        
+  E ARRANJOS FLORAIS COM VEGETAIS E FRUTOS (Arte&Flor)
 
 
   Até 28 de Maio    <br>
