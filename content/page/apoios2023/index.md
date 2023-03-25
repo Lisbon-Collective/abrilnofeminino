@@ -35,7 +35,7 @@ custom:
 
 </div>
 
-<img src="/images/ReguasLogosANF2023_Rosa.jpg" alt="" class="apoios">
+<img src="v2_ReguasLogosANF2023.jpg" alt="" class="apoios">
 
 
 <div class="col-9 col-12-small">

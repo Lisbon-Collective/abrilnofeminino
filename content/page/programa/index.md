@@ -51,7 +51,7 @@ TODA A PROGRAMAÇÃO EM [WWW.ABRILNOFEMININO.PT](http://www.abrilnofeminino.pt/)
 
 <small style="font-size:14px;">Texto escrito de acordo com a antiga ortografia</small>
 
-<div class="image fit"><img src="images/v1.0_Calendario_ANF2023.jpg" alt=""></div>
+<div class="image fit"><img src="images/v1.1_Calendario_ANF2023.jpg" alt=""></div>
 
 <style>#main > div > div > header > h1{display: none;}</style>
   
