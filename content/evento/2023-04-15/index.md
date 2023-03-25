@@ -20,7 +20,7 @@ ciclo:
 title: Um nome para o que sou
 copyright: ""
 paragraph: >-
-  \***no final da sessão conversa com o público na presença da realizadora e da autora do argumento**
+  \***no final da sessão conversa com o público na presença da realizadora e da autora do texto**
 
 
 
