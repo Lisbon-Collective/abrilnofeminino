@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Apresentação do livro<br>Lenços pretos, chapéus de palha e brincos de ouro<br>
+title: Lenços pretos, chapéus de palha e brincos de ouro
 
 copyright: ""
 paragraph: >-  

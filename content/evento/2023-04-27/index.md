@@ -15,7 +15,7 @@ tags:
 categorias:
   - 
 ciclo: 
-title: Coragem Hoje<br>Abraços Amanhã
+title: "&quot;Coragem Hoje<br>Abraços Amanhã&quot;"
 copyright: ""
 paragraph: >- 
   *Coragem Hoje, Abraços Amanhã* parte de testemunhos reais, cartas e memórias de mulheres que estiveram presas pela PIDE durante o período do Estado Novo, expondo o lado pessoal de vivências desumanas experienciadas por aquelas mulheres. Para que a memória permaneça.
