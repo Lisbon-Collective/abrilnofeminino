@@ -20,7 +20,9 @@ ciclo:
 title: AS PENÉLOPES
 copyright: "© Bairro dos Livros"
 paragraph: >-
-  O livro AS PENÉLOPES reúne textos literários originais de um conjunto de doze autoras desafiadas a escrever a partir da figura de Penélope e do património da comunidade piscatória da Póvoa de Varzim, para fazer uma homenagem ao Feminino. O projeto artístico colaborativo do Bairro dos Livros faz dialogar a Literatura com a arte do Bordado, numa instalação contemporânea criada com camisolas poveiras que interpretam as várias histórias publicadas nesta edição. O bordado usado na instalação AS PENÉLOPES, executado pelas tricotadeiras do Grupo de Amigos do Museu de Etnografia e História da Póvoa do Varzim, conjuga os tradicionais símbolos do padrão típico da Póvoa de Varzim com imagens retiradas dos textos originais escritos para esta obra. 
+  O projeto artístico AS PENÉLOPES nasce de uma parceria entre o Município da Póvoa de Varzim e o Bairro dos Livros, no âmbito da 22.ª edição do festival literário Correntes d’Escritas, o qual originou uma edição e uma instalação artística. O livro reúne textos literários originais de um conjunto de doze autoras desafiadas a escrever a partir da figura de Penélope e do património da comunidade piscatória da Póvoa de Varzim, para fazer uma homenagem ao Feminino. Colocando a Literatura e a arte do Bordado em diálogo, foi projetada uma instalação contemporânea criada com camisolas poveiras que interpretam as várias histórias publicadas nesta edição. O bordado usado na instalação AS PENÉLOPES, executado pelas tricotadeiras do Grupo de Amigos do Museu de Etnografia e História da Póvoa do Varzim, conjuga os tradicionais símbolos do padrão típico da Póvoa de Varzim com imagens retiradas dos textos originais escritos para esta obra.
+
+ 
 
 
   **O projeto mereceu a distinção internacional European Heritage Days, tendo sido seleccionado em 2022 como uma das vinte melhores histórias europeias**
