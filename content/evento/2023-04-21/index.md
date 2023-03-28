@@ -30,7 +30,7 @@ paragraph: >-
 
   **Museu da Ciência**    
 
-  **18h00 Inauguração seguida de conversa com as autoras do projecto e escritoras convidadas**
+  **18h00 Inauguração seguida de conversa com as autoras do projecto e escritoras convidadas: Manuela Costa Ribeiro, Raquel Patriarca,  Cláudia Lucas Chéu e Rosa Alice Branco.**
 
 
   Até 28 de Maio    
