@@ -69,6 +69,7 @@ custom:
     <li>A Escola da Noite</li>
     <li>Biblioteca Municipal de Coimbra</li>
     <li>Biblioteca Municipal de Sintra</li>
+    <li>Fundação ADFP</li>
     <li>Produtora Três Vinténs</li>
   </ul>
   </div>
