@@ -17,7 +17,7 @@ categorias:
   - 
 ciclo: 
 
-title: Lenços pretos, chapéus de palha e brincos de ouro
+title: Len&ccedil;os pretos, chap&eacute;us de palha e brincos de ouro
 
 copyright: ""
 paragraph: >-  
