@@ -40,10 +40,13 @@ O espectáculo “Coragem Hoje, Abraços Amanhã” teve a sua estreia em Coimbr
 Uma emoção profunda toma conta de nós. No final, não são só aplausos. É também um agradecimento por este notável exercício de memória, feito com sensibilidade e crença. Obrigada, Joana!
 
 <div class="grid">
-<img src="510A2999.jpg" alt="Image 1">
-<img src="510A3026.jpg" alt="Image 2">
-<img src="510A3038-2.jpg" alt="Image 3">
+<img src="images/510A2999.jpg" alt="Image 1">
+<img src="images/510A3026.jpg" alt="Image 2">
+<img src="images/510A3038-2.jpg" alt="Image 3">
 </div>
+
+© Fotografias de CMC | CSF | Catarina Gralheiro.
+
 
 <style>
 .grid {
