@@ -13,7 +13,7 @@ options:
 <div class="row">
     <div class="col-12">
         <div class="image fit">
-            <figure><img src="v1.1_Mapa_ANF2023.jpg" alt=""></figure>
+            <figure><img src="v1.2_Mapa_ANF2025.jpg" alt=""></figure>
         </div>
     </div>
 </div>
