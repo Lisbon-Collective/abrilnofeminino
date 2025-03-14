@@ -1,7 +1,7 @@
 ---
 date: 2019-02-15T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
 - src: Coragem Hoje, Abraços Amanhã.jpg
   name: "header"

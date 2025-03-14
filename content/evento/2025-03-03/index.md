@@ -1,9 +1,9 @@
 ---
-date: 2025-03-13T23:33:21Z
+date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Coragem Hoje 2025, Abraços Amanhã.jpg
+- src: Coragem Hoje, Abraços Amanhã.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -15,7 +15,7 @@ tags:
 categorias:
   - 
 ciclo: 
-title: "&quot;Coragem Hoje<br>Abraços Amanhã&quot;"
+title: "Novo Evento 2025"
 copyright: ""
 paragraph: >- 
   *Coragem Hoje, Abraços Amanhã* parte de testemunhos reais, cartas e memórias de mulheres que estiveram presas pela PIDE durante o período do Estado Novo, expondo o lado pessoal de vivências desumanas experienciadas por aquelas mulheres. Para que a memória permaneça.
@@ -38,7 +38,7 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2023-04-27T19:00:00Z
+eventDate: 2025-03-14T19:00:00Z
 showTime: true
 custom:
   copyright:
