@@ -289,7 +289,7 @@
 
 		a {
 			@if $p != null {
-				color: _palette($p, fg-bold);
+				color: _palette($p, accent3);
 			}
 			@else {
 				color: _palette(fg-bold);
