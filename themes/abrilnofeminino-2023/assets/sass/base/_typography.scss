@@ -301,7 +301,7 @@
 					color: transparentize(_palette($p, fg-bold), 0.35);
 				}
 				@else {
-					color: lighten(_palette(accent1), 10);
+					color: lighten(_palette(accent2), 10);
 				}
 			}
 		}

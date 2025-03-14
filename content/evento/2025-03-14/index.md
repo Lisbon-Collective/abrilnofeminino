@@ -15,7 +15,7 @@ tags:
 categorias:
   - 
 ciclo: 
-title: "Novo Evento 2025"
+title: "Novo Evento test 2025"
 copyright: ""
 paragraph: >- 
   *Coragem Hoje, Abraços Amanhã* parte de testemunhos reais, cartas e memórias de mulheres que estiveram presas pela PIDE durante o período do Estado Novo, expondo o lado pessoal de vivências desumanas experienciadas por aquelas mulheres. Para que a memória permaneça.

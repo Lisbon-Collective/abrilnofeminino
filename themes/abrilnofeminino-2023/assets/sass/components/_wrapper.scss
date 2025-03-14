@@ -55,7 +55,7 @@
 		}
 
 		&.style3 {
-			background: _palette(bg-alt);
+			background: _palette(accent1);
 		}
 
 		@include breakpoint('<=large') {
