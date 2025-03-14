@@ -1,5 +1,5 @@
 ---
-date: 2019-02-15T23:33:21Z
+date: 2025-03-14T22:00:21Z
 description: ""
 draft: false
 resources:
@@ -38,11 +38,11 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2025-03-14T19:00:00Z
+eventDate: 2025-03-14T22:00:21Z
 showTime: true
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
+  data: 2025-03-14T22:00:21Z
   local: 
 ---
 Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de serem privadas da sua liberdade. Mulheres que eram avós, mães, filhas, esposas, namoradas, amantes, companheiras, camaradas. Mulheres que não são figuras históricas dentro de um livro empoeirado, mas que existiram realmente, algumas que ainda se cruzam connosco na rua e guardam duras memórias no coração.
