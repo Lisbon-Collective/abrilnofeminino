@@ -1,7 +1,7 @@
 ---
 date: 2019-02-15T23:33:21Z
 description: ""
-draft: false
+draft: true
 resources:
 - src: Giuseppe Arcimboldo, Retrato com vegetais. O vendedor de hortaliças, 1587, Museo Civico Ala Ponzone, Cremona Foto A.jpg
   name: "header"

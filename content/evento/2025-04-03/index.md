@@ -1,15 +1,15 @@
 ---
-date: 2019-02-15T23:33:21Z
+date: 2025-03-13T23:33:21Z
 description: ""
-draft: true
+draft: false
 resources:
-- src: Coragem Hoje, Abraços Amanhã.jpg
+- src: Coragem Hoje 2025, Abraços Amanhã.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: com Joana Brandão
+subtitle: com Joana Brandão 2025
 tags:
   -
 categorias:
