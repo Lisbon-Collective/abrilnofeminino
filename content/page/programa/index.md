@@ -35,19 +35,28 @@ custom:
 
 <p>&nbsp;</p>
 
-2023 assinala a 3ª edição de “Abril no Feminino”. Em Coimbra, de 5 a 27 de Abril, vamos poder acompanhar, em espaços museológicos, equipamentos culturais e património histórico da cidade, uma programação plural e inclusiva focada essencialmente nas mulheres. Teatro, Cinema, Arte, Literatura, Poesia, Fotografia e Gastronomia preenchem as sessões propostas, em formatos diversos.
+**«A OBRA DE ARTE FAZ PARTE DO REAL E É DESTINO, REALIZAÇÃO, SALVAÇÃO E VIDA»** 
+Sophia de Mello Breyner Andresen 
 
-Evocaremos **Maria Lamas**, figura cimeira do activismo político, autora de “As Mulheres do meu País”, obra que será revisitada, setenta e muitos anos depois da sua publicação, pela escritora e jornalista *Susana Moreira Marques* e pela cineasta *Marta Pessoa*. **Natália Correia**, em ano de centenário, personalidade marcante e singular na sociedade portuguesa contemporânea, será recordada no recital conduzido pelas actrizes *Helena Faria e Teresa Faria*. Daremos voz às mulheres que lutaram pela liberdade em tempos de ditadura, com *Joana Brandão,* quando completamos quase meio século sobre um inesquecível dia em que *“numa rubra fraternidade de cravos os homens saudaram a revolução”.* A instalação “As Penélopes”, pela equipa *Bairro dos Livros*, as fotografias de *Bárbara Marques*, a conversa com *Olga Cavaleiro* e a palestra de *Pedro* *Miguel* *Ferrão*, completam o programa.
 
-Sem financiamento público, “Abril no Feminino” acontece graças aos nossos mecenas, apoiantes empresariais, parceiros media e de acolhimento. A todos eles o nosso comovido agradecimento. Mas também um especial obrigada aos nossos convidados que, com o seu entusiasmo e cumplicidade, tornaram possível a presente edição.
 
-O tempo de hoje, para muitas mulheres, neste violento e conturbado mundo, é ainda de “reclusão em céu aberto”. Conhecidas e anónimas fizeram a diferença e foram determinantes para a mudança, como lembra a presente edição. Mas há muito ainda a fazer. Não deixemos o futuro de lado.
-**“Se deixarmos de olhar para o futuro com olhos de quem acredita que é possível melhorá-lo, estamos completamente tramados”.** *Onésio Teotónio Almeida*
+2025 é o ano da 4.ª edição de ABRIL NO FEMININO, projecto nascido e criado em Coimbra, que acontece em distintos equipamentos culturais e espaços relevantes do património histórico da cidade, tais como Museu Municipal – Edifício Chiado, Seminário Maior de Coimbra, Biblioteca Geral da Universidade de Coimbra, Teatro Académico de Gil Vicente, Convento São Francisco. Também vamos à Escola, lançar sementes, e à Baixa, para celebrar o Cante Alentejano, que completa uma década sobre a sua classificação de Património Imaterial da Humanidade pela UNESCO.
+De 3 a 30 de Abril damos Voz às Mulheres, com uma programação diversa e inclusiva. Artes Plásticas, Cinema, Música, Fotografia e Teatro, preenchem algumas das actividades propostas, às quais acrescem Conversas, sobre livros e outras temáticas, com convidados muito especiais. 
+Gerações de artistas, com linguagens e estéticas diferenciadas, estão representadas na exposição O Vaguear do Olhar, assinalando a presença da Coleção AA Contemporary Art Collection, em diálogo com as colecções de arte do Município; doze mulheres portuguesas desobedientes são recordadas em livro; o idadismo e as reflexões de uma mulher em idade sénior são pretexto para uma conversa e uma peça de teatro, respectivamente. «Elas também estiveram lá» ou «O que podem as palavras», dois filmes que nos falam da importância da resistência e da luta das mulheres portuguesas por ideais em tempos de silêncio e de obscurantismo; canções no feminino e canções de liberdade. E muito mais. Consulte o programa e faça-nos companhia! 
+ABRIL NO FEMININO é o resultado de um esforço imenso e de um empenho ainda maior, apoiado por um conjunto de entidades, públicas e privadas, que tornam possível a sua concretização. Mas sem a generosidade, simpatia e disponibilidade dos participantes e convidados da presente edição, ABRIL NO FEMININO não passaria de uma utopia. A todos eles prestamos o nosso sincero e reconhecido agradecimento.
+Vivemos tempos conturbados e assustadores, assistindo a um mundo em decomposição, alimentado por acontecimentos trágicos, imperando o medo e a regressão de direitos e liberdades, para nosso espanto e perplexidade. Pode a Cultura derrubar muros, estabelecer pontes e construir a Paz? 
 
+*(…) <br>
+Se queremos viver à altura do nosso tempo, então a vitória<br>
+Não estará na espada, mas em todas as pontes que fizemos.<br>
+(…)<br>
+Pois há sempre luz,<br>
+Se houver coragem suficiente para a ver,<br> 
+Se houver coragem suficiente para o ser.*<br>
+
+*excerto do poema The Hill We Climb (A Colina Que Subimos), de Amanda Gorman, tradução de Carla Fernandes.
+<br>
 ABRIL NO FEMININO É UM PROJECTO CULTURAL DA AUTORIA DE MARGARIDA MENDES SILVA, PRODUZIDO PELA CULTURA E RISCO ASSOCIAÇÃO CULTURAL
-
-TODA A PROGRAMAÇÃO EM [WWW.ABRILNOFEMININO.PT](http://www.abrilnofeminino.pt/)
-
 
 <small style="font-size:14px;">Texto escrito de acordo com a antiga ortografia</small>
 
