@@ -76,14 +76,11 @@ João Gobern, jornalista e autor, a propósito do concerto de “Liberdade, libe
 
 Miguel Carvalho, a propósito do single “Tanto Mar”, lançado no dia 25 Abril de 2024
 
+---
 
-
-
-**Direcção artística, dramaturgia, encenação e interpretação: Joana Brandão; Assistência de encenação: Elsa Galvão e Maria João Abreu; Consultoria: Irene Pimentel; Desenho de Luz: Paulo Santos; Iluminação: João Lopes; Sonoplastia: João Bucho; Cenografia: Joana Brandão; Figurino: Maria Gonzaga; Apoio: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).**
 
 <div style="clear: both;"></div>
 
-**Joana Brandão**
 
 <div class="image right">
   <figure><img src="miguel-carvalho_Mariana Correia Pinto.jpg" alt="" class=""></figure>
