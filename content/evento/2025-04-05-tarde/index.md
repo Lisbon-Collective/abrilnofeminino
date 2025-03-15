@@ -48,7 +48,7 @@ custom:
 
 <div class="image right">
   <figure><img src="AnaMarcia_EstelleValente.jpg" alt="" class=""></figure>
-  <figcaption>© Joana Correia</figcaption>
+  <figcaption>© Estelle Valente</figcaption>
 </div>
 
 
@@ -65,7 +65,7 @@ Márcia é um exemplo raro de consistência artística destacando-se pela sua m�
 
 <div class="image right">
   <figure><img src="JoaoGobern.jpeg" alt="" class=""></figure>
-  <figcaption>© Joana Correia</figcaption>
+  <figcaption>© Marisa Martins</figcaption>
 </div>
 
 
