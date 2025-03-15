@@ -26,7 +26,7 @@ paragraph: >-
   Entrada livre, com reserva obrigatória para [bg-eventos@bg.uc.pt](mailto:bg-eventos@bg.uc.pt )
 
 imagealign: left
-italic: teatro
+italic: conversa
 options:
   hideFooter: false
   hideSubscribeForm: false
@@ -47,7 +47,7 @@ custom:
 
 <div class="image center" style="text-align: left;">
   <figure><img src="AntonioRebelo.jpg" alt="" class=""></figure>
-  <figcaption>© Rui Palha</figcaption>
+  <figcaption></figcaption>
 </div>
 
 **António Manuel Ribeiro Rebelo** é Professor Associado da Faculdade de Letras da Universidade de Coimbra, onde lecciona desde 1988, e investigador do Centro de Estudos Clássicos e Humanísticos da Universidade de Coimbra.
@@ -59,7 +59,7 @@ Foi presidente da Confraria da Rainha Santa Isabel de 2010 a 2019.
 ---
 <div class="image center" style="text-align: left;">
   <figure><img src="MariaJose.jpg" alt="" class=""></figure>
-  <figcaption>© Rui Palha</figcaption>
+  <figcaption></figcaption>
 </div>
 <br><br><br>
 
@@ -68,7 +68,7 @@ Foi presidente da Confraria da Rainha Santa Isabel de 2010 a 2019.
 ---
 <div class="image center" style="text-align: left;">
   <figure><img src="CarlotaSimoes.jpeg" alt="" class=""></figure>
-  <figcaption>© Rui Palha</figcaption>
+  <figcaption></figcaption>
 </div>
 
 **Carlota Simões**, doutorada em Matemática pela Universidade de Twente,nos Países Baixos, é professora no Departamento de Matemática daFaculdade de Ciências e Tecnologia da Universidade de Coimbra (UC).Fez parte da direcção do Museu da Ciência da UC entre 2007 e 2019 (Vice-Directora entre 2007 e 2015 e Directora entre 2015 e 2019).É autora de Descobre a Matemática e co-autora de Descobre o Som, obras de divulgação da matemática publicadas pela Editorial Bizâncio.Na Imprensa da Universidade publicou, como co-editora, as obras História da Ciência Luso-Brasileira e História da Ciência na Universidade de Coimbra (com Carlos Fiolhais e Décio Ruivo Martins), Portugueses na Austrália (com Francisco Contente Domingues), Visto de Coimbra (com Margarida Miranda e Pedro Casaleiro), Escala em Coimbra (com Noël Golvers) e Bichos Vividos (com Ana Paula Guimarães).É Membro Correspondente da Classe de Artes, Letras e Ciências da Academia de Marinha e actualmente é Directora da Imprensa da Universidade.

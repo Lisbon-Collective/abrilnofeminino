@@ -9,27 +9,25 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: com Joana Brandão
+subtitle: Moderação de João Gobern
 tags:
   -
 categorias:
   - 
 ciclo: 
-title: "&quot;Coragem Hoje<br>Abraços Amanhã&quot;"
+title: "MÁRCIA: INTERPRETE, AUTORA E COMPOSITORA"
 copyright: ""
 paragraph: >- 
-  *Coragem Hoje, Abraços Amanhã* parte de testemunhos reais, cartas e memórias de mulheres que estiveram presas pela PIDE durante o período do Estado Novo, expondo o lado pessoal de vivências desumanas experienciadas por aquelas mulheres. Para que a memória permaneça.
+  Márcia é um dos maiores valores, femininos mas também absolutos, da Música Portuguesa. Escreve, compõe e canta como poucas (e poucos…), grava com uma assiduidade invejável, vai deixando canções inscritas no património do bom gosto. Além disso, é uma excelente conversadora e gosta de abordar muito mais do que o seu trabalho, de forma convicta, estimulante e assertiva. Como poderá constatar quem quiser assistir a uma conversa de que só se conhece o ponto de partida: o último disco que publicou, "Ana Márcia" que, em si mesmo, já dará pano para mangas…
 
 
-  **Convento São Francisco | Black Box**    
 
-  Preço único: 10,00 €
+  **Piscinas do Mondego**    
 
-
-  Contacto e reservas: bilheteira do Convento São Francisco diariamente entre as 15h00 e as 20h00 | 239 857 191 ou [bilheteira@coimbraconvento.pt](mailto:bilheteira@coimbraconvento.pt)
+  Entrada livre sujeita à lotação do espaç
 
 imagealign: left
-italic: teatro
+italic: Conversa | Música
 options:
   hideFooter: false
   hideSubscribeForm: false

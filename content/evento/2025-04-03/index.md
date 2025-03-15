@@ -33,7 +33,7 @@ paragraph: >-
   Entrada livre
 
 imagealign: left
-italic: teatro
+italic: exposição
 options:
   hideFooter: false
   hideSubscribeForm: false
