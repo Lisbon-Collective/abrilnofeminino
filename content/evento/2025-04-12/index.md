@@ -48,7 +48,7 @@ custom:
 
 <div class="image right">
   <figure><img src="CristinaRobaloCordeiro.jpg" alt="" class=""></figure>
-  <figcaption>© Rui Palha</figcaption>
+  <figcaption></figcaption>
 </div>
 
 **Cristina Robalo-Cordeiro** é professora catedrática aposentada da Faculdade de Letras da Universidade de Coimbra, de que foi Vice-Reitora de 2003 a 2011. Obteve um doutoramento de 3º Ciclo, em Poitiers, em 1980, e um doutoramento pela Universidade de Coimbra, em 1991. 
@@ -72,7 +72,7 @@ Integrou o grupo de trabalho da Candidatura da cidade de Coimbra a Capital Europ
 
 <div class="image right">
   <figure><img src="Foto%20actual%20Joana%20Brandão.png" alt="" class=""></figure>
-  <figcaption>???</figcaption>
+  <figcaption></figcaption>
 </div>
 
 
@@ -86,7 +86,7 @@ Integrou o grupo de trabalho da Candidatura da cidade de Coimbra a Capital Europ
 
 <div class="image right">
   <figure><img src="RosarioGama.jpg" alt="" class=""></figure>
-  <figcaption>???</figcaption>
+  <figcaption></figcaption>
 </div>
 
 
@@ -103,7 +103,7 @@ Fundou o Movimento Cívico APRe! – Aposentados, Pensionistas e Reformados, em 
 
 <div class="image right">
   <figure><img src="TeresaMendes.jpg" alt="" class=""></figure>
-  <figcaption>???</figcaption>
+  <figcaption></figcaption>
 </div>
 
 
