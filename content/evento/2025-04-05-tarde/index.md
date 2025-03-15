@@ -38,48 +38,44 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2023-04-27T19:00:00Z
+eventDate: 2025-04-05T17:00:00Z
 showTime: true
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
   local: 
 ---
-Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de serem privadas da sua liberdade. Mulheres que eram avós, mães, filhas, esposas, namoradas, amantes, companheiras, camaradas. Mulheres que não são figuras históricas dentro de um livro empoeirado, mas que existiram realmente, algumas que ainda se cruzam connosco na rua e guardam duras memórias no coração.
-
-
-
-*Coragem Hoje, Abraços Amanhã* é um testemunho composto a partir de entrevistas realizadas em discurso direto, que expõe o lado pessoal de vivências desumanas experienciadas por essas mulheres. Para que a memória permaneça.
-
-<div style="clear: both;"></div>
 
 <div class="image right">
-  <figure><img src="Joana%20Brandao_Foto%20espectáculo.jpg" alt="" class=""></figure>
-  <figcaption>© Rui Palha</figcaption>
-</div>
-
-**Direcção artística, dramaturgia, encenação e interpretação: Joana Brandão; Assistência de encenação: Elsa Galvão e Maria João Abreu; Consultoria: Irene Pimentel; Desenho de Luz: Paulo Santos; Iluminação: João Lopes; Sonoplastia: João Bucho; Cenografia: Joana Brandão; Figurino: Maria Gonzaga; Apoio: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).**
-
-<div style="clear: both;"></div>
-
-**Joana Brandão**
-
-<div class="image right">
-  <figure><img src="Foto%20actual%20Joana%20Brandão.png" alt="" class=""></figure>
+  <figure><img src="AnaMarcia_EstelleValente.jpg" alt="" class=""></figure>
   <figcaption>© Joana Correia</figcaption>
 </div>
 
 
-Actriz e encenadora de formação, tem trabalhado com encenadores como Bruno Bravo, Carlos Pimenta, Fernando Gomes, João Mota, João Brites, João Lourenço, José Peixoto, José Martins, Rui Mendes, Solveig Nordlund, Helena Pimenta, Maria de La Ribot, Álvaro Correia, Jean- Paul Buccieri, Pedro Alvarez-Ossorio, entre outros.
+Na música iniciou-se em 2009 com o EP “A Pele que Há em Mim”, seguindo-se os álbuns “Dá”, “Casulo”, “Quarto Crescente” e “Vai e Vem”.  Em 2019 arrecadou o prémio José da Ponte da Sociedade Portuguesa de Autores, e ao longo destes anos conta com três nomeações para os Globos de Ouro da Sic/Caras, com os temas “Tempestade", “Insatisfação” e “A pele que há em mim (Quando o dia entardeceu)”, este último em dueto com J.P. Simões.
+Depois de uma estreia em cidades como Rio de Janeiro e São Paulo, Márcia dedicou-se à edição do seu primeiro livro - "As estradas são para ir" - uma combinação de ilustrações suas, letras de canções, crónicas e partilha de pensamentos, tendo sido premiada com este livro pela aRitmar (Galiza) e prémios Bertrand. Paralelamente participou com os seus textos em várias publicações, destacando entre elas as crónicas semanais no JN, durante o estado de calamidade decretado pela pandemia de 2020.
+Em 2022 produz inteiramente e lança o seu quinto álbum, “Picos e Vales”, que apresenta por todo o país.
+Em 2025 edita “Ana Márcia”, que define como um “regresso a casa”. O álbum divide-se em três capítulos e explora o lugar da infância do passado no primeiro; a jovem que encontra o amor e desamor no segundo, e que descobre, na maternidade, o regresso à sua própria infância através da magia da infância dos filhos. O disco conta com duetos com Catarina Salinas, Jorge Palma e Sérgio Godinho.
+Márcia é um exemplo raro de consistência artística destacando-se pela sua música cuidada, as suas letras e a voz que nos fala ao mais íntimo segredo em cada um de nós, o que a já consolidou como um dos talentos maiores da composição em língua portuguesa.
 
-Recebeu o Prémio Autores (2016) de “Melhor Actriz”, na categoria “Teatro”, atribuído pela Sociedade Portuguesa de Autores (SPA), pelo espectáculo “Constelações” de Nick Payne, encenação de João Lourenço, Teatro Aberto.
 
-Tem participado, como actriz, em filmes e curtas metragens com realizadores como Rui Simões, João Maia, Pedro Varela (A Canção de Lisboa), Sandro Aguilar (A Zona), George Felner (Manô), Leonor Noivo (Salitre e O que resta), Adriana Martins (Air and Sugar, A Língua e O Cheiro da Velas - Prémio Melhor Actriz em Curta Metragem CinEuphoria, ),  entre outros e nalgumas telenovelas e séries televisivas como Quero é Viver, Filha da Lei, Desliga a Televisão, A Prisioneira,  Espelho D’Água, Voo directo, Morangos com Açúcar Série V , Feitiço de Amor , Liberdade 21, etc…
+<div style="clear: both;"></div>
 
-Escreveu, encenou e interpretou os monólogos “Caminhos” e “Coragem Hoje, Abraços Amanhã” - nomeado para Prémio Autores (2014) de “Melhor Texto Português Representado”, na categoria “Teatro”, pela Sociedade Portuguesa de Autores (SPA) , ambos editados em livro, pela Companhia das Ilhas.
+---
 
-Realizou o vídeo-clip ONDE ESTOU EU, para Manel Cruz (WINNER: New York Cinematography Awards – Best Music Video , Best Music Video Cinematography; European Cinematography Awards - Best Music Video ; Feel The Reel International Film Festival – Best Music Video; Music Video Underground Festival – Best DoP; Druk International Film Festival - Best Music Video. OFFICIAL SELECTION: Music Video Awards – (Finalist) Best Director; Best Film Awards – Best Music Video ; Women Directors Film Carnival – (Finalist); Near Nazareth Festival – (Finalist) Best Music Video/ Video Art; 10th ARFF Barcelona / International Awards – Best Music Video; The Monthly Film Festival – (Nominee) – Best Music Video; Prague Music Video Awards – (Honorable Mention) – Best Cinematography ), realizou I Would Do it Again, para Inês Herédia e o documentário TERRA (em pós-produção).
+<div class="image right">
+  <figure><img src="JoaoGobern.jpeg" alt="" class=""></figure>
+  <figcaption>© Joana Correia</figcaption>
+</div>
 
-Paralelamente, desenvolve, há vários anos, trabalhos de direcção de actores (Sangue Oculto-SIC; Quer o Destino-TVI; Para Sempre- TVI) e assistência de encenação (João Brites, Carlos Pimenta, Guillermo Heras, etc), locuções e docência/formação. 
 
-Colabora regularmente com a produtora de animação Sardinha Em Lata, de Nuno Beato, como directora de casting e directora de actores, em vários filmes. Tem desenvolvido a sua actividade de professora e formadora de cursos de representação e direcção de actores.
+Nasceu em 1960, em Lisboa, na tradicional Maternidade Alfredo da Costa.
+Frequentou o curso de Direito, até optar, de forma aliviada e convicta, pelo jornalismo.
+Trabalhou em jornais diários, começando em *A Capital*, e semanários, revistas de actualidade e estações de rádio. Foi director do *Se7e*, da *TV Guia* e da *Sábado*, director-adjunto da *Focus* e editor em *O Independente* e na *Visão*.
+Escreve actualmente, sempre que pode, no *JL – Jornal de Letras, Artes & Ideias*. Na rádio, passou pelo CMR (o antigo e genuíno), pela RFM, pela Rádio Comercial, pela TSF,e pela Rádio Marginal.
+“Fixou-se” na Antena 1, onde realizou, em parceria com Pedro Rolo Duarte, o programa *Hotel Babilónia*, e assinou uma crónica diária, *Pano Para Mangas*. Repartiu com Margarida Pinto Correia a responsabilidade pelo programa *Encontros Imediatos* e assumiu, a solo, por *As Regras da Atracção*. Agora, assina o programa *Bairro Latino* e a rubrica diária *Zona VIP*, no *Programa da Manhã*. No mesmo *Programa da Manhã*, participou na rubrica *A Virtude do Meio*. Já escreveu e apresentou mais de duas dúzias de séries especiais dedicadas a grandes figuras da música, sendo Tom Waits, Rod Stewart e Carlos Paredes os mais recentes “visados”.
+Para a Antena 2, escreveu e apresentou séries documentais sobre Maria Callas, Astor Piazzolla e compositores de bandas sonoras de filmes.
+Integra, desde a época futebolística 2012/2013, o painel de comentadores do *Trio d’Ataque* (RTP3).
+Publicou em 2016 o livro *Quando A TV Parava o País*, que se seguiu a *Pano Para Mangas*, em 2014, e *Boca Doce*, em 2006. Para Maio de 2025 está marcada a edição de mais um, sobre a indústria musical portuguesa. Continua a sonhar com um romance, ou vários, e gostaria de fazer letras para canções. Apresentou, sempre *pro bono*, mais de três dezenas de livros.
+É sócio do Benfica, viciado em café, continua a descobrir as maravilhas do peixe na sua nova cidade, convive alegremente com um gato chamado Trotsky, é caminhante e nadador amador, melómano açambarcador e leitor compulsivo e anárquico. Nunca foi filiado em partidos políticos, mas não se demite de uma cidadania activa e protestante. Casou três vezes e é feliz à quarta tentativa, não legalizada.
+Vive, por opção e coração, na Póvoa de Varzim desde 2005.
