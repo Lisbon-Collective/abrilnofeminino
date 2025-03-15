@@ -16,7 +16,7 @@ categorias:
   - 
 ciclo: 
 title: "KIKI VAN BEETHOVEN"
-copyright: ""
+copyright: "© Susana Monteiro"
 paragraph: >- 
   Uma máscara de Beethoven, encontrada por acaso num mercado de rua, vai mudar a vida de Cristina, uma mulher que já ultrapassou há muito os sessenta anos, assim como a vida das suas amigas que habitam com ela uma residência sénior.
   Beethoven, o compositor que ensurdeceu, é aqui evocado nessa dimensão simbólica e através da música que compôs, desencadeando em cada uma das personagens, uma jornada iniciática, levando-as ao confronto com dimensões, emoções e acontecimentos das suas próprias vidas, “ensurdecidas” consciente e inconscientemente como forma de ocultar mágoas e todo e qualquer sofrimento.
