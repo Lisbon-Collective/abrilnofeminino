@@ -78,7 +78,7 @@ Tal como o caminho para a liberdade, este é um livro em permanente construção
 
 <div class="image right">
   <figure><img src="RaquelCosta.jpg" alt="" class=""></figure>
-  <figcaption>© Rui Palha</figcaption>
+  <figcaption></figcaption>
 </div>
 
 ---
