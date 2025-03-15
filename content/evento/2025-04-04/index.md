@@ -3,30 +3,27 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Coragem Hoje, Abraços Amanhã.jpg
+- src: Santa_Isabel_de_Portugal.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: com Joana Brandão
+subtitle: com António Rebelo e Maria José Azevedo Santos 
 tags:
   -
 categorias:
   - 
 ciclo: 
-title: "&quot;Coragem Hoje<br>Abraços Amanhã&quot;"
+title: "Isabel de Aragão, Rainha de Portugal: mulher e cidadã"
 copyright: ""
 paragraph: >- 
-  *Coragem Hoje, Abraços Amanhã* parte de testemunhos reais, cartas e memórias de mulheres que estiveram presas pela PIDE durante o período do Estado Novo, expondo o lado pessoal de vivências desumanas experienciadas por aquelas mulheres. Para que a memória permaneça.
+  No ano em que se celebram os 700 anos da peregrinação da Rainha Santa Isabel a Santiago de Compostela, esta sessão pretende dar a conhecer ao público a «cidadã» Isabel de Portugal, o seu papel diplomático como rainha, o seu lado empreendedor associado à fundação do Mosteiro de Santa Clara: será que a acção de Isabel de Portugal se poderia hoje designar por «empreendedorismo social» avant la lettre?
 
 
-  **Convento São Francisco | Black Box**    
+  **Biblioteca Geral da Universidade de Coimbra, Sala de São Pedro**    
 
-  Preço único: 10,00 €
-
-
-  Contacto e reservas: bilheteira do Convento São Francisco diariamente entre as 15h00 e as 20h00 | 239 857 191 ou [bilheteira@coimbraconvento.pt](mailto:bilheteira@coimbraconvento.pt)
+  Entrada livre, com reserva obrigatória para [bg-eventos@bg.uc.pt](mailto:bg-eventos@bg.uc.pt )
 
 imagealign: left
 italic: teatro
@@ -38,48 +35,41 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2023-04-27T19:00:00Z
+eventDate: 2025-04-04T18:00:00Z
 showTime: true
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
+  data: 2025-04-04T18:00:00Z
   local: 
 ---
-Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de serem privadas da sua liberdade. Mulheres que eram avós, mães, filhas, esposas, namoradas, amantes, companheiras, camaradas. Mulheres que não são figuras históricas dentro de um livro empoeirado, mas que existiram realmente, algumas que ainda se cruzam connosco na rua e guardam duras memórias no coração.
-
-
-
-*Coragem Hoje, Abraços Amanhã* é um testemunho composto a partir de entrevistas realizadas em discurso direto, que expõe o lado pessoal de vivências desumanas experienciadas por essas mulheres. Para que a memória permaneça.
 
 <div style="clear: both;"></div>
 
-<div class="image right">
-  <figure><img src="Joana%20Brandao_Foto%20espectáculo.jpg" alt="" class=""></figure>
+<div class="image center" style="text-align: left;">
+  <figure><img src="AntonioRebelo.jpg" alt="" class=""></figure>
   <figcaption>© Rui Palha</figcaption>
 </div>
 
-**Direcção artística, dramaturgia, encenação e interpretação: Joana Brandão; Assistência de encenação: Elsa Galvão e Maria João Abreu; Consultoria: Irene Pimentel; Desenho de Luz: Paulo Santos; Iluminação: João Lopes; Sonoplastia: João Bucho; Cenografia: Joana Brandão; Figurino: Maria Gonzaga; Apoio: João Lopes (Iluminação), Maria Gonzaga (Guarda Roupa).**
+**António Manuel Ribeiro Rebelo** é Professor Associado da Faculdade de Letras da Universidade de Coimbra, onde lecciona desde 1988, e investigador do Centro de Estudos Clássicos e Humanísticos da Universidade de Coimbra.
+É Director do Centro de Línguas da Faculdade de Letras; é membro da Assembleia da Faculdade de Letras e da Comissão Científica do Departamento de Línguas, Literaturas e Culturas, embora já tivesse desempenhado outras funções académicas. Na Univ. de Coimbra, ocupou várias funções no Instituto de Estudos Clássicos, nos Conselhos Pedagógico e Científico da Faculdade e desempenhou também os cargos de Subdirector e Director da Faculdade de Letras.
+É co-coordenador (juntamente com Margarida Miranda) do Projecto inter-universitário de edição e tradução do Curso Aristotélico Jesuíta Conimbricense. Director Principal (juntamente com José Luís Brandão e Margarida Lopes Miranda) da “Série Autores Gregos e Latinos” dos Classica Digitalia da Imprensa da Universidade de Coimbra.
+Tem desenvolvido a sua investigação no âmbito das literaturas clássicas, do latim dos autores cristãos, da filologia latina medieval (tendo orientado teses de mestrado e de doutoramento nesta área), dos estudos cristãos e medievais, dos estudos religiosos, do latim renascentista, da literatura portuguesa, da ecdótica e da didáctica das línguas clássicas. No âmbito destas áreas, publicou dezenas de títulos, entre obras, artigos em revistas científicas, capítulos de livros e traduções científicas. Participou em vários projectos científicos, tendo coordenado alguns deles. É membro de várias sociedades académicas e científicas.
+Foi presidente da Confraria da Rainha Santa Isabel de 2010 a 2019.
 
-<div style="clear: both;"></div>
+---
+<div class="image center" style="text-align: left;">
+  <figure><img src="MariaJose.jpg" alt="" class=""></figure>
+  <figcaption>© Rui Palha</figcaption>
+</div>
+<br><br><br>
 
-**Joana Brandão**
+**Maria José**
 
-<div class="image right">
-  <figure><img src="Foto%20actual%20Joana%20Brandão.png" alt="" class=""></figure>
-  <figcaption>© Joana Correia</figcaption>
+---
+<div class="image center" style="text-align: left;">
+  <figure><img src="CarlotaSimoes.jpeg" alt="" class=""></figure>
+  <figcaption>© Rui Palha</figcaption>
 </div>
 
+**Carlota Simões**, doutorada em Matemática pela Universidade de Twente,nos Países Baixos, é professora no Departamento de Matemática daFaculdade de Ciências e Tecnologia da Universidade de Coimbra (UC).Fez parte da direcção do Museu da Ciência da UC entre 2007 e 2019 (Vice-Directora entre 2007 e 2015 e Directora entre 2015 e 2019).É autora de Descobre a Matemática e co-autora de Descobre o Som, obras de divulgação da matemática publicadas pela Editorial Bizâncio.Na Imprensa da Universidade publicou, como co-editora, as obras História da Ciência Luso-Brasileira e História da Ciência na Universidade de Coimbra (com Carlos Fiolhais e Décio Ruivo Martins), Portugueses na Austrália (com Francisco Contente Domingues), Visto de Coimbra (com Margarida Miranda e Pedro Casaleiro), Escala em Coimbra (com Noël Golvers) e Bichos Vividos (com Ana Paula Guimarães).É Membro Correspondente da Classe de Artes, Letras e Ciências da Academia de Marinha e actualmente é Directora da Imprensa da Universidade.
 
-Actriz e encenadora de formação, tem trabalhado com encenadores como Bruno Bravo, Carlos Pimenta, Fernando Gomes, João Mota, João Brites, João Lourenço, José Peixoto, José Martins, Rui Mendes, Solveig Nordlund, Helena Pimenta, Maria de La Ribot, Álvaro Correia, Jean- Paul Buccieri, Pedro Alvarez-Ossorio, entre outros.
-
-Recebeu o Prémio Autores (2016) de “Melhor Actriz”, na categoria “Teatro”, atribuído pela Sociedade Portuguesa de Autores (SPA), pelo espectáculo “Constelações” de Nick Payne, encenação de João Lourenço, Teatro Aberto.
-
-Tem participado, como actriz, em filmes e curtas metragens com realizadores como Rui Simões, João Maia, Pedro Varela (A Canção de Lisboa), Sandro Aguilar (A Zona), George Felner (Manô), Leonor Noivo (Salitre e O que resta), Adriana Martins (Air and Sugar, A Língua e O Cheiro da Velas - Prémio Melhor Actriz em Curta Metragem CinEuphoria, ),  entre outros e nalgumas telenovelas e séries televisivas como Quero é Viver, Filha da Lei, Desliga a Televisão, A Prisioneira,  Espelho D’Água, Voo directo, Morangos com Açúcar Série V , Feitiço de Amor , Liberdade 21, etc…
-
-Escreveu, encenou e interpretou os monólogos “Caminhos” e “Coragem Hoje, Abraços Amanhã” - nomeado para Prémio Autores (2014) de “Melhor Texto Português Representado”, na categoria “Teatro”, pela Sociedade Portuguesa de Autores (SPA) , ambos editados em livro, pela Companhia das Ilhas.
-
-Realizou o vídeo-clip ONDE ESTOU EU, para Manel Cruz (WINNER: New York Cinematography Awards – Best Music Video , Best Music Video Cinematography; European Cinematography Awards - Best Music Video ; Feel The Reel International Film Festival – Best Music Video; Music Video Underground Festival – Best DoP; Druk International Film Festival - Best Music Video. OFFICIAL SELECTION: Music Video Awards – (Finalist) Best Director; Best Film Awards – Best Music Video ; Women Directors Film Carnival – (Finalist); Near Nazareth Festival – (Finalist) Best Music Video/ Video Art; 10th ARFF Barcelona / International Awards – Best Music Video; The Monthly Film Festival – (Nominee) – Best Music Video; Prague Music Video Awards – (Honorable Mention) – Best Cinematography ), realizou I Would Do it Again, para Inês Herédia e o documentário TERRA (em pós-produção).
-
-Paralelamente, desenvolve, há vários anos, trabalhos de direcção de actores (Sangue Oculto-SIC; Quer o Destino-TVI; Para Sempre- TVI) e assistência de encenação (João Brites, Carlos Pimenta, Guillermo Heras, etc), locuções e docência/formação. 
-
-Colabora regularmente com a produtora de animação Sardinha Em Lata, de Nuno Beato, como directora de casting e directora de actores, em vários filmes. Tem desenvolvido a sua actividade de professora e formadora de cursos de representação e direcção de actores.
