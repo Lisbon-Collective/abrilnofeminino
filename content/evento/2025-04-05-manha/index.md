@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Coragem Hoje, Abraços Amanhã.jpg
+- src: Ceifeiras Pias-Camisaria Salgueiros.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -15,10 +15,11 @@ tags:
 categorias:
   - 
 ciclo: 
-title: "&quot;Coragem Hoje<br>Abraços Amanhã&quot;"
+title: "10 Anos de Cante"
 copyright: ""
 paragraph: >- 
-  *Coragem Hoje, Abraços Amanhã* parte de testemunhos reais, cartas e memórias de mulheres que estiveram presas pela PIDE durante o período do Estado Novo, expondo o lado pessoal de vivências desumanas experienciadas por aquelas mulheres. Para que a memória permaneça.
+  Em Novembro de 2014, a UNESCO declarou o Cante Alentejano como Património Imaterial da Humanidade. Uma década depois, prestamos homenagem a todos os grupos corais, aos seus cantadores, ensaiadores, músicos e compositores, com três momentos distintos numa única manhã, na Baixa de Coimbra. Fotografias, Livro e Cante, este agora mais vivo do que nunca.
+
 
 
   **Convento São Francisco | Black Box**    
@@ -38,18 +39,16 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2023-04-27T19:00:00Z
+eventDate: 2025-04-05T19:00:00Z
 showTime: true
 custom:
   copyright:
   data: 2019-04-02T17:35:00Z
   local: 
 ---
-Mulheres que sofreram a tortura do sono, da estátua, mas sobretudo a tortura de serem privadas da sua liberdade. Mulheres que eram avós, mães, filhas, esposas, namoradas, amantes, companheiras, camaradas. Mulheres que não são figuras históricas dentro de um livro empoeirado, mas que existiram realmente, algumas que ainda se cruzam connosco na rua e guardam duras memórias no coração.
-
-
-
-*Coragem Hoje, Abraços Amanhã* é um testemunho composto a partir de entrevistas realizadas em discurso direto, que expõe o lado pessoal de vivências desumanas experienciadas por essas mulheres. Para que a memória permaneça.
+O Cante Alentejano como Património Cultural Imaterial da Unesco comemorou o seu 10.º aniversário a 27 de novembro de 2024.Nestes últimos nove anos, Ana Baião tem andado a fotografar o Cante um pouco por todo o Alentejo e na grande Lisboa, em diversas iniciativas e com diversos grupos. Inclusive deslocou-se a Paris para fotografar um dos poucos grupos existentes no estrangeiro, sendo que o Rancho de Cantadores de Paris tem a particularidade dos seus elementos serem de várias nacionalidades e apenas duas pessoas portuguesas.
+Ana Baião publicou dois livros: “Cante – Alma do Alentejo”, em 2017, pela RCP Edições; e “Cuba Cante Tabernas e Talhas”, em 2021, a convite da Câmara Municipal de Cuba. Fotografou para dois CD – “Alentejo Ensemble”, do Rancho de Cantadores de Paris, em 2019; e “Cante ao Menino na Capital”, do Grupo ALCante, da Junta de Freguesia de Alcântara, com a participação dos outros grupos corais da capital Lisboeta, em 2021.
+Podemos afirmar que nenhum fotógrafo documentou tanto o Cante Alentejano como Ana Baião. A divulgação do cante tem sido uma das suas causas e por essa razão a Tradisom aceitou este desafio para editar um livro de fotografias comemorativo deste 10.º aniversário.
 
 <div style="clear: both;"></div>
 
