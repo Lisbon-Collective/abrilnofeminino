@@ -1,6 +1,6 @@
 baseURL = "https://abrilnofeminino.pt/"
 # baseURL = "https://clever-perlman-069d0d.netlify.com"
-publishDir = "/var/www/abrilnofeminino.pt"
+publishDir = "public"
 languageCode = "pt"
 defaultContentLanguage = "pt"
 title = "Abril No Feminino"
