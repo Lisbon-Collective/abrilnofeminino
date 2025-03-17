@@ -39,7 +39,7 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2024-04-11T21:30:00Z
+eventDate: 2025-04-11T21:30:00Z
 showTime: true
 custom:
   copyright:

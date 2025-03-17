@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: com Joana Brandão
+subtitle: de Ana Baião <br> Presença da autora <br> Moderação de Sílvia Franklim
 tags:
   -
 categorias:

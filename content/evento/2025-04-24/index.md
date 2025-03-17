@@ -44,11 +44,11 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2025-04-24T19:00:00Z
+eventDate: 2025-04-24T18:30:00Z
 showTime: false
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
+  data: 2025-04-02T17:35:00Z
   local: 
 ---
 **ACÇÃO EDUCATIVA**

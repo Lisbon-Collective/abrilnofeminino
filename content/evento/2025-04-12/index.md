@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: com Cristina Robalo Cordeiro, Maria Manuel Leitão Marques, Rosário Gama e Teresa Mendes
+subtitle: com Cristina Robalo Cordeiro, Maria Manuel Leitão Marques, Rosário Gama e Teresa Mendes <br> Moderação de Maria Flor Pedroso
 tags:
   -
 categorias:

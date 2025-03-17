@@ -42,11 +42,11 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2025-04-03T19:00:00Z
+eventDate: 2025-04-03T18:00:00Z
 showTime: true
 custom:
   copyright:
-  data: 2025-04-02T17:35:00Z
+  data: 2025-04-03T18:00:00Z
   local: 
 ---
 AA CONTEMPORARY ART COLLECTION, é uma colecção privada de arte contemporânea que começou a ser constituída na década de 1990 em Coimbra por Ana Cristina Cunha e António Albertino dos Santos. O único fio condutor que norteia a Coleção AA é a subjectividade do gosto dos seus coleccionadores, que assumem pessoalmente as escolhas.

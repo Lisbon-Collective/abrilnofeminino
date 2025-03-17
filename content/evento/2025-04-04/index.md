@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: com António Rebelo e Maria José Azevedo Santos 
+subtitle: com António Rebelo e Maria José Azevedo Santos <br> Moderação de Carlota Simões 
 tags:
   -
 categorias:
