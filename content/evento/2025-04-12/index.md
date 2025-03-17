@@ -71,12 +71,12 @@ Integrou o grupo de trabalho da Candidatura da cidade de Coimbra a Capital Europ
 
 
 <div class="image right">
-  <figure><img src="Foto%20actual%20Joana%20Brandão.png" alt="" class=""></figure>
-  <figcaption></figcaption>
+  <figure><img src="MariaManuelLeitaoMarques_creditoBenoit Bourgeois.jpg" alt="" class=""></figure>
+  <figcaption>© Benoit Bourgeois</figcaption>
 </div>
 
 
-**Maria Manuel Leitão Marques**
+**Maria Manuel Leitão Marques** é licenciada em direito pela Faculdade de Direito da Universidade de Coimbra, e doutorada e agregada em economia pela Faculdade de Economia da mesma Universidade. Actualmente, é Professora Catedrática da Faculdade de Economia da Universidade de Coimbra e investigadora do Centro de Estudos Sociais desde a sua fundação. Participou e coordenou vários projetos nacionais e internacionais em Direito Económico, Direito da Concorrência e Sociologia do Direito e administração pública, em Portugal e no estrangeiro, sendo autora de vários livros e artigos publicados em diferentes línguas. É Vice-Presidente da Association Internationale de Droit Économique. Foi Secretária de Estado da Modernização Administrativa e responsável pelas áreas da simplificação administrativa e do governo eletrónico entre 2005 e 2011, tendo coordenado o Programa Simplex e Ministra da Presidência e da Modernização Administrativa, entre 2015 e 2019. Em 2019 foi eleita deputada ao Parlamento Europeu para a 9.ª legislatura (2019-2024). Actualmente, a sua investigação incide especialmente sobre a regulação pública da economia e sobre a inovação nos serviços públicos.
 
 –--
 
@@ -120,3 +120,15 @@ Medalha de Ouro da Cidade de Coimbra, atribuído pelo seu Município e a Medalha
 Foi membro de vários fóruns, destacando-se o Alto Conselho para o Investimento Direto Estrangeiro em Portugal, o Conselho Consultivo da COTEC, o Conselho Consultivo da Agência de Inovação, o Conselho Geral do Instituto Politécnico de Coimbra, o Conselho de Curadores da FLAD e o Conselho Económico e Social.  
  
 Já após a jubilação, foi-lhe atribuída uma medalha de Honra – grau Ouro, pelo Município de Penela, um galardão de mérito profissional pelo Rotary Club de Coimbra, o Prémio Carreira pelo Diário As Beiras e ainda o Prémio Carreira – Empreendedorismo no Feminino atribuído pelo Município de Coimbra.
+
+---
+
+<div style="clear: both;"></div>
+
+
+<div class="image right">
+  <figure><img src="mariaFlor.jpg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
+
+**Maria Flor Pedroso** (Lisboa, 1964) é jornalista, licenciada em Sociologia pela UNL FCSH. Na Rádio (Comercial) desde 1984, depois Telefonia de Lisboa por ter feito parte da equipa do Contraste, também na sua versão radiofónica Alto Contraste. RFM em 1987, primeiro programa de autora F é Mistério, ao mesmo tempo que frequentava o Curso de Jornalistas da TSF, onde ficou até 1996 como repórter, editora de noticiários, entrevistadora no Grande Júri TSF, repórter parlamentar, cobertura de campanhas eleitorais e mais que houvesse. Central FM de passagem, e Antena1 até agora, como Repórter Parlamentar e Editora de Política, com 15 anos de entrevistas políticas semanais que foram Prémio SPA Melhor Programa de Informação de Televisão 2015 (RTP2), em podcast Entrevista Maria Flor Pedroso. Bolsas EUA, FLAD 1994 na Boston College of Communication e German Marchal Fund 1996. Na Televisão (RTP), pesquisou para Maria Elisa Domingues e José Eduardo Moniz em 1994, fez narração para Nos Bastidores, Portugalmente, Cinemagazine, O Mundo de Cá e Périplo, além do mais recente e, ainda no ar, Cuidado com a Língua! Questionou n’As Escolhas de Marcelo de 2006 a 2010 o actual PR e criou o Hora de Fecho de 2007-2013, na RTP N e Informação. Directora de Informação RTP entre 2018 e Janeiro de 2020. Nomeada Presidente da CO do 4º Congresso de Jornalistas, promovido pela Casa de Imprensa, Sindicato de Jornalistas e Clube de Jornalistas a que preside, por eleição, desde Outubro de 2021. Deu formação nos PALOP a convite da RTP, Jornalismo Radiofónico no ISCEM e no ISCSP. Na Antena 1, é autora de Geometria Variável e Serviço Público – Bloco de Notas desde 2020 e modera os Radicais Livres desde 2022. Todos em podcast.
