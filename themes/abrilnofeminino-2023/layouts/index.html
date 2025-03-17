@@ -88,6 +88,30 @@
 		</div>
 		{{ end }}
 
+		<div class="row" style="align-items: center; text-align: center;">
+			<div class="wrapper style2 col-6 col-12-medium">
+				{{ with .Site.GetPage "/evento/2025-04-08-Vieirarpad/index.md" }}
+				{{ .Render "minimal-card" }}
+				{{ end }}
+			</div>
+			<div class="wrapper style2 col-6 col-12-medium">
+				{{ with .Site.GetPage "/evento/2025-04-08-PaulaRego/index.md" }}
+				{{ .Render "minimal-card" }}
+				{{ end }}
+			</div>
+			<div class="wrapper style2 col-6 col-12-medium">
+				{{ with .Site.GetPage "/evento/2025-04-08-Palavras/index.md" }}
+				{{ .Render "minimal-card" }}
+				{{ end }}
+			</div>
+			<div class="wrapper style2 col-6 col-12-medium">
+				{{ with .Site.GetPage "/evento/2025-04-08-Elas-tambem/index.md" }}
+				{{ .Render "minimal-card" }}
+				{{ end }}
+			</div>
+		</div>
+
+
 		{{ with .Site.GetPage "/evento/2025-04-11/index.md" }}
 		<div id="">
 			<div class="wrapper style1">
