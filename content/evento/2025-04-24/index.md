@@ -112,7 +112,7 @@ Nos últimos anos tem integrado equipas de serviços educativos em estruturas de
 
 <div style="clear: both;"></div>
 <div class="image right">
-  <figure><img src="Helena Fara.jpg" alt="" class=""></figure>
+  <figure><img src="MiguelGouveia.jpg" alt="" class=""></figure>
   <figcaption></figcaption>
 </div>
 
