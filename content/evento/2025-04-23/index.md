@@ -9,13 +9,13 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: Presença da autora
+subtitle: de Maria João Lopo de Carvalho <br> Presença da autora <br> Moderação de João Gobern
 tags:
   -
 categorias:
   - 
 ciclo: 
-title: "As Revolucionárias <br> Doze Mulheres Portuguesas Desobedientes de Maria João Lopo de Carvalho"
+title: "As Revolucionárias <br> Doze Mulheres Portuguesas Desobedientes "
 copyright: "Foto capa livro As Revolucionárias"
 paragraph: >- 
   Elas ousaram ser médicas, advogadas, jornalistas, professoras universitárias, cineastas, intelectuais, numa época em que essas actividades estavam proibidas às mulheres. Desobedecendo aos estereótipos do «feminino», dizendo-se ou não feministas, elas fizeram avançar o mundo. Foram pioneiras, desbravadoras, valentes, ousadas e solidárias. A escritora Maria João Lopo de Carvalho investigou a fundo a vida e a obra de doze extraordinárias portuguesas que fizeram a travessia do século XIX para o século XX e da Monarquia para a República. São elas Maria Amália Vaz de Carvalho, Carolina Michaëlis de Vasconcelos, Angelina Vidal, Adelaide Cabete, Domitila de Carvalho, Ana de Castro Osório, Virgínia de Castro e Almeida, Carolina Beatriz Ângelo, Virgínia Quaresma, Irene Lisboa, Regina Quintanilha e Maria Lamas. Muito diferentes entre si, todas elas se cruzaram em algum momento dos seus aventurosos voos existenciais, que Maria João Lopo de Carvalho nos revela com rigor histórico e encantamento revolucionário.
@@ -42,7 +42,7 @@ eventDate: 2025-04-23T18:00:00Z
 showTime: true
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
+  data: 2025-04-02T17:35:00Z
   local: 
 ---
 

@@ -40,7 +40,7 @@ eventDate: 2025-04-05T17:00:00Z
 showTime: true
 custom:
   copyright:
-  data: 2019-04-02T17:35:00Z
+  data: 2025-04-02T17:35:00Z
   local: 
 ---
 
