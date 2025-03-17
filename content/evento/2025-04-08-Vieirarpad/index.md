@@ -3,24 +3,21 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Coragem Hoje, Abraços Amanhã.jpg
+- src: Cartaz Filme Vieirarpad.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: 
+subtitle: de João Mário Grilo
 tags:
   -
 categorias:
   - 
 ciclo: 
-title: "Ciclo de Cinema"
+title: "«Vieirarpad»"
 copyright: ""
 paragraph: >- 
-  Quatro títulos, quatro escolhas que dialogam com a restante programação. Evocamos as artistas Maria Helena Vieira da Silva e Paula Rego, presentes na Exposição O Vaguear do Olhar e recordamos a luta e a resistência de muitas mulheres em Portugal, em tempos de ditadura e de obscurantismo, quando celebramos o 51.º aniversário do 25 de Abril. Liberdade, liberdade! será também o mote do concerto comentado com que encerramos a 4.ª edição de Abril no Feminino.
-
-
   **Teatro Académico de Gil Vicente**    
 
  
