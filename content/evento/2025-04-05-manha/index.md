@@ -101,5 +101,13 @@ Esta é a nossa maneira de estar, com respeito pelo Cante Alentejano, transmitin
 
 ---
 
+<div style="clear: both;"></div>
+
+<div class="image right">
+  <figure><img src="segue-me-a-capela-3.jpeg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
+
+
 Segue-me à Capela é um colectivo de sete mulheres que trabalha a música tradicional portuguesa numa perspectiva contemporânea, usando a voz como principal instrumento. A percussão e alguns elementos cénicos reforçam os climas gerados a partir do canto. O grupo existe desde 1999 e realizou inúmeros concertos em Portugal e no estrangeiro, colaborou com vários artistas, designadamente em discos e concertos, tendo editado dois discos, um 
 deles cd-livro, e uma compilação dos discos, em edições de autor. Cantamos sons antigos e sons novos dessa arte fugidia com que se embalam os meninos, se encomenda a alma, se evoca o divino e o terreno, se espanta a fadiga e se anima o corpo. Cantigas, amadurecidas de vida, plenas de força telúrica na sua singeleza, histórias, contas de vida, heranças forjadas por quem trabalha, na sua expressão mais universal e instintiva, o canto "a capella" das mulheres que se juntam para trabalhar, rezar, festejar e sonhar. Do repertório fazem parte cantares tradicionais recriados a partir de recolhas de Michel Giacometti, José Alberto Sardinha, Judith Cohen, Ernesto Veiga de Oliveira e do GEFAC. 

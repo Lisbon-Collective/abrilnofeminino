@@ -24,7 +24,7 @@ paragraph: >-
 
   **Piscinas do Mondego**    
 
-  Entrada livre sujeita à lotação do espaç
+  Entrada livre sujeita à lotação do espaço
 
 imagealign: left
 italic: Conversa | Música
@@ -45,7 +45,7 @@ custom:
 ---
 
 <div class="image right">
-  <figure><img src="AnaMarcia_EstelleValente.jpg" alt="" class=""></figure>
+  <figure><img src="Marcia_AnaMarcia_foto_EstelleValente_2Cores.jpg" alt="" class=""></figure>
   <figcaption>© Estelle Valente</figcaption>
 </div>
 
