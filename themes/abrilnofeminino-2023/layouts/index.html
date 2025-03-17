@@ -67,6 +67,19 @@
 		</div>
 		{{ end }}
 
+		<div class="row">
+			<div class="col-6 col-12-medium">
+				{{ with .Site.GetPage "/evento/2025-04-05-manha/index.md" }}
+				{{ .Render "minimal-card" }}
+				{{ end }}
+			</div>
+			<div class="col-6 col-12-medium">
+				{{ with .Site.GetPage "/evento/2025-04-05-tarde/index.md" }}
+				{{ .Render "minimal-card" }}
+				{{ end }}
+			</div>
+		</div>
+
 		{{ with .Site.GetPage "/evento/2025-04-08/index.md" }}
 		<div id="">
 			<div class="wrapper style2">
