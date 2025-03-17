@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Coragem Hoje, Abraços Amanhã.jpg
+- src: IMG_3829.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
