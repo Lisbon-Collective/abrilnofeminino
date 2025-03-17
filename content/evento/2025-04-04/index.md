@@ -45,7 +45,7 @@ custom:
 
 <div style="clear: both;"></div>
 
-<div class="image center" style="text-align: left;">
+<div class="image right" style="text-align: right;">
   <figure><img src="AntonioRebelo.jpg" alt="" class=""></figure>
   <figcaption></figcaption>
 </div>
@@ -57,16 +57,20 @@ Tem desenvolvido a sua investigação no âmbito das literaturas clássicas, do 
 Foi presidente da Confraria da Rainha Santa Isabel de 2010 a 2019.
 
 ---
-<div class="image center" style="text-align: left;">
+<div class="image right" style="text-align: right;">
   <figure><img src="MariaJose.jpg" alt="" class=""></figure>
   <figcaption></figcaption>
 </div>
 <br><br><br>
 
-**Maria José**
+**Maria José Azevedo Santos,** nascida em Coimbra é historiadora da Idade Média Portuguesa, Professora Catedrática Jubilada da Faculdade Letras da Universidade de Coimbra (FLUC). Proferiu largas centenas de conferências e orientou seminários e cursos breves em Paleografia e Diplomática Medievais Latinas e Portuguesas, a sua área nuclear de investigação, em universidades de vários países europeus e do Brasil.
+
+É investigadora do Centro de História da Sociedade e da Cultura da Universidade de Coimbra.
+
+De 2003 a 2011, desempenhou o cargo de Diretora do Arquivo da Universidade de Coimbra. Criou o Prémio «A Arte de ler», destinado a promover a investigação histórica, com recurso a fontes paleográficas. Foi responsável pela criação do mestrado em «Alimentação: Fontes, Cultura e Sociedade», da FLUC,em 2008. É autora de largas dezenas de livros e artigos,muitos deles premiados, de que se destacam alguns sobre a figura Rainha Santa Isabel. Pertence a inúmeras academias e associações científicas em Portugal e no estrangeiro.
 
 ---
-<div class="image center" style="text-align: left;">
+<div class="image right" style="text-align: right;">
   <figure><img src="CarlotaSimoes.jpeg" alt="" class=""></figure>
   <figcaption></figcaption>
 </div>
