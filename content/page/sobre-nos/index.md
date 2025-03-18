@@ -27,5 +27,5 @@ Mariana Gonçalves
 **Site**    
 Bruno Amaral
 
-**Assessoria de Imprensa e Digital**    
-Alexandra Ferreira
+**Assessoria de Comunicação**    
+Isabel Campante
