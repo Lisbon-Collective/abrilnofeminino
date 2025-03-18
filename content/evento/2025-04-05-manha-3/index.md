@@ -37,6 +37,7 @@ custom:
   copyright:
   data: 2025-04-02T17:35:00Z
   local: 
+
 ---
 A 2 de agosto de 2009 o Grupo Coral Feminino As Ceifeiras de Pias apresentou-se em público pela primeira vez. Na sua constituição consta como objeto social «a divulgação do cante tradicional alentejano, dos seus trajes e costumes» e esta tem sido a linha orientadora do trabalho deste grupo durante estes anos. Editaram em 2016 o seu primeiro CD, em formato de livro, intitulado «Cante no Feminino». Além dos espetáculos de Cante, tem participado em oficinas de Cante, documentários, programas de televisão, inclusive para canais estrangeiros, telefilmes, longa-metragem de cinema e diversos festivais.
 Já passaram por várias salas emblemáticas no país, as quais destacam o Coliseu dos Recreios, Teatro da Trindade e o Teatro São Luiz em Lisboa, o Salão Preto e Prata do Casino do Estoril e Capitólio onde foram convidadas num espetáculo da Celina da Piedade.
@@ -44,6 +45,7 @@ A sede d As Ceifeiras de Pias tem uma dinâmica de receção de grupos de turist
 Este grupo trabalha em vários momentos do ano na salvaguarda das tradições da vila de Pias, como o Cante aos Reis, o Cante ao Menino e numa tradição, que se pensa ser única no país, o Jordão, onde além da montagem desta manifestação cultural, o Cante ao Batista é de uma sonoridade muito específica e peculiar.
 O grupo é presença assídua nos diversos eventos do concelho de Serpa, no Dia do Cante integrado no Encontro de Culturas e nas comemorações anuais do 27 de novembro, data em que o Cante foi inscrito na Lista Representativa do Património Cultural Imaterial da Humanidade da UNESCO.
 Esta é a nossa maneira de estar, com respeito pelo Cante Alentejano, transmitindo às novas gerações esta maneira tão única de cantar. É com muito orgulho que somos o Grupo Coral Feminino “As Ceifeiras de Pias”!
+
 
 <div style="clear: both;"></div>
 
