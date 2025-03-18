@@ -35,7 +35,7 @@ custom:
 
 <p>&nbsp;</p>
 
-**«A OBRA DE ARTE FAZ PARTE DO REAL E É DESTINO, REALIZAÇÃO, SALVAÇÃO E VIDA»** 
+**«A OBRA DE ARTE FAZ PARTE DO REAL E É DESTINO, REALIZAÇÃO, SALVAÇÃO E VIDA»** <br>
 Sophia de Mello Breyner Andresen 
 
 
@@ -46,15 +46,15 @@ Gerações de artistas, com linguagens e estéticas diferenciadas, estão repres
 ABRIL NO FEMININO é o resultado de um esforço imenso e de um empenho ainda maior, apoiado por um conjunto de entidades, públicas e privadas, que tornam possível a sua concretização. Mas sem a generosidade, simpatia e disponibilidade dos participantes e convidados da presente edição, ABRIL NO FEMININO não passaria de uma utopia. A todos eles prestamos o nosso sincero e reconhecido agradecimento.
 Vivemos tempos conturbados e assustadores, assistindo a um mundo em decomposição, alimentado por acontecimentos trágicos, imperando o medo e a regressão de direitos e liberdades, para nosso espanto e perplexidade. Pode a Cultura derrubar muros, estabelecer pontes e construir a Paz? 
 
-(…)<br>
+<em>(…)<br>
 Se queremos viver à altura do nosso tempo, então a vitória<br>
 Não estará na espada, mas em todas as pontes que fizemos.<br>
 (…)<br>
 Pois há sempre luz,<br>
 Se houver coragem suficiente para a ver,<br> 
-Se houver coragem suficiente para o ser.<br>
+Se houver coragem suficiente para o ser.<br></em>
 
-*excerto do poema The Hill We Climb (A Colina Que Subimos), de Amanda Gorman, tradução de Carla Fernandes.
+*excerto do poema *The Hill We Climb* (*A Colina Que Subimos*), de Amanda Gorman, tradução de Carla Fernandes.
 <br>
 
 ABRIL NO FEMININO É UM PROJECTO CULTURAL DA AUTORIA DE MARGARIDA MENDES SILVA, PRODUZIDO PELA CULTURA E RISCO ASSOCIAÇÃO CULTURAL
@@ -62,6 +62,7 @@ ABRIL NO FEMININO É UM PROJECTO CULTURAL DA AUTORIA DE MARGARIDA MENDES SILVA, 
 <small style="font-size:14px;">Texto escrito de acordo com a antiga ortografia</small>
 
 <div class="image fit"><img src="images/v1.1_Calendario_ANF2025.jpg" alt=""></div>
+<div class="image fit"><img src="images/v1.6_Desdo_ANF25_2.jpg" alt=""></div>
 
 <style>#main > div > div > header > h1{display: none;}</style>
   
