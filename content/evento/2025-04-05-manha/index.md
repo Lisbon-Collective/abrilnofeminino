@@ -80,8 +80,8 @@ Já conquistou vários prémios e distinções ao longo da sua carreira. Em 2004
 <div style="clear: both;"></div>
 
 <div class="image right">
-  <figure><img src="Ceifeiras Pias-Camisaria Salgueiros.jpg" alt="" class=""></figure>
-  <figcaption>Grupo Coral Feminino As Ceifeiras de Pias © Ana Baião</figcaption>
+  <figure><img src="joseManuelCostaPhotography.jpg" alt="" class=""></figure>
+  <figcaption>© José Manuel Costa</figcaption>
 </div>
 
 A 2 de agosto de 2009 o Grupo Coral Feminino As Ceifeiras de Pias apresentou-se em público pela primeira vez. Na sua constituição consta como objeto social «a divulgação do cante tradicional alentejano, dos seus trajes e costumes» e esta tem sido a linha orientadora do trabalho deste grupo durante estes anos. Editaram em 2016 o seu primeiro CD, em formato de livro, intitulado «Cante no Feminino». Além dos espetáculos de Cante, tem participado em oficinas de Cante, documentários, programas de televisão, inclusive para canais estrangeiros, telefilmes, longa-metragem de cinema e diversos festivais.
@@ -97,7 +97,7 @@ Esta é a nossa maneira de estar, com respeito pelo Cante Alentejano, transmitin
 <div style="clear: both;"></div>
 
 <div class="image right">
-  <figure><img src="segue-me-a-capela-3.jpeg" alt="" class=""></figure>
+  <figure><img src="segue-me-a-capela-1.jpeg" alt="" class=""></figure>
   <figcaption></figcaption>
 </div>
 

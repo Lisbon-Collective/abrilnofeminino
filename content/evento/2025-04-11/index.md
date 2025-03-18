@@ -9,7 +9,7 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: de Eric-Emmanuel Schmitt, Encenação Natália Luiza, Interpretação Teresa Faria, Teatro Meridional 
+subtitle: de Eric-Emmanuel Schmitt <br> Encenação Natália Luiza<br> Interpretação Teresa Faria<br> Teatro Meridional 
 tags:
   -
 categorias:
