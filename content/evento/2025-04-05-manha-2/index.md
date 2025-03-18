@@ -13,7 +13,7 @@ subtitle: de Ana Baião <br> Presença da autora <br> Moderação de Sílvia Fra
 tags:
   -
 categorias:
-  - 
+  - Apresentação do livro
 ciclo: 
 title: "10 Anos de Cante"
 copyright: "© Ana Baião"

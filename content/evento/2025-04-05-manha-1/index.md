@@ -13,7 +13,7 @@ subtitle: de Ana Baião
 tags:
   -
 categorias:
-  - 
+  - Exposição de Fotografia
 ciclo: 
 title: "10 Anos de Cante"
 copyright: "© Ana Baião"

@@ -13,7 +13,7 @@ subtitle:
 tags:
   -
 categorias:
-  - 
+  - Música
 ciclo: 
 title: "10 Anos de Cante"
 copyright: ""
