@@ -37,7 +37,7 @@ custom:
 
 <abrilnofeminino@gmail.com>
 
-**Imprensa** 93 910 31 67
+**Comunicação** 96 565 97 92
 
 **Geral** 91 843 11 55 / 96 261 00 50
 
