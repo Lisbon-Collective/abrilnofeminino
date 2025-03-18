@@ -18,7 +18,7 @@ ciclo:
 title: "Isabel de Aragão, Rainha de Portugal: mulher e cidadã"
 copyright: "Francisco de Zurbarán, Santa Isabel de Portugal, 1635"
 paragraph: >- 
-  No ano em que se celebram os 700 anos da peregrinação da Rainha Santa Isabel a Santiago de Compostela, esta sessão pretende dar a conhecer ao público a «cidadã» Isabel de Portugal, o seu papel diplomático como rainha, o seu lado empreendedor associado à fundação do Mosteiro de Santa Clara: será que a acção de Isabel de Portugal se poderia hoje designar por «empreendedorismo social» avant la lettre?
+  No ano em que se celebram os 700 anos da peregrinação da Rainha Santa Isabel a Santiago de Compostela, esta sessão pretende dar a conhecer ao público a «cidadã» Isabel de Portugal, o seu papel diplomático como rainha, o seu lado empreendedor associado à fundação do Mosteiro de Santa Clara: será que a acção de Isabel de Portugal se poderia hoje designar por empreendedorismo social *avant la lettre*?
 
 
   **Biblioteca Geral da Universidade de Coimbra, Sala de São Pedro**    
