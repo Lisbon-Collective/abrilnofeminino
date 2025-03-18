@@ -43,9 +43,27 @@ custom:
 <div class="col-4">
 <ul>
 <li><a href="https://fundacaolacaixa.pt/pt/">BPI | Fundação La Caixa</a></li>
-<li><a href="https://www.vilagale.com">Hotel Vila Galé</a></li>
+<li><a href="https://www.cm-coimbra.pt/">Câmara Municipal de Coimbra</a></li>
+<li><a href="https://coimbraconvento.pt/pt/">Convento São Francisco</a></li>
+<li><a href="https://museu.cm-coimbra.pt/mweb">Museu Municipal de Coimbra</a></li>
+<li><a href="https://www.uc.pt/bguc/">Biblioteca Geral da UC</a></li>
+<li><a href="https://www.uc.pt/imprensa/">Imprensa da Universidade de Coimbra</a></li>
+<li><a href="https://tagv.pt/">TAGV</a></li>
+<li><a href="https://www.seminariomaiordecoimbra.com/pt/">Seminário Maior de Coimbra</a></li>
+<li><a href="https://piscinasdomondego.com/">Piscinas do Mondego</a></li>
+<li><a href="https://www.aecoimbraoeste.pt/">Escola Dom Duarte, Agrupamento de Escolas</a></li>
+<li><a href="https://www.bruaa.pt/">Bruaá</a></li>
 
+<li><a href="https://www.cm-serpa.pt/pt/Default.aspx">Município de Serpa</a></li>
+<li><a href="https://www.visitserpa.pt/44543/museu-do-cante-alentejano">Museu de Cante Alentejano</a></li>
+<li><a href="https://www.ufcoimbra.pt/">União das Freguesias de Coimbra</a></li>
+<li><a href="https://apbc.pt/">Baixa de Coimbra</a></li>
+<li><a href="https://www.vilagale.com">Hotel Vila Galé</a></li>
 <li><a href="https://www.sapientiahotel.com/">Sapientia Boutique Hotel</a></li>
+<li><a href="https://cordel.pt/">Cordel</a></li>
+<li><a href="https://www.facebook.com/zonapro.zonapro.90/">Zonapro</a></li>
+<li><a href="https://bluehousecoimbra.com/">Bluehouse</a></li>
+
 <li><a href="https://www.o-palco.pt/">O Palco</a></li> 
 <li><a href="https://fangas.pt/home/">Fangas</a></li>
 </ul>
@@ -63,14 +81,21 @@ custom:
   <div class="col-12">
 <strong>AGRADECIMENTOS</strong>
   <ul>
-  <li>Cláudio Cardoso (Cesto d'Alice)</li>
-   <li>Filipe Pereira Duarte (Super Local)</li>
-   <li>Ulisses Teixeira e Ana Dias (Quinta dos Sardões)</li>
-    <li>A Escola da Noite</li>
-    <li>Biblioteca Municipal de Coimbra</li>
-    <li>Biblioteca Municipal de Sintra</li>
-    <li>Fundação ADFP</li>
-    <li>Produtora Três Vinténs</li>
+  <li>Casa Azul de Célia Marques</li>
+   <li>Helena Faria</li>
+   <li>Segue-me à Capela</li><br>
+    <li>avenida7</li>
+    <li>Bragas, Lda. Chapelaria & Camisaria</li>
+    <li>Casa Baltazar</li>
+    <li>Casa da Sorte</li>
+    <li>Casa dos Linhos</li>
+    <li>Livraria Bertrand</li>
+    <li>Ourivesaria Costa</li>
+    <li>Pastelaria Briosa</li>
+    <li>Salgueiro’s</li>
+    <li>Tricots Brancal</li>
+    <li>Trouxa Mocha</li>
+
   </ul>
   </div>
 </div>
