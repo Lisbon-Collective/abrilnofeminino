@@ -20,8 +20,9 @@ copyright: "© Auditório Gaia_113"
 paragraph: >- 
   Pedro Martins (guitarra portuguesa), Yuri Reis (viola) e Filipe Teixeira (baixo) 
   Orador convidado: Miguel Carvalho sobre «O princípio do livre pensamento, da livre opinião 
-  e da tolerância»
-
+  e da tolerância».
+  
+  
   Projecto nascido sob o signo do desassossego e impulsionado pela vontade de fazer acontecer, inclui no seu alinhamento José Afonso, Manuel Alegre, Adriano Correia de Oliveira, David Mourão-Ferreira, Alain Oulman, entre outros.
 
 
@@ -32,8 +33,7 @@ paragraph: >-
   
   
   Reservas 962 610 050 | 91 843 11 55 <br>
-  Venda de bilhetes no local, <br>
-  NO dia do espetáculo, a partir das 18h00 <br>
+  Venda de bilhetes no local, no dia do espetáculo, a partir das 18h00 <br>
 
 
 imagealign: left
@@ -84,7 +84,7 @@ Miguel Carvalho, a propósito do single “Tanto Mar”, lançado no dia 25 Abri
 
 <div class="image right">
   <figure><img src="miguel-carvalho_Mariana Correia Pinto.jpg" alt="" class=""></figure>
-  <figcaption></figcaption>
+  <figcaption>© Mariana Correia Pinto</figcaption>
 </div>
 
 

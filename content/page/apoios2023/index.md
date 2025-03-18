@@ -63,9 +63,6 @@ custom:
 <li><a href="https://cordel.pt/">Cordel</a></li>
 <li><a href="https://www.facebook.com/zonapro.zonapro.90/">Zonapro</a></li>
 <li><a href="https://bluehousecoimbra.com/">Bluehouse</a></li>
-
-<li><a href="https://www.o-palco.pt/">O Palco</a></li> 
-<li><a href="https://fangas.pt/home/">Fangas</a></li>
 </ul>
 </div>
 <div class="col-4">
