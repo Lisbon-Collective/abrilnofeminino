@@ -27,7 +27,7 @@ paragraph: >-
   Entrada livre sujeita à lotação do espaço
 
 imagealign: left
-italic: Conversa | Música
+italic: Conversa
 options:
   hideFooter: false
   hideSubscribeForm: false
@@ -53,22 +53,3 @@ Márcia é um exemplo raro de consistência artística destacando-se pela sua m�
 
 
 <div style="clear: both;"></div>
-
----
-
-<div class="image right">
-  <figure><img src="JoaoGobern.jpeg" alt="" class=""></figure>
-  <figcaption>© Marisa Martins</figcaption>
-</div>
-
-
-Nasceu em 1960, em Lisboa, na tradicional Maternidade Alfredo da Costa.
-Frequentou o curso de Direito, até optar, de forma aliviada e convicta, pelo jornalismo.
-Trabalhou em jornais diários, começando em *A Capital*, e semanários, revistas de actualidade e estações de rádio. Foi director do *Se7e*, da *TV Guia* e da *Sábado*, director-adjunto da *Focus* e editor em *O Independente* e na *Visão*.
-Escreve actualmente, sempre que pode, no *JL – Jornal de Letras, Artes & Ideias*. Na rádio, passou pelo CMR (o antigo e genuíno), pela RFM, pela Rádio Comercial, pela TSF,e pela Rádio Marginal.
-“Fixou-se” na Antena 1, onde realizou, em parceria com Pedro Rolo Duarte, o programa *Hotel Babilónia*, e assinou uma crónica diária, *Pano Para Mangas*. Repartiu com Margarida Pinto Correia a responsabilidade pelo programa *Encontros Imediatos* e assumiu, a solo, por *As Regras da Atracção*. Agora, assina o programa *Bairro Latino* e a rubrica diária *Zona VIP*, no *Programa da Manhã*. No mesmo *Programa da Manhã*, participou na rubrica *A Virtude do Meio*. Já escreveu e apresentou mais de duas dúzias de séries especiais dedicadas a grandes figuras da música, sendo Tom Waits, Rod Stewart e Carlos Paredes os mais recentes “visados”.
-Para a Antena 2, escreveu e apresentou séries documentais sobre Maria Callas, Astor Piazzolla e compositores de bandas sonoras de filmes.
-Integra, desde a época futebolística 2012/2013, o painel de comentadores do *Trio d’Ataque* (RTP3).
-Publicou em 2016 o livro *Quando A TV Parava o País*, que se seguiu a *Pano Para Mangas*, em 2014, e *Boca Doce*, em 2006. Para Maio de 2025 está marcada a edição de mais um, sobre a indústria musical portuguesa. Continua a sonhar com um romance, ou vários, e gostaria de fazer letras para canções. Apresentou, sempre *pro bono*, mais de três dezenas de livros.
-É sócio do Benfica, viciado em café, continua a descobrir as maravilhas do peixe na sua nova cidade, convive alegremente com um gato chamado Trotsky, é caminhante e nadador amador, melómano açambarcador e leitor compulsivo e anárquico. Nunca foi filiado em partidos políticos, mas não se demite de uma cidadania activa e protestante. Casou três vezes e é feliz à quarta tentativa, não legalizada.
-Vive, por opção e coração, na Póvoa de Varzim desde 2005.
