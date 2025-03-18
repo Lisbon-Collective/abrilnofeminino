@@ -23,9 +23,11 @@
 				<div class="intro">
 					<header><strong>
 						<span class="category">{{ .Params.italic | upper }}</span></strong>
-						<h3>{{ .Params.eventdate | dateFormat "02" }} {{ .Params.eventdate | dateFormat "01" | i18n }},
-							{{ $dayOfWeekPt -}}
-							{{ if eq (.Params.showtime) true }}, 
+						<h3>{{ if eq (.Params.showdate) false }}
+							{{else}}
+							{{ .Params.eventdate | dateFormat "02" }} {{ .Params.eventdate | dateFormat "01" | i18n }},
+							{{ $dayOfWeekPt -}}{{end}}
+							{{ if eq (.Params.showtime) true }},
 								{{ .Params.eventdate | dateFormat "15h04" -}}
 							{{ end }}
 						</h3>
@@ -61,7 +63,7 @@
 						{{- end }}
 						</a>
 
-					<!-- <div class="content"><a href="{{.Permalink}}">Ler Mais</a></div> -->
+<!-- <div class="content"><a href="{{.Permalink}}">Ler Mais</a></div> -->
 				</div>
 				{{- with .Resources.GetMatch "header_secondary" -}}
 				<div class="spotlight">
