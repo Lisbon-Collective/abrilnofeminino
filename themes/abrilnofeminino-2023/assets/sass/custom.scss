@@ -72,12 +72,16 @@ a.button.border{
 	border-color: _palette(fg-bold);
 }
 .wrapper.home_bg.special{
-	text-shadow: 1px 1px 4px rgba(0,0,0,0.9);
-	//color: _palette(accent2);
+	text-shadow: 1px 1px 20px rgba(0,0,0,0.1);
+	color: _palette(accent3);
 	font-weight: 700;
 	
+	h1 {
+        color: _palette(accent2);
+    }
 	
 }
+
 .single  figure, figure#headerimage{
 	margin: 10px 15px 15px 15px;
 }
