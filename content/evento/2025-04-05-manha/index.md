@@ -9,25 +9,17 @@ resources:
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: de Ana Baião <br> Presença da autora <br> Moderação de Sílvia Franklim
+subtitle: 
 tags:
   -
 categorias:
   - 
 ciclo: 
-title: "10 Anos de Cante"
-copyright: "Grupo Coral Feminino As Ceifeiras de Pias © Ana Baião"
+title: ""
+copyright: ""
 paragraph: >- 
   Em Novembro de 2014, a UNESCO declarou o Cante Alentejano como Património Imaterial da Humanidade. Uma década depois, prestamos homenagem a todos os grupos corais, aos seus cantadores, ensaiadores, músicos e compositores, com três momentos distintos numa única manhã, na Baixa de Coimbra. Fotografias, Livro e Cante, este agora mais vivo do que nunca.
 
-
-
-  **Convento São Francisco | Black Box**    
-
-  Preço único: 10,00 €
-
-
-  Contacto e reservas: bilheteira do Convento São Francisco diariamente entre as 15h00 e as 20h00 | 239 857 191 ou [bilheteira@coimbraconvento.pt](mailto:bilheteira@coimbraconvento.pt)
 
 imagealign: left
 italic: EXPOSIÇÃO | CONVERSA | MÚSICA
