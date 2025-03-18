@@ -21,10 +21,7 @@ paragraph: >-
   Elas ousaram ser médicas, advogadas, jornalistas, professoras universitárias, cineastas, intelectuais, numa época em que essas actividades estavam proibidas às mulheres. Desobedecendo aos estereótipos do «feminino», dizendo-se ou não feministas, elas fizeram avançar o mundo. Foram pioneiras, desbravadoras, valentes, ousadas e solidárias. A escritora Maria João Lopo de Carvalho investigou a fundo a vida e a obra de doze extraordinárias portuguesas que fizeram a travessia do século XIX para o século XX e da Monarquia para a República. São elas Maria Amália Vaz de Carvalho, Carolina Michaëlis de Vasconcelos, Angelina Vidal, Adelaide Cabete, Domitila de Carvalho, Ana de Castro Osório, Virgínia de Castro e Almeida, Carolina Beatriz Ângelo, Virgínia Quaresma, Irene Lisboa, Regina Quintanilha e Maria Lamas. Muito diferentes entre si, todas elas se cruzaram em algum momento dos seus aventurosos voos existenciais, que Maria João Lopo de Carvalho nos revela com rigor histórico e encantamento revolucionário.
 
 
-  **Biblioteca Geral da Universidade de Coimbra, Sala de São Pedro**    
-
-  Preço único: 10,00 €
-
+  **Biblioteca Geral da Universidade de Coimbra, Sala de São Pedro**   
 
   Entrada livre, com reserva obrigatória para [bg-eventos@bg.uc.pt](mailto:bg-eventos@bg.uc.pt )
 
@@ -50,7 +47,7 @@ custom:
 
 <div class="image right">
   <figure><img src="maria_joao_Lopo de Carvalho.jpg" alt="" class=""></figure>
-  <figcaption></figcaption>
+  <figcaption>©João Lobo Carvalho</figcaption>
 </div>
 
 **Maria João Lopo de Carvalho** é licenciada em Línguas e Literaturas Modernas pela Universidade Nova de Lisboa. Em 1989 fundou uma empresa de- dicada à edição de livros personalizados e ao ensino de inglês para crianças. Foi também publicitária e assessora do Gabinete de Educação e Acção Social da Câmara de Lisboa. Publicou mais de cinquenta títulos de literatura infanto-juvenil e cinco romances históricos de grande sucesso: Marquesa de Alorna (2011), Padeira de Aljubarrota (2013), Até Que o Amor me Mate — As Mulheres de Camões (2015), O Fado da Severa (2017), O Bisavô (2020).
@@ -61,7 +58,7 @@ custom:
 
 <div class="image right">
   <figure><img src="JoaoGobern.jpeg" alt="" class=""></figure>
-  <figcaption>© Marisa Martins</figcaption>
+  <figcaption></figcaption>
 </div>
 
 
