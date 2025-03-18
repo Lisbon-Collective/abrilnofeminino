@@ -48,3 +48,53 @@ custom:
   local: 
 ---
 
+<div style="clear: both;"></div>
+
+<div class="image right">
+  <figure><img src="Cartaz Filme Vieirarpad.jpg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
+
+<strong>«Vieirarpad»</strong>
+
+de João Mário Grilo
+
+
+
+<div style="clear: both;"></div>
+
+<div class="image right">
+  <figure><img src="Cartaz Filme Paula Rego.jpg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
+
+<strong>«Paula Rego Histórias & Segredos»</strong><br>
+de Nick Willing
+
+
+
+<div style="clear: both;"></div>
+
+<div class="image right">
+  <figure><img src="Cartaz O que podem as palavras.jpg" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
+
+<strong>«O que podem as palavras»</strong><br>
+de Luísa Marinho e Luísa Sequeira
+
+
+
+
+<div style="clear: both;"></div>
+
+<div class="image right">
+  <figure><img src="Elas também estiveram lá_Still.png" alt="" class=""></figure>
+  <figcaption></figcaption>
+</div>
+
+
+<strong>«Elas também estiveram lá»</strong><br>
+de Joana Craveiro/Teatro do Vestido
+
+

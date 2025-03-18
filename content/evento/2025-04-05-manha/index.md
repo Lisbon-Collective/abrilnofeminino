@@ -39,7 +39,7 @@ options:
 scripts:
   -
 weight: 
-eventDate: 2025-04-05T19:00:00Z
+eventDate: 2025-04-05T10:30:00Z
 showTime: true
 custom:
   copyright:
