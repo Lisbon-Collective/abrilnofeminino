@@ -16,7 +16,7 @@ categorias:
   - 
 ciclo: 
 title: "TUDO MENOS FUTEBOL"
-copyright: ""
+copyright: "© Marisa Martins"
 paragraph: >- 
   Depois da conversa, seguem-se duas horas de muito boa música. Canções escolhidas por João Gobern [jornalista, crítico de música, homem da rádio com vários programas de autor e séries especiais dedicadas a grandes figuras da música, comentador de futebol, entre outras actividades] com uma simples promessa: vozes inteiramente no Feminino.
 
