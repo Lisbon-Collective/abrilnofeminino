@@ -59,7 +59,15 @@
 		</div>
 		{{ end }}
 
-		{{ with .Site.GetPage "/evento/2025-04-05-tarde/index.md" }}
+		{{ with .Site.GetPage "/evento/2025-04-05-tarde-1/index.md" }}
+		<div id="">
+			<div class="wrapper style1">
+			{{ .Render "card-inner" }}
+			</div>
+		</div>
+		{{ end }}
+		
+		{{ with .Site.GetPage "/evento/2025-04-05-tarde-2/index.md" }}
 		<div id="">
 			<div class="wrapper style1">
 			{{ .Render "card-inner" }}
@@ -67,10 +75,10 @@
 		</div>
 		{{ end }}
 
-		<div class="row">
+	<!--	<div class="row">
 			<div class="col-6 col-12-medium">
 				{{ with .Site.GetPage "/evento/2025-04-05-manha/index.md" }}
-				{{ .Render "minimal-card-no-link" }}
+				{{ .Render "minimal-card" }}
 				{{ end }}
 			</div>
 			<div class="col-6 col-12-medium">
@@ -80,7 +88,7 @@
 			</div>
 		</div>
 
-<!--		{{ with .Site.GetPage "/evento/2025-04-08/index.md" }}
+		{{ with .Site.GetPage "/evento/2025-04-08/index.md" }}
 		<div id="">
 			<div class="wrapper style2">
 			{{ .Render "card-inner" }}
@@ -118,7 +126,7 @@
 			<header class="major">
 				<h2>Cinema</h2>
 				<div class="row">
-					<div class="col-4"></div>
+					<div class="col-12"></div>
 					<div class="col-12">
 					<p> <strong>
 						Teatro Académico de Gil Vicente <br>
