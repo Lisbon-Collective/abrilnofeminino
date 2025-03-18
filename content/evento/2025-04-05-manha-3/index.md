@@ -15,10 +15,10 @@ tags:
 categorias:
   - 
 ciclo: 
-title: "10 Anos de Cante"
+title: "Grupo Coral Feminino As Ceifeiras de Pias"
 copyright: "© José Manuel Costa"
 paragraph: >- 
-  **Arco de Almedina (R. Ferreira Borges)**
+  **Arco de Almedina (R. Ferreira Borges)**<br>
   <em>*caso ocorram condições atmosféricas adversas, o concerto coral terá lugar no átrio do edifício da Câmara Municipal.</em>
 
 imagealign: left

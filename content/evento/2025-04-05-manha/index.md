@@ -15,7 +15,7 @@ tags:
 categorias:
   - 
 ciclo: 
-title: ""
+title: "10 Anos de Cante"
 copyright: ""
 paragraph: >- 
   Em Novembro de 2014, a UNESCO declarou o Cante Alentejano como Património Imaterial da Humanidade. Uma década depois, prestamos homenagem a todos os grupos corais, aos seus cantadores, ensaiadores, músicos e compositores, com três momentos distintos numa única manhã, na Baixa de Coimbra. Fotografias, Livro e Cante, este agora mais vivo do que nunca.
@@ -76,6 +76,7 @@ Já conquistou vários prémios e distinções ao longo da sua carreira. Em 2004
 
 ---
 
+
 <div style="clear: both;"></div>
 
 <div class="image right">
@@ -103,3 +104,4 @@ Esta é a nossa maneira de estar, com respeito pelo Cante Alentejano, transmitin
 
 Segue-me à Capela é um colectivo de sete mulheres que trabalha a música tradicional portuguesa numa perspectiva contemporânea, usando a voz como principal instrumento. A percussão e alguns elementos cénicos reforçam os climas gerados a partir do canto. O grupo existe desde 1999 e realizou inúmeros concertos em Portugal e no estrangeiro, colaborou com vários artistas, designadamente em discos e concertos, tendo editado dois discos, um 
 deles cd-livro, e uma compilação dos discos, em edições de autor. Cantamos sons antigos e sons novos dessa arte fugidia com que se embalam os meninos, se encomenda a alma, se evoca o divino e o terreno, se espanta a fadiga e se anima o corpo. Cantigas, amadurecidas de vida, plenas de força telúrica na sua singeleza, histórias, contas de vida, heranças forjadas por quem trabalha, na sua expressão mais universal e instintiva, o canto "a capella" das mulheres que se juntam para trabalhar, rezar, festejar e sonhar. Do repertório fazem parte cantares tradicionais recriados a partir de recolhas de Michel Giacometti, José Alberto Sardinha, Judith Cohen, Ernesto Veiga de Oliveira e do GEFAC. 
+
