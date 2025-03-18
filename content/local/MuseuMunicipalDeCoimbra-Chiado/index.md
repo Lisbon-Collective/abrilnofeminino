@@ -3,7 +3,7 @@ date: 2019-02-01T00:02:38Z
 description: ""
 draft: false
 resources: 
-- src: DGPC_ADF_MNMC_Jose_Paulo_Ruas_Patio_e_Loggia_renascentista_do_Museu.jpg
+- src: EDChiado.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -11,12 +11,12 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: Largo Dr. José Rodrigues
+subtitle: R. Ferreira Borges 85, 3000-363 Coimbra
 tags: 
   - 
 categories: 
   - 
-title: "1. Museu Nacional de Machado de Castro"
+title: "1. Museu Municípal de Coimbra – Edifício Chiado"
 weight: 1
 options:
   hideFooter: false

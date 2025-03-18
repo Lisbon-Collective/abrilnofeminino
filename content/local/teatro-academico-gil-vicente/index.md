@@ -1,7 +1,7 @@
 ---
 date: 2019-02-03T00:00:01Z
 description: ""
-draft: true
+draft: false
 resources:
 - src: "@Ivo Tavares 08 TAGC.jpg"
   name: "header"
@@ -17,8 +17,8 @@ categorias:
   - 
 ciclo: 
 
-title: 3. Teatro Académico de Gil Vicente
-weight: 3
+title: 5. Teatro Académico de Gil Vicente
+weight: 5
 
 options:
   hideFooter: false

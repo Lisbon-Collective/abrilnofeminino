@@ -1,15 +1,15 @@
 ---
 date: 2019-02-03T00:00:01Z
 description: ""
-draft: true
+draft: false
 resources:
-- src: "@Ivo Tavares 08 TAGC.jpg"
+- src: "EscolaDDuarte.jpeg"
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
   title: gallery-title-:counter
 slug:
-subtitle: Praça da República
+subtitle: Rua António Augusto Gonçalves
 
 tags:
   -
@@ -17,8 +17,8 @@ categorias:
   - 
 ciclo: 
 
-title: 3. Teatro Académico de Gil Vicente
-weight: 3
+title: 7. Escola Secundária D. Duarte
+weight: 7
 
 options:
   hideFooter: false

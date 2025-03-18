@@ -1,7 +1,7 @@
 ---
 date: 2019-02-01T00:02:38Z
 description: ""
-draft: false
+draft: true
 resources: 
 - src: DGPC_ADF_MNMC_Jose_Paulo_Ruas_Patio_e_Loggia_renascentista_do_Museu.jpg
   name: "header"

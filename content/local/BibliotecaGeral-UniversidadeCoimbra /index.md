@@ -1,9 +1,9 @@
 ---
-date: 2019-02-16T00:02:38Z
+date: 2019-02-03T00:02:38Z
 description: ""
-draft: true
+draft: false
 resources: 
-- src: Teatro da Cerca de S.Bernardo.jpg
+- src: UC-GeneralLibrary.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -11,12 +11,14 @@ resources:
 - src:
   name: slide-1
 slug:
-subtitle: Cerca de São Bernardo
+subtitle: 'Largo Porta Férrea, 3000-447 Coimbra'
 tags: 
   - 
 categories: 
   - 
-title: "8. Teatro da Cerca de São Bernardo"
+
+title: "2. Biblioteca Geral da Universidade de Coimbra"
+weight: 2
 
 options:
   hideFooter: false
@@ -26,8 +28,16 @@ options:
 scripts:
   -
 custom:
-  copyright:
+  copyright: 
   data:
   hora: 
   local:
+paragrap: "Ruas Ferreira Borges e Visconde da Luz"
 ---
+
+
+
+<style>
+div.image.main{display: none;}
+</style>
+
