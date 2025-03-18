@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Coragem Hoje, Abraços Amanhã.jpg
+- src: 20250318_120542.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -16,7 +16,7 @@ categorias:
   - 
 ciclo: 
 title: "Idadismo. Vamos ou Ficamos? Ficamos!"
-copyright: ""
+copyright: "© Maria Judite de Carvalho"
 paragraph: >- 
   Práctica enraizada na sociedade, o idadismo é um conceito que inclui «estereótipos, preconceitos e discriminação direccionados às pessoas com base na sua idade» e pode ser «institucional, interpessoal, mas também contra si próprio», como define a gerontóloga Lia Araújo. Apesar de ser «transversal a todas as idades», sabe-se que atinge sobretudo as pessoas mais velhas, uma discriminação ainda bastante invisível.
   Idadismo é o mote para a conversa na presença de mulheres com percursos notáveis nas suas vidas profissionais, académicas e cuja idade pode, agora, ameaçar a continuidade do seu trabalho ou da sua acção na sociedade. Fim de ciclo e de carreira? Será que tem de ser mesmo assim? Como combater o idadismo?
