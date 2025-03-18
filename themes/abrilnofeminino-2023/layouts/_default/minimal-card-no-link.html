@@ -1,4 +1,4 @@
-<p class="special lead"><strong>{{ .Params.eventdate | dateFormat "2" }} de Maio | {{ .Params.eventdate | dateFormat "15h04" }}</strong></p>
+<p class="special lead"><strong>{{ .Params.eventdate | dateFormat "2" }} de Abril | {{ .Params.eventdate | dateFormat "15h04" }}</strong></p>
 <p>{{ .Params.quote | safeHTML }}</p>
 {{ range .Params.categorias }}
 	<p>{{.}}</p>
@@ -20,4 +20,6 @@
 			    <img class="center" src="{{- $.Site.Params.headerPhoto -}}" alt="" />
 			    </div>
 			{{- end }}
-
+			{{ with .Params.paragraph }}
+				<p>{{. | markdownify}}</p>
+			{{end}}
