@@ -13,7 +13,7 @@ subtitle: Participação especial de «Segue-me à Capela»
 tags:
   -
 categorias:
-  - 
+  - Música
 ciclo: 
 title: "Grupo Coral Feminino As Ceifeiras de Pias"
 copyright: "© José Manuel Costa"

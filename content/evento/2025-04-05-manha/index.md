@@ -13,7 +13,7 @@ subtitle:
 tags:
   -
 categorias:
-  - 
+  - Música
 ciclo: 
 title: "10 Anos de Cante"
 copyright: "Grupo Coral Feminino As Ceifeiras de Pias © Ana Baião"

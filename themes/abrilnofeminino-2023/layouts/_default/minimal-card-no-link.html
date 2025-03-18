@@ -1,5 +1,8 @@
 <p class="special lead"><strong>{{ .Params.eventdate | dateFormat "2" }} de Maio | {{ .Params.eventdate | dateFormat "15h04" }}</strong></p>
 <p>{{ .Params.quote | safeHTML }}</p>
+{{ range .Params.categorias }}
+	<p>{{.}}</p>
+{{ end }}
 			<h3 class="special lead">{{ .Title | safeHTML }}</h3>
 			<p>{{ .Params.subtitle | safeHTML }}</p>
 			
