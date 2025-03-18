@@ -100,7 +100,7 @@ Participa regularmente em exposições a solo e colectivas, tanto em território
 <div style="clear: both;"></div>
 <div class="image right">
   <figure><img src="Helena Faria.jpg" alt="" class=""></figure>
-  <figcaption>© Joana Correia</figcaption>
+  <figcaption></figcaption>
 </div>
 
 
