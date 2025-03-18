@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Ana-Baiao_TiagoMiranda.jpg
+- src: 10 anos de Cante.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -16,7 +16,7 @@ categorias:
   - 
 ciclo: 
 title: "10 Anos de Cante"
-copyright: "© Tiago Miranda"
+copyright: "© Ana Baião"
 paragraph: >- 
   11h00 Museu Municipal – Edifício Chiado 
   Entrada livre sujeita à lotação da sala

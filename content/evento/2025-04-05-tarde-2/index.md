@@ -22,24 +22,24 @@ paragraph: >-
 
 
 
-  **Piscinas do Mondego** <br>
+  **Piscinas do Mondego** <br><br>
 
   17h00 -20h00
   Entrada livre sujeita à lotação do espaço
 
 
 imagealign: left
-italic: Música
+italic:
 options:
   hideFooter: false
   hideSubscribeForm: false
-  showHeader: true
+  showHeader: false
   unlisted: false
 scripts:
   -
 weight: 
 eventDate: 2025-04-05T17:00:00Z
-showTime: true
+showTime: false
 custom:
   copyright:
   data: 2025-04-02T17:35:00Z
@@ -47,11 +47,6 @@ custom:
 
 
 ---
-
-<div class="image right">
-  <figure><img src="JoaoGobern.jpeg" alt="" class=""></figure>
-  <figcaption>© Marisa Martins</figcaption>
-</div>
 
 
 Nasceu em 1960, em Lisboa, na tradicional Maternidade Alfredo da Costa.

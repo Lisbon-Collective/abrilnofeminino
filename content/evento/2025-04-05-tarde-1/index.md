@@ -15,19 +15,16 @@ tags:
 categorias:
   - 
 ciclo: 
-title: "MÁRCIA: INTERPRETE, AUTORA E COMPOSITORA"
+title: "MÁRCIA: INTÉRPRETE, AUTORA E COMPOSITORA"
 copyright: "© Estelle Valente"
 paragraph: >- 
   Márcia é um dos maiores valores, femininos mas também absolutos, da Música Portuguesa. Escreve, compõe e canta como poucas (e poucos…), grava com uma assiduidade invejável, vai deixando canções inscritas no património do bom gosto. Além disso, é uma excelente conversadora e gosta de abordar muito mais do que o seu trabalho, de forma convicta, estimulante e assertiva. Como poderá constatar quem quiser assistir a uma conversa de que só se conhece o ponto de partida: o último disco que publicou, "Ana Márcia" que, em si mesmo, já dará pano para mangas…
 
 
 
-  **Piscinas do Mondego**    
-
-  Entrada livre sujeita à lotação do espaço
 
 imagealign: left
-italic: Conversa
+italic: Conversa | Música
 options:
   hideFooter: false
   hideSubscribeForm: false

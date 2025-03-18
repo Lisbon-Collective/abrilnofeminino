@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: joseManuelCosta.jpg
+- src: Ceifeiras Pias-Camisaria Salgueiros.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -16,7 +16,7 @@ categorias:
   - 
 ciclo: 
 title: "Grupo Coral Feminino As Ceifeiras de Pias"
-copyright: "© José Manuel Costa"
+copyright: "© Ana Baião"
 paragraph: >- 
   **Arco de Almedina (R. Ferreira Borges)**<br>
   <em>*caso ocorram condições atmosféricas adversas, o concerto coral terá lugar no átrio do edifício da Câmara Municipal.</em>

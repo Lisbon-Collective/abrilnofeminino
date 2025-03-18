@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: 10 anos de Cante.jpg
+- src: Margaridas Peroguarda-Casa Baltazar.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter

@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Ceifeiras Pias-Camisaria Salgueiros.jpg
+- src: 
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -16,7 +16,7 @@ categorias:
   - 
 ciclo: 
 title: "10 Anos de Cante"
-copyright: "Grupo Coral Feminino As Ceifeiras de Pias © Ana Baião"
+copyright: ""
 paragraph: >- 
   Em Novembro de 2014, a UNESCO declarou o Cante Alentejano como Património Imaterial da Humanidade. Uma década depois, prestamos homenagem a todos os grupos corais, aos seus cantadores, ensaiadores, músicos e compositores, com três momentos distintos numa única manhã, na Baixa de Coimbra. Fotografias, Livro e Cante, este agora mais vivo do que nunca.
 
@@ -32,7 +32,7 @@ scripts:
   -
 weight: 
 eventDate: 2025-04-05T10:30:00Z
-showTime: true
+showTime: false
 custom:
   copyright: 
   data: 2025-04-02T17:35:00Z
@@ -80,8 +80,8 @@ Já conquistou vários prémios e distinções ao longo da sua carreira. Em 2004
 <div style="clear: both;"></div>
 
 <div class="image right">
-  <figure><img src="joseManuelCosta.jpg" alt="" class=""></figure>
-  <figcaption>© José Manuel Costa</figcaption>
+  <figure><img src="Ceifeiras Pias-Camisaria Salgueiros.jpg" alt="" class=""></figure>
+  <figcaption>Grupo Coral Feminino As Ceifeiras de Pias © Ana Baião</figcaption>
 </div>
 
 A 2 de agosto de 2009 o Grupo Coral Feminino As Ceifeiras de Pias apresentou-se em público pela primeira vez. Na sua constituição consta como objeto social «a divulgação do cante tradicional alentejano, dos seus trajes e costumes» e esta tem sido a linha orientadora do trabalho deste grupo durante estes anos. Editaram em 2016 o seu primeiro CD, em formato de livro, intitulado «Cante no Feminino». Além dos espetáculos de Cante, tem participado em oficinas de Cante, documentários, programas de televisão, inclusive para canais estrangeiros, telefilmes, longa-metragem de cinema e diversos festivais.
