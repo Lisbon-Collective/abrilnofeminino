@@ -18,16 +18,6 @@ ciclo:
 title: "«O que podem as palavras»"
 copyright: ""
 paragraph: >- 
- 
-
-  **Teatro Académico de Gil Vicente**    
-
- 
-  €6 e €4 < 25 anos, estudante, comunidade uc, rede alumni uc, > 65 anos, grupo ≥ 10, desempregado, profissional da cultura, parcerias TAGV <br>
-  Bilheteira / atendimento presencial <br>
-  segunda a sexta-feira 14h00 — 20h00
-
-
 
 imagealign: left
 italic: cinema
