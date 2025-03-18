@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Helena Sarmento @Auditório Gaia_113.jpg
+- src: Helena Sarmento.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
