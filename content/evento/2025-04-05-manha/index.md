@@ -38,6 +38,17 @@ custom:
   data: 2025-04-02T17:35:00Z
   local: 
 ---
+
+EXPOSIÇÃO DE FOTOGRAFIA
+
+**10 ANOS DE CANTE** <br>
+de Ana Baião
+
+**10h30 Inauguração<br>**
+  Até 30 de Abril 
+
+---
+
 <div style="clear: both;"></div>
 
 <div class="image right">
@@ -45,6 +56,17 @@ custom:
   <figcaption>© Ana Baião</figcaption>
 </div>
 
+  CONVERSA APRESENTAÇÃO DO LIVRO <br>
+  **10 Anos de Cante**<br>
+  de Ana Baião
+  
+  Presença da autora<br>
+  Moderação de Sílvia Franklim
+  
+  11h00 Museu Municipal – Edifício Chiado 
+  Entrada livre sujeita à lotação da sala
+
+<br>
 O Cante Alentejano como Património Cultural Imaterial da Unesco comemorou o seu 10.º aniversário a 27 de novembro de 2024.Nestes últimos nove anos, Ana Baião tem andado a fotografar o Cante um pouco por todo o Alentejo e na grande Lisboa, em diversas iniciativas e com diversos grupos. Inclusive deslocou-se a Paris para fotografar um dos poucos grupos existentes no estrangeiro, sendo que o Rancho de Cantadores de Paris tem a particularidade dos seus elementos serem de várias nacionalidades e apenas duas pessoas portuguesas.
 Ana Baião publicou dois livros: “Cante – Alma do Alentejo”, em 2017, pela RCP Edições; e “Cuba Cante Tabernas e Talhas”, em 2021, a convite da Câmara Municipal de Cuba. Fotografou para dois CD – “Alentejo Ensemble”, do Rancho de Cantadores de Paris, em 2019; e “Cante ao Menino na Capital”, do Grupo ALCante, da Junta de Freguesia de Alcântara, com a participação dos outros grupos corais da capital Lisboeta, em 2021.
 Podemos afirmar que nenhum fotógrafo documentou tanto o Cante Alentejano como Ana Baião. A divulgação do cante tem sido uma das suas causas e por essa razão a Tradisom aceitou este desafio para editar um livro de fotografias comemorativo deste 10.º aniversário.
@@ -83,6 +105,14 @@ Já conquistou vários prémios e distinções ao longo da sua carreira. Em 2004
   <figure><img src="joseManuelCostaPhotography.jpg" alt="" class=""></figure>
   <figcaption>© José Manuel Costa</figcaption>
 </div>
+
+MÚSICA
+
+**Grupo Coral Feminino As Ceifeiras de Pias**<br>
+Participação especial de «Segue-me à Capela»<br>
+
+ **Arco de Almedina (R. Ferreira Borges)**<br>
+  <em>*caso ocorram condições atmosféricas adversas, o concerto coral terá lugar no átrio do edifício da Câmara Municipal.</em>
 
 A 2 de agosto de 2009 o Grupo Coral Feminino As Ceifeiras de Pias apresentou-se em público pela primeira vez. Na sua constituição consta como objeto social «a divulgação do cante tradicional alentejano, dos seus trajes e costumes» e esta tem sido a linha orientadora do trabalho deste grupo durante estes anos. Editaram em 2016 o seu primeiro CD, em formato de livro, intitulado «Cante no Feminino». Além dos espetáculos de Cante, tem participado em oficinas de Cante, documentários, programas de televisão, inclusive para canais estrangeiros, telefilmes, longa-metragem de cinema e diversos festivais.
 Já passaram por várias salas emblemáticas no país, as quais destacam o Coliseu dos Recreios, Teatro da Trindade e o Teatro São Luiz em Lisboa, o Salão Preto e Prata do Casino do Estoril e Capitólio onde foram convidadas num espetáculo da Celina da Piedade.
