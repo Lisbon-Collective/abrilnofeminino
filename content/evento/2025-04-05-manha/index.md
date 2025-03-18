@@ -16,7 +16,7 @@ categorias:
   - 
 ciclo: 
 title: "10 Anos de Cante"
-copyright: ""
+copyright: "Grupo Coral Feminino As Ceifeiras de Pias © Ana Baião"
 paragraph: >- 
   Em Novembro de 2014, a UNESCO declarou o Cante Alentejano como Património Imaterial da Humanidade. Uma década depois, prestamos homenagem a todos os grupos corais, aos seus cantadores, ensaiadores, músicos e compositores, com três momentos distintos numa única manhã, na Baixa de Coimbra. Fotografias, Livro e Cante, este agora mais vivo do que nunca.
 
@@ -34,7 +34,7 @@ weight:
 eventDate: 2025-04-05T10:30:00Z
 showTime: true
 custom:
-  copyright:
+  copyright: 
   data: 2025-04-02T17:35:00Z
   local: 
 ---
