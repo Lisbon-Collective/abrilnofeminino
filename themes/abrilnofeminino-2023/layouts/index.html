@@ -70,7 +70,7 @@
 		<div class="row">
 			<div class="col-6 col-12-medium">
 				{{ with .Site.GetPage "/evento/2025-04-05-manha/index.md" }}
-				{{ .Render "minimal-card" }}
+				{{ .Render "card-inner" }}
 				{{ end }}
 			</div>
 			<div class="col-6 col-12-medium">
@@ -80,7 +80,7 @@
 			</div>
 		</div>
 
-		{{ with .Site.GetPage "/evento/2025-04-08/index.md" }}
+<!--		{{ with .Site.GetPage "/evento/2025-04-08/index.md" }}
 		<div id="">
 			<div class="wrapper style2">
 			{{ .Render "card-inner" }}
@@ -110,8 +110,71 @@
 				{{ end }}
 			</div>
 		</div>
+-->
+
+<div id="one">
+	<div class="wrapper special">
+		<div class="inner">
+			<header class="major">
+				<h2>Cinema </h2>
+				<div class="row">
+					<div class="col-4"></div>
+					<div class="col-12">
+					<p> <strong>
+						Teatro Académico de Gil Vicente <br>
+						€6 e €4 < 25 anos, estudante, comunidade uc, <br>rede alumni uc, > 65 anos, grupo ≥ 10, <br>desempregado, profissional da cultura, parcerias TAGV<br>
+						Bilheteira / atendimento presencial <br>
+						segunda a sexta-feira 14h00 — 20h00 <br>
+							</strong>
+					</p>
+					</div>
+					<div class="col-4"></div>
+
+				</div>
+
+				<p>
+					Quatro títulos, quatro escolhas que dialogam com a restante programação. Evocamos as artistas Maria Helena Vieira da Silva e Paula Rego, presentes na Exposição O Vaguear do Olhar e recordamos a luta e a resistência de muitas mulheres em Portugal, em tempos de ditadura e de obscurantismo, quando celebramos o 51.º aniversário do 25 de Abril. Liberdade, liberdade! será também o mote do concerto comentado com que encerramos a 4.ª edição de Abril no Feminino.<br>
+
+				</p>
 
 
+			</header>
+
+			<div class="row">
+				<div class="col-3 col-12-small">
+					{{ with .Site.GetPage "/evento/2025-04-08-Vieirarpad/index.md" }}
+					{{ .Render "minimal-card-no-link" }}
+					{{ end }}
+				</div>
+				<div class="col-3 col-12-small">
+					{{ with .Site.GetPage "/evento/2025-04-08-PaulaRego/index.md" }}
+					{{ .Render "minimal-card-no-link" }}
+					{{ end }}
+				</div>
+				<div class="col-3 col-12-small">
+				{{ with .Site.GetPage "/evento/2025-04-08-Palavras/index.md" }}
+				 {{ .Render "minimal-card-no-link" }}
+				{{ end }}
+				</div>
+				<div class="col-3 col-12-small">
+					{{ with .Site.GetPage "/evento/2025-04-08-Elas-tambem/index.md" }}
+					 {{ .Render "minimal-card-no-link" }}
+					{{ end }}
+					</div>
+			</div>
+			<div class="row">
+				<div class="col-4"></div>
+				<div class="col-4">
+					<br>
+					<ul class="actions">
+						<li><a href="/evento/2025-04-08/" class="button">Ler mais</a></li>
+					</ul>
+				</div>
+				<div class="col-4"></div>
+			</div>
+		</div>
+	</div>
+</div>
 		{{ with .Site.GetPage "/evento/2025-04-11/index.md" }}
 		<div id="">
 			<div class="wrapper style1">
