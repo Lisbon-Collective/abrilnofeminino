@@ -82,17 +82,17 @@ a.button.border{
 	
 }
 
-.single  figure, figure#headerimage{
+.single figure, figure#headerimage{
 	margin: 10px 15px 15px 15px;
 }
-.single figcaption{
-	width: 310px;
+figcaption {
 	font-size: 12px;
-	margin: 10px;
+	margin: 0px 10px 20px 0px;
+	padding: 0px;
+	background-color: transparent !important;
+	max-width: 410px;
 }
 // legenda das imagens
-figure > figcaption{font-size:12px; padding:10px; background-color: transparent !important;}
-
 ul.actions  a.button.primary{color:_palette(accent2)  !important;}
 
 // subscrever
