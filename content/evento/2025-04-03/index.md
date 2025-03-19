@@ -68,35 +68,44 @@ diferentes discursividades e práticas artísticas. Criar relações, afinidades
 De mulheres apenas, tanto que o feminino ainda é social e culturalmente determinado e indeterminado, 
 sendo que a sua visibilidade institucional permanece aquém do que deveria, pelo longo tempo em que foi 
 sonegada.  
+
 Começaram a surgir perguntas. A arte tem género? Existe uma formulação identitária da arte no 
 feminino? As peças de arte são identificáveis pelo género do artista?  
+
 O tempo e o espaço são vividos diferentemente? Seguramente que sim, a história e a cultura impregnam-
 nos até ao mais ínfimo do sentir, pensar, olhar.  E daí?  
+
 A nossa atenção deve abrir, alargar para a imensidão, felizmente infinita de diferenças, e não sucumbir à 
 exclusão do outro. E foram entrando em cena expressões artísticas de homens, porque não existindo um 
 género existirão seguramente infinitas possibilidades no vago das coisas.  
 Assim aconteceu “O Vaguear do Olhar”. 
+
 Por entre o espaço tempo de quem cria, transmuta, molda, procura, traça a coisa e o espaço tempo de 
 quem vê, absorve, mergulha, há um não acabado, provocado, despoletado, vago. A narrativa da peça de 
 arte, permanece, paira, não pára no que acaba. Volta ao princípio, no fim. 
 Encenar uma narrativa de peças-coisas é, pois, um percurso felizmente impossível, começa antes da 
 parede onde está poisada e quase acaba, recomeçando:* “cheguei da exposição da Menez e fiquei sentada 
 na cama com os olhos fechados para continuar a ver”* [Sallete Tavares]. 
+
 Exposição de fragmentos, de imagens em transição. De mundos plurais e complexos: *“Medir-se contra o 
 mundo”* [Patrícia Garrido]; o *“corpo feminino que se desvela sem nunca se desocultar* “[Delfim Sardo] de 
 Helena Almeida; *“O dar voz daqueles que não têm voz”* [Carla Filipe]; *“Dar a ver o não-ver”* [Ana 
 Vieira] ou *”A frágil moldura contra a ausência, entre a dobra e o espaço”* [Fernanda Fragateiro]. 
 A necessidade da arte, da sua capacidade de reinventar-se englobando memória, ficção, engano, 
 representação e realidade. 
+
 O vaguear do olhar consiste em reconhecer que nada é absolutamente indeterminado e que nada é 
 absolutamente determinado, podemos sempre ver, perceber, dizer e interpretar de outra forma. *O olhar 
 oblíquo* de Jacinto Lageira, onde o vaguear por entre, paira, desvanece-se, acontece nas obras indicando-
 nos o caminho a percorrer no *vaguear da nossa presença nas coisas*. 
+
 “Nas margens do silêncio” [André Malraux] ou “O espaço e o tempo vazios não existem, há sempre algo 
 para ver e algo para ouvir” [John Cage]. 
+
 Por entre algum *“desencanto com a desmoralizante vacuidade de parte do sistema das artes”* [Miguel 
 von Hafe Pérez],ainda nos é ofertado vaguearmos por entre configurações micro- transformadoras das 
 peças.  
+
 Amanhã, talvez, não haverá géneros mas falas diferentes e diferenciadoras no vaguear, infinitamente 
 inacabado, do olhar.<br>
 
