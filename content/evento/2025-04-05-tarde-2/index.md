@@ -48,7 +48,6 @@ custom:
 
 ---
 
-
 Nasceu em 1960, em Lisboa, na tradicional Maternidade Alfredo da Costa.
 Frequentou o curso de Direito, até optar, de forma aliviada e convicta, pelo jornalismo.
 Trabalhou em jornais diários, começando em *A Capital*, e semanários, revistas de actualidade e estações de rádio. Foi director do *Se7e*, da *TV Guia* e da *Sábado*, director-adjunto da *Focus* e editor em *O Independente* e na *Visão*.
