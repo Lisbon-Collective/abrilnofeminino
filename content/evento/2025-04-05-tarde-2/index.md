@@ -40,6 +40,7 @@ scripts:
 weight: 
 eventDate: 2025-04-05T17:00:00Z
 showTime: false
+showDate: false
 custom:
   copyright:
   data: 2025-04-02T17:35:00Z
