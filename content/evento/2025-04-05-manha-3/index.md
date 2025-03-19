@@ -18,7 +18,7 @@ ciclo:
 title: "Grupo Coral Feminino As Ceifeiras de Pias"
 copyright: "© Ana Baião"
 paragraph: >- 
-  **Arco de Almedina (R. Ferreira Borges)**<br>
+  Arco de Almedina (R. Ferreira Borges)<br>
   <em>*caso ocorram condições atmosféricas adversas, o concerto coral terá lugar no átrio do edifício da Câmara Municipal.</em>
 
 imagealign: left
