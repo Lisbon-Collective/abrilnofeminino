@@ -24,7 +24,7 @@ paragraph: >-
 
   **Piscinas do Mondego** <br><br>
 
-  17h00 -20h00
+  18h00 -20h00
   Entrada livre sujeita à lotação do espaço
 
 
