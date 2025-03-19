@@ -18,7 +18,7 @@ ciclo:
 title: "10 Anos de Cante"
 copyright: "© Ana Baião"
 paragraph: >- 
-  Baixa de Coimbra | Ruas Ferreira Borges e Visconde da Luz Lojas aderentes: <br> avenida 7; Bragas, Lda. Chapelaria & Camisaria; Casa Baltazar; Casa da Sorte; Casa dos Linhos; Livraria Bertrand; Ourivesaria Costa; Pastelaria Briosa; Salgueiro’s; Tricots Brancal e Trouxa Mocha.
+  Baixa de Coimbra | Ruas Ferreira Borges e Visconde da Luz <br> Lojas aderentes: avenida 7; Bragas, Lda. Chapelaria & Camisaria; Casa Baltazar; Casa da Sorte; Casa dos Linhos; Livraria Bertrand; Ourivesaria Costa; Pastelaria Briosa; Salgueiro’s; Tricots Brancal e Trouxa Mocha.
 
 
 
