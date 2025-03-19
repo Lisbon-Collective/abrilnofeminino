@@ -41,6 +41,6 @@ custom:
 
 **Geral** 91 843 11 55 / 96 261 00 50
 
-<https://facebook.com/abrilnofeminino>
+<https://www.facebook.com/abrilnofeminino.pt>
 
 <https://instagram.com/abrilnofeminino>
