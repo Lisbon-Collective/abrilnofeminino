@@ -47,7 +47,7 @@ custom:
 
 <div class="image right">
   <figure><img src="maria_joao_Lopo de Carvalho.jpg" alt="" class=""></figure>
-  <figcaption>©João Lobo Carvalho</figcaption>
+  <figcaption>©José Lopo de Carvalho</figcaption>
 </div>
 
 **Maria João Lopo de Carvalho** é licenciada em Línguas e Literaturas Modernas pela Universidade Nova de Lisboa. Em 1989 fundou uma empresa de- dicada à edição de livros personalizados e ao ensino de inglês para crianças. Foi também publicitária e assessora do Gabinete de Educação e Acção Social da Câmara de Lisboa. Publicou mais de cinquenta títulos de literatura infanto-juvenil e cinco romances históricos de grande sucesso: Marquesa de Alorna (2011), Padeira de Aljubarrota (2013), Até Que o Amor me Mate — As Mulheres de Camões (2015), O Fado da Severa (2017), O Bisavô (2020).
