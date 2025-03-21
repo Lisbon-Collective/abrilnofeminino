@@ -51,7 +51,11 @@ custom:
   data: 2025-04-02T17:35:00Z
   local: 
 ---
+
 **ACÇÃO EDUCATIVA**
+
+<figure><img src="25_Mulheres_BANNER_25conversas.jpg" alt="" class=""></figure>
+ <figcaption>Ilustração de livro  25 Mulheres</figcaption>
 
 “25 Conversas” é uma dinâmica de jogo pensada para estimular a participação e interação com jovens, no âmbito da realização de sessões de apresentação do livro “25 Mulheres” em escolas e/ou bibliotecas escolares.
 Esta sessão é dirigida a alunos do 9. ano do Ensino Básico com uma duração aproximada de 60 minutos. 
