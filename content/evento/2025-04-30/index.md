@@ -18,7 +18,7 @@ ciclo:
 title: "CONCERTO COMENTADO LIBERDADE, LIBERDADE! — Espelho do que somos e do que queremos ser"
 copyright: "© Auditório Gaia_113"
 paragraph: >- 
-  Pedro Martins (guitarra portuguesa), Yuri Reis (viola) e Filipe Teixeira (baixo)<br> 
+  Pedro Martins (guitarra portuguesa), Lucas de Campos (viola) e Filipe Teixeira (baixo)<br> 
   Orador convidado: Miguel Carvalho sobre «O princípio do livre pensamento, da livre opinião 
   e da tolerância».
   
