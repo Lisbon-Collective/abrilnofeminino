@@ -3,7 +3,7 @@ date: 2019-02-15T23:33:21Z
 description: ""
 draft: false
 resources:
-- src: Josefa Greno.jpg
+- src: VieiraSilva_1200x890.jpg
   name: "header"
 - src: "gallery/*.jpg"
   name: gallery-:counter
@@ -16,7 +16,7 @@ categorias:
   - 
 ciclo: 
 title: "O VAGUEAR DO OLHAR "
-copyright: "Peónias, JOSEFA GRENO, s.d., Coleção Telo de Morais do Município de Coimbra"
+copyright: "Paysage, MARIA HELENA VIEIRA DA SILVA, 1956, Coleção de Arte Contemporânea do Estado em depósito no CACC"
 
 paragraph: >- 
   Obras da Coleção AA (Ana e António) dialogam com outras que integram  a Coleção Telo de Morais e a Coleção de Arte Contemporânea do Município de Coimbra, bem como a Coleção de Arte Contemporânea do Estado em depósito no CACC. Lançado o desafio para encenar uma exposição que colocasse em evidência o trabalho artístico de mulheres, nela podemos encontrar diálogos improváveis ou mesmo encontros inesperados através de Pintura, Desenho, Escultura, Vídeo, Instalação e Fotografia representados por cerca de 40 obras em exibição, reunindo mais de três dezenas de autores, entre os quais Ana Vidigal, Ana Vieira, Aurélia de Sousa, Antony Gormley, Candida Höfer, Carla Filipe, Cecília Costa, Fernanda Fragateiro, Graça Pereira Coutinho, Helena Almeida, Julião Sarmento, Maria Helena Vieira da Silva, Marta Soul, Menez, Mily Possoz, Paula Rego, Patrícia Garrido, Rita McBride, Sarah Affonso e Vasco Araújo. 
