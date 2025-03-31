@@ -43,4 +43,4 @@ custom:
 
 <https://www.facebook.com/abrilnofeminino.pt>
 
-<https://instagram.com/abrilnofeminino>
+<https://instagram.com/abrilnofeminino.pt>
