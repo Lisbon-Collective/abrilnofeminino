@@ -43,7 +43,10 @@ ABRIL NO FEMININO quis ser um lugar de liberdade, "uma oportunidade para sermos 
 
 Palavras finais fazendo uso da canção que fechou a sessão de música, inteiramente preenchida com vozes femininas, conduzida elegantemente por João Gobern.
 
-*Liberdade / Querida Liberdade / O nosso chão são sonhos e vontade* — A Garota Não
+*Liberdade   
+Querida Liberdade   
+O nosso chão são sonhos e vontade*    
+— A Garota Não
 
 Até 2027, para a 5ª edição de ABRIL NO FEMININO!
 
