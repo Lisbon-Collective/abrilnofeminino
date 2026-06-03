@@ -51,3 +51,8 @@ O nosso chão são sonhos e vontade*
 Até 2027, para a 5ª edição de ABRIL NO FEMININO!
 
 *Margarida Mendes Silva*
+
+<div class="col-12">
+  <video src="Abril_no_Feminino2025_video_720p.mp4" class="col-12" width="100%" controls="true" preload="none"></video>
+</div>
+
